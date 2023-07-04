@@ -35,4 +35,5 @@ Liste as referências ou recursos externos utilizados no seu projeto, como artig
 
 ## Contato
 
-Fornecer informações de contato, como seu nome e endereço de e-mail, caso alguém queira entrar em contato para fazer perguntas ou fornecer feedback.
+Francine Franco - francinegfranco@gmail.com
+Guilherme Libardi - guilhermelibardi@hotmail.com
