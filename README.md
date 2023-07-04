@@ -25,6 +25,9 @@ Se o seu projeto utiliza conjuntos de dados específicos, mencione-os aqui. Forn
 
 Apresente os resultados alcançados com o seu projeto, como métricas de desempenho, gráficos ou análises relevantes.
 
+## Video do projeto
+https://youtu.be/vL4wgCAb4E4 
+
 ## Contribuição
 
 Explique como outras pessoas podem contribuir para o seu projeto. Especifique diretrizes para pull requests, sugestões de melhorias ou relatórios de problemas.
