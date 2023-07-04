@@ -4,8 +4,9 @@ from PyQt5.QtGui import QColor, QPalette, QFont, QKeySequence, QTextCursor
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
 import re
+import os
 
-model_path = 'D:/Code/Inteligência Artificial/Trabalho IA/src/gpt2_small_contaAI'
+model_path = os.path.join(os.getcwd(), 'gpt2_small_contaAI')
 device = torch.device('cpu')
 
 app = QApplication(sys.argv)
