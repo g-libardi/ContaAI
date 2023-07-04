@@ -1,6 +1,6 @@
 # ContaAI
 
-O objetivo desse projeto é desenvolver um editor de texto assistido por inteligência artificial capaz de gerar trechos de textos narrativos com base no contexto da história digitada pelo usuário. Para tal foi realizado o provesso de fine-tuning do modelo pierreguillou/gpt2-small-portuguese, uma versão do GPT-2 da OpenAI treinada em português.
+O objetivo desse projeto é desenvolver um editor de texto assistido por inteligência artificial capaz de gerar trechos de textos narrativos com base no contexto da história digitada pelo usuário. Para tal foi realizado o processo de fine-tuning do modelo pierreguillou/gpt2-small-portuguese, uma versão do GPT-2 da OpenAI treinada em português.
 
 ## Instalação e execução
 
