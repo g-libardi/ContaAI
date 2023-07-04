@@ -1,0 +1,116 @@
+Bruno Fernando Santos Lemos 
+O CORREIO 
+
+ELETRÔNICO E A 
+
+COMUNICAÇÃO DOS 
+
+ATOS PROCESSUAIS
+
+
+O CORREIO ELETRÔNICO E A COMUNICAÇÃO DOS ATOS 
+
+PROCESSUAIS 
+
+
+
+“...Mas só o conteúdo não é suficiente. Nós também nos 
+
+preocupamos com comunicação, coisas como e-mail, salas 
+
+de bate-papo, mensagens instantâneas e todos os serviços 
+
+por meio dos quais as pessoas possam se comunicar.”(Jerry 
+
+Yang, um dos bilionários donos da Yahoo!, em entrevista 
+
+dada à Revista Veja, edição de 15.03.2000) 
+
+A Internet nasceu da soma de pequenas conquistas tecnológicas feitas por cientistas extraordinários. Hodiernamente, trata-se do mais fantástico meio de comunicação interpessoal jamais inventado pelo homem. Michael Dertouzos, do Instituto de Tecnologia de Massachussets, contribuiu para isso acontecer no começo dos anos 60. 
+
+Antes de sua genial contribuição (a criação dos roteadores, computadores que controlam e direcionam o tráfego na Internet lidando simultaneamente com milhares de impulsos) cada computador, por mais poderoso que fosse, só atendia a um usuário de cada vez.1 
+
+
+
+
+A paternidade do e-mail (abreviatura para electronic mail, do inglês “correio eletrônico”) é creditada a Ray Tomlinson, que inventou o primeiro programa de correio eletrônico em 1972. Todavia, a falta de visão comercial de sua criação o levou a não patentear o seu invento, pois não acreditava que o negócio de trocar mensagens pelo 1 Revista Veja, Edição Especial Vida Digital, de 22.12.99 
+
+2
+
+computador tivesse interesse fora da universidade. Hoje, sua conta bancária reflete esta negligência histórica. 2 
+
+
+
+
+O correio eletrônico constitui-se no meio mais barato (e mais célere) de comunicação interpessoal. Basta um computador, uma linha telefônica e uma placa de modem. Atualmente, fala-se até em envio de e-mails pelo telefone celular, podendo assim qualquer pessoa acessar sua caixa postal, a princípio, de qualquer ponto do país em que se encontre. Em alguns países, como os Estados Unidos (berço da Grande Rede), estima-se que a quantidade de e-mails trocada diariamente pela população já exceda o número de correspondência epistolar convencional. Vale registrar que empresas como a BOL (Brasil On Line) já oferecem a seus usuários os serviços de e-mail grátis, contribuindo assim para a difusão de uma (ótima) idéia entre as classes menos abastadas. 
+
+Feitas estas breves considerações, lançamos à análise do leitor uma idéia que surgiu no ambiente de trabalho e que vem sendo aplicada com sucesso no nosso dia-a-dia cartorário, além de vir sendo bem aceita pelo público alvo: as partes e os advogados. 
+
+Trata-se de uma nova forma de comunicação dos atos processuais. 
+
+Humberto Theodoro Júnior afirma que “há algum tempo vinha se tentando introduzir na justiça a prática de atos processuais por meios magnéticos como o fac-símile e outros sistemas modernos de transmissão de dados e imagens(...) Por influência do Supremo Tribunal Federal e do Superior Tribunal de Justiça ficou assentado que os recursos manifestados via fax só seriam admitidos se a parte protocolasse o original da petição ainda dentro do prazo previsto para a prática do ato. Isto, como é óbvio, anulava, praticamente, a utilidade do ato processual praticado pelos modernos instrumentos de comunicação.” 3 
+
+2 Idem, ibidem. 
+
+3 Humberto Theodoro Júnior, Curso de Direito Processual Civil, Vol. I, 29a. Ed., Forense, p. 221. 
+
+3
+
+A Lei n. 9.800/99 disciplinou razoavelmente o assunto, ao prescrever a possibilidade das partes se utilizarem de transmissão de dados e imagens tipo fác=símile ou similar, para a prática de atos processuais que dependam de petição. Pensamos que este diploma legal lançou a pedra fundamental do assunto que ora trazemos à liça, podendo tal dispositivo de lei ser aperfeiçoado num futuro próximo. 
+
+Assim, sem a pretensão de sermos pioneiros no assunto (e até porque novas idéias surgem simultânea e sucessivamente em todas as partes do planeta, sem que se possa precisar a de quem é sua “paternidade”), sugerimos a utilização do correio eletrônico ( e-mail) para fins de comunicação dos atos processuais. 
+
+O procedimento a se adotar seria o seguinte: 
+
+a) Previamente informados pela Secretaria da Vara ou Junta acerca do serviço diferencial a ser prestado, os advogados aporiam seus endereços eletrônicos quando do ingresso das peças vestibulares em Juízo, os quais seriam incluídos posteriormente num cadastro (material ou eletrônico) de e-mails; 
+
+
+
+
+b) Uma vez prolatado o ato ordinatório (pela Secretaria), decisão ou sentença (pelo Juiz), os mesmos seriam enviados incontinenti aos escritórios dos advogados que atuassem naqueles processos e às partes interessadas, sem as delongas que uma publicação oficial por vezes enseja. Deixamos os despachos de mero expediente de fora diante da elevada quantidade dos mesmos que é proferida num único dia de serviço, o que demandaria o recrutamento de diversos servidores para efetivar tal comunicação eletrônica, alternativa impensável em tempos em que a escassez de funcionários qualificados é uma constante nos Cartórios do Brasil afora. Todavia, ficaria ao talante da 4
+
+Diretora de Secretaria (ou do próprio Magistrado) a decisão de incluir os despachos de mero expediente nas comunicações processuais via e-mail; 
+
+
+
+
+c) Os arquivos contendo os atos ordinatórios, decisões e sentenças seriam enviados “atachados” ( attached), o que evitaria ao serventuário redigitar o texto selecionado para envio no corpo do e-mail; 
+
+
+
+
+d) As publicações pelo Diário Oficial continuariam sendo o norte para fins de intimação, pois ainda não existe um meio eficaz conhecido de se dar as partes como intimadas simplesmente através do envio de e-mails. Todavia, algumas Varas da Região Sul do país já estão adotando este procedimento pioneiro, com o comprometimento dos advogados que se cadastrarem para receberem intimações pelo correio eletrônico se obrigarem a se dar por intimados quando tal comunicação ocorrer, sem espaço para a escusa de que “esqueceram de olhar sua caixa postal”. No entanto, tal procedimento ainda não está legalmente regulamentado ; 
+
+
+
+
+e) Para se evitarem problemas no tocante à autenticidade dos documentos enviados pelo Cartório através do espaço virtual, poderia ser adotada a assinatura digital, desenvolvida pelo Departamento de Informática do Juízo ou Tribunal, que individualizaria a peça processual remetida, ou mesmo a criação de símbolos característicos do Judiciário (como o brasão da República), difíceis de serem copiados ou falsificados. 
+
+As vantagens de tal procedimento? Vejamos. 
+
+Os advogados e as partes tomariam ciência do inteiro teor do documento enviado (principalmente no tocante à sentença, da qual somente é publicada a parte dispositiva nos Diários Oficiais). Isto lhes pouparia tempo, dinheiro (não precisariam se deslocar até o Forum para xerocopiar o decisum, podendo tirar várias cópias do mesmo a 5
+
+partir de seu próprio computador) e stress, pois poderiam preparar seu recurso (em caso de sucumbência) com bastante antecedência, eis que teriam em mãos a íntegra da decisão. 
+
+As partes interessadas também teriam ciência do ato processual no dia imediato em que ele foi realizado, na comodidade de suas casas ou escritórios, sem entrar em filas de xerox, sem esperar pela sua vez de serem atendidas nos balcões dos cartórios. 
+
+Vantagem também teriam os causídicos que advogam em outros estados da Federação, onde a publicação oficial de um estado não atinge, sabidamente, localidades que ultrapassem seus limites territoriais. A informação a ser obtida seria, então, instantânea. 
+
+Quanto aos funcionários dos Cartórios/Juntas, também eles seriam beneficiados, eis que o fluxo de advogados/partes em busca de determinado processo para tomar ciência de uma decisão/sentença seria sensivelmente reduzido, com amplos benefícios (já ressaltados) para ambos os lados. 
+
+Cabe aqui fazer uma ressalva quanto à limitação das comunicações dos atos processuais pelo correio eletrônico, caso se desejasse ampliar seu raio de atuação às citações e intimações processuais: é que, até a presente data, não há notícia de que existam e-mails com dispositivo para, uma vez enviados, saber se o destinatário os recebeu ou não, o que se faria imprescindível em seara de comunicações processuais, diante das inevitáveis aplicações de pena de revelia, da preclusão ou do trânsito em julgado. Mas, cumpre asseverar, estas (revolucionárias) descobertas são apenas uma questão de tempo, diante do avanço assombroso da Tecnologia neste século que termina. 
+
+6
+
+Por fim, cito o professor Luiz Guilherme Marinoni para dizer que o “acesso à ordem jurídica justa é, antes de tudo, uma questão de cidadania 4(...) É necessário, portanto, que também a jurisdição seja pensada com vários escopos, possibilitando o surgir do processo como instrumento de realização do poder que tem vários fins. O acesso à justiça requer uma mudança de mentalidade, devendo ser visualizado através da perspectiva dos consumidores”5. 
+
+Assim, partindo de um prisma moderno e buscando imprimir maior 
+
+celeridade aos processos em que trabalhamos diariamente, lançamos a idéia objeto deste artigo e, em breve espaço de tempo, verificamos que os consumidores de nosso trabalho (advogados e partes) mostraram-se satisfeitos com o serviço diferencial prestado, sugerindo, ainda, que a idéia fosse propagada para outras Varas Federais. Sugestão aceita por nós, pelo que esperamos que, em face desta nossa modesta contribuição, seja bem acolhida pelos Cartórios e Gabinetes de nosso imenso Brasil. 
+
+4 Luiz Guilheme Marinoni, Novas Linhas do Processo Civil, RT, 1993, p. 25. 
+
+5 Mauro Capelletti, apud Luiz Gulherme Marinoni, ob.cit. 
+
+7
+

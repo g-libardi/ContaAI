@@ -1,0 +1,648 @@
+Paulo Freire e a pedagogia da pesquisa
+
+Afonso Celso Scocuglia 1
+
+Fala-se hoje, com insistência, no professor pesquisador. No meu entender o que há de
+pesquisador no professor não é uma qualidade ou uma forma de ser ou de atuar que se
+acrescente à de ensinar. Faz parte da natureza da prática docente a indagação, a busca, a
+pesquisa. O que se precisa é que, em sua formação permanente, o professor se perceba e se
+assuma, porque professor, como pesquisador. (...) Ensinar, aprender e pesquisar lidam com
+dois momentos do ciclo gnosiológico: o em que se ensina e se aprende o conhecimento já
+existente e o em que se trabalha a produção do conhecimento ainda não existente. A
+docência-discência e a pesquisa, indicotomizáveis, são assim práticas requeridas por esses
+dois momentos do ciclo gnosiológico. Paulo Freire (Pedagogia da autonomia)
+
+Introdução
+
+Tenho feito a seguinte pergunta aos meus alunos, aos participantes dos cursos e
+palestras, aos colegas da Universidade: ao longo da sua formação escolar quantas vezes
+você utilizou o laboratório? Quantas vezes você realizou experimentações? Não só no
+laboratório de ciências da natureza, mas, também nos laboratórios de linguagem,
+história, geografia, matemática etc.? A grande maioria, às vezes a totalidade, responde
+que “foram poucas vezes (ou nunca foram!) ao laboratório”. Além disso, parte
+significativa não sabia e/ou “nunca viu um laboratório de linguagem ou de história ou
+de matemática”. A maioria das escolas não possui laboratórios ou, quando os possui,
+não são usados. Ou seja, em geral, a observação, a experimentação, a descoberta e a
+problematização não fazem parte ou são a minúscula parte da formação escolar. As
+pessoas não aprendem a pesquisar em grande parte da sua formação escolar. Mesmo nos
+cursos universitários a prática da pesquisa é pouco significativa. Os conteúdos não são,
+em geral, pesquisados, vêm “prontos” nas exposições docentes, na utilização dos
+recursos audiovisuais e tecnológicos, nos livros. Geralmente são narrados pelo professor
+ou mesmo por um grupo de alunos que os “pesquisou” em materiais didáticos ou
+
+1 Professor do Programa de Pós-Graduação em Educação da UFPB. Professor visitante da Universidade
+
+de Buenos Aires (Argentina) e professor colaborador da Universidade Lusófona de Humanidades e
+Tecnologia e da Universidade da Madeira (Portugal). Pesquisador do Conselho Nacional de
+Desenvolvimento Científico e Tecnológico (CNPq). Coordenador da Cátedra UNESCO de Educação de
+Jovens e Adultos. Pós-doutorado em Ciências da Educação pela Université de Lyon (França, 2009). Pós-
+doutorado em História e Filosofia da Educação pela Universidade de Campinas (Unicamp, 2010). Mail:
+afonso.scocuglia@pq.cnpq.br.
+
+2
+
+similares que também já estavam prontos. Mesmo as práticas acadêmicas, geralmente
+são aplicações de teorias que não ensejam a investigação e a descoberta de como aquele
+conhecimento foi produzido.
+
+Por outro lado, o exercício da resolução de problemas tornou-se quase específico
+das ciências matemáticas (ou as ciências nelas embasadas) e constituem verdadeiro
+trauma na vida acadêmica. A expressão: “detesto matemática (!)” tornou-se rotineira e
+denuncia uma formação que não privilegia os exercícios do raciocínio lógico e a
+resolução de problemas, tão relevantes no desenvolvimento cognitivo dos aprendentes.
+
+A ausência de laboratórios, o desprezo pela pergunta, pela descoberta e pela
+problematização inerente à pesquisa podem ser explicados por um conjunto de fatores
+entre os quais se destacam desde a herança da pedagogia tradicional jesuítica até o baixo
+investimento na educação pública, passando pela frágil formação dos professores, pela
+“pedagogia da crença” (na qual o estudante acredita no professor, no livro, no que lhe é
+prescrito e narrado e, ao final, é avaliado por isso), desaguando na pedagogia da
+resposta. Assim, a curiosidade é tida como “anormal” e muitas vezes como perturbadora
+da ordem narrativa do conhecimento pronto para ser depositado. A expressão
+corriqueira: “deixe de ser curioso, menino!” demonstra o quanto a curiosidade perturba
+o trabalho na sala de aula. Em geral, os professores não gostam das perguntas e os
+alunos aprendem a decorar respostas prontas que terão que repetir. Outras vezes,
+resolver problemas significa apenas aplicar fórmulas e equações prontas sem nenhum
+questionamento de como essas fórmulas e equações foram descobertas.
+
+As datas e os acontecimentos históricos, por exemplo, são informados para serem
+decorados e quase nunca são problematizados. A independência do Brasil teria sido
+resolvida com o grito de um príncipe e a abolição pela vontade da princesa! Tudo se
+passa como se os livros de História contivessem apenas a “verdade dos fatos” e, não,
+uma versão construída. Aliás, nas escolas básicas e médias os livros didáticos
+geralmente prescrevem desde o trabalho docente até o currículo, como se fossem
+verdadeiras “bíblias” de conteúdo sagrado e inquestionável. As leis de Isac Newton, por
+exemplo, são tomadas como versículos e capítulos religiosos a serem repetidos porque
+“Deus (ou Newton) disse”. Por seu turno, o Princípio da Incerteza (Heisenberg) não
+passa de mais um tópico do ensino livresco e narrativo, sem nenhuma conotação da sua
+relevância em termos de ruptura paradigmática.
+
+3
+
+1. Pontos nodais da pedagogia da pesquisa proposta por Paulo Freire
+
+As noções e os conceitos sobre a problematização, a educação problematizadora
+em contraponto à educação bancária, o ciclo do conhecimento, os métodos ativos de
+aprendizagem, a aprendizagem dialógico-coletiva, a construção do conhecimento e a
+consciência crítica, os direitos das camadas populares ao conhecimento, entre outros,
+constituem parte substancial da obra de Paulo Freire. A defesa incisiva da pedagogia da
+pergunta e a denúncia da pedagogia da resposta (instituída como espinha dorsal da
+escola brasileira) é a base de um dos principais livros de Freire (1985). Podemos
+considerar, a meu ver, que o principal legado freiriano para a educação das crianças, dos
+jovens e dos adultos do século XXI, no qual se proclama “os pilares da aprendizagem
+ao longo da vida”, está concentrado em suas propostas político-epistemológicas.
+
+Partimos da premissa que no conjunto das suas propostas está inserido um eixo
+transversal que tem na pedagogia da pesquisa seu núcleo irradiador principal. Para
+Freire, desde os seus primeiros trabalhos com a alfabetização de adultos em
+Pernambuco e no Nordeste do Brasil, as prioridades começavam com a “pesquisa do
+universo vocabular”, com a problematização da realidade dos educandos, com as
+múltiplas atividades de construção da leitura precedidas pela leitura dos problemas do
+mundo e de cada um, entre outras preocupações. Quando as primeiras propostas daquilo
+que ficou conhecido como “Método Paulo Freire” apareceram sistematizadas no livro
+Educação como prática da liberdade (1984a), a problematização do mundo a partir da
+pesquisa do universo vocabular constituíram os roteiros principais da alfabetização que,
+por sua vez, não deveria se separar da consciência crítica. Se atentarmos para a
+Pedagogia do oprimido (1984b), uma obra de transição para a pedagogia crítica de
+Freire, publicada em 1968, encontraremos parte significativa do livro dedicada à
+educação dialógica e problematizadora como suporte de uma pedagogia da pesquisa. Se
+formos para Cartas á Guiné-Bissau (1980) encontraremos o mundo do trabalho como
+princípio de uma educação que focaliza a realidade africana pela abordagem da pesquisa
+do cotidiano, da produção do arroz e do respeito ao conhecimento popular como base de
+uma epistemologia que se pretendia revolucionária. Se observarmos as preocupações de
+Freire e os relatos dos que com ele trabalharam na Secretaria Municipal de Educação de
+São Paulo (1989-1992) perceberemos que a gestão democrática e a formação
+continuada das professoras, baluartes da proposta levado a cabo, tiveram suas bases
+fincadas na pesquisa dos múltiplos aspectos do cotidiano escolar vivenciado. Se
+
+4
+
+examinarmos os últimos escritos dos quase quarenta anos de sua produção,
+encontraremos em Pedagogia da autonomia (1996) a expressa preocupação com a
+inseparabilidade do ensino e da pesquisa e com a prática da pesquisa por parte de quem
+ensina e educa. Com o alerta de que não há aprendizagem e conhecimento sem pesquisa
+e que tais pontos são absolutamente fundamentais para a formação continuada e atuação
+político-pedagógica dos educadores/as. Em suma, a prática da pesquisa e a instituição
+de uma pedagogia da pergunta e da pesquisa, enquanto processos permanentes de
+envolvimento e de convencimento dos que fazem a educação deram mostras das
+possibilidades concretas da relevância do legado freiriano a que me referi anteriormente.
+
+Poderíamos citar outras passagens da obra de Freire para demonstrar a solidez de
+uma pedagogia da pesquisa enquanto eixo transversal da sua proposta político-
+epistemológica. Entre elas também poderia ser ressaltado o seu combate aos
+determinismos teórico-metodológicos de todos os matizes e de todas as origens.
+
+Tais focos transparecem quando advoga a “história como possibilidade do novo” e
+opõe-se ao “fim da história” ou quando identifica o equívoco dos caminhos teleológicos
+e supostamente inexoráveis da história (propagados, por exemplo, pelas lentes de um
+marxismo que foi vulgarizado). Para Freire, isto “significa reconhecer que somos seres
+condicionados, mas, não determinados. Reconhecer que a História é tempo de
+possibilidade e não de determinismo, que o futuro é problemático e não inexorável”
+(1996, p.21).
+
+Estes aportes vêm à tona, também, quando coloca que quanto mais certo estava
+das suas certezas mais desconfiava delas. Ou quando enfatizava que não tinha estudado
+Marx para trabalhar com as camadas populares, mas, ao contrário, tinha ido trabalhar
+com elas e lá tinha percebido que Marx ajudaria a entendê-las melhorar para com elas
+interagir. Do ponto de vista da pesquisa, tal visão mostra que a escolha prematura de
+uma determinada teoria tende a engessar a coleta de informações, a investigação
+empírica, as fontes, a observação, os procedimentos etnográficos e a própria análise
+critica do material colhido in loco. Para Freire, a pré-determinação da teoria pode
+enjaular a prática e, com isso, invializar o détour e a práxis tão relevantes. Ademais,
+pode constituir um determinismo teórico, uma teleologia ou uma ideologização.
+
+Com efeito, quanto à sua própria teoria, na medida em que desafia seus leitores a
+não segui-lo como um profeta, um mágico portador de receitas infalíveis, um totem ou
+
+5
+
+um santo (como ainda muitos fazem por ingenuidade ou interesses outros), deixa claro
+que suas idéias e suas propostas precisavam de pontos de partidas substanciais: a
+pesquisa das circunstâncias, dos problemas e do contexto onde seriam aplicadas; a
+pesquisa das palavras e das fontes da cultura local, a pesquisa das necessidades, valores
+e interesses dos grupos e dos indivíduos que, como educandos, também contribuiriam
+para a educação dos seus educadores. Neste sentido, nunca se fez portador de receitas
+infalíveis e utilizáveis em todas as ocasiões como muitas vezes sugerem os slogans
+pinçados da sua obra e que, não raramente, “enfeitam” as paredes, os murais e os
+quadros das salas de aula dos Cursos de Pedagogia e/ou de formação de professores.
+Sem pesquisa, sem contexto, sem observar e atuar conforme as circunstâncias das
+práticas educativas e pedagógicas, as teorias (inclusive a de Freire) se assemelham às
+prescrições e constituem slogans inócuos e sem efeito.
+
+Assim, defendemos a tese de que a pedagogia da pesquisa constitui um dos eixos
+centrais que erigem e sustentam a práxis de Paulo Freire ao longo de toda a sua obra e,
+também, a continuidade do seu legado. Para isso, torna-se relevante considerar as
+espirais polifônicas do seu discurso, além do complexus constituído por meio da
+permanente religação dos conceitos, das temáticas e das propostas que a constroem e
+que são tecidos em conjunto. Ademais, a proposta da pedagogia da pesquisa de Freire –
+especialmente quando conectada com outras propostas 2 significativas como, por
+exemplo, a religação dos saberes 3 preconizada por Morin (2010) e/ou a ecologia dos
+saberes 4 de Boaventura de Sousa Santos (2004) -, tem potência necessária e suficiente,
+
+2 Penso que uma das fortalezas das propostas de Paulo Freire concentra-se na possibilidade, sempre
+
+colocada, de conexão das suas idéias com outros pensadores. Por ter construído uma obra aberta e
+sequiosa de complementações, adiantou-se no tempo em relação às possíveis saídas para a crise de
+paradigmas que se instalou nas ciências em geral e nas ciências da educação em particular. Este fato,
+aliado à consolidada visão de que um autor ou uma só “escola de autores” não conseguem dar conta da
+complexa construção epistemológica que envolve as práticas educativas e as reflexões pedagógicas,
+demonstra a atualidade e a prospectiva do seu pensamento e da sua práxis.
+
+3 Ao considerar a contradição e a incerteza como parte intrínseca do ser humano e da sua vida, Morin
+
+aposta na ética, no diálogo, na solidariedade como direção fundamental da religação dos saberes. Nesta
+mesma senda, denuncia a hiperespecialização e o reducionismo como marcas do conhecimento instituído.
+
+4 Segundo o autor, “a pesquisa-ação consiste na definição e execução participativa de projetos de
+
+pesquisa, envolvendo as comunidades e organizações sociais populares a braços com problemas cuja
+solução pode beneficiar dos resultados da pesquisa. A ecologia dos saberes é um aprofundamento da
+pesquisa-ação. É algo que implica uma revolução epistemológica no seio da universidade”. (Trata-se de)
+“obrigar o conhecimento científico a se confrontar com outros conhecimentos para, assim, rebalancear
+aquilo que foi desequilibrado na primeira modernidade, a relação entre ciência e prática social”. (Santos,
+2004, p.75-81)
+
+6
+
+a meu ver, para servir como um dos instrumentos profícuos de transformação da
+“ossatura escolar” com a qual convivemos.
+
+2. Quais são as principais dificuldades da instituição da pedagogia da pesquisa
+no cotidiano educacional/escolar?
+
+A defesa de uma pedagogia da pesquisa proposta por Paulo Freire e as factíveis
+conexões dela como outras proposições, como as citadas acima, não pode ser idealizada,
+mas, sim, inserida na concretude das dificuldades da escola brasileira atual em todos os
+seus níveis.
+
+A “ossatura” estrutural, antes referida, tem impedido o avanço qualificado da
+nossa escola e tem origem histórica nas influências que determinam o confuso
+panorama que caracteriza a formação dos professores e da docência brasileira, a saber:
+(1) as duas vertentes da pedagogia tradicional brasileira, uma marcada pelo Ratio
+Studiorum jesuítico e a outra pelo herbartismo (Saviani, 2009); (2) as dificuldades dos
+reformadores na implantação da Pedagogia Nova pelo Movimento dos Pioneiros,
+somadas às barreiras enfrentadas pela Campanha de Defesa da Escola Pública e aos
+desafios (não vencidos) do sistema público escolar brasileiro coordenado pelo
+Ministério da Educação e da Saúde a partir de 1934 e em vigor até a segunda metade da
+década de 1960; (3) as imposições da pedagogia normativa, tecnicista e produtivista do
+Estado militar (1964-1985) e (4) a precarização da escola e do trabalho docente
+consubstanciada por meio das reformas educacionais pós-ditadura, no contexto da
+globalização hegemônica e do seu braço liberal a partir dos anos 1990. Este último
+contexto contribui, na prática, para inviabilizar a educação qualificada como direito
+cultural/social (concreto, não retórico), robustece a “educação como serviço” e a
+precarização do trabalho docente (Scocuglia, 2010).
+
+Por outro lado, do cotidiano escolar podemos extrair uma constatação
+particularmente grave: uma das principais dificuldades da instituição da pedagogia da
+pesquisa reside na barreira erguida por uma significativa parcela dos docentes que se
+posiciona como empecilho à sua consecução. Uma das explicações vem da quase
+inexistente preparação para a pesquisa nos cursos de formação de professores
+(licenciaturas etc.). O fato de esses cursos terem disciplinas sobre pesquisa não tem
+implicado na sua prática cotidiana, muito menos na clareza de que os conteúdos
+programáticos, as metodologias, os livros didáticos, enfim, todo o currículo, seja
+
+7
+
+trabalhado do ponto de vista da pesquisa e com ênfase nos seus procedimentos e
+justificativas epistemológicas.
+
+Suponho que há uma explicação fundamental, talvez a principal: para muitos
+professores e professoras o derradeiro baluarte do “poder” e da importância social
+docente está concentrada na detenção exclusiva do saber escolar, do dito conhecimento
+científico. “Na visão bancária da educação, segundo Freire, o saber é uma doação dos
+que se julgam sábios aos que julgam nada saber” (1984b, p.68). O professor e a
+professora seriam os depositários e transmissores do saber e desse fato viria a sua
+importância e o seu “último” poder, já que todos os outros poderes (econômico,
+político, social etc.) lhes foram tomados ou negados. Se aceitarmos essa argumentação,
+a ela se agrega o fato de que as perguntas, os desafios e, enfim, uma pedagogia que
+desafia suas certezas e suas verdades (enquanto supostos detentores únicos do
+conhecimento) não é bem-vinda. Afinal, seu “último poder”, advindo do seu saber
+escolar, estaria permanentemente em cheque, desafiado pela investigação, questionado
+pelo fim das verdades acabadas e sagradas e, ademais, suas respostas prontas perderiam
+a utilidade. Com efeito, a superação da resistência à pedagogia da pesquisa implica na
+necessidade imperiosa da reeducação docente como parte de uma ampla reestruturação
+dos cursos, dos currículos e das práticas atualmente em vigor. Incluem-se nesta
+reestruturação, a meu ver, a formação dos coordenadores, dos gestores e dos dirigentes
+escolares de todos os níveis.
+
+Além desta resistência, temos que considerar que tal mudança implicaria em
+repensar um dos mais sólidos componentes da formação docente: o positivismo que está
+involucrado nas raízes mais profundas da nossa formação social e, como não poderia
+deixar de ser, na formação dos professores e professoras. A partir dessas raízes foram
+disseminados: o isolamento dos conteúdos específicos, a separação das disciplinas, a
+completa falta de comunicação multi-inter-transdisciplinar, a departamentalização das
+instituições, a burocracia que atinge o cerne do funcionamento institucional, a
+“hiperespecialização” (Morin, 2010), a ausência do trabalho em equipe, a verticalização
+e o autoritarismo que marcam as instituições educacionais.
+
+Com efeito, o amplo conjunto positivista que fincou suas raízes seculares e suas
+marcas indeléveis no sistema escolar brasileiro a partir do final do século XIX,
+constituiu uma barreira das mais sólidas cuja herança literária e narradora da educação e
+
+8
+
+da escola remonta aos séculos anteriores. Neste sentido, as dificuldades da
+Pedagogia/Escola Nova 5 no Brasil, por exemplo, evidenciaram uma das oportunidades
+perdidas pela educação brasileira, inclusive no ensino superior, que todos ressentimos.
+Além disso, com o funesto advento do Estado autoritário pós-1964 (dirigido por
+exímios positivistas civis e castrenses, herdeiros de Benjamin Constant e outros
+republicanos golpistas), houve continuidade e aprofundamento do nosso positivismo
+hierárquico, burocrático e verticalmente controlado. Daí, as investigações das realidades
+econômica, sócio-política e cultural, nas quais a educação e a pesquisa educacional
+estão inseridas, serem classificadas como “subversivas” e passíveis de punição. Os
+ditadores civis e militares demonstraram cabalmente não apreciar os pesquisadores e as
+pesquisas, a não ser aqueles e aquelas que serviram aos seus interesses e dos grupos
+aliados.
+
+Precisamente por isto é que Freire aposta no espaço educacional e no trabalho
+docente como antíteses da castração da curiosidade, do impedimento da pergunta e da
+pesquisa. Para ele, os atores e os autores da escola precisam:
+
+Estimular a pergunta, a reflexão crítica sobre a própria pergunta, o que se
+pretende com esta ou com aquela pergunta em lugar da passividade em face
+das explicações discursivas do professor, espécie de respostas a perguntas
+que não foram feitas. Isso não significa realmente que devamos reduzir a
+atividade docente em nome da defesa da curiosidade necessária, o puro vai-
+e-vem de perguntas e respostas, que burocraticamente se esterilizam. A
+dialogicidade não nega a validade de momentos explicativos, narrativos em
+que o professor expõe ou fala do objeto. O fundamental é que o professor e
+alunos saibam que a postura deles, professor e alunos, é dialógica, aberta,
+curiosa, indagadora e não apassivada, enquanto fala ou enquanto ouve. O
+que importa é que professor e alunos se assumam epistemologicamente
+curiosos. (1996, p.96)
+Para aprofundar tal foco, seria relevante investigar as propostas político-
+epistemológicas de Paulo Freire como lastro da denúncia da pedagogia da resposta, da
+castração da curiosidade desde a educação infantil, da prescrição vertical dos currículos,
+do desprezo do saber comum e da “experiência feita”, da narração dos conteúdos a
+
+5 No livro Uma tradição esquecida: por que não lemos Anísio Teixeira? (Brandão e Mendonça, org.,
+
+2009) as organizadoras/co-autoras mostram como as iniciativas do CBPE (Centro Brasileiro de Pesquisas
+Educacionais) tiveram pouca repercussão entre os educadores e os pesquisadores brasileiros. Em uma das
+partes do livro demonstram como a mistura da precária formação docente com a disseminação na
+nascente pós-graduação brasileira de um forte preconceito contra o escolanovismo e os educadores
+liberais, impediu o conhecimento ampliado da obra de Anísio Teixeira e da sua defesa daquilo que, a meu
+ver, também poderíamos chamar de pedagogia da pesquisa.
+
+9
+
+serem depositados que continuam a sustentar a nossa escola. Mas, também, como
+possibilidade concreta de anúncio da uma pedagogia da pesquisa como base de uma
+nova política epistemológica que impregne significado e substância a uma “escola do
+sujeito” (Touraine, 1999) e que ajude a construir uma escola pública e popular a partir
+do cotidiano e da cultura dos seus atores e autores na busca permanente do
+conhecimento elaborado, crítico e científico. Sabemos que este processo, como todos
+que envolvem a educação sistemática, nunca foi e nem será neutro, apolítico. Uma das
+suas bases, para Freire, está no reconhecimento dos direitos (civis, sociais, políticos,
+culturais...) que os integrantes das camadas populares têm de: (1) conhecerem melhor o
+que já conhecem; (2) de se apropriarem do conhecimento elaborado-escolar-científico
+que não tiveram acesso e (3) do direito fundamental de produzirem o seu próprio
+conhecimento lastreado nos valores, nas necessidades, nas vontades e nos interesses dos
+seus sujeitos. Outra das suas bases parece convergente com as idéias-força da “educação
+e da aprendizagem ao longo da vida” e dos “pilares da aprendizagem” (aprender a
+aprender, aprender a fazer, aprender a viver juntos e aprender a ser) destacados no
+Relatório Jacques Delors (2000) para a educação do século XXI. A diferença, no
+entanto, reside na radical defesa por parte de Freire da politicidade inerente a todos
+esses processos.
+
+3. A pedagogia da pesquisa no cotidiano escolar: aprendizagem, conhecimento
+e currículo 6
+
+Podemos perceber a ênfase que Freire dedica à questão da pesquisa, do
+conhecimento e da aprendizagem como processo de mediação das relações educador-
+educando, desde seus primeiros livros como em Educação como prática liberdade
+(onde se coloca o chamado “Método Paulo Freire”) e em Pedagogia do oprimido. O
+processo de construção coletiva do conhecimento (que tem na pesquisa seu caminho
+fundamental) seria mediado por ações dialógicas e, desta ótica, sua construção não
+deveria ser uma doação dos supostos detentores exclusivos do saber elaborado/escolar,
+mas, sim, um instrumento da ação conjunta de todos os atores/autores que precisam
+
+6 Parte das idéias deste ítem serviu de base para o meu artigo As reflexões curriculares de Paulo Freire.
+
+Revista Lusófona de Educação, Lisboa, Portugal, v. 06, p. 81-92, 2005.
+
+10
+
+exercer o direito de escolher, de optar, de refletir, de opinar e de ajudar a construí-lo.
+Em resumo, o processo de conhecimento inerente à pedagogia da pesquisa, assim como
+todo o edifício curricular (pensando o currículo como somatório e entrelaçamento de
+todas as ações educativas e pedagógicas) não pertencem exclusivamente aos dirigentes
+escolares e aos professores, mas principalmente devem pertencer aos educandos, pois
+estes devem ser chamados a construí-lo e a problematizá-lo, não, simplesmente, a
+aplicá-lo ou a consumi-lo.
+
+A construção ou a produção do conhecimento do objeto implica o exercício
+da curiosidade, sua capacidade crítica de “tomar distância” do objeto, de
+observá-lo, de delimitá-lo, de cindi-lo, de “cercar” o objeto ou fazer sua
+aproximação metódica, sua capacidade de comparar, de perguntar. (1996,
+p.95)
+É isso que Freire defende desde a denúncia da educação “bancária” que sempre foi
+acompanhada do anúncio e da defesa de uma educação problematizadora, uma
+educação da pesquisa e da pergunta (1984b, 1985) que se opõe à educação e à
+pedagogia da resposta pronta que, entre outras práticas, castra a curiosidade das
+crianças, dos jovens e dos adultos. Assim, o currículo não pode ser um conjunto de
+conteúdos e metodologias a serem depositados em alunos “vazios” desses conteúdos e
+metodologias. Neste sentido, em Pedagogia do oprimido (1984b) chama a atenção para
+a narração de conteúdos que caracteriza a “educação bancária” (e que inviabiliza a
+“educação problematizadora”):
+
+Quanto mais analisamos as relações educador-educando, na escola, em qualquer
+dos seus níveis, (ou fora dela), parece que mais nos podemos convencer de que
+essas relações apresentam um caráter especial e marcante - o de serem relações
+fundamentalmente narradoras, dissertadoras. Narração de conteúdos que, por isto
+mesmo, tende a petrificar-se ou a fazer-se algo quase morto, sejam valores ou
+dimensões concretas da realidade. Narração ou dissertação que implica num
+sujeito - o narrador - e em objetos pacientes, ouvintes - os educandos (...). A
+narração, de que o narrador é o sujeito, conduz os educandos a uma memorização
+mecânica do conteúdo narrado. Mais ainda, a narração os transforma em
+“vasilhas”, em recipientes a serem “enchidos”, pelo educador. Quanto mais vá
+enchendo os recipientes com seus “depósitos”, tanto melhor educador será.
+Quanto mais se deixem docilmente encher, tanto melhores educandos serão.
+(p.65-68).
+
+Ao contrário, a educação estimulada por uma construção curricular
+problematizadora, deve ser coletiva e fundada em perguntas e problemas típicos da
+
+11
+
+pedagogia da pesquisa, entre as quais: O que aprender? Como aprender? Por que
+aprender? Aprende-se individual ou coletivamente? O conhecimento é neutro? Quem
+deve escolher conteúdos programáticos, metodologias, comportamentos e
+procedimentos? O conhecimento dos alunos faz parte do currículo e é respeitado? Os
+diálogos de saberes serão validados? E a experimentação? E os livros didáticos: serão
+prescritivos ou interativos e criativos, normativos e preconceituosos ou democráticos e
+éticos?
+
+Um caso vivenciado pode explicitar ainda mais a concepção problematizadora
+que se contrapõe à concepção bancária e embasa a pedagogia da pesquisa defendida por
+Freire. Uma professora da educação básica trabalhava o conteúdo programático sobre as
+plantas (vegetais) na 5ª série de uma escola pública. Pediu que seus alunos trouxessem
+vasinhos (ou latinhas etc.) com uma planta que eles iriam cultivar (e experimentar).
+Todos trouxeram e colocaram suas plantinhas nas duas prateleiras que existiam numa
+das paredes da sala de aula, uma sobre a outra e separadas por 30/40 centímetros
+aproximadamente. Depois de alguns dias, as plantas colocadas na prateleira de baixo
+estavam murchando enquanto as outras, colocadas na prateleira de cima, continuavam
+viçosas. Os respectivos donos das plantinhas colocadas na prateleira debaixo,
+indignados, procuraram a professora: “O que está acontecendo? Por que só as nossas
+plantinhas estão murchando?” A professora respondeu: “Não sei! Vamos descobrir.
+Cada um vai ajudar a descobrir”. E começaram as tentativas. “É a terra”, diziam alguns.
+“Faltou água nas plantas de baixo”, diziam outros. A cada tentativa todos discutiam a
+alternativa para verificar sua correção ou não. “A turma da tarde está boicotando as
+plantas debaixo”, tentou acertar outro aluno. E, assim, sucessivamente, todos expuseram
+sua solução para o problema. Até que, finalmente, uma aluna explicou: a prateleira de
+cima fazia uma sombra sobre a de baixo e as plantas ali colocadas não recebiam a luz
+que necessitavam e por isso não se desenvolviam como as plantas da prateleira de cima.
+Como “provar” a descoberta? “Vamos inverter as posições!” Depois de algum tempo, as
+plantas de cima que tinham descido para a prateleira de baixo também não se
+desenvolviam a contento! “Resolvemos o problema que a senhora não sabia responder”,
+constatou um dos alunos! Realizada a problematização e resolvido o problema, agora
+era a hora do conceito presente no livro didático: “as plantas precisam de terra fértil,
+água, luz... para crescer”.
+
+Certamente, deste “saber-da-experiência-feita” podemos tirar lições gnosiológicas
+
+12
+
+e curriculares. Entre elas destacamos o fato de a experiência relatada combater uma das
+práticas mais nefastas que permeia grande parte dos nossos processos educativos,
+escolares ou não: a pedagogia da resposta, castradora por essência da curiosidade
+epistemológica e co-responsável, a meu ver, pelo fracasso escolar da maioria das
+crianças, dos jovens e dos adultos das camadas populares. E, ainda, direta construtora de
+uma educação que não aposta na capacidade dos educandos, muito pelo contrário, toma-
+os como seres incapazes e vazios de conhecimento e que precisam ser “preenchidos”
+com o saber doado (por quem os detém com suposta exclusividade) e “pronto para o
+consumo”. Essa pedagogia também é diretamente responsável pelo currículo pronto,
+nunca discutido, imposto e determinado pelos livros didáticos e em todas as atividades
+escolares que o integram, inclusive nas avaliações. Neste sentido, para Freire,
+
+O educador democrático não pode negar-se o dever de, na sua prática
+docente, reforçar a capacidade crítica do educando, sua curiosidade, sua
+insubmissão. Uma de suas tarefas primordiais é trabalhar com os educandos
+a rigorosidade metódica com que devem se aproximar dos objetos
+cognoscíveis. E esta rigorosidade metódica não tem nada a ver com o
+discurso “bancário” meramente transferidor do perfil do objeto ou do
+conteúdo. (1996, p.28-29)
+Com efeito, a construção democrática do currículo, a partir da própria idéia-força
+de que essa construção deve ser coletiva e problematizada, além de envolver todos os
+protagonistas do processo educativo, deve embutir as marcas de uma pedagogia da
+pesquisa, dialógica e crítica-reflexiva. E é nesse âmbito que uma das propostas
+permanentes de Freire ganha corpo: a necessidade imperiosa da reeducação dos
+educadores que deve ser permeada pela participação e pelo compromisso social,
+político e cultural, mas, também, pelas conquistas das competências e das habilidades
+técnicas necessárias á instauração da prática cotidiana da pesquisa. Compromissos,
+competências e habilidades seriam progressivas e retroalimentadas pela reinvenção
+curricular em todos os seus níveis. Em outras palavras, os educadores seriam também
+reeducados na própria prática reflexiva de construir/reconstruir o currículo, juntos
+com todos os demais sujeitos do processo educativo. Para tal intento, Freire destaca
+duas premissas: (1) a reeducação do educador é um processo permanente, ou seja, “ao
+longo de toda a vida” (Delors, 2000), precisamente pela inesgotável busca do
+conhecimento que se renova velozmente a cada dia; (2) a reeducação do educador deve
+ser, necessariamente, uma prática dialógica no sentido da aquisição, do partilhamento
+coletivo do conhecimento que tenha, inclusive, como consequência a (re)construção
+
+13
+
+permanente do currículo pela via da pedagogia da pesquisa (da problematização e da
+pergunta). Um dos sentidos principais desta reeducação reside na aquisição de uma
+postura investigadora por parte do educador que, conforme Freire,
+
+(…) deve ser um inventor e um reinventor constante dos meios e dos caminhos
+com os quais facilite mais e mais a problematização do objeto a ser desvelado e
+finalmente apreendido pelos educandos. Sua tarefa não é a de servir-se desses
+meios e desses caminhos para desnudar, ele mesmo, o objeto e, depois, entregá-lo,
+paternalisticamente, aos educandos, a quem negasse o esforço da busca,
+indispensável, ao ato de conhecer (1980, p.17).
+
+Freire também associa o processo gnosiológico ao processo de formação da
+consciência crítica que tem como interface dialética o estágio “ingênuo” da consciência.
+Para ele, as conquistas de conhecimentos fundam a passagem da ingenuidade à
+criticidade, fazendo da conscientização um processo permanente de transição mediada
+(também) pelos conteúdos, programas e metodologias. Assim, a consciência transitaria
+entre estágios diferentes e complementares do processo gnosiológico – no qual
+educadores e educandos (e pais, coordenadores, diretores, comunidade escolar,
+técnicos) estariam, todos, pesquisando/conhecendo/aprendendo e construindo sua
+consciência crítica. Assim, a própria construção-reconstrução permanente do currículo
+teria como pilares o conhecimento compartilhado, a dialogicidade e a consciência
+crítica.
+
+Em suma, este caminho buscaria uma consciência crítico-reflexiva que seria
+caracterizada: (1) pela “profundidade na análise de problemas e não satisfação com as
+aparências”; (2) pelo entendimento de que “a realidade é mutável”; (3) pela substituição
+das “explicações mágicas por princípios autênticos de casualidade”; (4) por “verificar e
+testar descobertas”; (5) por tentar “livrar-se dos preconceitos”; (6) por ser “intensamente
+inquieta”; (7) por “aceitar a delegação da responsabilidade e da autoridade”; (8) por ser
+indagadora, “investiga, força, choca”; (9) por “amar o diálogo e nutrir-se dele” e (10)
+por “não repelir o velho por ser velho” e nem “aceitar o novo por ser novo”, mas aceitá-
+los “na medida em que são válidos” (Freire, 1979, p.41). Percebe-se claramente o
+quanto essas dez orientações têm por base fundamental a pedagogia da pesquisa.
+
+Considerações finais
+
+Quando pensamos nas propostas de Paulo Freire podemos destacar dois caminhos
+entrelaçados: o teórico-metodológico e o da prática educativa. Não seria diferente com
+
+14
+
+a sua pedagogia da pesquisa.
+
+No caminho teórico-metodológico destacamos seu combate a todos os tipos de
+determinismos e fatalismos que pretenderam moldar e engessar as pesquisas com suas
+receitas e diretrizes teleológicas. Os modelos teóricos montados a priori sem o devido
+mergulho na parte empírica, na busca e no trabalho com as fontes, são rechaçados. Por
+seu turno, Freire nos ajuda a compreender que as visões unívocas sobre um dos aspectos
+da realidade, tomando-os como totalidade fechada, impedem uma ótica abrangente e
+plural sobre os objetos de conhecimento investigados. Associando suas preocupações
+com as teses sobre a história cultural (Chartier, 1990), consideramos pertinente o
+entrelaçamento de: (1) o cotidiano das práticas educativas; (2) as representações sobre
+elas por parte dos educandos e dos educadores que investigam e aprender juntos; (3) um
+olhar atento sobre a conjuntura sócio-política e (4) a percepção correta da estrutura
+social (das classes, grupos, indivíduos, movimentos sociais…) que impacta a educação
+e a pedagogia. O respeito pelo conhecimento representante da “cultura do outro” e a sua
+auscultação concreta, demonstram, por outro lado, a necessária internalização da
+humildade científica pelos pesquisadores que compreendem a precariedade das certezas
+do conhecimento elaborado. Especialmente, em tempo de crise dos principais
+paradigmas que sustentaram durante longos anos as ciências sociais e humanas e,
+também, as ciências da educação. A expressão de Freire: “quanto mais certo estou das
+minhas certezas, mais desconfio delas”, nos dá a real dimensão do seu posicionamento
+epistemológico e das suas escolhas políticas. A busca de um “conhecimento prudente
+para uma vida decente” (Santos, 2008) complementa a desconfiança na certeza
+arrogante dos que, supostamente, detém o conhecimento.
+
+Por seu turno, no caminho da prática educativa revela-se a proposta da formação
+do educador fincada na pesquisa do universo cultural dos seus educandos, incluso seu
+conhecimento, como ponto de partida para a conquista do conhecimento elaborado, na
+problematização dos conteúdos programáticos, na horizontalidade da construção
+coletiva do currículo que deve envolver todos os sujeitos (atores e autores) da escola.
+Para isso, podemos associar a proposta de Nóvoa (1999) quanto à reinvenção da
+profissão docente para tentar sobrepujar as barreiras da implantação da pedagogia da
+pergunta e da pesquisa, como colocamos antes. Os docentes, segundo ele, precisam
+“encontrar processos que valorizem a sistematização dos saberes próprios, a capacidade
+para transformar a experiência em conhecimento e a formalização de um saber
+
+15
+
+profissional de referência. As abordagens autobiográficas (não apenas num sentido
+pessoal, mas geracional), as práticas de escrita pessoal e colectiva, o desenvolvimento
+de competências „dramáticas? e relacionais ou o estímulo a uma atitude de investigação
+deveriam fazer parte de uma concepção abrangente de formação de professores. É
+verdade que não faltam programas em que estas dimensões estão contempladas. Mas a
+questão essencial não é organizar mais uns „cursos? ou atribuir mais uns „créditos de
+formação?. O que faz falta é integrar estas dimensões no quotidiano da profissão
+docente, fazendo com que elas sejam parte essencial da definição de cada um como
+professor/a” (1999, p.15).
+
+Pelo todo exposto, sabemos que estamos diante de um imenso desafio que impacta
+não só a educação brasileira, mas, certamente, a educação em muitos países. Freire
+sempre soube disso. Por isso, a pedagogia da pergunta e da pesquisa caminha no sentido
+oposto à tradição e à história da educação e da pedagogia no Brasil, do Ratio Studiorum
+jesuíta ao tecnicismo produtivista implantado desde as reformas de 1968 e 1971,
+exacerbado nos anos 1980 e 1990 e predominantes no presente. Tal tradição, construída
+ao longo de uma história secular e que chega aos nossos dias, constitui a principal
+herança que continua a reforçar a pedagogia da resposta, a manter a disciplinaridade
+positivista, a perpetuar a precariedade da institucionalização da pesquisa e a moldar a
+docência-sem-pesquisa. Estamos diante de um dos alicerces e ossaturas educacionais
+que mais reproduzem nossa estagnação qualitativa. Certamente, estamos atualmente
+muito mais necessitados de profundas mudanças de posição nos processos de
+aprendizagem e de conhecimento, na investigação e na pesquisa (desde os primeiros
+anos da nossa formação escolar) do que carentes da sustentação da infra-estrutura da
+pesquisa brasileira (inclusive em termos de aportes financeiros).
+
+Difícil mudar essa situação? Certamente. Impossível de transformá-la? Não, para
+um educador que pensa a história como possibilidade, a pedagogia como esperança, o
+inédito como caminho viável, a autonomia como necessidade docente, a pergunta muito
+mais do que a resposta e a pesquisa como essência humana de ser e saber sempre mais.
+
+Referências bibliográficas
+BRANDÃO, Z. e MENDONÇA, A.W. (Org., 2009). Uma tradição esquecida: por que
+não lemos Anísio Teixeira? Rio de Janeiro: Editora Forma & Ação.
+
+CHARTIER, R. (1990). História cultural - entre práticas e representações. São Paulo:
+Difel.
+
+16
+
+DELORS, J. (2000). Educação um tesouro a descobrir. São Paulo: Cortez/UNESCO.
+FREIRE, P. (1979). Educação e mudança. Rio de Janeiro: Paz e Terra.
+FREIRE, P. (1980). Cartas à Guiné-Bissau. Rio de Janeiro: Paz e Terra.
+FREIRE, P. (1982). A importância do ato de ler. São Paulo: Cortez/Associados.
+FREIRE, P. (1984a). Educação como prática da liberdade. Rio de Janeiro: Paz e Terra.
+FREIRE, P. (1984b). Pedagogia do oprimido. Rio de Janeiro: Paz e Terra.
+FREIRE, P. et al. (1985). Pedagogia: diálogo e conflito. São Paulo: Cortez/Associados.
+FREIRE, P. et al. (1985). Por uma pedagogia da pergunta. Rio de Janeiro: Paz e Terra.
+FREIRE, P. et al. (1987). Medo e ousadia - o cotidiano do professor. Rio de Janeiro:
+Paz e Terra.
+FREIRE, P. (1991). Educação na cidade. São Paulo: Cortez.
+FREIRE, P. (1993). Política e educação. São Paulo: Cortez.
+FREIRE, P. (1996). Pedagogia da autonomia. São Paulo: Cortez.
+HELLER, A. (1977). Sociologia da vida cotidiana. Barcelona: Ediciones Peninsula.
+MORIN, E. (2000). Os sete saberes necessários à educação do futuro. São Paulo:
+Cortez/UNESCO.
+MORIN, E. (2010). A religação dos saberes – o desafio do século XXI. Rio de Janeiro:
+Bertrand Brasil.
+NÓVOA, A. (1999). Os professores na virada do milênio: excesso de discursos à
+pobreza das práticas, IN: Revista Educação e Pesquisa, Vol. 25, No. 1, p.11-20.
+SANTOS, B. de S. (2004). A universidade no século XXI: para uma reforma
+democrática e emancipatória da Universidade. São Paulo: Cortez.
+
+SANTOS, B. de S. (org., 2008). Conhecimento prudente para uma vida decente. São
+Paulo: Cortez.
+SAVIANI, D. (2009). História das idéias pedagógicas no Brasil. Campinas: Autores
+Associados.
+SCOCUGLIA, A.C. (2005). Paulo Freire e a conscientização na transição pós-
+moderna. Revista Educação, Sociedade & Culturas, Porto/Portugal, v. 23, p. 21-42.
+SCOCUGLIA, A. C. (2005). As reflexões curriculares de Paulo Freire. Revista
+Lusófona de Educação, Lisboa/Portugal, v. 06, p. 81-92.
+SCOCUGLIA, A.C. (2006). A história das idéias de Paulo Freire e a atual crise de
+paradigmas. João Pessoa: Editora Universitária – UFPB.
+
+17
+
+SCOCUGLIA, A.C. et RÉGNIER, J.C. (2007). Origines et évolutions de la pensée
+politico-pédagogique de Paulo Freire. Lyon/France, Révue RELIANCE, v. 26, p. 103-
+108.
+SCOCUGLIA, A.C. (2010). G lobalização, trabalho e docência: constatações e
+possibilidades. Campinas: Revista Histedbr (on-line).
+TOURAINE, A. (1999). Poderemos viver juntos? Iguais e diferentes. São Paulo:
+Loyola.
+
+

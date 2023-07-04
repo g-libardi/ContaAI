@@ -1,0 +1,2033 @@
+
+Resumo de Administração
+
+
+
+
+
+
+ADMINISTRAÇÃO: PLANEJAMENTO, ORGANIZAÇÃO, DIREÇÃO E CONTROLE
+
+
+
+
+
+Autor:
+
+ADILSON ROCHA
+
+
+
+
+
+
+
+
+
+ADMINISTRAÇÃO: PLANEJAMENTO, ORGANIZAÇÃO, DIREÇÃO E CONTROLE
+
+
+0  EMPRESA: é um organismo econômico destinado à produção de mercadorias e/ou serviços, com o objetivo de lucro para o empresário.
+
+0  ponto de vista econômico: a empresa possui 2 fatores de produção: trabalho e capital.
+
+0  produção = fenômeno econômico que cria ou gera mercadorias e/ou serviços para troca ou permuta. Somente existem 2 tipos de produção: mercadorias (alimentos, remédios, etc.) e serviços (transportes, médicos hospitalares, etc.).
+
+0  trabalho = todo esforço humano destinado à produção.
+
+0  O homem é agente e o seu trabalho o 1º fator de produção. Os recursos da terra e da natureza, representam o 2º fator de produção, isto é, o capital (máquinas e animais).
+
+0  capital = representa os recursos disponíveis e aplicados. 
+0 capital financeiro = dinheiro ou crédito (financiamento).
+0 capital econômico = equipamentos, produção, máquinas, ferramentas, etc. (investimento).
+
+0  nos sistemas econômicos capitalistas, as empresas são constituídas para obtenção de lucro (diferença entre o menor custo de produção e maior preço das vendas das mercadorias e/ou serviços), caso contrário terá prejuízo.  
+
+0 o lucro tem 2 destinos:
+0 ser distribuído entre os sócios (Ltda) ou acionistas (S/A).
+0 permanecer no giro dos negócios, figurando como reserva e acréscimo de capital.
+
+0  de acordo com a teoria organicista : as empresas comerciais , industriais, agrícolas, hoteleiras, etc., são consideradas organismos econômicos que produzem mercadorias e/ou serviços com o objetivo de lucro.
+
+0  ENTIDADES: organismos econômicos destinados a produção de mercadorias e/ou serviços, sem fins lucrativo. Por exemplo: ONGs, clubes esportivos, fundações educacionais, associações religiosas, etc. 
+0  os resultados alcançados nas entidades são chamados de superávits (excesso de receitas sobre as despesas), incorporando ao patrimônio, sem distribuição entre diretores ou membros. déficits (excesso de despesas sobre as receitas), o seu total permanece em suspenso para ser amortizado com superávits futuros.
+
+0  a Administração é uma das vias que nos conduzem ao objetivo das empresas ou entidades.
+
+0  os administradores são pessoas encarregadas de fazer planos, organizar, dirigir e controlar as operações, por meio do esforço conjunto dos empregados (técnica administrativa).
+
+0  conceito de Harold Koontz: “Administração é a arte de realizar coisas com e por meio de pessoas em grupos, formalmente organizados.” Grupos formalmente organizados, quer dizer que não basta a reunião de pessoas para que se verifique a presença da ação administrativa. O grupo de pessoas deve ser constituído de forma deliberada e legalmente organizada, como acontece numa empresa ou entidade.
+
+0  conceito de William H. Newman: “ Administração consiste em orientar, dirigir e controlar os esforços de um grupo de indivíduos para um objetivo comum.” A necessidade de orientação, direção e controle dos esforços do grupo de indivíduos e que esse papel cabe ao administrador, ou seja, pode existir um número de pessoas - em um cinema, dentro de um ônibus ou uma praça pública - mas, na falta de orientação, direção e controle da atividade grupal, não haverá, evidentemente, Administração.
+
+
+
+
+0  PROCESSOS ADMINISTRATIVOS:
+
+0  PLANEJAMENTO “é decidir antecipadamente o que deve ser feito para alcançar determinado objetivo ou meta.”
+
+0  Podemos destacar 2 tipos principais de planejamento administrativo:
+a) planejamento especial - é o que, atingindo seu objetivo, deixa de ser utilizado. 
+b) planejamento geral - é usado, muitas vezes, de forma permanente.
+
+0  Projeto: é um instrumento que possibilita avaliar as vantagens e desvantagens de reunir ou combinar todos os recursos num investimento empresarial, bem como aferir a capacidade dos empresários.
+
+0  os projetos visam a montagem ou expansão das empresas, em bases racionais, os projetos devem justificar o interesse em se manter um programa de produção, e também reduzir os riscos que todo empresário enfrenta ao tomar a decisão de investir.
+
+0  Podemos dizer que o valor dos projetos são:
+0 do ponto de vista social (macroeconomia - estudo agregativo da atividade econômica como um todo).
+0 acelera o desenvolvimento econômico do país;
+0 proporciona maior número de empregos aos trabalhadores.
+
+0 do ponto de vista empresarial (microeconomia - cuida individualmente do comportamento dos consumidores e produtores).
+0 justifica um programa de produção e a reunião dos fatores de produção;
+0 permite reduzir os riscos do investimento;
+0 avalia a capacidade técnico-administrativa dos administradores.
+
+0  podemos distinguir um projeto  em quatro fases distintas:
+1ª) Anteprojeto: procura-se, em linhas gerais, estabelecer um confronto entre as vantagens  e as desvantagens de levar avante a constituição de uma empresa, ou seja, realizar um investimento empresarial.
+
+2ª) Projeto Final: como a própria denominação esclarece, deve conter todos os dados (econômicos, técnicos, financeiros, administrativos e legais) para instalação ou expansão da empresa na região escolhida.
+
+3ª) Implantação do Projeto: significa construir e instalar a empresa de acordo com as especificações constantes do projeto final, devidamente aprovado.
+
+4ª) Funcionamento Operacional do Projeto: consiste em entrar em pleno desenvolvimento das operações, ou seja, produzir mercadorias ou serviços de consumo para atender ao mercado consumidor.
+
+
+0  ORGANIZAÇÃO “é o processo administrativo que visa à estruturação da empresa, reunindo pessoas e os equipamentos, de acordo com o planejamento efetuado.”
+
+0 Referente a estrutura organizacional, pode-se entendê-la recorrendo a duas teorias de organização:
+1ª) teoria organicista: as empresas são comparadas ao organismo animal. Trata-se de um estudo pelo processo analógico, por meio do qual observa-se a semelhança entre coisas diferentes. Podemos dizer que o conceito de órgão envolve a palavra função, que significa a ação de cada órgão, ou no caso da empresa, os serviços executados em cada departamento ou seção. Por exemplo, no organismo humano a digestão é a função dos órgãos digestivos;  nos organismos econômicos (empresa) os recebimentos e pagamentos são funções (ou serviços) da seção de caixa.
+
+2ª) teoria comportamentista: as empresas constituem uma reunião de pessoas que trabalham para a produção de mercadorias e/ou serviços. As relações que se estabelecem entre as pessoas que trabalham numa empresa constituem o que se chama de estrutura organizacional.
+
+0  A estrutura organizacional determina quais os cargos ou postos que devem ser ocupados pelas pessoas, bem como as funções (ou serviços) a serem desempenhadas por elas.
+
+0  Quando a empresa é organizada chama-se: “Estrutura de Organização Formal”, estabelecimento da linha de autoridade (quem tem autoridade sobre os subordinados) e a linha de responsabilidade (quem tem de prestar obediência a determinada autoridade).
+
+
+0  Tipo ou Modelo Organizacional Clássico: 
+0 disciplina em primeiro lugar;
+0 autoridade vai em linha vertical (piramidal);
+0 2 vantagens: unidade de comando (executor recebe ordens de um único supervisor) e simplicidade de estruturação (fácil esquema da empresa).
+0 desvantagem: o modelo em forma de pirâmide é muito rígido e que, por isso, cria dificuldades nas transmissões de informações (deve-se informatizar a empresa).
+0 recomendações: reduzir ou achatar a organização vertical ou piramidal e reduzir os níveis hierárquicos. 
+
+
+0  Tipo Organizacionais para Grandes Empresas:
+
+ - unidades de negócios: consiste em criar áreas ou setores independentes, com vida própria (previsão orçamentária, apuração de custos e resultado operacional positivo - lucro). Não se deve confundir as unidades de negócios em referência com as “células de produção” .
+
+- horizontais: com o surgimento da técnica administrativa, a partir de 1990, denominada de Reengenharia de Negócios, a qual recomenda a busca do tamanho certo da empresa (rightsizing), bem como a redução dos níveis hierárquicos (downsizing) e ao praticar esses dois atos administrativos, a empresa estará se horizontalizando.
+0 vantagem: rapidez na tomada de decisão
+0 desvantagem: desemprego generalizado.
+
+ - redes: costuma ser adotado por empresas que não têm características das grandes, como instalações volumosas e muitos funcionários, mas o movimento econômico-financeiro é bem elevado. Há a interligação entre as empresas, ligando os funcionários espalhados por todos os lugares (Alguns autores preferem chamar esse tipo de organização de virtual; outros denominam de modular). É diferente de rede comercial.
+
+0 Nos tipos ou modelos em rede, cumpre saber que a colaboração de terceiros é feita por meio de contratos de empreitadas. Isso nos leva a concluir que, com raras exceções, pois a empresa contratante às vezes faz uma parte do projeto, a maioria dos empreendimentos serão terceirizados (outsourcing).
+
+0    As empresas prestadoras de serviços especializados, ou seja, as executantes do que se convencionou chamar de “pacote de serviços”, não se subordinam à empresa contratante, cujos  diretores  se  reúnem esporadicamente para tratar exclusivamente sobre o andamento do (s) projeto (s).
+
+“Estrutura de Organização Informal”: não é visível nas empresas, mas ninguém pode negar sua existência. Existem muitas razões para justificar as mais variadas alterações ou desvios daquilo que foi planejado e organizado. Esse fenômeno é comum em toda a organização humana, pois sempre aparece alguém procurando modificar ou alterar o que existe, o que, às vezes, é um bem, desde que beneficie a todos os interessados na organização. Isso não deve ser como o uso de outras duas técnicas administrativas: a administração participativa (todos os que estão ligados à empresa participam das decisões) e a autogestão empresarial (toda a empresa está sob o controle dos trabalhadores ou dos empregados). Não confundir com co-gestão.
+
+0  A organização ou estruturação da empresa deve levar em conta três questões:
+
+0  Autoridade:  é direito de mandar e o poder de se fazer obedecer.
+
+0  Responsabilidade:  é a obrigação de fazer e prestar contas do que foi feito.
+
+0  Divisão do Trabalho:  é considerada como princípio fundamental da organização, isto é, a organização existe porque o trabalho do homem é dividido, uma vez que ele não pode fazer tudo. A divisão do trabalho decorre da distribuição da autoridade e das responsabilidades nas empresas. Ao dividir o trabalho estamos Departamentalizando, ou seja, criando diversas seções que executam as funções (ou serviços) específicos ou próprios.
+0  O trabalho de departamentalizar uma empresa costuma ser desdobrado em duas fases:
+- a análise: é o trabalho de decompor um todo, com a finalidade de conhecer suas partes. No caso da organização, a análise consiste em conhecer cada uma das funções (ou serviços), de acordo com sua natureza;
+
+- a síntese: é o trabalho de compor o todo, reunindo todas as partes conhecidas. No caso da organização, a síntese compreende o agrupamento das funções (ou serviços) em departamentos específicos.
+
+0  Os gráficos da organização apresentam a estrutura organizacional da empresa, ou então, o movimento ou fluxo  de suas atividades, daí sua classificação em dois tipos ou modelos:
+
+a)  organogramas: a estrutura organizacional de uma empresa pode ser representada graficamente por meio de pequenos retângulos - também conhecidos por "caixas" - e linhas indicativas das ligações hierárquicas.
+
+
+b)  fluxogramas (flowcharts): serve para designar até um simples rascunho, no qual se faz, por exemplo, uns círculos ou retângulos ligados por linhas em forma de flechas, com a finalidade de mostrar como é que a coisa funciona ou se movimenta. O fluxograma serve também para acusar os defeitos, os erros, as falhas, os retrabalhos, as demoras ou atrasos e assim por diante. Esses fatos ou eventos acabam representando um custo desnecessário ao que se produz ou que se faz (denominado custo agregado). Por causa desses retrabalhos foram criadas organizações para defesa dos consumidores, como por exemplo, o PROCON.
+
+
+
+0  DIREÇÃO  “é o processo administrativo que conduz e coordena o pessoal na execução das tarefas antecipadamente planejadas.”
+
+0  Dirigir uma empresa significa conseguir que os empregados executem as tarefas (ou serviços) pelas quais respondem.
+
+0  “Tarefa é um trabalho que se há de concluir em determinado tempo; serviço é o exercício de funções obrigatórias, ou, então, o desempenho de qualquer trabalho.”
+
+0  Principais meios de direção empresarial:
+
+a)  Ordens ou Instruções (transmitir decisões aos subordinados): são dadas ou emitidas pelos encarregados da direção, enquanto ao empregado cumpre obedecer, executando o que lhe foi determinado.
+
+Dois aspectos principais devem ser mencionados a respeito das ordens de serviços:
+0 quanto à amplitude
+0 ordens gerais = obrigação de todos os empregados da empresa.
+0 ordens específicas = competência de um ou de poucos empregados da empresa.  
+
+0 quanto à forma
+0 ordens orais (verbais) = ordens dadas de viva voz aos executores.
+0 ordens escritas = ordens dadas por escrito aos executores.
+
+b) Motivação: O administrador ou dirigente não pode ignorar a existência desse problema na ação de seus subordinados, pois é certo que a pessoa que trabalha numa empresa deve ter motivos para assim proceder. Podemos dizer que, motivo é qualquer coisa que leva a pessoa a praticar uma ação e motivação é proporcionar um motivo a uma pessoa, estimulando-a a agir de maneira desejada. A melhor maneira de abordar o assunto é fazer um resumo ou classificação dos motivos em quatro categorias:
+0 sobrevivência (continuar a viver);
+0 segurança (manter-se protegido);
+0 satisfação (sentir-se saciado, contente, realizado, etc.);
+0 estimulação (buscar novos estímulos).
+
+0  Do ponto de vista do administrador, a motivação compreende a criação de condições que proporcionem satisfação pessoal a quem trabalha sob suas ordens. Não é tarefa simples, pois o comportamento humano é complexo.
+
+0  Podemos citar cinco motivações do trabalho das dez apontadas pelo professor norte-americano, William H. Newman:
+
+
+
+
+1ª) melhor remuneração (bons salários): de modo geral, podemos dizer que o pagamento de bons salários ou altos salários constitui boa motivação para o trabalhador, pois é com o dinheiro ganho que satisfaz as suas necessidades e de sua família. Essa melhor remuneração pode ser feita de duas maneiras:
+0 aumentos progressivos no desempenho da mesma função;
+0 aumento de salário no caso de promoção de cargo e desempenho de novas funções.
+
+2ª) projeção e prestígio social: todos nós gostamos de ser “alguém” no meio de pessoas que nos cercam. Por isso, procuramos alcançar certa projeção no meio em que vivemos (competência, dedicação, o trabalho honesto aliado à personalidade do funcionário).
+
+3ª) oportunidade de progredir: todos os empregados desejam progredir e a empresa oferece a oportunidade de progredir, é lógico que ficam constantemente motivados para o melhor desempenho de suas funções.
+
+4ª) trabalho interessante: ninguém gosta de fazer o que não lhe agrada. Se for obrigado a fazer, provavelmente o fará mal. Cabe ao administrador, com uma boa dose de competência, o papel de tornar agradáveis e interessantes as tarefas de seus subordinados.
+
+5ª) tratamento humano: o  empregado não deve ser confundido com os equipamentos de produção. O administrador deve criar motivações para o trabalhador desempenhar a contento suas obrigações. As relações familiares e sociais, as condições de vida e de saúde, passatempos favoritos, vida religiosa, etc., são importantes para o trabalhador e o administrador deve observar esses fatores e procurar dentro das possibilidades da empresa, proporcionar ao colaborador (não mais funcionário) a satisfação de seus desejos e interesses.
+
+c)  Comunicação: pode ser considerada como o processo de transmissão de informações ou mensagens. A conceituação apresentada revela que o processo de comunicação envolve a informação (baseada em dados) transmitida, por exemplo, pelo dirigente “A” (chamado emissor) para o funcionário “B” (chamado receptor) que recebe a mensagem (entender o verdadeiro sentido da informação transmitida pelo emissor).
+
+0  O emissor deve codificar a mensagem, transformando-a numa forma especial para a transmissão, e o receptor precisa decodificar a mensagem, ou seja, decifrar a mensagem transmitida, para poder entender a informação que o código contém. Esse processo será completo, quando tiver o retorno da informação, o chamado feedback. 
+0  Os meios de comunicação utilizados para a transmissão de informações ou mensagens são os mais diversos. Por exemplo: telefones, interfones, intranet, correio eletrônico, ordens de serviço, comunicados, avisos, cartas, memorandos, etc.
+
+0  As linhas de comunicações entre indivíduos para a transmissão de informações relacionadas com as tarefas administrativas são chamadas canais.
+   
+0  Ao conjunto de canais existentes (ou possíveis) num grupo de pessoas ou departamento dá-se o nome de rede (ou  sistema) de comunicação.
+
+0  Os ruídos nas comunicações são as interferências que prejudicam as transmissões de informações. Muitas vezes, o ruído, além de causar incômodo ou aborrecimento, também dá origem a erros, exigindo a repetição de parte ou de toda a mensagem. A repetição da informação contida na mensagem é denominada redundância.
+
+
+                        Quadro dos Canais de Comunicação em uma empresa:
+
+Descendente = Comunicações do superior  para o subordinado.   
+                                                 CANAIS VERTICAIS  
+                                                                                                  Ascendente= Comunicações do subordinado  para  o superior
+1. INTERNOS (decorrentes                                                                                    
+         de  relações internas)           CANAL HORIZONTAL   =  Comunicações entre os diversos         
+       departamentos (ou seções)
+                                                                                                     da empresa, no mesmo nível.
+
+
+2. EXTERNOS (decorrentes --- CANAL EXTRA-ORGANIZACIONAL = Comunicações   para
+          de relações externas)                                                                             diversos grupos externos
+              (e vice-versa) : 
+                                                                                                                        repartições  públicas,
+             clientes, fornecedores,
+                                                                                                                       bancos, etc.               
+
+
+d)  Coordenação: Segundo Henri Fayol, “ a coordenação tem por fim ligar, unir e harmonizar todos os atos e esforços.”   A coordenação deve estar presente em todas as fases da administração, isto é, quando se planeja, organiza, dirige e controla uma empresa.
+
+e)  Liderança:  faz parte da personalidade de um administrador. Ele precisa ser um condutor ou guia de seus subordinados. Embora o administrador tenha o poder de admitir, promover, demitir e exigir dos funcionários a prestação de serviços (por força de sua autoridade), ele terá maior sucesso nos resultados de cada um se souber conduzi-los como um líder.
+
+0  A liderança está baseada no prestígio pessoal do administrador e na aceitação pelos dirigidos ou subordinados.
+
+0  3 fatores, pelo menos, influem no poder de liderança de um administrador:
+0 posição hierárquica (status) - decorrente de sua função de autoridade (direito de mandar e de se fazer obedecer);
+0 competência funcional - resultante de seus conhecimentos gerais e especializados (cultura geral e técnica).
+0 personalidade dinâmica - produto de suas características e qualidades pessoais (aspecto físico, temperamento, caráter, etc.).
+
+f ) Tomada de Decisões: a escolha que fazemos quando nos defrontamos com várias alternativas ou diversas opções num curso de ação, escolhemos o caminho a seguir, decidimos o que fazer. 
+
+0  Na Administração de Empresas, em que o fluxo de informação é muito grande, devemos observar que somente isso não resolve os problemas internos e externos da organização, é nesse momento que entra o ser humano (a decisão). 
+
+0  Conforme Lee Thayer, “a informação é uma propriedade das pessoas e não das mensagens recebidas e expedidas por elas. Essa propriedade decorre de nossa faculdade perceptiva, ou ainda, da existência da capacidade que possuímos de conhecer as coisas, tanto pelos sentidos (audição, olfato, paladar, visão e tato) como pela consciência (parte clara e lúcida do homem).”
+
+0  Isto exposto, podemos dizer que, uma vez conhecido e identificado o problema, resta-nos tomar uma decisão para resolvê-lo. O problema identificado é enviado para o nosso poder de decisão, no qual deve ter, uma espécie de “banco de soluções”. Esse “banco” já deve ter dados e soluções para problemas semelhantes ao que foi para lá encaminhado.
+
+0  O estudo da teoria da tomada de decisões é bastante complexo e, muitas vezes, a solução que julgamos mais acertada fracassa completamente. Dessa forma, saber ou ter conhecimentos das informações é um grande passo para tomar decisões administrativas.
+0  CONTROLE  “é o processo administrativo que consiste em verificar se tudo está sendo feito de acordo com o que foi planejado e as ordens dadas, bem como assinalar as faltas e os erros, a fim de repará-los e evitar sua repetição.”
+
+0  As características do controle administrativo são:
+0 maleabilidade: possibilitar a introdução de mudanças decorrentes de alterações nos planos e nas ordens;
+
+0 instantaneidade: acusar o mais depressa possível as faltas e os erros verificados;  
+
+0 correção: permitir a reparação das faltas e dos erros, evitando-se a sua repetição.
+
+0  Além dessas características de um controle eficiente, não podemos ignorar algumas classificações do controle, principalmente as mais importantes.
+
+a) Primeira fase do controle de um serviço administrativo:
+0 quando do planejamento;
+0 quando da execução;
+0 quando da apuração dos resultados.
+
+b) Classificação do controle quanto ao tempo:
+0 controle antecedente (antes do serviço);
+0 controle concomitante (durante o serviço);
+0 controle subseqüente (depois do serviço).
+
+c) Classificação do controle quanto à duração do controle:
+0 controle permanente (execução constante);
+0 controle temporário (execução variável).
+
+d) Classificação do controle quanto ao processo:
+0 estabelecimento de padrões  (critérios ou normas de serviços);
+0 avaliação de desempenho (comparar, medir ou verificar os resultados com o padrão);
+0 correção dos desvios (corrigir os planos, modificar objetivos e mudar o pessoal).
+0  No primeiro processo de controle é o estabelecimento de padrões (entendemos por padrões os critérios ou normas estabelecidos, mediante os quais os resultantes podem ser medidos ou avaliados).
+
+0  Os padrões podem ser:
+0 físicos - exemplos: quantidade de produtos ou mercadorias a produzir, unidades de serviços a executar, homens-hora de trabalho, quantidade de vendas, etc.;
+
+0 expressos em dinheiro: exemplos: totais dos custos de produção, valor dos investimentos, custo de um serviço, valor das receitas, etc.;
+
+0 de ordem pessoal: exemplos: atuação dos empregados, reação dos clientes, opinião do público, etc.
+
+
+0  No segundo processo do controle, a avaliação do desempenho, significa comparar, medir ou verificar os resultados obtidos em relação ao padrão estabelecido. Contudo, nem sempre podemos estabelecer padrões e também temos dificuldades em avaliar o desempenho dos executantes. Todavia, sempre que possível, devemos fazer tentativas de um controle eficiente (ou razoável) para garantia de uma boa administração.
+
+0  No terceiro processo do controle, a correção dos desvios, tem por fim modificar os planos (ou padrões) ou serviços, alterar os objetivos, ou então, se for o caso, designar novos empregados para a execução, selecionar ou treinar outros trabalhadores, ou, ainda, em última instância, contratar novos empregados em substituição aos antigos, que se revelaram incapazes de satisfazer os padrões de trabalho que foram estabelecidos.
+
+0  Conforme, Harold Koontz e Cyril O´Donnell, são cinco os tipos de padrão freqüentemente usados na prática:
+
+0 Padrões Físicos - não são expressos em termos monetários (ou dinheiro). Eles estão ligados à produção das empresas e podem ser quantitativos (homens-hora por unidade de produção, unidades de produção por máquinas-hora, etc.) ou qualitativos (firmeza de cor em tecidos, sabor em certos produtos ou mercadorias, durabilidade de determinados artigos de consumo, etc.).
+0 Padrões de Custo - são expressos em termos monetários (ou dinheiro) e estão diretamente ligados à produção. Trata-se, em última análise, do custo da produção, principalmente da matéria-prima e da mão-de-obra empregadas no processo de produção. Os padrões de custo podem ser estabelecidos antecipadamente (calculando-se quanto vai custar o consumo de matéria-prima e de mão-de-obra) para se alcançar determinada produção de mercadorias (o total produzido).
+0 Padrões de Capital - como a própria denominação esclarece, referem-se ao capital social da empresa, ou mais precisamente ao lucro líquido (ou os resultados globais do exercício - um ano) que proporciona o capital investido numa empresa.
+0 Padrões de Receita - são os que resultam da atribuição de valores monetários às vendas realizadas por uma empresa. Por exemplo, uma empresa pode estabelecer um padrão de suas vendas para determinado ano. Posteriormente, avalia o desempenho do Departamento de Vendas em relação às estimativas feitas.
+0 Padrões imponderáveis - também chamados de não avaliáveis ou intangíveis, são os mais difíceis de estabelecer. De fato, como eles não são expressos em termos monetários (ou em dinheiro), tampouco físicos, tornando-se praticamente impossíveis de serem elaborados e, por isso, a avaliação de desempenho também é tarefa complexa.
+
+0  Existem outros meios pelos quais a administração de uma empresa procura controlar seu desenvolvimento operacional, tais como:
+
+0 o orçamento: formulação de planos ou programas, em termos numéricos, para um exercício futuro;
+
+0 demonstrações e tabelas estatísticas: movimento de vendas, demonstrações de recebimentos e pagamentos, movimento bancário, etc.);
+
+0 relatórios: exposição escrita sobre diversos aspectos das operações da empresa, acompanhada às vezes de anexos ilustrativos;
+
+0 auditoria interna: executada por contadores designados para tal fim e empregados da empresa;
+
+0 auditoria externa: executada por contadores de fora da empresa e contratados pela administração;
+
+ observação pessoal: presença do administrador, visando acompanhar o trabalho de seus subordinados. 
+
+
+
+
+
+
+
+
+
+I - EVOLUÇÃO DAS TEORIAS ADMINISTRATIVAS
+
+0  Administração = aplicação de gerir.
+
+0  Gestão = ato de conduzir, dirigir ou governar.
+
+
+1.  TEORIA CLÁSSICA E TEORIA CIENTÍFICA
+
+0  Início da Revolução Industrial (máquinas e divisão do trabalho).
+
+0  A economia deixou de ter uma base artesanal e manufatureira para se      firmar na produção industrial mecanizada - transformação em toda a sociedade.
+
+0  Nascimento das fábricas: primeiro paradigma da administração, defendendo racionalização da produção, divisão das tarefas em múltiplas etapas, supervisão cerrada e obediência hierárquica.
+
+0  Frederick Taylor - técnicas de racionalização do trabalho do operário, buscou uma organização científica do trabalho, enfatizando tempos e métodos e por isso é visto como precursor da Teoria da Administração Científica.
+
+0  Taylor é visto como um cientista insensível e desumano, porém deve-se ressaltar que a preocupação de Taylor com o aumento da eficiência da produção, buscando redução dos custos não apenas para elevar os lucros, mas também para elevar a produtividade dos trabalhadores, aumentando seus salários. Não podemos esquecer da época: início do século XIX, reflexos do regime feudal e escravocrata, essas idéias representavam um avanço na forma de encarar a participação do trabalhador no processo produtivo.
+
+
+0  Princípios da Teoria de Taylor:
+
+ Seleção Científica do Trabalhador - O trabalhador deve desempenhar a tarefa mais compatível com suas aptidões. A maestria da tarefa, resultado de muito treino, é importante para o funcionário (que é valorizado) e para a empresa (que aumenta sua produtividade).
+ Tempo-padrão - O trabalhador deve atingir no mínimo a produção-padrão estabelecida pela gerência. É muito importante contar com parâmetros de controle da produtividade, porque o ser humano é naturalmente preguiçoso. Se o seu salário estiver garantido, ele certamente produzirá o menos possível.
+ Plano de Incentivo Salarial - A remuneração dos funcionários deve ser proporcional ao número de unidades produzidas. Essa determinação se baseia no conceito de Homo economicus, que considera as recompensas e sanções financeiras as mais significativas para o trabalhador.
+ Trabalho em Conjunto - Os interesses dos funcionários (altos salários) e da administração (baixo custo de produção) podem ser conciliados, através da busca do maior grau de eficiência e produtividade. Quando o trabalhador produz muito, sua remuneração aumenta e a produtividade da empresa também.
+ Gerentes Planejam, Operários Executam - O planejamento deve ser de responsabilidade exclusiva da gerência, enquanto a execução cabe aos operários e seus supervisores.
+ Divisão do Trabalho - Uma tarefa deve ser dividida no maior número possível de subtarefas. Quanto menor e mais simples a tarefa, maior será a habilidade do operário em desempenhá-la. Ao realizar um movimento simples repetidas vezes, o funcionário ganha velocidade na sua atividade, aumentando o número de unidades produzidas e elevando seu salário de forma proporcional ao seu esforço.
+ Supervisão - Também deve ser funcional, ou seja, especializada por áreas. A função básica do supervisor, como o próprio nome indica, é controlar o trabalho dos funcionários, verificando o número de unidades produzidas e o cumprimento da produção-padrão mínima.
+ Ênfase na Eficiência - Existe uma única maneira certa de executar uma tarefa (the best way). Para descobri-la, a administração deve empreender um estudo de tempos e métodos, decompondo os movimentos das tarefas executadas pelos trabalhadores.
+
+0  Considerações acerca da Administração Científica de Taylor
+
+ Enfoque mecanicista do ser humano - A visão da organização como uma máquina, que pode e deve seguir um projeto definido, recebe críticas ferozes de estudiosos da administração. A partir dessa concepção, cada funcionário é considerado uma mera engrenagem no corpo da empresa, tendo desrespeitada sua condição de ser humano.
+
+ Homo economicus - O incentivo monetário, apesar  de importante, não se revela suficiente para promover a satisfação dos trabalhadores. O reconhecimento do trabalho, os incentivos morais e a auto-realização são aspectos fundamentais, que a administração científica desconsidera.
+
+ Abordagem fechada - A administração científica não faz referência ao ambiente da empresa. A organização é vista de forma fechada, desvinculada de seu mercado, tendo negligenciadas as influências que recebe e impõe ao que cerca.
+ Superespecialização do operário - Com a fragmentação das tarefas, a qualificação do funcionário passa a ser supérflua. Ele passa a desenvolver tarefas cada vez mais repetitivas, monótonas e desarticuladas do processo como um todo. A superespecialização leva a alienação do trabalhador, no melhor estilo retratado por Chaplin em Tempos Modernos.
+
+ Exploração dos empregados - Como decorrência do estímulo à alienação do funcionário, da falta de consideração de seu aspecto humano e precariedade das condições sociais existentes à época (falta de legislação trabalhista digna, proibição de movimentos sindicais), a Administração Científica legitima a exploração dos operários, em prol dos interesses patronais.
+
+0  Um dos seguidores das idéias de Taylor
+
+Henry Ford é visto como um dos grandes responsáveis pelo grande salto qualitativo no desenvolvimento da atual organização empresarial. Ciente da importância do consumo de massa, lançou alguns princípios que buscavam agilizar a produção, diminuindo seus custos e tempo de fabricação:
+
+Integração Vertical e Horizontal - produção integrada, da matéria-prima ao produto final acabado (integração vertical) e instalação de uma enorme rede de distribuição (integração horizontal).
+ Padronização - ao instaurar a linha de montagem e a padronização do equipamento utilizado, Ford obtinha agilidade e redução de custos, em detrimento da flexibilização do produto. É anedota comum atribuir a Ford a idéia de que o consumidor podia escolher qualquer carro Ford, desde que fosse “de bigode preto”.
+ Economicidade - redução dos estoques e agilização da produção. “O minério sai da mina sábado e é entregue sob a forma de um carro, ao consumidor, na terça-feira à tarde.”
+
+0  Paralelamente aos estudos de Taylor, o engenheiro francês Henri Fayol defendia princípios semelhantes na Europa, baseado em sua experiência na alta administração. 
+
+0  Princípios da Teoria de Fayol: 
+1-) Divisão do Trabalho - a especialização dos funcionários, dos executivos da administração aos operários da fábrica, favorece a eficiência na produção, aumentando a produtividade.
+
+2-) Autoridade e Responsabilidade - autoridade é o direito dos superiores hierárquicos de dar ordens que serão supostamente obedecidas; responsabilidade é a contrapartida da autoridade.
+
+3-) Unidade de Comando - um empregado deve receber ordens apenas um superior, evitando contra-ordens.
+
+4-) Unidade de Direção - o controle único é possibilitado com a aplicação de um plano para grupos de atividades com os mesmos objetivos.
+5-) Disciplina - necessidade de se estabelecer normas de conduta e de trabalho, válidas para todos os funcionários. A ausência de disciplina joga a organização no caos.
+
+6-) Prevalência dos Interesses Gerais - os interesses gerais da corporação devem prevalecer sobre os interesses individuais.
+
+7-) Remuneração - deve ser suficiente para garantir a satisfação dos funcionários e da organização.
+
+8-) Centralização - as atividades cruciais da organização e a autoridade para a sua adoção devem ser centralizadas.
+
+9-) Hierarquia (Cadeia Escalar) - defesa incondicional da estrutura hierárquica, respeitando à risca uma linha de autoridade fixa.
+
+10-) Ordem - deve ser mantida em toda organização, preservando um lugar para a cada coisa (pessoa) e cada coisa (pessoa) em seu lugar.
+
+11-) Eqüidade - a justiça deve prevalecer também no ambiente de trabalho, justificando a lealdade e a devoção dos funcionários à empresa.
+
+12-) Estabilidade dos Funcionários - a alta rotatividade do pessoal tem conseqüências negativas sobre o desempenho da organização e o moral dos trabalhadores.
+
+13-) Iniciativa - deve ser entendida como a capacidade de estabelecer um plano e cumpri-lo.
+
+14-) Espírito de Corpo (“Sprit de corps”) - o trabalho deve ser conjunto, facilitado pela comunicação dentro das equipes. Os componentes de um mesmo grupo precisam ter consciência de classe, para com isso defenderem seus propósitos.
+
+Ao lado dos princípios gerais, Fayol enunciou as funções precípuas da gerência administrativa - o processo administrativo: PLANEJAR, ORGANIZAR, COMANDAR, CONTROLAR e COORDENAR
+
+
+0  Considerações da Teoria Clássica:
+
+ Obsessão pelo comando - tendo como ótica a visão da organização a partir da gerência administrativa, Fayol centrou seus estudos na unidade do comando, na autoridade e na responsabilidade. Em função disso, é normalmente visto como obcecado pelo comando gerencial.
+ A empresa como sistema fechado - outra crítica freqüentemente endereçada à administração clássica é que considerava a empresa como um sistema fechado. Ora, a partir do momento em que o planejamento é defendido como sendo a pedra angular da gestão empresarial, é difícil imaginar que a organização seja vista como uma parte isolada do ambiente.
+ Manipulação dos trabalhadores - assim como a administração científica, a administração clássica foi tachada de tendenciosa, desenvolvendo princípios que buscavam, em última instância, explorar os trabalhadores. Entretanto, cabe diferenciar a elaboração e o estudo dos princípios e funções  defendidos por Fayol da aplicação, muitas vezes deturpada, que alguns empresários fizeram (e fazem) dos mesmos.
+
+0  Contrapondo as funções gerenciais de Fayol (estudava da administração para baixo - privilegiando as tarefas da organização) e Taylor (estudava a empresa do ponto de vista do chão de fábrica para cima privilegiando as tarefas da produção),
+
+
+
+     ADMINISTRAÇÃO             ADMINISTRAÇÃO
+         CIENTÍFICA                                   CLÁSSICA
+
+     Precursor     Frederick Taylor         Henri Fayol
+
+     Origem     Chão de fábrica             Gerência administrativa
+
+     Ênfase           Adoção de métodos racionais       Estrutura formal da empresa; 
+            e padronizados; máxima divisão              adoção de princípios administrativos
+            de tarefas.                pelos altos escalões.
+
+     Enfoque         Produção                        Gerência
+
+
+
+
+
+2.  ESCOLA DE RELAÇÕES HUMANAS
+
+0  A busca de uma maior eficiência nas empresas exigiu a reconsideração das relações e aspirações dos elementos humanos na organização. A humanização dos conceitos administrativos se apresentou como mais adequada às novas exigências. Paralelamente, desenvolveram-se vários campos das ciências humanas, que permitiam compreender melhor o funcionamento da psicologia do trabalhador.
+
+0  Assim, os pesquisadores e estudiosos da psicologia do trabalho e industrial ressaltavam a importância da consideração conjunta dos fatores humano e material para a avaliação da produtividade no trabalho.
+
+
+0  Os pressupostos da abordagem de Relações Humanas
+As pesquisas de Elton Mayo propiciaram um cenário favorável à introdução de uma nova abordagem na solução dos problemas de administração, focalizada no processo de motivar os indivíduos para o atingimento das metas organizacionais. Para tanto alguns pressupostos sobre o comportamento humano precisavam ser aceitos e considerados pelos administradores:
+
+
+ Integração e comportamento sociais - embora dotado de excelentes condições físicas para o trabalho, o trabalhador socialmente desajustado terá baixa eficiência. Isso porque os aspectos sociológicos, psicológicos e emocionais são mais importantes do que os técnicos. O papel da integração grupal é primordial para o bem-estar psicoemocional dos trabalhadores. Eles não agem individualmente mas como membros de grupos. Desviando-se das normas grupais, sofrem punições sociais ou morais dos colegas mais severas do que as impostas pela organização, porque os marginalizam do relacionamento com o grupo. A administração que busca a eficiência e o aumento da produtividade deve então atentar à conciliação dos objetivos empresariais com os interesses subjetivos dos trabalhadores, para obter os resultados desejados.
+
+ Participação nas decisões - a participação de cada um no processo decisório é fundamental, embora condicionada à situação e ao padrão de liderança adotado. O trabalhador é um ser pensante; ele deve estar sujeito a um controle de resultados mas não a uma supervisão estrita principalmente no que se refere ao modo de realizar sua tarefa. A participação nas decisões, favorecida através de uma comunicação de baixo para cima, estimula a iniciativa dos funcionários e aumenta a produtividade empresarial.
+
+ Homem social - o comportamento dos trabalhadores está condicionado não somente a aspectos biológicos mas também a normas e padrões sociais. Dada a importância atribuída aos fatores psicoemocionais, a motivação econômica passa a ser secundária na determinação do rendimento do trabalhador; são prioritárias a necessidade de reconhecimento, aprovação social e participação.
+
+ Conteúdo do trabalho - trabalhos simples e repetitivos são monótonos e negativos para a motivação do trabalhador e, conseqüentemente, para o nível da produção. As tarefas devem ser estimulantes, incentivando o trabalhador a se interessar pela produtividade e qualidade do que desenvolve.
+
+
+3. BUROCRACIA
+
+0  Max Weber foi um dos fundadores da sociologia moderna. Contemporâneo das teorias científica e clássica, estudou a organização como parte de um contexto social, influenciada pelas mudanças sociais, econômicas e religiosas da época. O modelo burocrático surgiu então como uma proposta de estrutura administrativa para organizações complexas, dotada de características próprias, eficiente na sociedade industrial emergente. A teoria burocrática surgiu como paradigma de gestão, regulada pelas normas e inflexibilidade hierárquica.
+
+0  As características da Burocracia
+ O modelo burocrático segue preceitos rígidos e disciplinadores para o desempenho eficaz do indivíduo e da organização = A RAZÃO ACIMA DA EMOÇÃO.
+
+ Ética protestante - Como princípios básicos, o protestantismo defende a vida dedicada ao trabalho duro, à poupança e ao ascetismo. Os que realmente se dedicam a essa conduta espartana (e, portanto, seguem a vontade de Deus) alcançam a prosperidade e ficam em paz com o destino de sua alma. Com isso, quão mais rico, mais o indivíduo prova ser fiel e recompensado por Deus. A riqueza não é vista como um meio mas como o resultado de uma conduta.
+
+ Homem Organizacional - O tipo de personalidade adequada à sociedade moderna é a do homem flexível ao desempenho de vários papéis simultâneos, dentro da organização. Resistente às frustrações, dedicado de forma irrestrita ao cumprimento de suas tarefas, o funcionário da organização burocrática deve ser capaz de adiar as recompensas e o desejo de auto-realização.
+
+ Racionalidade - Os objetivos devem ser atingidos da maneira mais racional e, portanto, poupadora de esforços. Assim como na Administração Científica, a Burocracia defende a existência da melhor forma de se realizar uma tarefa.
+
+ Divisão de Trabalho e Hierarquia - A divisão do trabalho deve ser sistemática, coerente com os objetivos visados pela organização. Cada pessoa deve ter uma tarefa específica e uma autoridade condizente com ela. Forma-se assim uma hierarquia de atividades legítima, construída de acordo com as funções dos trabalhadores dentro da empresa. A legitimidade da cadeia hierárquica faz com que deva ser respeitada e aceita a qualquer custo.
+
+ Autoridade, Poder, Dominação e Administração - Autoridade é a “probabilidade de quem um comando ou ordem específica seja obedecida”, podendo se dar por hábito, afeição ou interesse em determinada situação. Poder é a probabilidade de impor a própria vontade à conduta dos outros, contra qualquer resistência. Na dominação o governante tem o direito de impor seu poder e o governado o dever de obedecer-lhe. Ao se exercer sobre muitas pessoas, a dominação necessita de um aparato administrativo que una governantes e governados.
+
+ Promoção e Seleção - A consideração da competência ténica evita favoritismos e o incentivo à promoção da incompetência. Seguindo a lógica da racionalidade, o processo de seleção e promoção de um indivíduo deve ser resultado de sua dedicação e competência no cumprimento das metas organizacionais.
+
+ Separação entre Propriedade e Administração -  Os administradores devem ser profissionais, especialistas, assalariados, fiéis ao cargo e aos objetivos da empresa. O trabalho que desempenham deve ser sua principal atividade. Com isso, o trabalhador passa a ser encarado não como um ser humano, dotado de personalidade e emoções mas como o ocupante de um cargo, que tem sob sua responsabilidade um conjunto de atribuições.
+
+ Organização Informal - Sendo imprevista, não é racional. Não sendo racional, não é desejada nas organizações burocráticas.
+
+
+0  Embora a expressão organização burocrática seja utilizada de modo depreciativo, para designar empresas complicadas no seu processo de trabalho e lentas no processo de decisão, a burocracia, de acordo com os princípios apresentados, mostrou-se uma forma adequada e muito aplicada às organizações de todo o tipo. A rigor o modelo burocrático facilita a atividade de supervisão do trabalhador, que de antemão já possui todas as informações necessárias sobre a sua tarefa e o comportamento desejado pela administração.
+0  Provavelmente nada revoltaria mais os defensores da verdadeira burocracia, do que prever que seus pressupostos seriam tão amplamente deturpados. Afinal, a defesa do desempenho das tarefas da forma mais poupadora possível de esforços não é muito compatível com a visão que se faz hoje de uma organização burocratizada. Afinal, os princípios da burocracia defendem o cumprimento dos objetivos organizacionais de forma não apenas eficaz, mas eficiente.
+
+0  Da mesma forma, a promoção por mérito e competência não pode ser mais distante do que o estereótipo de cabide de empregos e poço de incompetência, que se atribui modernamente ao termo burocracia.
+
+0  O movimento burocrático é alvo de críticas severas, principalmente daqueles que defendem a maior liberdade e autonomia do indivíduo para o melhor desempenho organizacional:
+
+ Limitação da espontaneidade
+As características da organização burocrática limitam a liberdade pessoal, tornando o trabalhador incapaz de compreender a organização como um todo. Sua visão é fragmentada, o que é prejudicial para a sua auto-realização e para o desempenho da empresa. A própria colocação dos objetivos da empresa como prioritários aos seus objetivos enquanto pessoa denota a relação impessoal e degradante de um ser humano condenado a abdicar de seus sentimentos e aspirações.
+
+ Despersonalização do relacionamento
+O funcionário não tem colegas de trabalho. Assim como ele próprio, as pessoas com quem se relaciona profissionalmente são meros ocupantes de cargos hierarquizados. Os relacionamentos intergrupais e interpessoais não são racionais; portanto, não podem ser benquistos na organização burocrática.
+
+ Substituição dos objetivos pelas normas
+As normas passam a ser gradativamente mais importantes do que os objetivos da organização. O trabalhador deixa de ser um especialista em normas. Conseqüentemente, o próprio princípio poupador de esforços passa a ser inviável.
+ Conflito entre público e funcionários
+Como todos os clientes são atendidos conforme normas preestabelecidas, as especificidades de cada caso são desconsideradas. A inflexibilidade do tratamento dispensado acarreta conflitos entre clientes e funcionários.
+
+
+
+
+
+
+1.  BEHAVIORISMO
+
+0  O movimento behaviorista surgiu como evolução de uma dissidência da escola de Relações Humanas, que recusava a concepção de que a satisfação do trabalhador gerava de forma intrínseca a eficiência do trabalho. A percepção de que nem sempre os funcionários seguem comportamentos exclusivamente racionais ou essencialmente baseados em sua satisfação exigia a elaboração de uma nova teoria administrativa.
+
+0  O Behaviorismo ou Teoria Comportamental defendia a valorização do trabalhador em qualquer empreendimento baseado na cooperação, buscando um novo padrão de teoria e pesquisa administrativas. Foi bastante influenciado pelo desenvolvimento de estudos comportamentais em vários campos da ciência, como a antropologia, a psicologia e a sociologia. Adotando e adaptando para a administração conceitos originalmente elaborados dentro dessas ciências, propunha-se a fornecer uma visão mais ampla do que motiva as pessoas para agirem ou se comportarem do modo que o fazem, particularizando as situações específicas do indivíduo no trabalho.
+
+0  Aspectos organizacionais enfatizados pelo Behaviorismo
+ Processo decisório - Diante de uma série de alternativas, os decisores selecionam (conscientemente ou não) a que representa a melhor opção. Seguindo a hierarquia organizacional, as decisões particulares são reflexos de decisões globais. Os processos administrativos são, por isso, basicamente processos decisórios.
+
+ Liderança - A capacidade de fazer a melhor escolha é característica dos líderes, que flexibilizam a decisão, apoiando-se na colaboração de todos. A liderança depende do indivíduo, de seus seguidores e das condições em que ocorre. Portanto, um bom líder deve entender a organização, os indivíduos que a compõem e suas inter-relações.
+ Autoridade e consentimento - “Autoridade é a característica de uma comunicação (ordem) numa organização formal, em virtude da qual ela é aceita por um contribuinte ou membro da organização, como governando a ação com que ele contribui; isto é, dirigindo ou determinando o que ele faz ou o que ele não deve fazer, no que tange à organização.
+
+ Homem administrativo - Os homens são racionais diante de uma situação com vários dados: eventos futuros e distribuição de probabilidades desses eventos, alternativas de ação disponíveis e suas conseqüências, princípios próprios de ordem de preferência. Baseando-se em tomada de decisões, o homem administrativo tem um comportamento apenas satisfatório e não otimizante.
+
+ Conflito de objetivos - O conflito entre os objetivos dos indivíduos e da organização é inevitável. Para Argyris, com o tempo o trabalhador passa por vários estágios, até atingir a maturidade.
+                                            
+
+                                  As teorias X e Y de McGregor
+
+                   Teoria X                     Teoria Y            
+    Concepção tradicional de direção           Integração entre objetivos individuais
+                    e controle               e organizacionais
+
+O ser humano tem aversão natural ao  O ser humano vê o esforço físico e mental
+ trabalho.    no trabalho de forma tão natural quanto
+      querer descansar.
+
+A maioria das pessoas precisa ser contro- A maioria das pessoas busca naturalmente
+lada, dirigida, coagida e punida, para que se auto corrigir, para atingir os objetivos
+finalmente trabalhe.    que se propuseram alcançar.
+
+O homem é um ser carente, que se esfor-  O compromisso com um objetivo depende
+ça para satisfazer uma hierarquia de   das recompensas que se espera receber com
+necessidades.     sua consecução.
+
+O ser humano não consegue assumir  O ser humano não só depende a aceitar as
+responsabilidades.    responsabilidades, como passa a procurá-las.
+
+A participação dos funcionários é um  A participação dos funcionários é uma forma
+instrumento de manipulação dos mesmos. de valorizar suas potencialidades intelectuais, 
+      como: imaginação, criatividade e engenhosidade.
+
+O líder adota um estilo autocrático.  O líder adota um estilo participativo.
+
+
+
+
+
+
+5.  ESTRUTURALISMO
+
+0  A Teoria Estruturalista surgiu como um desdobramento da Burocracia, buscando resolver os conflitos existentes entre a Teoria Clássica (com sua abordagem mecanicista do homem econômico), a teoria das Relações Humanas (com sua visão ingênua do homem social) e a própria Teoria Burocrática (que propunha aplicação de um modelo organizacional ideal e universal, inviável na prática). Independentemente das críticas específicas a cada uma dessas teorias, as três forneciam um enfoque somente parcial e fragmentado da organização.
+
+0  A idéia básica do Estruturalismo é considerar a organização em todos os seus aspectos como uma só estrutura, fornecendo uma visão integrada da mesma: analisar as influências de aspectos externos sobre a organização, o impacto de seus próprios aspectos internos, as múltiplas relações que se estabelecem entre eles.
+
+Características do Estruturalismo
+
+ Submissão do indivíduo à socialização - O desejo de obter recompensas materiais e sociais (como prestígio, reconhecimento de seus pares etc.) faz com que o indivíduo aceite desempenhar vários papéis sociais em seu trabalho. Isso é possível graças à existência de diversos grupos dentro da mesma organização.
+ Conflitos inevitáveis - Os conflitos entre os interesses dos funcionários e os objetivos da empresa são inevitáveis. Ao considerar os aspectos racionais e irracionais das necessidades empresariais e individuais, os conflitos podem ser reduzidos, mas não eliminados. Sua minimização pode tornar o trabalho mais suportável, apesar de não satisfatório. Por outro lado, se forem disfarçados, os conflitos se expressarão de outras formas, como abandono do emprego ou aumento do número de acidentes.
+
+ Hierarquia e comunicações - A hierarquia é vista como perniciosa à comunicação dentro da empresa. “Mas, seguindo-se a suposição de que a hierarquia é um pré-requisito funcional para a coordenação em uma organização formal, suas disfunções são consideradas um custo inevitável, custo esse que poderá ser reduzido mas não eliminado.”
+
+
+ Incentivos mistos - Os estruturalistas consideram que, também na questão dos incentivos, tanto os clássicos (incentivo monetário) quanto os humanistas (incentivos sociais) tinham uma visão parcial. Os indivíduos, sendo seres complexos, precisam se realizar em diversos aspectos.
+
+0  Thompson atribui à rigidez do modelo burocrático a responsabilidade pela falta de compreensão da organização como um todo. A estratégia seguida pelas organizações para se ajustar a seu ambiente pode seguir vários modelos, conforme a atuação das mesmas quanto a objetivos comuns:
+
+ Concorrencial - ocorre quando organizações que compartilham dos mesmos objetivos procuram atingi-los em separados.
+ Cooperativa -  as relações cooperativas entre organizações podem atingir diversos níveis, conforme o grau de trabalho conjunto implantado para a consecução de objetivos comuns. Assim, existem três tipos básicos de cooperação:
+0 Negociação - compreende as relações estabelecidas entre duas ou mais organizações, para a troca de bens ou serviços entre si.
+0 Co-opção - envolve uma parcela muito mais significativa de penetração de uma empresa no processo decisório da outra. Como por exemplo, teríamos a participação de representantes de instituições financeiras nas reuniões de cúpula de empresas que pretendem ampliar seus recursos financeiros.
+0 Coalizão - é a combinação de duas ou mais organizações, para a consecução dos objetivos comuns. Requer um compromisso entre seus participantes, no sentido de adotarem decisões conjuntas para ações futuras. Por exemplo, empresas de setores específicos que se unem para desenvolver pesquisas.
+
+0  As críticas feitas ao Estruturalismo, normalmente, são respostas às críticas formuladas pelos próprios estruturalistas, em especial à Escola de Relações Humanas. Assim, alguns defensores dessa escola discordam da consideração geral de que ela nega a existência de conflitos e alegam que seus críticos confundem relações humanas com “ser amável com as pessoas”.
+
+
+
+
+
+6. TEORIA DOS SISTEMAS
+
+0  A Teoria do sistemas surgiu de uma percepção dos cientistas, de que certos princípios e conclusões eram válidos e aplicáveis a diferentes ramos da ciência. Imbuído dessa filosofia, o biólogo alemão Ludwig Von Bertalanffy, lançou em 1937 as bases da Teoria Geral dos Sistemas. Bertalanffy defendia a idéia de que não somente os aspectos gerais das diferentes ciências são iguais, como as próprias leis específicas de cada uma delas podem ser utilizadas de forma sinérgica pelas outras.   
+
+0  A teoria foi amplamente reconhecida na administração, durante os anos 60. Sua difusão se deveu a uma necessidade de síntese e integração das teorias precedentes. De forma concomitante, possibilitou a operacionalização e a aplicação de conceitos da Teoria dos Sistemas à administração. 
+
+0  No sentido de buscar uma melhor compreensão do paralelismo existente entre os organismos vivos e as organizações, Zaccarelli propõe um esquema comparativo, envolvendo alguns aspectos relacionados à origem, ao ciclo de vida, ao conceito e às disfunções de ambos:  
+
+
+
+
+
+                     Organismos                                                  Organizações
+
+               Herdam seus traços.                               Adquirem estrutura em estágios.                     
+
+                      Morrem.                                                Podem ser reorganizadas.
+
+  Têm um ciclo de vida predeterminado.             Não têm um ciclo de vida definido.
+
+               São seres concretos.                                         São seres abstratos.
+
+    São seres completos (não precisam                          São seres incompletos.
+    praticar parasitismo ou simbiose).
+
+         A doença é um distúrbio no                            O problema é um desvio nos
+                  processo vital.                                         procedimentos adotados pela
+                                                                                              organização.     
+
+
+
+0  Assim, organismos e organizações apresentam uma série de aspectos específicos que os diferenciam. Uma das características mais particulares das empresas é a sua capacidade de ampliar seu ciclo de vida, através de reorganizações contínuas. Percebe-se com isso a necessidade vital de as empresas se modernizarem constantemente, sob o risco de acelerarem o fim de seu ciclo de vida.
+
+0  Um sistema pode ser visto como um todo organizado ou complexo; uma combinação de coisas ou partes, formando um todo complexo ou unitário. As idéias centrais da teoria de sistemas aplicada à administração podem ser explicadas a partir dos seguintes aspectos:
+
+ Homem Funcional - os papéis são mais enfatizados do que as pessoas em si. Nas organizações, as pessoas se relacionam através de um conjunto de papéis. Diferentes variáveis interferem nesses papéis: variáveis organizacionais, de personalidade e interpessoais. A interação de todas elas é fundamental para que a organização alcance maior produtividade.
+
+ Conflitos de papéis - as pessoas não agem em função do que são mas em função dos papéis que representam. Cada papel estabelece um certo tipo de comportamento: transmite uma certa imagem, define o que uma pessoa supostamente deve fazer, o que “não pega bem”, “não é de bom tom”, não condiz com o comportamento que se espera dela.
+
+ Incentivos mistos - conforme a integração específica de seus grupos ou subsistemas, a empresa deve encontrar o melhor equilíbrio entre incentivos monetários e não monetários. A obtenção desse equilíbrio irá se refletir no melhor desempenho de seus funcionários.
+
+ Equilíbrio integrado - “O sistema aberto define-se como um sistema em troca  de matéria com seu ambiente, apresentando importação e exportação, construção e demolição dos materiais que o compõem.” Dada a complexidade da interação dos diversos subgrupos na formação do sistema empresarial, qualquer ação sobre uma unidade da empresa atingirá todas as outras unidades. A necessidade de adaptação ou reação obriga o sistema a responder de forma una a qualquer estímulo externo.
+
+ Estado estável - Para impedir a entropia (tendência ao desgaste, à desintegração e ao aumento da aleatoriedade), a empresa procura manter uma relação constante na troca de energia com o ambiente. O estado estável pode ser atingido a partir de condições iniciais e através de meios diferentes. A organização se diferencia dos demais sistemas sociais pelo seu alto nível de planejamento.
+
+
+
+
+
+7-) DESENVOLVIMENTO ORGANIZACIONAL
+
+0  O período de transformações sociais que caracterizou a década de 60 e provocou mudanças significativas no comportamento das pessoas, principalmente nos segmentos mais jovens da sociedade, também foi sentido no ambiente empresarial e na administração da organizações. Os mercados se internacionalizavam; as atividades de marketing adquiriam importância crescente e inovações tecnológicas faziam surgir novos produtos, provocando a rápida obsolescência dos produtos tradicionais e criando novos hábitos de consumo na população.
+
+0  As pressões ambientais afetavam as organizações da época em todos os aspectos da sua gestão e os reflexos dessas forças eram notados nas suas operações de mercado. A concorrência em mercados até então estáveis e dominados por grupos empresariais tradicionais se acirrava com o ingresso de corporações menores, porém com tecnologia de ponta na sua atividade. Os novos produtos lançados permitiam ao consumidor escolher dentre um número maior de alternativas.
+
+0  A crescente valorização e especialização de profissionais no ramo de administração de negócios e reconhecimento, de que o homem organizacional não buscava tão somente a remuneração para a satisfação das suas necessidades, estimulou pesquisadores de diferentes áreas de conhecimento a desenvolver estudos e a propor um novo modelo de gestão que permitisse aos indivíduos a consecução dos seus objetivos pessoais e ao mesmo tempo contribuísse significativamente para que os objetivos organizacionais fossem alcançados.
+
+
+0  Surge uma nova abordagem à gestão dos negócios de uma empresa e que seus iniciadores denominaram Desenvolvimento Organizacional - DO. 
+
+
+0  Voltado para o reconhecimento e análise das forças de mudança que pressionam as atividades e os negócios de uma empresa no ambiente em que atua, o movimento de DO tomou corpo e suas propostas se integraram efetivamente à teoria e à prática de administração de empresas.
+
+
+0  A palavra-chave no Desenvolvimento Organizacional é mudança. Se o ambiente científico-tecnológico e mercadológico fosse estável e previsível, não haveria pressões para mudanças. Se os objetivos organizacionais e individuais fossem integrados, as necessidades de mudanças também seriam minimizadas. 
+
+
+0  Cada funcionário começou a ser considerado como um ser dotado de ambições complexas e mutáveis, com competências e capacidades específicas. 
+
+
+0  Quando a empresa é administrada de forma rígida, sem muita flexibilidade para se adaptar às mudanças  que estão ocorrendo no meio ambiente em que opera, as forças internas de desenvolvimento e de deterioração geram ciclos destrutivos, resultando em problemas internos (baixa produtividade e qualidade dos produtos e serviços, crises), sistema organizacional ineficaz (controles inócuos, objetivos indefinidos, retrabalho) e comportamento disfuncional (absenteísmo, apatia, alta rotatividade). Indica para situações de transformação, um programa de DO facilita o contorno desses problemas.
+
+
+0  Qualquer projeto de desenvolvimento da organização deve se concentrar no comportamento dos indivíduos, mesmo que as mudanças necessárias se situem na área tecnológica, nos sistemas administrativos e operacionais adotados ou na estrutura organizacional da empresa.
+
+
+
+0  Toda organização pode ser entendida e analisada sob três aspectos que configuram a sua atividade empresarial: 
+0 estrutura: envolve hierarquia administrativa, os sistemas e processos de trabalho interno, o fluxo de comunicação e a definição da missão, objetivos e políticas organizacionais;
+0 tecnologia: se refere aos sistemas operacionais adotados, equipamentos, engenharia do processo e do produto, desenvolvimento de pesquisa, métodos de trabalho etc.    
+0 comportamento: está relacionado aos procedimentos da organização, aos conhecimentos, habilidades e atitudes das pessoas que dela participam e ao seu relacionamento interpessoal.
+
+
+0  Kurt Lewin, cujos estudos sobre dinâmica de grupos contribuíram para justificar algumas das propostas da abordagem de Relações Humanas desenvolveu a “Teoria do Campo de Força” em Ciências Sociais, na qual discute o processo de se obter uma mudança efetiva no comportamento das pessoas. Posteriormente, Edgard Schein elaborou um modelo baseado nessa teoria, que pode ser aplicado a pessoas, grupos e organizações. O processo de mudança resultante do trabalho de Lewin & Schein compreende uma seqüência de três etapas:
+
+
+ O descongelamento do padrão de comportamento atual significa tornar a necessidade de mudança tão aparente, que o indivíduo não consiga encontrar argumentos para evitá-la. Isto pode ser obtido introduzindo-se novas informações, para identificar exatamente onde estão as discrepâncias entre os objetivos e o desempenho atual, diminuindo-se a força dos valores antigos e inadequados ou demonstrando sua falta de eficácia.
+
+ A introdução das mudanças desejadas no comportamento, mediante a demonstração de situações em que novos valores e atitudes são mais adequados e apresentam melhores resultados. Segundo Lewin, estes valores e atitudes serão aprendidos e internalizados pelo indivíduo, quando são apresentadas  situações em que dele se exige um desempenho eficaz.
+
+ O recongelamento, que visa a consolidar um novo padrão de comportamento, através de mecanismos de reforço e apoiados nos resultados e benefícios obtidos com a mudança efetivada. O reconhecimento da participação das pessoas no processo de implantação é, portanto, fator decisivo para a incorporação do novo padrão de comportamento do indivíduo.
+
+
+0  A insegurança e a ameaça são dois fatores que provocam resistência no indivíduo que não se sente apto a aprender novas tarefas ou que percebe que a mudança pode prejudicar a sua posição, o cargo que ocupa ou benefícios já adquiridos na organização.
+
+
+0  A predisposição natural é um fator comum a todas as pessoas, genericamente, idependente da sua condição de “homem social” ou “homem organizacional”. É considerado normal o comportamento do indivíduo que se opõe, em maior ou menor grau de resistência, à aceitação das “novidades” ou inovações que lhe são propostas, porque toda mudança provoca resistência. Isso ocorre porque o indivíduo terá que deixar uma situação inercial ( confortável ou não, porém conhecida) e encarar uma nova situação a princípio desconhecida e que certamente irá exigir um esforço maior de adaptação.
+
+
+0  A consciência de que existem pontos falhos na proposta de mudança pode ser uma forma de resistência bastante útil para a organização, uma vez que diferentes avaliações da situação representam um tipo de conflito desejável, que deve ser reconhecido e explorado pelos administradores, para tornar mais eficaz o projeto de mudança.
+
+0  A falta de comunicação com os envolvidos no processo favorece um clima de intranqüilidade e incertezas dentro da organização, promovendo o surgimento de informações e interpretações diversas das pretendidas pelos agentes da mudança. Isso permite que os indivíduos levantem barreiras às mudanças, antes mesmo de tomarem conhecimento de seus objetivos.
+
+
+0  Do mesmo modo, a forma como é desenvolvido o processo, sem maiores preocupações com a conscientização e participação dos elementos envolvidos no planejamento e implantação das mudanças necessárias, pode significar prejuízos, atrasos, sabotagens e insatisfação generalizada entre todos os membros da organização.
+
+
+0  Não há dúvida de que o treinamento, participação, envolvimento, orientação, apoio, negociação, comunicação etc. são atividades preparatórias, que certamente irão facilitar o desenvolvimento do processo de mudança e poderão eliminar as eventuais resistências às propostas de mudança, antes mesmo que se tornem aparentes. 
+
+0  O modelo usualmente adotado para representar o processo de DO nas organizações pode ser compreendido em quatro etapas:
+
+    
+                                                          DIAGNÓSTICO
+                  (identificação do problema)
+
+      ?
+     
+             PLANO DE AÇÃO
+       (estratégia de implantação)
+
+      ?
+     
+            INTERVENÇÃO
+       (implantação das mudanças)
+
+      ?
+
+              AVALIAÇÃO E CONTROLE
+
+
+
+0  A premissa básica, subjacente à teoria e ao processo de DO, é a de que o desenvolvimento da organização deve ocorrer na medida em que se dê o desenvolvimento dos indivíduos que dela participam.
+
+
+0  Independente do grau de mudança pretendido, o plano de ação deve obrigatoriamente considerar os seguintes pontos:
+ metas e prazos estabelecidos;
+ técnicas de intervenção que serão utilizadas;
+ grupos-alvo em cada etapa do processo;
+ caracterização do resultado final desejado.
+
+
+0  A estratégia deve considerar a participação de todos os membros da organização, isto é, a definição do grau de envolvimento das pessoas no processo de mudança, sem qualquer vinculação ao seu nível hierárquico, função ou tempo na empresa.
+
+0  A etapa de avaliação no processo de DO é a comparação entre os indicadores de desempenho da organização no momento em que foi desencadeado o processo e a situação observada após as primeiras intervenções realizadas. 
+
+0  Os estágios iniciais na evolução de DO são caracterizados pela introdução na prática corrente da administração de empresas, dos valores pessoais daqueles que conceberam, estruturaram e definiram a abrangência dessa nova teoria. Bennis, Argyris, Schein, os principais articuladores do movimento, enfatizavam os seguintes aspectos para a implantação de uma proposta de desenvolvimento da organização:
+
+0 orientação para o longo prazo na administração da mudança e envolvimento de toda a organização num processo participativo, onde todas as pessoas deveriam ser ouvidas para a resolução dos problemas.
+
+0 ênfase nas ciências do comportamento aplicadas para o êxito do processo, implicando que os coordenadores do projeto tenham competência nas áreas de comunicação e relacionamento interpessoal, resolução de problemas e tomada de decisão, além da capacidade de obter cooperação intergrupal para a efetiva implantação das mudanças.
+
+0 consultor externo para exercer o papel de agente de mudança especializado na análise, diagnóstico e interpretação do comportamento dos indivíduos e dos grupos dentro da organização, além de facilitar para o desenvolvimento do processo.
+0 esforço de mudança dirigido pela alta direção da empresa, visando a demonstrar o compromisso dos líderes da organização com o projeto de mudança e procurando reforçar o necessário envolvimento e apoio de toda a organização com as propostas de mudanças apresentadas.
+
+0 ênfase na pesquisa-ação, compreendem a coleta de informações, o diagnóstico, a elaboração de um plano de ação e a sua implementação, não podem ser desenvolvidas em laboratório e requerem que todo o trabalho seja realizado no próprio sistema em que as mudanças deverão ser introduzidas.
+
+0  As críticas surgidas depois que as propostas de desenvolvimento organizacional se consolidaram numa área de conhecimento não propiciaram argumentos suficientes para evitar que os princípios, a metodologia e as técnicas de diagnóstico e intervenção de DO fossem definitivamente incorporados à teoria e à prática da administração de empresas. Todavia, ainda persistem algumas críticas ao trabalho de DO, as quais se sustentam basicamente na atribuição de uma excessiva ênfase comportamental na análise dos problemas organizacionais, o que pode conduzir a diferentes interpretações dos fatos, em função do viés perceptual do analista ou então, numa situação extrema, podem ser manipulados de acordo com o interesse do dirigente. Mais especificamente, essas críticas focalizam:
+
+0 A imprecisão, visto que a base de DO é apontada por alguns autores como sendo excessivamente heterogênea e pouco precisa, servindo-se de algumas poucas descobertas da teoria do comportamento organizacional.
+
+0 A ênfase no treinamento de habilidades no relacionamento interpessoal, que força o indivíduo a se adaptar ao ambiente da organização, fazendo com que acredite ser feliz num jogo de submissão.
+
+
+0 As aplicações distorcidas, quando o programa de DO é usado por alguns dirigentes como meio de promoção pessoal, sendo a efetiva mudança organizacional um objetivo secundário; esse tipo de comportamento desvirtua a proposta da teoria, dando margem à sua má compreensão e aceitação.
+
+0 A falta de novidade, porque segundo esses autores, o método utilizado no processo de DO se limitou a reformular alguns princípios da escola de Relações Humanas e da Teoria Comportamental.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II - TEORIAS MODERNAS DE GESTÃO
+
+1-) ABORDAGEM CONTINGENCIAL
+
+0  resultado de uma série de pesquisas que estudaram a relação da empresa com  e dentro de seu ambiente. 
+
+0  seu objetivo básico era aplicar os conceitos das principais escolas em situações gerenciais concretas.
+
+0  o nome contingencial é baseado no conceito da incerteza de que algo pode ou não ocorrer ( Qual o método a ser aplicado, para obter os melhores resultados?).
+
+0  a abordagem contingencial mostra uma variedade de opções à disposição do administrador e a este cabe diagnosticar a situação e escolher a abordagem mais indicada a ser aplicada.
+
+0  Características Gerais
+
+0 O papel do ambiente - No que se refere à questão do ambiente, a abordagem contingencial foi além dos pressupostos da teoria dos sistemas, já que desenvolveu uma série de estudos relacionando empresas e ambiente, com novo enfoque.
+
+0 A supremacia do transitório - Derivando suas características de um ambiente em constante mutação, a empresa não pode ser estanque no tempo. Ela tem de reagir prontamente não só aos novos desafios, como às novas possibilidades que se apresentam.
+
+0 O fim do modelo ideal - A melhor forma de gerir uma empresa depende de uma série de variáveis conjunturais, derivadas das pressões que recebe  de seu ambiente.
+
+0 Tecnologia - A tecnologia adotada pela organização apresenta uma relação íntima com sua estrutura social e com tendência ao sucesso empresarial. Os diferentes ambientes técnicos adotados pelas empresas impõem diversos graus de tensão aos funcionários. Ao mesmo tempo em que influencia a forma de administrar, a tecnologia é condicionada aos objetivos da organização, em termos de produção: o que e para quem produzir.
+
+0 Tom Burns - As empresas seguem dois tipos básicos de procedimentos organizacionais, resultando em:
+0 Sistema mecânico - é aquele no qual as especialidades funcionais têm uma classificação rígida, assim como as obrigações, as diversas responsabilidades e o poder. A hierarquia de comando é bem definida, sustentando um fluxo de comunicação que transmite informações de baixo para cima e ordens de cima para baixo.
+0 Sistema orgânico  apresenta maior flexibilidade, sendo as atribuições de obrigações, responsabilidades e poder mais adaptáveis. A comunicação tende a ser um fluxo de mão dupla, transmitindo consultas de cima para baixo e de baixo para cima.
+
+
+0  Lawrence & Lorsch -  compara dez empresas de três diferentes setores industriais, em busca de uma resposta para a seguinte pergunta: “Quais as características que uma empresa deve ter para enfrentar com eficiência as diferentes condições externas, tecnológicas e de mercado?” Os autores concluíram que os problemas básicos dos administradores são a diferenciação e a integração, processos essencialmente antagônicos, que serão determinados de acordo com as exigências de seu respectivo ambiente. Para os autores, na medida em que os sistemas crescem de tamanho, diferenciam-se partes e o funcionamento dessas partes separadas tem de ser integrado para que o sistema inteiro seja viável. Segundo esta pesquisa, as indústrias com elevado desempenho apresentam melhor ajustamento às necessidades do ambiente, que por sua vez definirá o grau requerido de diferenciação nos departamentos e de integração interdepartamental. 
+
+0  Baseados nesses resultados da pesquisa, os autores criaram a teoria da contingência na empresa, que em lugar de propor um único e melhor modo de organizar-se em qualquer condições, propõe que a empresa deve se concentrar na análise sistêmica dos requisitos do ambiente e relacioná-los com as características exigidas da organização. Com isso, os administradores terão maior probabilidade de manter a viabilidade de suas empresas, frente à constante transformação da tecnologia e do mercado.
+
+
+
+
+
+
+
+
+
+2-) ADMINISTRAÇÃO POR OBJETIVOS
+
+0  Após a Segunda Guerra Mundial (1939-1945), as pessoas passaram a ver no consumo sua possibilidade de auto-realização. 
+
+0  A filosofia materialista da época estimulava a produção em massa e o desenvolvimento de novas formas de comunicação. A difusão da televisão acirrava a competição entre os produtos e incentivava a cultura do consumismo.
+
+0  Peter Drucker lançou em 1954 um livro denominado A Prática da Administração de Empresas. O modelo defende, basicamente, que a empresa deve se preocupar menos com os fins e mais com as atividades que são desenvolvidas para atingi-los.
+0  Mudanças ambientais - As mudanças ambientais impõem novos requisitos não só às organizações mas também aos gestores.
+
+0  Definição dos objetivos - A identificação clara dos objetivos estabelecidos para todos os envolvidos no processo é a tarefa prioritária do processo. Uma vez definidos os objetivos, são estabelecidos métodos e distribuídas as responsabilidades para a sua consecução. Para o bom resultado contínuo da empresa, os objetivos devem ser continuamente revistos e reajustados às novas exigências e aspirações organizacionais.
+
+0  Criação de oportunidades - A gestão de uma empresa deve ser uma tarefa criativa e não adaptativa, já que cria as condições econômicas, ao invés de passivamente adaptar-se a elas. 
+
+0  A empresa deve estabelecer objetivos que expressem o que é desejável  atingir, ao invés de simplesmente se acomodar ao que é possível. 
+
+0  O negócio de uma empresa não é definido pelo produtor mas pelo consumidor. A partir disso devem ser estabelecidos objetivos, contornando obstáculos.
+
+0  Desenvolvimento pessoal - A empresa deve ser capaz de produzir mais e melhor do que os recursos que a compõe, sendo maior do que a soma das suas partes. Para transformar recursos em empresa, é preciso ampliá-los. Os únicos passíveis de ampliação são os humanos. Considerar o ser humano passivo, sem responsabilidade ou participação, significa considerá-lo mais um tipo de recurso material.
+
+0  Descentralização administrativa - através da descentralização administrativa, leva a um melhor desempenho, considerando: pontos fortes e fracos da empresa, objetivos de longo prazo, formação de equipes capazes de assumir as tarefas especificadas, criação de formas de controle dos resultados e correta distribuição de responsabilidades.
+
+0  Multiplicidade de objetivos - A maior dificuldade não está no estabelecimento dos objetivos mas na determinação de como serão medidos e avaliados.
+
+0  Autocontrole - Uma das grandes vantagens da administração por objetivos é permitir ao administrador controlar seu próprio desempenho. Os objetivos devem ser a base do controle mas não seu fundamento. O controle é a capacidade de dirigir seu próprio trabalho.
+
+0  Autoridade e Liderança - A gerência deve ser um, entre vários grupos de liderança. Se procurar ser o único, ou mais poderoso dos grupos, será rejeitada, perdendo parte da legitimação de sua autoridade. Complementarmente, favorecerá a emergência de grupos ditatoriais.
+
+0  A gestão por objetivos tem como proposta a reformulação dos princípios gerenciais seguidos pela alta administração, não atribuindo a devida importância ao comprometimento dos demais trabalhadores para o atingimento dos objetivos organizacionais.
+0  A gestão por objetivos não desconsidera a questão do envolvimento dos trabalhadores por negligência ou por julgá-la irrelevante. Mais do que isso, considera-se neutra frente ao problema. Seus defensores afirmam que o modelo produz bons resultados, seja com a atuação participativa dos funcionários, seja quando imposta de forma autocrática.
+
+
+
+3-) ADMINISTRAÇÃO ESTRATÉGICA
+
+0  A estratégia passou a ocupar espaço no mundo empresarial em meados dos anos 60, em resposta à obsolescência dos tradicionais planejamentos a médio e longo prazos e à dificuldade de esses instrumentos se adaptarem a um ambiente turbulento, em constante mutação. A partir da década de 80 o enfoque do planejamento  estratégico ganhou amplitude, profundidade e complexidade dando origem à administração estratégica.
+
+0  A visão estratégica de um negócio pode ser alcançada através de um processo sistemático de análise e síntese, o planejamento empresarial.
+
+0  Denominamos planejamento empresarial ao conjunto das atividades de planejamento que se estendem a todos os níveis da empresa.
+
+0  A evolução mais recente do planejamento empresarial se deu nos anos 80, caracterizando a administração estratégica.
+0  A administração estratégica vai além de um processo sistemático de análise de informações, pois procura capacitar as pessoas a pensar estratégicamente, alcançando uma mudança de comportamento dos decisores.
+
+0  O planejamento estratégico é o processo que ocorre no nível estratégico da estrutura da organização (geralmente a cúpula diretiva ou comitê reunindo a alta gerência) e deverá nortear as atividades de planejamento nos demais níveis hierárquicos. 
+
+0  Conforme William R. Dill, a empresa que pretende implantar a Administração Estratégica deverá sobrepujar três desafios:
+
+1.  Convencer a gerência a pensar em termos estratégicos, fazendo com que não apenas questione o que deve persistir na organização mas também o que deve ser alterado.
+
+2.  Garantir a resposta organizacional, ou seja, desenvolver formas de acompanhamento e controle do estabelecimento e implantação das etapas envolvidas no processo de administração estratégica.
+
+3.  Enfrentar o ambiente. Além dos desafios e oportunidades que a empresa encontra no ambiente, deve também considerar a multiplicidade de agentes que o compõem: consumidores, clientes em geral, políticos, organizações sem fins lucrativos, órgãos representativos do governo etc.
+
+0  Para Ansoff e Hayes, o planejamento estratégico tem eficácia limitada na resolução de problemas iguais. Isso porque, centrando sua análise no ambiente externo, o planejamento estratégico pressupõe que as condições internas da empresa não sofrerão alterações. A Administração Estratégica surge então como uma evolução das idéias iniciais do planejamento empresarial, buscando  considerar a variabilidade de todos os elementos envolvidos no processo: a configuração interna da empresa, as condições ambientais e as relações que se estabelecem entre a empresa e o ambiente, em seus diversos campos (econômico, social, político, cultural etc.).
+
+0  A crítica mais comum à administração estratégica refere-se à dificuldade de prever a melhor estratégia de longo prazo em um ambiente com alto nível de turbulência ambiental. 
+0  O planejamento estratégico surgiu como uma ferramenta para se enfrentar os desafios de um ambiente em turbulência tanto política como social ou econômico e que a administração estratégica não é tão somente um novo método para pensar sobre o problema, mas requer também novas competências e culturas sobre gerenciais capazes de traduzir o pensamento em ação estratégica.
+
+
+4-) ADMINISTRAÇÃO PARTICIPATIVA
+
+0  A democratização das relações sociais, o desenvolvimento de uma consciência de classe trabalhista, a elevação do nível educacional, a complexidade das empresas modernas, a velocidade vertiginosa de mudanças e a intensificação das comunicações são algumas das razões que justificam a adoção de um maior grau de envolvimento dos funcionários na gestão das empresas.
+
+0  Destaque deve ser conferido à turbulência ambiental, onde sobressai o acirramento da concorrência. Para garantir sua expansão ou ao menos sua sobrevivência, as empresas atentas procuram se dinamizar a partir de suas relações internas, descobrindo, incentivando e utilizando as potencialidades de seu corpo de funcionários.
+
+0  O interesse pela administração participativa foi reforçado no mundo ocidental, principalmente a partir do declínio da hegemonia econômica dos Estados Unidos. Tal decadência foi caracterizada pelo crescimento lento da produtividade das suas empresas. 
+
+0  Apesar do desenvolvimento tecnológico norte-americano, seu índice de produtividade não acompanhou o de outros países - Alemanha Ocidental, França, Japão e Itália - durante a década de 70, gerando perda de competitividade dos seus produtos em quase todos os mercados do mundo, inclusive em suas próprias fronteiras.
+
+0  A administração participativa despontou e se consolidou como um dos fatores diferenciadores de produtividade e contribuiu para o extraordinário avanço tecnológico dos produtos fabricados em países orientais.
+
+0  A participação consiste basicamente na criação de oportunidades para que as pessoas influenciem decisões que as afetarão.
+
+0  O propósito da administração participativa é assegurar que decisões efetivas sejam feitas pelas pessoas certas.
+
+0  A administração participativa é uma filosofia ou política de administração de pessoas, que valoriza sua capacidade de tomar decisões, resolver problemas, aprimora a satisfação e a motivação no trabalho.
+
+0  A administração participativa ou a idéia de participação existe desde a Antigüidade e foi inventada pelos gregos, com o nome de democracia; não se trata, portanto, de uma invenção japonesa.
+
+0  Embora a idéia seja antiga, passou a tomar corpo no mundo moderno somente a partir da Segunda Guerra Mundial, assumindo forma concreta e despertando o interesse das organizações.
+
+0  A palavra autogestão é a tradução literal do francês autogestion, podendo ser definida como um método que torna o conjunto do corpo social capaz de exercer sua liberdade, a cada instante.
+
+0  A concepção de que patrões e assalariados devam ser considerados como associados através da participação dos trabalhadores nos lucros é uma delas. Fayol vislumbrou que a participação nos lucros poderia representar o acordo entre o capital e o trabalho.
+
+0  Rousseau, Stuart Mill e Tocqueville são considerados patronos da corrente democrática que postula a participação nas empresas como uma extensão da democracia política da sociedade civil, incorporando valores democráticos no âmbito da empresa.
+
+0  Embora alguns autores vejam na participação dos lucros um pretexto para levar o assalariado a trabalhar com maior intensidade sem aumento correspondente em sua remuneração real e com isso intensificando sua exploração, a idéia permaneceu e passou a constar da pauta de negócios e discussões legais.
+
+
+0  Concepção de participação
+
+0 Visão Socialista - Baseada nas idéias de Fourier, Marx e Proudhon, aspira a construção de uma sociedade participacionista e autogestionária, em todas em todas as esferas nas quais o homem se desenvolve.
+
+0 Teoria Democrática - Tem Rousseau, Stuart Mill e Tocqueville como patronos, postulando a incorporação de valores democráticos no âmbito das empresas.
+
+0 Relações e Desenvolvimento Humanos - Esta perspectiva emerge do ambiente gerencial, ignora o conflito de poder ou de classes e assume que tudo pode ser resolvido através de boas relações, isto é, por meio de autêntica e confiante maneira de relacionar-se.
+
+0 Produtividade e Eficiência - A participação é instrumentalizada como uma tecnologia social à disposição da gerência e destinada a assegurar maior produtividade e eficiência. O foco é deslocado da participação para o conteúdo do trabalho, através de diferentes estratégias, a exemplo de enriquecimento das funções e do cargo. Postula uma maior participação na tarefa.
+
+0  Objetivos genéricos que pretende alcançar com a administração participativa:
+
+0 responsabilidades sociais da empresa;
+0 equilíbrio dos interesses dos vários envolvidos;
+0 cultura democrática;
+0 redução da alienação;
+0 utilização de todo o potencial das pessoas;
+0 diminuição de conflitos através da cooperação; satisfação das pessoas; 
+0 maior competitividade.
+
+0  A participação direta é dirigida à pessoa, considerada individualmente. A participação indireta é destinada aos trabalhadores, considerados coletivamente. A participação indireta é a participação dos diferentes membros da organização nas funções diretivas, através de representantes escolhidos por eles para esse fim.
+0  Segundo Paulo Roberto Motta, existem quatro formas possíveis de participação indireta. Cada uma delas influencia diretamente o processo decisório:
+0 Comitês de empresa - com função basicamente consultiva ou cooperativa, possuem baixo poder de decisão, normalmente relacionados à área de administração de pessoal.
+
+0 Negociações coletivas - buscam estabelecer as condições gerais de emprego e trabalho, através de negociações entre dirigentes e sindicalistas.
+
+0 Co-gestão - institucionaliza a representação dos funcionários na direção efetiva da empresa, em órgãos e proporção variáveis. Visa a estabelecer bases de cooperação e harmonia entre sindicatos e empresas.
+
+0 Autogestão - consiste no exercício coletivo do poder, através da autonomia dos grupos de membros da empresa para decidir acerca dos destinos, processos e resultados do trabalho. Assim, a autogestão gere o produto do exercício da gestão participativa.
+
+0  Para a implementação da administração participativa, existem alguns pontos comuns e nos quais a organização deve investir necessariamente: informação, treinamento e comunicação, onde pretende-se promover as mudanças culturais necessárias, que envolvem uma mudança de atitude e uma mudança de valores.
+
+0  A Autogestão e a Co-gestão no Brasil
+0 No Brasil a autogestão e a co-gestão tornaram-se alternativas contra a falência do empreendimento e contra o desemprego. Ainda recentes no Brasil, esses modelos costumam ser adotados por empresas em situação pré-falimentar, embora haja empresas em situação normal que também estão aderindo à autogestão.
+
+0 Para gerir esse tipo de processo de mudança foi criada em 1992 a ANTEAG - Associação  dos Trabalhadores em Empresas de Autogestão e Participação Acionária. A filosofia implícita na atuação da associação é a de que a autogestão pode representar uma salvaguarda efetiva do emprego. 
+
+
+
+As empresas afiliadas na ANTEAG se classificam como:
+
+0 Empresas de autogestão - Os trabalhadores têm de 51% das ações, com pleno controle da tomada de decisões e da gestão empresarial, planejamento estratégico, política de investimentos e de inovação tecnológica, educação de mão-de-obra etc.
+
+0 Empresas de co-gestão participativa - Os trabalhadores têm entre 20% e 51% das ações, além de um controle concreto na tomada de decisões no chão de fábrica.
+0 Cooperativas de autogestão - Têm no máximo 5% de empregados contratados, sendo os restantes cooperados formais que controlam a cooperativa. 
+
+0  Exemplo da recuperação empresarial através da adoção da administração participativa, podemos citar:
+
+Ricardo Semler - recuperou a empresa de sua família com base na diversificação da produção e através de dez mandamentos para os casos em que a sobrevivência da empresa a longo prazo dependa de atrair e manter pessoas:
+
+I)     Salários e benefícios adequados.
+II)     Respeito pelo indivíduo.
+III)    Produto que seja capaz de gerar orgulho.
+IV)    Sensação de envolvimento e espírito de equipe.
+V)     Espaço para opinar.
+VI)    Preocupação com treinamento e aperfeiçoamento.
+VII)   Seriedade incontestável da empresa.
+VIII)  Relativa segurança no emprego.
+IX)    Profissionalismo, com ausência de favorecidos e protegidos.
+
+0  A administração participativa deve ser continuamente acompanhada e atualizada. Caso contrário, os funcionários cairão nas garras da mesma acomodação que existe em empresas rígidas e desestimulantes. Com o passar do tempo, a repartição dos resultados, por exemplo, corre o risco de ser vista como uma espécie de décimo quarto salário,  uma obrigação a mais da empresa, sem qualquer referência à contrapartida por parte dos funcionários.
+
+0  A resistência à adoção da administração participativa também pode partir dos próprios sindicatos, que por vezes vêem na gestão interesses de manobra da massa trabalhadora, servindo de paliativo às reivindicações dos funcionários. Por outro lado, os acionistas também podem se opor aos pressupostos da administração participativa, em especial à distribuição dos lucros, vendo nela até mesmo a violação de direitos constitucionais de garantia da propriedade privada.
+
+0  A crítica mais contumaz se faz à administração participativa no Brasil diz respeito à estrutura de pagamento dos encargos. A antiga legislação brasileira fazia com que os encargos sociais recaíssem também sobre a parcela do lucro repartido entre os funcionários. Entretanto, a Constituição de 1988 se propôs a eliminar  esse problema, desvinculando participação nos lucros e salários. Além disso, ao prever  a divisão dos lucros em seus estatutos, este  é descaracterizado como salário e não se exige o pagamento dos encargos sociais. A partir de 1994, através da Medida Provisória nº 794 (posteriormente reeditada através de outras medidas provisórias), o governo federal instituiu a obrigatoriedade da divisão de lucros, como ocorre na França e na Suécia. Essa medida parece  ter colaborado para o direcionamento das empresas a uma filosofia de administração participativa, valorizando toda potencialidade de seus funcionários no cumprimento das metas da organização.
+
+
+5-) ADMINISTRAÇÃO JAPONESA
+
+
+Os “Keiretsu”
+
+0  Após a derrota na Segunda Guerra Mundial, encontramos um povo decidido a apagar as lembranças do período anterior e uma nação em busca de prosperidade. Uma nova visão de poder se instala: não mais expansão através do poderio militar, mas através do poder econômico.
+
+0  Apesar dos rigores da intervenção, particularmente nos aspectos econômicos, o  Japão acaba se beneficiando da guerra fria entre EUA e a ex-URSS. A fim de manter um forte aliado no Oriente, algumas exigências da intervenção americana são afrouxadas, permitindo a ascensão dos keiretsu (trustes industriais japoneses, que nos EUA não seriam permitidos pela legislação).
+
+0  Este período pós-guerra caracteriza-se por uma crise generalizada, que cede com a consolidação do que se considera os três pilares da recuperação do país em pouco mais de duas décadas: um partido político forte consolidado no poder, paz trabalhista e unificação do povo. Some-se a isso o compromisso do governo com a educação, além da valorização cultural da instrução; uma alta taxa de poupança interna; a ampla utilização dos serviços de consultoria para o desenvolvimento empresarial; a compra de tecnologia e a manutenção da essência de valores culturais seculares, apesar do processo de ocidentalização do estilo de vida ocorrido a partir do início da restauração.
+
+0  O sistema de produção japonês, tal como é estruturado atualmente, surgiu nos vinte e cinco anos seguintes à Segunda Guerra Mundial, na Toyota Motor Co. Seu maior idealizador foi o engenheiro Taiichi Ohno. Daí decorrem as duas denominações do método: Sistema Toyota de Produção ou Ohnoísmo.
+
+0  São características básicas do Ohnoísmo:
+0 Just-in-Time - sincronização do fluxo de produção, dos fornecedores aos clientes.
+
+0 Kanban - sistema de informação visual, que aciona e controla a produção.
+
+0 Muda - busca da eliminação total de qualquer tipo de desperdício.
+
+0 Kaizen - busca do melhoramento contínuo em todos os aspectos, portanto se refletindo na produtividade e na qualidade, sendo os círculos de controle da qualidade apenas um dos seus aspectos.
+0  Características da administração Japonesa
+0 Administração participativa - A administração japonesa se baseia na forma participativa de gestão, envolvendo os aspectos citados no capítulo anterior: participação dos funcionários no processo decisório, negociação de metas, trabalho em grupo, controle exercido através de liderança, comunicação bilateral, participação nos resultados.
+
+0 Prevalência do Planejamento Estratégico - A falta de planejamento desperdiça mão-de-obra, recursos materiais e tempo, elevando os custos de produção, gerando perdas de mercado e desemprego. Através do estabelecimento de um planejamento estratégico a empresa  ganha flexibilidade, utilizando seus pontos fortes para atender às necessidades de seus clientes e conquistar os clientes da concorrência.
+
+0 Visão Sistêmica - A empresa é um sistema, pressupondo o conhecimento das inter-relações de seus diversos componentes. O trabalhador tem consciência de que  se a empresa alcançar lucros maiores, ele terá benefícios diretos (melhorando seu nível de vida) e indiretos (participando dos resultados).
+
+0 Supremacia do Coletivo - O coletivo prevalece sobre o individual. O ser humano, visto como o bem mais valioso das organizações, deve ser estimulado a direcionar seu trabalho para as metas compartilhadas da empresa, preenchendo suas necessidades humanas e se auto-realizando através do trabalho. Satisfação e responsabilidades também passam a ser valores coletivos.
+
+0 Busca da Qualidade Total - A Qualidade Total é assegurada pelo Controle de Qualidade Total - CQT (Total Quality Control), baseado em um sistema de métodos estatísticos, centralizado no melhoramento do desempenho administrativo. Seus resultados são garantia da qualidade, redução de custos, cumprimento dos programas de entrega, desenvolvimento de novos produtos e administração do fornecedor. A forma mais usual de se por em prática o CQT é através dos Círculos de Controle de Qualidade, grupos pequenos, que executam voluntariamente as atividades de controle de qualidade.
+
+0 Produtividade - O aumento da produtividade é um dos objetivos de qualquer organização. A administração japonesa propõe que, para atingi-lo, seja adotada uma visão cooperativa dos funcionários, incentivando o envolvimento de todos na consecução das metas da empresa. Apesar de calcar sua filosofia nos valores de realização pessoal dos funcionários, a empresa japonesa reconhece que o incentivo monetário é uma poderosa ferramenta na busca do comprometimento de seus membros com os objetivos empresariais.
+
+0 Flexibilidade - Para responder rapidamente às flutuações de mercado, a flexibilidade é refletida em vários aspectos: racionalização dos espaço, equipamentos de utilidade geral e versáteis, lay out celular, nivelamento e seqüenciamento da produção em pequenos lotes, redução de estoques, quadro de trabalhadores qualificados e flexíveis.
+
+0 Recursos Humanos - A ênfase é no trabalho em grupo, na cooperação, no aproveitamento da potencialidade humana. Nas grandes empresas existe estabilidade no emprego, distribuição de bônus e outros benefícios. A ascensão na carreira é lenta. O treinamento é intenso e a estrutura de cargos é estremamente vaga.
+
+0 Tecnologia e Padronização - Busca-se a harmonia entre o homem, a máquina e o processo. O trabalho padronizado é tido como fundamental para garantir um fluxo contínuo de produção. Primeiro ocorre a racionalização do processo; depois, se conveniente, a automação.
+
+0 Manutenção - Os operadores são responsáveis pela manutenção básica, dispondo de enorme autonomia para interromper um processo errado. A manutenção preventiva também é privilegiada.
+
+0 Limpeza e Arrumação - São responsabilidades de todos, visando a manutenção do ambiente e a facilitação da administração dos recursos.
+
+0 Relação com Fornecedores e Distribuidores - A subcontratação externa, prática antiga no Japão, mantém-se e é reforçada pela formação dos Keiretsu. Com o desenvolvimento no pós-guerra, ela evolui para uma relação de apoio técnico e financeiro, cooperação e confiança.
+
+0 Cultura Organizacional - Procura-se estabelecer um clima de confiança e responsabilidade, baseado no respeito à hierarquia, na participação das pessoas no envolvimento da tarefa, nas decisões consensuais e na harmonia das relações.
+
+
+0  O sistema de produção japonês não é um sistema perfeito, como alguns de seus defensores querem fazer crer. Dois pontos frágeis são bastante visíveis: depende da cooperação irrestrita das pessoas e é um sistema praticamente sem folgas. Sendo assim, qualquer erro gera graves repercussões em todo o processo. Ele depende basicamente das pessoas, da sua competência, exigindo portanto qualificação, treinamento e reciclagem constantes.
+
+
+0  A busca de consenso e o emprego vitalício, por exemplo, podem favorecer a burocracia e a morosidade no processo decisório. A estabilidade no emprego implica no rigoroso planejamento das necessidades de pessoal, seu plano de carreira e critérios de avaliação, mas depende principalmente da relativa estabilidade do faturamento da empresa, que é cada vez mais influenciado pelas tendências e preferências de um mercado globalizado.
+
+0  O crescimento excessivo do números de produtos, a diminuição do seu ciclo de vida, o desenvolvimento de um consumismo ambientalmente irresponsável e a concorrência predatória também podem ser ressaltados como pontos vulneráveis do modelo.
+
+0  William E. Deming - Pioneiro no estudo da administração japonesa, e teve ativa participação na reconstrução do Japão, no início do pós-guerra. 
+
+0  Preconizando um melhor desempenho de processos e um aprimoramento contínuo da qualidade dos produtos, Deming relacionou quatorze passos para que a organização logre êxito. São elas:
+
+1.  Aprimorar continuamente o produto e o serviço, desenvolvendo planos e métodos para problemas presentes e futuros.
+2.  Adotar a qualidade como filosofia.
+3.  Acabar com a independência da inspeção em massa. 
+4.  Não negociar apenas com base no preço.
+5.  Melhorar constantemente o sistema de produção e serviço.
+6.  Instituir treinamento e retreinamento.
+7.  Instituir a liderança.
+8.  Afastar o medo.
+9.  Eliminar as barreiras entre as áreas de apoio, promovendo uma integração horizontal entre os departamentos.
+10.  Eliminar slogans e metas que provoquem frustrações e ressentimentos. 
+11.  Substituir cotas numéricas por definição de qualidade.
+12.  Remover as barreiras ao orgulho da execução.
+13.  Instituir um sólido programa de educação e retreinamento.
+14.  Agir no sentido de concretizar as transformações.
+
+
+0  Alvin Tofler afirma que a decadência do poder norte-americano é resultado da diluição das informações. Como contra-partida, o Japão consegue cada vez mais poder, através da informação, do conhecimento e da tecnologia. Tofler faz uma analogia com um ritual japonês, segundo o qual as realizações são conseguidas através de uma espada, de uma jóia e de um espelho. 
+
+0  Na tríade ? espada (arma), jóia (dinheiro) e espelho (mente), mente e dinheiro são símbolos do poder empresarial japonês: “uma arma pode lhe conseguir dinheiro ou pode arrancar  uma informação secreta dos lábios de uma vítima; o dinheiro pode lhe comprar informações ou uma arma; porém a informação pode ser usada para aumentar o dinheiro de que você dispõe ou para multiplicar a força sob seu comando”. Do conhecimento, portanto advêm a força e a riqueza japonesas.
+
+
+
+6-) “BENCHMARKING”
+
+0  Alguns autores defendem que a origem do benchmarking está no princípio japonês do dantotsu, processo de busca e superação dos pontos fortes dos concorrentes.
+
+0  Sua primeira aplicação enquanto técnica, ocorreu na Xerox Corporation, nos Estados Unidos, em 1979.
+
+0  O benchmarking defende o preceito de que ninguém é melhor em tudo. Sendo assim, detectar e copiar o que cada empresa tem de melhor significa economizar tempo, dinheiro e trabalho. 
+
+0  Na medida em que as empresas copiam umas das outras e aprimoram o que foi copiado, passam a ser melhores do que as originais. A partir de então são cada vez mais copiadas e superadas, em um processo cumulativo. 
+
+0  O benchmarking possui um diferencial frente ao planejamento estratégico, por procurar, além de suas próprias operações ou indústrias, fatores-chave que influenciem produtividade e resultados. Para tanto, deve:
+0 Avaliar os pontos fortes e fracos de cada uma de suas atividades.
+0 Perceber quais são os líderes nas mais diferentes atividades.
+0 Adotar os pontos fortes dos líderes, não simplesmente copiando-os mas entendendo porque são pontos fortes e então superá-los.
+
+0  Algumas críticas são apontadas pelos próprios defensores do benchmarking, como o fato de que a cópia de práticas concorrenciais pode encobrir pontos que não são dignos de emulação.
+
+0  O benchmarking competitivo pode ajudar a empresa a alcançar o desempenho dos concorrentes, sem que revele práticas para superá-las.
+
+0  Nem todas as empresas do mesmo segmento se acham dispostas a abrir voluntariamente suas portas para que seus concorrentes possam examiná-las.
+
+
+
+III - ESTRATÉGIAS EMERGENTES DE GESTÃO
+ 
+1-) ADMINISTRAÇÃO EMPREENDEDORA
+
+0  O termo entrepreneur foi cunhado por volta de 1800 pelo economista francês Jean-Baptiste Say, para identificar o indivíduo que transfere recursos econômicos de um setor de produtividade mais baixa para um setor de produtividade mais elevada e de maior rendimento (empreendedor perturba e desorganiza. 
+
+0  Para Schumpeter a tarefa do empreendedor é a destruição criativa. Ele postulava que o desequilíbrio dinâmico provocado pelo empreendedor inovador, em vez de equilíbrio e otimização, é a norma de uma economia sadia e a realidade central para a teoria econômica e a prática econômica.
+
+0  Segundo Drucker, o empreendedor sempre está buscando a mudança, reage a ela e a explora como sendo uma oportunidade. Ele cria algo novo, algo diferente, ele muda ou transforma valores, não restringindo o seu empreendimento a instituições exclusivamente econômicas. Ele é capaz de conviver com os riscos e incertezas envolvidos nas decisões. Ele inova. Contudo, seu espírito empreendedor não é uma característica de personalidade. Qualquer indivíduo que tenha à frente uma decisão a tomar pode aprender  e se comportar de forma empreendedora.
+
+0  A inovação é o ato que contempla os recursos com a nova capacidade de criar riqueza, de fato podendo até criar um recurso na medida em que dote de valor econômico alguma coisa da natureza, não utilizada anteriormente para esse fim. A inovação não precisa ser técnica, não precisa ser uma coisa, não se restringe a uma invenção. Pode ser social também. Essencialmente ela consiste na concretização de idéias.
+
+0  A inovação atribui ao empreendedor a habilidade de edificar negócios que geram empregos e a habilidade de manter naturalmente a inovação sistemática no seu negócio diferenciando-o e mantendo-o competitivo no mercado.
+
+0  O espírito empreendedor seria então o grande responsável pela criação e prosperidade de negócios de sucesso.
+
+0  Empreendedores não nascem feitos, não são fabricados e nem são pequenos gênios. Eles acontecem em função das circunstâncias. Seu objetivo final não é tornar-se milionário, as realizações são suas metas. 
+
+0  Empreendedores não possuem um caráter indefinido, não estão prontos a passar por cima da lei, nem estão à espreita de um trouxa para tirar vantagem. Sua análise de risco é relativa; eles consideram mais arriscado deixar seu futuro nas mãos de outras pessoas. Ser empreendedor não significa abrir um negócio mas se tornar competitivo.
+
+0  Adotar doutrinas é sempre uma atitude que tende a amarrar o funcionamento das empresas. Mas existem alguns princípios básicos, que contribuem para estimular a criação ou a manutenção de um espírito inovador.
+
+0 Programar a inovação sem que haja necessidade premente é certeza de fracasso.
+
+0 Alguém deve ser pessoalmente responsável, embora todos devam sentir o calor ardente da necessidade.
+
+0 São fundamentais o sentimento de urgência e a criação de crises. O truque, na verdade, é administrar a crise em pequenas doses, regulares, criando pequenos tremores e não terremotos gigantescos.
+
+0 É de bom senso adotar um método e experimentá-lo. No caso de falha, admitir francamente e experimentar outro. A única maneira de inovar é entar algo, sempre.
+
+
+0 Inovação sem ação pode render um prêmio Nobel, mas não renderá clientes. Por isso, estimular a inovação não é suficiente; é preciso liberdade para agir. Os empreendedores movem-se com agilidade porque não têm de pedir permissão movem-se com agilidade porque não têm de pedir permissão para seis níveis para poder agir.
+
+0 O gênio criativo do trabalhador comum deve ser libertado, ninguém conhece a empresa melhor do que ele.
+
+0 Focalize a inovação naquilo que pode mantê-lo competitivo. A única forma de assegurar que nada dê errado é focalizando a inovação nos produtos e nas relações com os clientes. Coloque-se em mangas de camisa e saia a campo. Inovações nos processos internos não podem perder de vista os resultados a serem obtidos em ambos os focos: produtos e cliente.
+
+0 Só quem manda pode livrar a empresa da burocracia. Não é a parte mais fácil do trabalho, mas os resultados são brilhantes. A companhia não explode; pelo contrário, as coisas ficam mais fáceis.
+
+0  Intrapreneuring é um método para aplicar o espírito empreendedor, onde muitas das melhores pessoas estão nas grandes organizações. Nestas empresas não há falta de boas idéias, mas dificuldade de implementá-las, resultando num estado de estagnação generalizado. Esse quadro resulta na falta de inovações e perda de competitividade em relação, principalmente, a concorrentes mais ágeis, que ou são pequenos, ou estão organizados como pequenos.
+
+0  Conforme Gifford Pinchot III , os dez mandamentos do intrapreneur são:
+
+1.  Vá para o trabalho a cada dia disposto a ser demitido.
+2.  Evite quaisquer ordens que visem interromper seu sonho.
+3.  Execute qualquer tarefa necessária a fazer seu projeto funcionar, a despeito de sua descrição de cargo.
+4.  Encontre pessoas para ajudá-lo.
+5.  Siga sua intuição a respeito das pessoas que escolher e trabalhe somente com as melhores.
+6.  Trabalhe de forma clandestina o máximo que puder; a publicidade aciona o mecanismo de imunidade da corporação.
+7.  Nunca aposte numa corrida, a menos que esteja correndo nela.
+8.  Lembre-se de que é mais fácil pedir perdão do que pedir permissão.
+9.  Seja leal às suas metas, mas realista quanto às maneiras de atingi-las.
+10.  Honre seus patrocinadores.
+
+
+
+
+
+
+
+
+2-) O FIM DO EMPREGO
+
+0  O desemprego não é um fenômeno novo na história da civilização. No início do século Taylor foi acusado de provocar desemprego com seus princípios de administração científica. Durante a revolução industrial massas de trabalhadores do campo foram deslocados e posteriormente absorvidos pelas indústrias nascentes. A quebra da bolsa de Nova York, em 1929, repercutiu na maioria dos países industrializados, causando depressão econômica e níveis de desemprego alarmantes. 
+
+
+0  Os níveis de emprego são um fato econômico considerado normalmente no planejamento institucional.
+
+
+0  A preocupação com a falta de trabalho remunerado está sendo amplamente discutida, da mesma forma que em períodos anteriores à crise. Por isso, se de um lado o tema não pode ser ignorado, pois impactará em todos os cidadãos da aldeia global, por outro lado deve ser tratado com realismo, já que se trata de um problema inserido num amplo contexto e condicionado a muitas variáveis.
+
+
+0  As filas de desempregados e subempregados crescem diariamente na América do Norte, na Europa e no Japão. Mesmo as nações em desenvolvimento estão enfrentando o desemprego tecnológico, na medida em que as empresas multinacionais constroem instalações de produção com tecnologia de ponta em todo o mundo, acarretando a substituição de milhões de trabalhadores de baixa remuneração, sem qualificação ou semiqualificados, tanto administrativos quanto operacionais.
+
+
+0  Vários fenômenos econômicos relacionados são resultados do equilíbrio dinâmico instável de cinco grandes forças da economia mundial atual: 
+0 O fim do comunismo; 
+0 Um deslocamento tecnológico no sentido das indústrias de alto conteúdo de massa cinzenta;
+0 Um crescimento demográfico sem paralelo na história;
+0 Uma economia globalizada; e 
+0 Uma era sem potências econômicas, políticas e militares dominantes. 
+
+0  O desemprego tecnológico é um dos problemas que emergem do choque dessas forças. Junte-se a ele o enfraquecimento das vantagens comparativas clássicas - Mão-de-Obra, Terra e Capital - com a emergência do setor do conhecimento que não reconhece fronteiras. Acrescente-se à globalização econômica e financeira, apesar da formação dos blocos econômicos de desenvolvimento, sem que os governos possam estabelecer controles efetivos. E junte-se o envelhecimento da população, que compromete os sistemas de seguridade social. Enfim, a precária integração política internacional.
+
+0  A guerra fria acabou, mas o confronto apenas deixou de ser militar para se tornar econômico.
+
+0  O desemprego deve ser compreendido como uma das conseqüências do desenvolvimento tecnológico, que permeia direta ou indiretamente a maior parte dos problemas emergentes.
+
+0  O desenvolvimento tecnológico não pode ser detido, pois trata-se da própria capacidade de criação do intelecto humano. Em que pesem todos os seus desdobramentos nefastos, o desenvolvimento tecnológico também trouxe riqueza para as nações que nele investiram. Por isso ele não deve ser detido, mas direcionado para o bem estar de toda a humanidade.
+
+0  As empresas, individualmente, estão fazendo o que consideram necessário para sobreviver no mercado, mas a sua ação coletiva está criando um impacto mais amplo, que poderá significar uma ameaça política ao capitalismo liberal.
+
+0  Os trabalhadores ficam inseguros e sensíveis a políticos nacionalistas, que prometem proteger e preservar seus empregos. 
+
+0  O desafio para este século será criar o capitalismo sustentável, um sistema que, embora baseado em princípios de mercado encorajadores da competição, leva em consideração o respeito pelo meio ambiente e deverá evitar que se crie uma situação na qual apenas uma pequena elite altamente educada tenha bons empregos e todos os demais vivam inseguros em relação ao trabalho.
+
+0  Ainda que seja impactante, não causa surpresa que o principal executivo de uma empresa anuncie a demissão de centenas de pessoas. Trata-se de uma questão de sobrevivência: ou a empresa se mantém competitiva, ou não poderá servir aos interesses de seus empregados e da sociedade. 
+
+
+
+0  Também não significa que o desemprego seja um problema a ser enfrentado unicamente pelos governantes. Ele envolve todas as pessoas enquanto cidadãos, pois além da discussão do trabalho em si, vários outros aspectos relacionados ao convívio em sociedade estão em jogo, como por exemplo os níveis de violência e criminalidade, em correlação direta com o desemprego.
+
+0  Não obstante as divergências entre os economistas, parece que todos concordam com um pressuposto básico da teoria econômica: sem renda não há demanda. É partindo desse pressuposto que novas propostas estão sendo formuladas.
+
+0  Uma proposta para minimizar o desemprego foi formulada por Jeremy Rifkin, considerando basicamente uma combinação entre redução da jornada de trabalho e investimento no terceiro setor, o social. Esta proposta assume implicitamente que a manutenção do trabalho remunerado é essencial para sustentar a demanda.
+
+0  Como os seres humanos não são capazes de produzir todos os bens e serviços que desejam para satisfazer suas necessidades, uma parte das atividades por eles desempenhadas deverá se classificar como trabalho remunerado. Ainda sob um ponto de vista psicossocial, Rifkin pressupõe a necessidade intrínseca de os seres humanos se manterem ativos.
+
+0  Segundo Rifkin, a redução da jornada de trabalho seria uma forma de participação no aumento generalizado de produtividade, resultante da revolução da informação. Por outro lado, representaria um investimento direto e significativo na promoção da qualidade de vida das pessoas, uma vez que, o autor aponta uma tendência de as pessoas não estarem mais dispostas a fazer sacrifícios pelo trabalho remunerado, preferindo dedicar mais tempo às suas vidas pessoais.
+
+0  A redução da jornada de trabalho exigiria medidas institucionais, não necessariamente restritas às fronteiras nacionais, para o desenvolvimento de um sistema de tarifas internacionais que promovesse avanços mundiais nos padrões de trabalho.
+
+0  O segundo aspecto na formulação de Rifkin se refere à reformulação do contrato social. Anteriormente media-se o valor humano quase exclusivamente em termos comerciais. Com a reformulação dos padrões de referência, o valor humano passa a ser medido pelas relações comunitárias, nas quais doar o próprio tempo a outros toma o lugar de relações de mercado. 
+
+
+
+
+0  Esse setor independente seria a força aglutinante de uma economia social, atendendo aos vários interesses do povo, às necessidades e aspirações de milhões de pessoas que de alguma forma foram excluídas ou não foram adequadamente atendidas pela esfera comercial.
+
+0  De certa forma, toda a proposta de Rifkin repousa na necessidade de definição de um novo papel para o governo, o poder instituído. Com o recuo do governo de seu papel tradicional de provedor de última instância, apenas um esforço organizado encabeçado pelo terceiro setor e adequadamente apoiado pelo setor público será capaz de prestar os serviços sociais básicos - alimentação, meio ambiente - e começar o processo de revitalização da economia social e da vida cívica de cada país.
+
+0  Não faz sentido discutir desemprego considerando-se as organizações de forma individual. Embora o desemprego global deve ser enfrentado, ao nível de um negócio o trabalho continua existindo. O que muda são suas características intrínsecas.
+
+0  Conforme Drucker, devemos nos tornar uma sociedade de organizações baseadas nas informações em tempo real e no conhecimento. Com a complexidade e sofisticação crescentes das operações, estes dois elementos conduzirão aos requisitos básicos que deverão caracterizar o trabalho nas organizações: responsabilidade e confiança mútuas. O que não significa, entretanto, diminuição do controle. 
+
+0  Segundo Ivan Martins, o trabalho tende a tornar-se mais rigoroso, pois na verdade caminhamos para o controle on line, internamente à organização através de redes corporativas, as intranets, que já começam a se desenvolver nas corporações e que bem poderão incluir a rede de clientes e fornecedores.
+
+0  Embora as pessoas sejam proprietárias do principal fator de produção, o conhecimento, elas continuarão dependendo do acesso às organizações para sobreviver e fazer sua contribuição. 
+ 
+0  Na verdade responsabilidade e confiança mútuas não são privilégio da era da informação; sua exigência passa apenas a ser enfatizada. O que está realmente se transformando são as condições em que o trabalho é oferecido. 
+
+0  O novo enfoque é: o trabalho que precisa ser feito. As pessoas não deverão ser contratadas para um determinado cargo ou função, elas serão contratadas para desempenhar determinado trabalho condicionado a determinados resultados. Terminado o trabalho, apresentados os resultados e não havendo momentaneamente outra tarefa a ser executada, fim do contrato.
+
+0  Ao nível das operações de um negócio, pessoas continuarão sendo necessárias, embora cada vez em menor número devido à automação. Essa é uma forma de tornar-se mais ágil e flexível, reforçando o fim do emprego caracterizado por cargos e funções distribuídos nas estruturas funcionais.
+
+
+0  Isso posto, ficam aparentes três desafios a serem enfrentados.
+
+0 O primeiro desafio se refere à existência ou não de oportunidades de trabalho suficientes para manter os níveis de emprego padrões dignamente aceitáveis. Entretanto, isto é praticamente impossível dadas as atuais tendências. É por isso que se propõe como alternativa para este desafio  investimento no terceiro setor, o setor social.
+
+
+0 O segundo desafio está relacionado às pessoas que estão formalmente empregadas e que tendem a constituir duas classes de trabalhadores: os trabalhadores do conhecimento e os trabalhadores  de serviços, pois subentende-se a automação dos processos industriais. Drucker defende a necessidade de se buscar o aumento da produtividade dos trabalhadores de serviços para evitar o perigo de um conflito de classes entre os dois grupos, devido ao reflexo das diferenças de produtividade na remuneração e nos benefícios recebidos pelo trabalhador. A este conflito esperamos que não se acrescente uma terceira classe, a dos desempregados.     
+
+0 O terceiro desafio encontra-se ao nível das organizações: como estabelecer um elevado nível de colaboração com pessoas que serão just-in-time(?)
+
+
+0  Para as organizações tudo indica que a alternativa repousa sobre um valor básico da cultura das empresas modernas, desde a ascensão do modelo participativo de gestão à transparência nas relações do trabalho. A empresa não pode oferecer mais do que está ao seu alcance. Todos devem se sentir como clientes e fornecedores, na medida em que existe trabalho a ser realizado.
+
+0  Tanto as empresas devem atrair as pessoas, quanto as pessoas devem ser atraentes para as empresas e é para responder a esse tipo de necessidade que define-se o conceito de “empregabilidade”.
+
+0  Do lado da organização, o sistema deve permitir a aprendizagem contínua, criando oportunidades para o crescimento pessoal dos seus colaboradores. Do lado das pessoas, deve haver a consciência da necessidade de desenvolver algumas características que as tornarão atraentes para uma organização, transformando a própria pessoa em um negócio.
+
+0  Segundo Bridges, todos são trabalhadores contingenciais. Eles precisam se considerar pessoas cujo valor deve ser demonstrado em cada situação. As pessoas têm de administrar suas próprias carreiras, sentindo-se no seu próprio negócio, vendendo seu conhecimento e suas habilidades. As pessoas devem agir como se estivessem no seu próprio negócio e manter um plano de autodesenvolvimento, inclusive assumindo a responsabilidade de investir em seguro-saúde, aposentadoria, treinamento etc.
+
+
+0  Na realidade do mundo anterior ao século XIX, as pessoas não tinham empregos no sentido fixo e unitário; elas faziam serviços na forma de uma corrente constantemente mutante de tarefas. No mundo pré-industrial, os empregos eram essencialmente atividades, não cargos. A primeira grande mudança dos empregos ocorreu gradualmente com a revolução industrial. No mundo de hoje vivemos a segunda grande mudança dos empregos. A estruturação das organizações em cargos está ruindo. Ela não se sustenta no mercado globalizado, pois dificulta a agilidade de resposta no mercado e não mais se justifica diante da tecnologia da informação disponível. Conforme Bridges, os empregados devem transformar-se em pessoas de negócios, rompendo com a mentalidade de emprego criada pela revolução industrial.
+
+
+0  Drucker aponta cinco dimensões, no mínimo, consideradas na análise da relação entre o indivíduo e o trabalho: fisiologia, psicologia, comunidade, economia e poder.
+
+
+0  A dimensão fisiológica está relacionada às condições de conforto para a realização do trabalho.
+
+
+0  Na dimensão psicológica o trabalho é uma extensão de personalidade , é realização, é uma das maneiras pelas quais uma pessoa conceitua-se a si mesma e mede seu valor.
+
+
+
+
+0  Na dimensão comunitária o trabalho torna-se o principal acesso à sociedade e à comunidade, representa o determinante do status da pessoa, é o meio de satisfazer a necessidade do homem de pertencer a um grupo e manter um relacionamento significativo com os outros.
+
+
+0  Na dimensão econômica o trabalho é um meio de vida a partir do momento em que a sociedade adota mesmo a mais rudimentar divisão de trabalho. As pessoas, deixando de ser auto-suficientes e passando a trocar os frutos de seu trabalho, criam um vínculo econômico e produzem o capital para a economia.
+
+0  A dimensão do poder do trabalho está relacionada ao fato de que num grupo é pouco relevante o que a pessoa gostaria de fazer, diante do que precisa ser feito. A autoridade surge como uma  dimensão essencial do trabalho. Ela precisa ser exercida por algo, ou alguém.
+
+0  Na dimensão econômica é o trabalho trocado por uma receita que caracteriza a demanda e gera o capital para a manutenção da oferta. 
+
+0  Uma organização individualmente considerada se utiliza do trabalho de seus funcionários como um recurso seu; porém, todos os outros recursos utilizados para produzir bens ou serviços também são resultados de trabalho. Assim, todos os recursos utilizados por uma organização podem ser entendidos com trabalho, já que de alguma forma qualquer recurso é trabalho de alguém. 
+
+0  A organização vende seu produto por um valor maior do que a soma dos custos dos diversos trabalhos envolvidos gerando um lucro que é o resultado da soma das energias individuais despendidas na execução do trabalho e não contabilizadas pelos métodos tradicionais. Ou seja, economicamente, é o trabalho que suporta a lei básica de mercado, a lei da oferta e da procura. 
+
+0  Sem trabalho não há receita, sem receita não há demanda, sem demanda não há lucro,  sem lucro não há capital, sem capital não há oferta.
+
+0  Das ciências básicas sabe-se que trabalho é essencialmente uma forma de energia e que metabolismo é a atividade interna integrada de todo o ser. Adaptando estes conceitos para os seres vivos, sem ferir as leis da natureza, podemos dizer que trabalho é a energia despendida na execução de qualquer atividade, de forma a manter o metabolismo do ser em funcionamento.
+
+0  Sem trabalho não há atividade, sem atividade não há metabolismo. Sem metabolismo não há ser vivo. E quanto mais complexo for o ser, mais complexo será seu metabolismo, mais complexas as atividades para manter a integridade do ser. 
+
+0  Conforme Drucker, que é consistente a análise das atividades dos complexos seres humanos através de várias dimensões. Apesar de dimensões distintas que apresentam diferentes exigências e podem ser analisadas independentemente, elas precisam ser administradas juntas, pois de sua harmonia dependerá a integridade do metabolismo do ser. 
+
+0  As necessidade e os ritmos do metabolismo humano, em todas as suas dimensões, não funcionam just-in-time, de acordo com o mercado. Mesmo na dimensão puramente econômica, o mercado é uma criação do homem para atender suas próprias necessidade, da mesma forma que a tecnologia - e não o contrário.          
+
+0  A criação de um terceiro setor poderia significar investimento de vulto em atividades tratadas de forma relativamente marginal pelos setores de bens e serviços, muito além de atividades de caridade e assistência social. De certa forma, após uma análise isenta, podemos concluir que este setor já existe. O que falta é o investimento para explorar suas oportunidades; falta o eficaz direcionamento governamental; falta a globalização da solidariedade, visto que a economia, os problemas transacionais, o mercado financeiro e as informações já estão globalizadas.   
+
+
+0  Um outro aspecto que não pode ser ignorado quando se trata do tema trabalho é a taxa de natalidade. Com simplicidade a dúvida pode ser expressa na seguinte pergunta: falta trabalho ou está sobrando gente? Talvez a perspectiva da superpopulação seja um mito, se considerarmos a vastidão de terras do planeta. Mas, de qualquer maneira, quando enfocamos a economia global permanece a dúvida.
+
+0  Trabalho, desenvolvimento sustentável e taxas de natalidade, entre outros, são assuntos intrinsecamente relacionados, que devem ser tratados dentro de seu contexto. Esse contexto não se restringe mais à fronteiras nacionais. Não adianta implantar medidas eficazes num país e ignorar a miséria em outro, comprometendo o meio ambiente compartilhado. O isolamento das fronteiras de um país ou de um bloco econômico pode deter correntes migratórias regionais, mas não detém a deterioração e as catástrofes ambientais globais que podem ser provocados pela miséria decorrente da falta de trabalho.       
+
+0  Não basta o investimento num amplo terceiro setor, se o crescimento populacional superar a taxa de geração de oportunidades para proporcionar uma vida digna ao indivíduo. A marginalização e a pobreza decorrente acontecerão da mesma forma. A pobreza pode ser gerada pela falta de trabalho ou pela sobra de gente em relação às oportunidades de trabalho que o mercado comporta. 
+
+0  Não obstante a dificuldade do estabelecimento da relação de dependência entre estas variáveis, pobreza e crescimento populacional são classificados como indicadores de insustentabilidade, juntamente com poluição intermitente, ameaças à biodiversidade, escasseamento nas fontes de recursos e deterioração persistente. Todos esses fatores poderiam resultar em declínio econômico, ruptura política, desintegração social e deterioração ambiental. Eles devem ser considerados de forma relacionada e entendidos numa amplitude global, merecendo um tratamento adequado num foro internacional com poder efetivo de decisão e ação, muito além de medidas isoladas nas fronteiras nacionais. 
+
+0  A discussão de alternativas para minimizar o grau de desemprego crescente deve ocorrer em todos os níveis de organização da sociedade, haja vista que os impactos relacionados se farão sentir no destino de todos os indivíduos, sem qualquer distinção. 
+
+0  A tentativa de buscar soluções para o problema, de modo que não exista preocupação com o fantasma do desemprego, pelo menos na próxima década, não encontrada tão-somente na geração de empregos através da expansão industrial e do desenvolvimento econômico de um país ou região.
+
+
+0  Aquilo que os economistas denominam de desemprego estrutural é um fenômeno macroeconômico, provocado pelo avanço tecnológico da era da informação cujo processo de inovação não estabelece ou aceita limites que venham a ser impostos.
+
+
+0  Nas empresas o trabalho continua existindo e dependendo de quem o saiba fazer. Mudam porém as características do relacionamento entre empregado e empregador. A tendência é não mais existir um cargo ou função, mas sim a contratação para executar uma tarefa condicionada a determinados resultados.
+
+
+0  Embora não faça sentido discutir o desemprego em nível das empresas individualmente consideradas, visto que elas estão fazendo o que é necessário para sua sobrevivência e mesmo o trabalho em si continua existindo.
+
+
+0  Espera-se que as organizações participem ativamente da discussão do problema de desemprego em todos os níveis institucionais, inclusive se fazendo representar num foro internacional de discussão. Afinal, é das organizações que fluirão os investimentos para alavancagem do setor social. 
+
+  
+0  De fato, o futuro é das organizações, o que também significa assumir a responsabilidade de construir o futuro e não apenas explorá-lo.
+
+
+
+3-) GESTÃO EMPRESARIAL: A GESTÃO DA MUDANÇA
+
+0  Com o passar dos anos, várias teorias e modelos de gestão foram idealizadas, transformando o dia-a-dia das empresas e, conseqüentemente, das pessoas. Independente do grau de transformações envolvidas, na forma de administrar, dos elementos são constantes nesses modelos e teorias.
+
+
+0  O primeiro deles é a contextualização. Desde os primórdios da civilização humana, qualquer empreendimento espelha o grau de desenvolvimento e os anseios da sociedade em que se insere: suas limitações tecnológicas, o nível de abertura cultural de seu povo, o grau de ingerência do Estado na vida econômica, a autoridade e austeridade de seus políticos, sua riqueza e a qualificação de seus recursos. Todas essas esferas interagem em um dinamismo que nas últimas décadas vem se acelerando a taxas vertiginosas.
+
+
+0  Um modelo de administração não pode ser analisado de forma estanque, desvinculado de seu contexto. Rever propostas antigas obriga o espectador a colocar os óculos da história, a exemplo do que hoje fazemos ao estudar as teorias do início do século.
+
+
+0  O segundo fator que está sempre presente no surgimento de teorias e modelos de gestão é a necessidade de mudanças. Seja utilizando elementos tecnológicos para revolucionar a sociedade da época, seja respondendo às transformações impostas por essa sociedade, a comunidade empresarial é foco e alvo de mudanças. 
+
+
+0  A única coisa que diferencia nossa época das anteriores é a velocidade das mudanças que se tornam cada vez maiores.
+
+
+0  Diante das pressões provocadas por mudanças, as empresas podem reagir de forma construtiva, norteando suas ações pelos princípios de flexibilidade e desprendimento na análise de situações, ou então resistir às mudanças que é uma característica das empresas onde a rigidez permeia as ações; forçar a evolução do ambiente. 
+
+0  Na verdade, nem tão flexível nem tão rígido, o importante é a visão clara e lúcida no direcionamento e acompanhamento do processo de mudança, visto que até a resistência ao novo é parte integrante do espírito questionador e tem o papel importante desfavorecer a preservação de um paradigma até que se comprove que outro é mais adequado e melhor fundamentado. 
+
+
+0  Na situação ideal, a resistência deixa de existir nesse momento. Na prática isso nem sempre acontece. Para resolver essa situação, o primeiro passo é encontrar meios de motivar uma mudança radical na atitude das pessoas. Convencê-las a encarar a mudança como um desafio, incentivá-las a considerar um desafio pessoal e superar o que antes parecia inatingível e mostrar-lhes os seus benefícios.
+
+
+0  A mudança por si não é o aspecto principal da questão. Da mesma forma que um ambiente flexível não é garantia de sucesso absoluto na evolução de uma empresa, não se pode afirmar que uma crise possa gerar oportunidades fantásticas de crescimento. 
+
+
+0  Apesar da flexibilidade, uma empresa poderá não contar com recursos suficientes para enfrentar mudanças de certa amplitude. 
+
+
+0  Já uma empresa em crise, sendo proprietária de vastos recursos, ou pelo menos de recursos suficientes, poderá encontrar soluções para superar o caos. Geralmente, o primeiro passo nesse caso será uma mudança radical da atitude de pessoas, que passam a encarar a crise como um desafio e movendo-se pela mais pura motivação pessoal, são capazes de exceder seus próprios limites, superando o que antes parecia inatingível.
+
+
+0  O fato realmente relevante é a forma como a mudança se opera. Ativa ou reativa, qualquer transformação gera maior ou menor grau de resistência, especialmente interna. 
+
+0  Cabe aos gestores de uma organização fazer com que essa resistência seja vencida de maneira construtiva, não impondo o novo modelo mas gerando comprometimento para que seja adotado e cuidado. Nessas empresas a probabilidade de inovar, de se destacar do lugar-comum, é certamente muito grande.
+
+
+0  Uma das grandes tarefas do administrador de nosso tempo é, conseqüentemente, prever e se antecipar às mudanças. Outra delas é liderar, formar pessoas que o acompanhem nessa empreitada. Preparar espíritos igualmente abertos a transformações, eliminar resistências destrutivas, expulsar a cultura da acomodação, tão presente em setores monopolísticos. 
+
+
+0  Na falta de concorrência, a empresa tem sua sobrevivência garantida. Quando seu ambiente muda, as transformações internas necessárias vão muito além da atualização tecnológica, da implantação de um novo modelo de gestão e da requalificação do conhecimento de seus funcionários. 
+
+
+0  Na verdade, o que se exige é uma mudança cultural eliminar a resistência à transformação do status quo e sinalizar o rumo que a nova organização deve seguir.
+
+
+0  Estar preparada para reagir prontamente a mudanças é o que leva algumas empresas de hoje a desenvolver uma cultura de desafio constante. O grande patrimônio das organizações contemporâneas é seu corpo de talentos, são seus recursos humanos. 
+
+
+0  Estimular no ser humano a capacidade de criar e de se superar, fazendo-o sentir-se autogratificado e realizado, gera um círculo virtuoso de motivação. É essa a habilidade de liderança dos gestores, aliada à sua perspicácia no fornecimento de treinamento e reciclagem adequados, que determinará as empresas que irão se destacar nos próximos anos.
+
+
+0  Empresas que investem em pessoas, tecnologia e informações, valorizando uma cultura receptiva ao novo, dificilmente se verão em dificuldades. Ao contrário, poderão se aproveitar de sua liderança nas mudanças para promover ações focalizadas onde todos os fatores envolvidos podem ser melhor controlados e os resultados avaliados em um curto período de tempo, permitindo os ajustes necessários, exigindo menores recursos e funcionando como a semente das mudanças necessárias que se propagarão para toda a organização.
+
+
+0  Empresas assim ultrapassam a percepção de que a mudança é uma constante. Elas têm consciência de que o sucesso é transitório, deve ser permanentemente conquistado e bem administrado, evitando que se desenvolva na organização o espírito de acomodação, cuja ausência foi justamente o que permitiu à empresa ser bem-sucedida.
+
+
+0  Há que se conscientizar que uma organização, ou qualquer sistema produtivo, analisa em seus aspectos básicos, nada mais é do que uma parte discreta do ambiente composta por três elementos completamente integrados entre si e com o meio ambiente:
+
+0 a estrutura, onde se define o papel da organização no ambiente, do indivíduo na organização e dos relacionamentos entre elementos.
+
+0 a tecnologia onde as pessoas encontrarão os recursos de que necessitam para cumprir o seu papel e as especificidades das suas atribuições.
+
+0 o comportamento das pessoas que possuem conhecimento e competência para realizar um trabalho.
+
+0  Mais uma vez, o fundamental é considerar à organização como um todo, composta de várias partes componentes, interligadas e interagentes. 
+
+0  Tomada em seus aspectos básicos, toda organização deve analisar seus recursos humanos, materiais/financeiros e tecnológicos que, fluindo através da organização, são responsáveis pela manutenção do funcionamento do sistema, no sentido de cumprir sus missão.
+0  Consideradas nesses três aspectos básicos, não vislumbramos uma mudança de paradigma para a organização, ou seja, as empresas continuarão a ser constituídas por pessoas, estrutura e tecnologia.
+
+0  Apesar disso, um ponto essencial deve ser destacado e sua compreensão faz toda a diferença quando nos deparamos com novas teorias e práticas de gestão. Cada um dos aspectos básicos que suportam e constituem uma organização tem como característica intrínseca sua natureza mutante; portanto, todos os componentes de uma organização também são de interesse transitório, contextual.
+
+0  Nesse sentido, o fator humano possa ser dominante na concepção e na operacionalização dos outros recursos. Compreende-se daí o motivo pelo qual os modelos de gestão participativa vêm se firmando como uma tendência irreversível. São pessoas planejando, organizando, controlando e dirigindo. Ou procurando a melhor forma para fazer. São pessoas inovando. Pessoas empreendedoras fazendo os negócios acontecerem. Pessoas criando novas técnicas e modelos de administração em busca de resultados, enriquecendo o cabedal de ferramentas disponíveis aos gestores, a quem caberá escolher e adaptar em função do contexto e suas necessidades específicas.
+
+0  Gestores, líderes, pessoas que devem ter consciência de que técnicas e modelos não ficam ultrapassados enquanto não desaparecerem as necessidades para as quais eles foram criados. 
+
+0  Devem ter consciência de que técnicas e modelos têm vantagens, desvantagens e também mudam, atualizando-se, às vezes assumindo até uma nova denominação, ampliando a termologia necessária. Mudança, esta é a idéia central. A única constante. Por isso, é essencial a consciência da transitoriedade.
+
+0  É essencial a consciência de que estamos tratando com ou integrando uma entidade também de natureza mutante. E essa consciência é que deve permear todo o propósito da gestão das organizações do futuro, a partir agora.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV - ISO 9000
+
+1 - INTRODUÇÃO
+
+0  ISO é o nome usual com o qual é conhecida a International Organization for Standardization ( Organização Internacional de Padronização). É uma entidade fundada em 1947, sediada na Suíça que congrega  organismos de normalização nacionais, cuja principal atividade é a de elaborar padrões para especificações e métodos de trabalho nas mais diversas áreas da sociedade exceto no setor eletro-eletrônico onde a responsabilidade fica a cargo da International Electrotechical Comission.
+
+0  O Brasil é representado na International Organization for Standardization através da ABTN - Associação Brasileira de Normas Técnicas.
+
+0  Apesar da entidade ser denominada International Organization for Standardization as normas são codificadas com ISO e não como IOS. Algumas revistas especializadas, sem um caráter oficial, definem a origem da codificação ISO, ao invés de IOS, como sendo uma referência ao prefixo “iso”  que denota homogeneidade ou seja o papel da normalização.
+
+0  O certificado ISO tem como finalidade mostrar ao mercado que a empresa em questão mantém um Sistema de Garantia de Qualidade, o que significa que seus produtos (bens ou serviços) carregam consigo um nível muito baixo de risco associado com a não-qualidade. O certificado ajuda na tomada de decisão, por parte do cliente, no processo de escolha de seus fornecedores, principalmente quando o custo da  eventual não-qualidade, dos produtos adquiridos, é muito alto.
+
+
+2 – CONCEITOS
+
+0  O nome genérico ISO 9000 representa todo o conjunto de documentos relacionados com a sistematização de atividades para garantia da qualidade. 
+
+Este conjunto é formado pelos seguintes documentos.
+
+
+ISO 9000  - partes 1, 2, 3 e 4
+ISO 9001
+ISO 9002
+ISO 9003
+ISO 9004  - partes 1, 2, 3, 4, 5, 6 e 7
+ISO 10011 - partes 1, 2, e 3
+ISO 10012 - partes 1 e 2
+ISO 10013
+
+
+3 - ALGUNS TIPOS DE DOCUMENTOS
+
+a)  ISO 9001
+É uma norma para Sistema de Garantia da Qualidade. Estabelece o conjunto de ações preventivas necessárias para garantir a qualidade de um produto após as fases de projeto, desenvolvimento, produção, instalação e serviços associados.
+
+
+b)  ISO 9002
+É uma norma para Sistema de Garantia da Qualidade. Estabelece o conjunto de ações preventivas necessárias para garantir a qualidade de um produto após as fases de produção, instalação e serviços associados.
+
+Não prevê atividades que assegurem a qualidade de um produto durante o projeto.
+
+
+c)  ISO 9003 
+É uma norma para Sistema de Garantia da Qualidade. Estabelece o conjunto de ações preventivas necessárias para garantir a qualidade de um produto após as fases de inspeção de ensaios finais.
+
+Não prevê atividades que assegurem a qualidade de um produto durante as fases de projeto e manufatura.
+
+
+
+
+
+4 - CRITÉRIOS DE EXCELÊNCIA DA QUALIDADE
+
+0  LIDERANÇA 
+
+0 É o acionamento, monitoração e controle de todos os processos desencadeados para capacitação contínua e progressiva de todas as pessoas envolvidas em um serviço de uma empresa.
+
+0 Os líderes devem aprender a gerir as coisas menos por regras administrativas e procedimentos e, mais por direção pormenorizada e suporte aos empregados que precisam manipular vários tipos de situações. Ele deve, também, ajudar as pessoas a entender a visão da organização e a se comprometer com ela.
+
+0 Não adianta ter qualidade somente nos produtos e serviços, o aspecto humano também é muito importante.
+
+
+0  As dez regras de ouro de um bom líder da Qualidade são:
+
+1a.) Mantenha a Auto-Estima
+
+2a.) Ouça com Empatia
+
+3a.) Responda com Empatia
+
+4a.)Estimule a Colaboração
+
+5a.) Atribua Responsabilidade
+
+6a.) Focalize os Objetivos
+
+7a.) Direcione
+
+8a.) Prestigie e Cultue a Qualidade
+
+9a.) Desenvolva a Equipe
+
+10a.) Motive a sua Equipe
+
+
+
+
+
+0  PLANEJAMENTO ESTRATÉGICO
+
+0 Sem um planejamento definido, fica difícil se obter sucesso naquilo que almejamos. Numa empresa, isto é muito mais que uma filosofia, é uma regra que deve ser cumprida por aqueles que desejam crescer e vencer os desafios de um mercado competitivo.
+
+0 À medida que uma empresa cresce em tamanho e complexidade, cresce também o número de decisões e ações, obrigatoriamente executadas no dia-a-dia, que tem relevância estratégica e de longo prazo. A definição de uma estratégia requer o constante acompanhamento dos fatores que influenciam a vida da empresa e, além de estabelecer decisões, deve mostrar o rumo a tomar perante as constantes mudanças do mercado.
+
+0 Não basta preparar, pura e simplesmente, belos planos estratégicos, é necessária uma visão estratégica clara que determine qual será o destino da empresa. 
+
+0 Segundo Peter Drucker, devemos formular três perguntas básicas:
+
+1.  Onde estamos? O que somos?
+
+2.  Onde queremos chegar? O que desejamos vir a ser? 
+
+3.  O que é preciso para chegar lá?
+
+
+
+1ª FASE - Conheça o panorama atual
+
+0  Devemos saber qual é a nossa realidade atual e quais são os nossos objetivos. A partir daí é possível definir, com mais clareza, qual será o nosso rumo. Para isto podemos usar algumas ferramentas da qualidade: uma delas é o Brains-torming (“tempestade de idéias”). Ela permite identificarmos quais são os nossos  pontos fortes e em quais necessitamos de melhoria. Outros levantamentos são essenciais para esta fase:
+
+0 Qual a opinião do Cliente (interno e externo)?
+0 Qual o índice de satisfação do Cliente?
+0 Quais as necessidades atuais e futuras dos Clientes?
+0 Quais os aspectos fundamentais para o êxito das estratégias?
+0 Quais os índices de erros?
+0 Qual o nível de capacitação e envolvimento da equipe?
+0 Quais os riscos financeiros, mercadológicos, tecnológicos, políticos e sociais?
+
+
+2ª FASE - Defina Objetos
+
+0  No famoso livro “Alice no País das Maravilhas”, há uma passagem que ilustra bem a importância desta fase:
+
+0  Quando Alice entrou no buraco atrás do coelho, encontrou uma sala com várias portas. Indecisa, perguntou ao gato que lá estava: “Qual devo seguir?” O gato respondeu: “Para onde está indo?” E ela disse: “Não sei.” Então, retrucou o gato: “Qualquer uma! Você não sabe mesmo para onde quer ir?”
+
+0  Moral da história: para alcançar seus objetivos é necessário definir aonde você quer chegar! Portanto, o objetivo a ser perseguido será mais bem definido se estipularmos meta e período para alcançá-lo.
+
+
+0  Nesta fase também é muito importante sabermos com clareza: 
+
+0 Qual a nossa missão, ou seja, a nossa filosofia e o nosso posicionamento estratégico. Tendo em vista, que a missão deve refletir, clara e especificamente, a direção e os caminhos, de fato escolhidos pela cúpula empresarial.
+
+0 Qual a nossa visão? O que “enxergamos” como necessidades futuras para aperfeiçoarmos, contínua e progressivamente, a quantidade de nossos serviços e produtos. Através desta orientação vamos alcançar a maximização da satisfação dos clientes e poder assegurar, de forma permanente, a satisfação dos acionistas e colaboradores.
+0 Qual a nossa linha de conduta?, ou seja, os nossos valores éticos e comportamentais.
+
+0  Podemos definir que:
+
+0  Objetivos  ???são resultados a serem alcançados.
+0  Metas  ?  são os objetivos quantificados.
+
+
+
+
+3ª FASE - Mobilize os Recursos para o Desenvolvimento da Ações
+
+0  Uma vez definidas as metas, precisamos alocar os recursos para alcançá-las. Neste momento, é fundamental avaliarmos as nossas condições de preparo para isto. Avaliar quais são os nossos recursos financeiros, materiais e humanos e como iremos disponibilizá-los e organizá-los para suportarem as ações que desenvolveremos.
+
+0  Uma preocupação básica do Planejamento Financeiro é estimar as receitas, os custos e fixar limites para cada item de despesas. 
+
+0  No caso dos Recursos Materiais, devemos quantificá-los para que fiquem disponíveis quando requisitados. 
+
+0  Os Recursos Humanos envolvem vários aspectos da administração e suas ações podem ser conseguidas normalmente pela interação entre departamentos, ou por outra forma de alocação de pessoal. O foco desta fase deve ser a integração dos recursos para aumentar o nível da organização do trabalho, trocas de conhecimento, flexibilização, inovação para melhoria do desempenho global e da força de trabalho, sempre visando obter a máxima produtividade e a melhor qualidade possível.
+
+0  Qualquer estratégia que tentarmos empregar, por melhor que seja nosso planejamento, não funcionará se não estivermos trabalhando em equipe. Cabe aos líderes que estão conduzindo as ações estratégicas, estimular a equipe e sempre informar as metas a serem alcançadas.
+
+0 Outro princípio importante é o “marketing interno”. Para não perder o comprometimento da equipe, deve haver uma comunicação sempre clara, objetiva e constante, informando sobre todas as fases do planejamento.
+
+0  O segredo para manter a equipe sempre envolvida e motivada é a informação, Informadas, elas se sentem responsáveis, valorizadas e incentivadas a trabalhar pelo sucesso do plano.
+
+0  É importante que cada profissional tenha uma visão clara de todas as fases do processo e qual é o objetivo final a que se pretende chegar, estimulando sempre a sua equipe. 
+
+0  Para atingir um comprometimento da equipe é preciso que todos os colaboradores:
+a)  entendam o objetivo e a necessidade de alcançá-los;
+b) acreditem no plano e sintam que ele é importante;
+c)  acreditem que tem possibilidade de sucesso;
+d)   sintam que será valioso para eles pessoalmente e profissionalmente.
+
+
+
+0  Regras de Ouro:
+
+1)  ao definir as fases do planejamento, faça de forma clara, simples e objetiva.
+2)  depois de discutidas as etapas, coloque seu planejamento no papel.
+3)  ao inscrevê-lo, lembre-se de que ele será um plano vivo e não mais um simples documento administrativo. Procure escrever de forma clara e objetiva.
+4)  sempre que reunir a equipe, procure atualizá-la sobre como anda a evolução do planejamento.
+5)  nessas reuniões, apresente vídeos e literaturas que aprimorem o conhecimento da equipe.
+6)  não transforme essas reuniões em um processo formal e criminoso. O tom coloquial agiliza as ações.
+7)  tenha certeza de que cada um está tendo a oportunidade de expor suas idéias e pontos de vista.
+8)  coloque lembretes e frases reforçando qual é o Planejamento e as metas que desejam alcançar.
+9)  faça revisões de progresso com seu pessoal.
+10)  Enfim, mobilize suas melhores idéias e capitalize a criatividade de sua equipe.
+
+0  FOCO NO CLIENTE E NO MERCADO
+
+0 Uma empresa que se diferencie pela Qualidade deve identificar, entender e se antecipar às necessidades do Clientes e do seu Mercado Alvo (target).
+
+0 Um dos seus elementos básicos é o aumento da qualidade percebida pelo Cliente nos produtos ou serviços entregues pela empresa. São considerados, portanto: a Satisfação do Cliente, a Satisfação do Cliente x  Concorrência, a Retenção de Clientes e a Conquista de Participação no Mercado. Examinando, também, as formas como a empresa estreita seu relacionamento com os Clientes e aumenta a sua satisfação.
+
+0 O primeiro passo para saber quem são os Clientes é identificar qual o segmento de mercado em que se pretende atuar, considerando: os Clientes existentes e os potenciais, os chamados Nicho de Mercado.
+
+0 Ao estabelecermos este caminho, passamos para uma nova fase, que define a estratégia de atuação para atrair e manter os Clientes, levando em conta as características já identificadas do nicho que estão trabalhando.
+
+0 Nesse sentido, é fundamental conhecer as expectativas dos Clientes, bem como a importância que o mesmo dá para certas características dos produtos e dos serviços que vamos oferecer.
+
+0 Para isso, devemos adotar um mecanismo para ouvi-los, constantemente. Mas, não basta ouvi-los. É preciso também contar com um processo contínuo e sólido de análise e aproveitamento da opinião do Cliente, na concepção ou desenvolvimento dos produtos ou serviços. 
+
+0 Por fim, temos que ter indicadores seguros e quantificáveis da aceitação dos nossos produtos e serviços pelos clientes, considerando, inclusive, a nossa participação no mercado.
+
+0 Nos próprios mecanismos de relacionamento e de avaliação do Cliente devem ser constantemente aprimorados.
+
+
+
+0  ALGUMAS RECOMENDAÇÕES
+
+0 A Palavra Certa na Hora Certa
+   
+Uma boa atitude de Qualidade é cultivar o hábito de ouvir os nossos clientes e usuários. E para ser um bom ouvinte, é necessário seguir as seguintes regras: 
+
+1)  para ouvir, é preciso estar calado! Primeiro deixe o cliente falar e expor suas necessidades expectativas.
+2)  coloque-se no lugar do cliente e sinta onde ele está querendo chegar. Na maioria das vezes, o cliente não consegue exprimir seus anseios e é necessário um esforço para entender o seu propósito.
+3)  quando necessitar de esclarecimentos, pergunte. Incentive o diálogo e compreenda o máximo possível o que o cliente está dizendo.
+4)  espere o cliente concluir seus pensamento. Controle suas emoções e idéias pré-concebidas. Não faça julgamentos precipitados.
+5)  não se disperse. Concentre-se no que está sendo dito. Não procure argumentos para discordar.
+6)  se for o caso, reaja contra a mensagem, mas não contra pessoa que fala. Não há necessidade de se mencionar qualquer ato falho ou postura inadequada do cliente em sua vida pessoal. Basta restringir-se ao assunto que está sendo discutido.
+7)  mantenha sempre a ética e o respeito pelo cliente, independentemente de seu histórico ou conduta.
+
+0  MANEIRAS PARA LIDAR COM PESSOAS DIFÍCEIS
+
+1)  não reagir às  grosserias - uma das melhores maneiras de revidar a uma grosseria é ser educado. Uma resposta branda, sóbria e serena desarma o espírito da pessoa exaltada.
+
+2)  deixar claras as atribuições - existem pessoas que querem transferir seus deveres para outros e, se você aceitar, fica sobrecarregado e ela acomodada. É bom deixar claro o que você espera dela.
+
+3)  digerir as críticas - certas pessoas vivem procurando e difundindo apenas as coisas ruins, inclusive do seu trabalho ou das suas propostas. Não deixe que essa carga negativa destrua o seu ânimo, mas ouça-as sem entrar em atrito com quem fala.
+
+4)  neutralizar os “criadores de casos” - outras pessoas gostam de difundir boatos ou fomentar oposição. Chame essas pessoas, se as identificar, ouça-as, faça as devidas correções e faça-as compreender a verdade.
+
+5)  interagir com implicantes - uma boa estratégia é afastar  os implicantes mas, ao contrário, agradecer-lhes pelas observações que “ajudaram” a melhorar o seu trabalho ou então abrir-lhe um espaço para participar sempre com sua observações. Se o objetivo dele é destruir sua auto-confiança ou auto-estima, mesmo que inconscientemente, ele perceberá que não será por esse caminho.
+
+
+
+V - ISO 14000
+
+1 - INTRODUÇÃO
+
+0  Os administradores das empresas, mais cedo ou mais tarde se deparam com uma situação de confronto entre os interesses ambientais, legais e comerciais. 
+
+0  Por exemplo, o departamento de compras decide mudar de fornecedor e o produto comprado, apesar de ser o mesmo, agora passa a ser fornecido por preço mais baixo, só que o seu fabricante não têm um certificado ambiental. A gerência já havia estabelecido uma política de proteção ao meio ambiente, mas não acompanhou a sua implantação e não efetivou um processo de verificação dos materiais e das pessoas envolvidas. A vizinhança está preocupada com a qualidade de vida e a degradação do ambiente por emissões de efluentes e resíduos nos rios. A empresa não tem programa de informação e apoio à comunidade. A gerência encarregada do assunto não encontra tempo para agir estrategicamente, com olhos no futuro já que se ocupa da solução de problemas correntes.
+
+0  Para resolver estes problemas, existe um conjunto de normas especialmente criadas, é a ISO 14000. Esta norma vai modificar radicalmente o comportamento das empresas quanto ao meio ambiente. Isto inclui todas as responsabilidades ambientais, a auditoria ambiental, a mensuração do impacto causado, a embalagem e os dizeres do rótulo, o processo produtivo e a informação enviada ao público externo e aos empregados. 
+
+0  Em suma, a ISO 14000 tem por objetivo guiar as ações da empresa no sentido de melhorar o seu desempenho quanto ao meio ambiente. Estas normas estão sendo desenvolvidas pela Comissão Técnica 207 da “International Standardization Organization”, da mesma maneira que a série ISO 9000 foi feita anteriormente.
+
+
+
+0  SISTEMA DE ADMINISTRAÇÃO AMBIENTAL
+
+0 Entende-se o Sistema de Administração Ambiental (SAA) é um sistema na medida que inclui diversos elementos como uma política ambiental, objetivos a serem alcançados, acompanhamento da implantação e pós implantação, verificação dos efeitos positivos ou negativo obtidos e mensuração dos resultados em termos quantitativos e qualitativos. Um SAA pode favorecer a eficiência da empresa e permite alcançar os padrões ambientais, sejam eles oficiais ou internos.
+
+0 A lógica que orienta a implantação da ISO 14000 é simples: uma eficiente administração ambiental desemboca em mais respeito ao meio ambiente, promove a eficiência geral e portanto melhor retorno sobre o investimento.
+
+
+0  FERRAMENTAL ADMINISTRATIVO APLICÁVEL
+
+0 As normas estão focalizadas em algumas áreas específicas: 
+0 Sistema de Administração Ambiental (SAA)
+0 Auditoria Ambiental (AA)
+0 Avaliação do Desempenho Ambiental (ADA)
+0 Avaliação do Ciclo de Vida e da Rotulação do Produto (ACVRP)
+0 Padrões de Produtos e Aspectos Ambientais (PPAA)
+0 Termos e Definições
+0 Estas áreas podem ser agrupadas em dois grupos, os três primeiros a serem utilizados para avaliar a empresa e os três últimos destinados a permitir a implantação do programa na empresa.
+
+
+0  UM SISTEMA QUE NÃO É PADRÃO DE DESEMPENHO
+0 O entendimento da ISO 14000 deve ter como ponto de partida o fato desta ser um processo e não um conjunto de padrões a serem alcançados. 
+
+0 A ISO 14000 não estabelece o que  deve ser obtido em termos de meio ambiente, ela apenas determina como uma empresa deve proceder para atingir os seus objetivos, os quais foram definidos pela própria empresa no início do projeto. Assim, os níveis de efluentes, poluição e os resultados a serem alcançados devem ser determinados pela empresa propriamente dita.
+
+0  O RITMO DA MUDANÇA
+0 A maioria dos países industrializados possui escritórios especializados na divulgação das normas e o Brasil conta com a ABNT com sede no Rio de Janeiro.
+
+0  PRODUTOS VERDES
+0 Os consumidores estão cada vez mais ativos em relação ao meio ambiente. 
+
+0 A demanda por produtos que não agridem o ambiente está crescendo e em resposta, os produtos mais agressivos estão modificando suas linhas desde o projeto até a embalagem final não esquecendo do descarte final do produto ao fim de sua vida útil. 
+
+0 O resultado é que investidores estão começando a ficar preocupado com esses aspectos e estão incluindo nas variáveis para análise, o meio ambiente. 
+
+0 Mesmo tendo um caráter voluntário, as ISO 14000 tendem a ter um impacto no mercado financeiro. Há até quem arrisque dizer que estas Normas serão uma espécie de passaporte para a realização de negócios internacionais.
+
+
+0  GANHOS DE EFICIÊNCIA E PADRONIZAÇÃO
+0 A adoção de uma só norma mundial evita a duplicidade de esforços e facilita o entendimento, especialmente quando estão envolvidos setores muito diferentes e interesses diversos como os de acionistas, consumidores, agências governamentais e ONGs ambientais.
+
+
+0  REGISTRO EFETIVO
+0 O registro efetivo deve ser feito por intermédio de agências especializadas em cada país.
+ 
+0 A pressão para que tal registro seja feito é de caráter privado, não sendo obrigatório, mas decorre de exigências por parte das próprias empresas compradoras de componentes e partes de produtos finais. 
+
+0 A simples obtenção de registro serve como atestado para a empresa quanto às suas intenções, sua filosofia de trabalho e procedimentos internos.
+
+
+0  O GOVERNO
+0 Os governos têm um papel importante neste aspecto. Através de suas compras e procedimentos, podem ser reforçadas as necessidades de respeito ao meio ambiente. As medidas do governo para proteger o meio ambiente podem ser simplificadas se a adoção da ISO 14000 for incentivada.
+
+0 Em alguns países, especialmente os emergentes, as leis são pouco adequadas ou, quando o são, têm a sua aplicação prejudicada por muitos fatores. 
+
+0 Nestes casos, a ISO 14000 é uma alternativa possível de ser implantada e que tem efeitos para o meio ambiente e para negócios internacionais. 
+
+0 Nos Estados Unidos, a Environmental Protection Agency (EPA) e o Departamento de Justiça tendem a ajudar no processo de verificação quando da candidatura à obtenção do registro. 
+
+0 Os prêmios de seguros tendem a ser mais baixos para as empresas que adotam a ISO 14000, dado que o cuidado necessário à obtenção do registro tem como efeito secundário a melhoria dos processos e conseqüente diminuição dos riscos.
+
+
+0  BENEFÍCIOS INTERNOS
+0 Há uma tendência a se acreditar e a falta de respeito ao meio ambiente anda em paralelo com o pouco respeito às exigências de uma boa administração e à existência de deficiência nos sistemas internos da empresa. 
+
+0 A implantação da Normas, via da regra, traz uma redução na sucata, promove a substituição de materiais, reduz o volume de insumos, promove a reciclagem e incentiva a doação de programas de redução de custos. 
+
+
+0 A empresa, ao adotar este caminho, pode aproveitar para integrar os procedimentos fragmentados e ao mesmo tempo treinar os empregados quanto às necessidades de proteger o meio ambiente. 
+
+0 Há uma enorme vantagem quando a empresa já está engajada na ISO 9000, já que o esforço de implantação é bem menor e a maioria das soluções podem ser executadas pelos mesmos mecanismos internos. Há uma sinergia positiva. 
+
+0 O respeito ao meio ambiente fica fazendo parte do planejamento estratégico da empresa e destarte a quantidade de emergências e situações difíceis tende a diminuir. 
+
+0 A empresa passa a resolver os problemas ambientais durante o processo e não no final das operações, decorrem economias inerentes à prevenção que é sempre mais barata do que medidas de correção e ajuste final.
+
+
+
+0  PROBLEMAS E PONTOS NEGATIVOS
+0 A implantação de um programa desta magnitude é acompanhada de alguns pontos negativos e causa problemas. Dentre eles: 
+
+a)  Custos maiores - como a maioria das empresas que implantaram a Qualidade Total pode comprovar, a adoção de normas deste tipo, é dispendiosa. Estes custos são críticos para empresas pequenas e médias não esquecendo que entre 75% e 90% das empresas no mundo são deste tamanho. Isto pode se agravar nos países em desenvolvimento.
+
+b)Cinismo - A implantação de um programa de controle deste tipo, quando não produz resultados efetivos, desacredita o próprio programa e cria um clima de cinismo para os próximos programas.
+
+
+0  SISTEMAS ADMINISTRATIVOS E FERRAMENTAL ADEQUADO
+0 O trabalho da administração é, neste caso, focalizado na elaboração e implantação de um sistema integrado para direcionar o processo produtivo no sentido de proteger o meio ambiente. 
+
+0 A auditoria ambiental deve, como conseqüência, acompanhar os procedimentos e verificar se estes estão de acordo com os objetivos e metas traçados, apontando eventuais desvios. 
+
+0 O papel da auditoria ambiental transcende o da simples auditoria contábil, pois cabe a ela também apontar como devem ser medidos os efeitos das diversas políticas ambientais internas e externas. 
+
+0 O trabalho da rotulação dos produtos como sendo “verdes” só será possível depois de cumpridos todos os passos necessários para a implantação da ISO 14000 e provado, por uma organização independente e autorizada, que o produto está em harmonia com os requisitos ambientais. Isto inclui o ciclo de vida do bem, desde sua origem até o seu descarte. 
+
+0 A principal idéia por trás da ISO 14000 é adequação de processos e não regras rígidas a serem seguidas como receita de processos.
+
+
+0  O  BRASIL E A ISO
+
+0 Desde setembro de 1994, o Brasil, através do Grupo de Apoio à Normalização Ambiental (Gana) da Associação Brasileira de Normas Técnicas (ABNT), vem acompanhando os trabalhos e representando o Brasil nas discussões do TC 207, seus Subcomitês e Grupos de Trabalho.
+
+0 Atualmente, por decisão da ABNT, o Gana foi transformado no Comitê Brasileiro de Gestão Ambiental CB-38, que passou a representar o país junto ao ISO-TC-207. Têm participado das atividades do CB-38 diversas empresas e entidades de apoio, como órgãos públicos, associações empresariais e universidades.
+
+
+
+0 Em outubro de 1996, a ISO publicou as cinco primeiras normas da série ISO 14000 que, em dezembro do mesmo ano, foram divulgadas pela ABNT em português: as normas ISO 14001 e ISO 14004 - Sobre Sistemas de Gestão Ambiental - e as normas ISO 14010, ISO 14011, sobre Auditorias Ambientais.
+
+0 A Petrobras negociou com a ABNT a edição de uma coletânea dessas cinco normas já aprovadas pela ISO e editadas em português. Adicionalmente, cerca de 14 documentos normativos encontram-se em discussão no ISO/TC 207. Estes documentos são projetos de normas e guias em diversos estágios de elaboração.
+
+0 Com relação à certificação ambiental no Brasil, o Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO) por delegação do Conselho Nacional de Metrologia (CONMETRO), criou, em setembro de1995, a Comissão de Certificação Ambiental (CCA), no âmbito do Sistema Brasileiro de Certificação (SBC).
+
+
+
+
+
+
+VI - CIPA - ACIDENTES DO TRABALHO
+
+
+1 - HISTÓRICO DO ACIDENTE DO TRABALHO
+
+0  A origem do acidente do trabalho remonta à história do próprio homem que, na luta pela sobrevivência, evolui desde a atividade de caça e pesca, ao cultivo da terra, à extração de minérios e à produção em grande escala nas indústrias.
+
+0  O mundo modificou-se em seus costumes, formas de vida e, com isso, houve também mudanças nas relações de trabalho, provocadas, em sua base, pela Revolução Industrial. 
+
+0 Toda mudança traz em si aspectos peculiares da nova situação que se apresenta. Com a Revolução Industrial, os acidentes do trabalho tomam dimensões significativas, devido à peculiaridade da atividade desenvolvida: produção de bens em série e em grande quantidade.
+
+0  Para conseguir esse intento, o homem necessitou da máquina. Esta ao mesmo tempo promoveu o progresso e fez surgir de forma assustadora os acidentes do trabalho, oriundos dessa nova realidade. 
+
+0  Tomemos como base o Brasil, onde a industrialização deu passos importantes a partir de 1930. E, após a Segunda guerra Mundial, tomou impulso decisivo, favorecida pelo controle relativo das importações.
+
+0  O ritmo da industrialização nacional acelerou-se entre 1955 e 1960, período no qual a situação dos acidentes do trabalho se agravou.
+
+0  Vários aspectos contribuíram para esse agravamento:
+
+0 nossa origem essencialmente agrícola que difere em suas bases do processo industrial;
+0 o processo de desenvolvimento industrial acelerado há poucas décadas (maquinário e know-how importados, dispreparo da mão-de-obra etc.);
+0 inexistência de uma cultura prevencionista;
+0  a expectativa do lucro imediato relegando a segurança do trabalho a um plano secundário;
+0 ineficiência na fiscalização das condições de trabalho e orientação ao trabalhador.
+
+0  Esse quadro vem sendo alterado gradativamente desde 1975, através de:
+
+0 amplo programa de formação de profissionais nas áreas de segurança e medicina do trabalho;
+0 desenvolvimento de programas de orientação à prevenção de acidentes e de formação aos cipeiros;
+0 presença mais recentemente de uma visão de vida e saúde do trabalhador.
+
+0  Essas mudanças vêm alterando o percentual de acidentes no Brasil; no entanto, as estatísticas ainda não são satisfatórias, pois nosso índice de letalidade (mortes decorrentes de acidentes do trabalho) é um dos mais altos do mundo.
+
+0  A mudança nesse quadro requer uma atuação conjunta do governo, dos empresários e dos trabalhadores.
+
+2 - CONCEITO E OBJETIVOS DA CIPA
+
+0  A CIPA surgiu de uma recomendação da OIT (Organização Internacional do Trabalho) em 1921 e transformou-se em determinação legal no Brasil em 1944, vinte e três anos depois. 
+
+0  O texto original foi o seguinte:
+
+“Os empregadores, cujo número de empregados seja superior a 100, deverão providenciar a organização em seus estabelecimentos de comissões internas, com representantes dos empregados, para o fim de estimular o interesse pelas questões de prevenção de acidentes, apresentar sugestões quanto à orientação e fiscalização das medidas de proteção ao trabalhador, realizar palestras instrutivas, propor a instituição de concursos e prêmios e tomar outras providências tendentes a educar o empregado na prática de prevenir acidentes”. (Decreto-Lei nº 7.036, artigo 82)
+
+a)  CONCEITO
+0  Partindo do significado da sigla CIPA - Comissão Interna de Prevenção de Acidentes - podemos assim conceituá-la:
+
+0  Comissão: grupo de pessoas conjuntamente encarregadas de tratar de um determinado assunto. A Comissão enseja a participação do empregador e dos empregados na prevenção de acidentes.
+
+0  Interna: seu campo de atuação está restrito à própria empresa.
+
+0  Prevenção: é o que define claramente o papel da Comissão Interna de Prevenção de Acidentes. É sua meta principal. Prevenção significa caminhar antes do acidente. É a atuação do cipeiro quando se depara com alguma situação de risco capaz de provocar um acidente, inerente à atividade laboral desenvolvida.
+
+0  Acidente: “qualquer ocorrência imprevista e sem intenção que possa causar danos ou prejuízos à propriedade ou à pessoa”.
+
+
+b)  OBJETIVOS DA CIPA
+
+0  O objetivo fundamental da CIPA é a prevenção de acidentes. Porém, visando maior esclarecimento, devemos socorrer-nos da Norma Regulamentadora (NR) 5, da Portaria  nº 33 de 27/10/83, baixada pelo Ministério do Trabalho.
+
+0 observar e relatar condições de risco nos ambientes de trabalho;
+0 solicitar medidas para reduzir até eliminar ou neutralizar os riscos existentes;
+0 discutir os acidentes ocorridos, encaminhando relatório ao SESMT (Serviço Especializado em Engenharia de Segurança e Medicina do Trabalho) e ao empregador;
+0 solicitar medidas que previnam acidentes semelhantes;
+0 orientar os demais trabalhadores quanto à prevenção de acidentes.
+
+0  Esses objetivos serão atingidas na medida em que a CIPA tiver uma atuação positiva, no interesse em resguardar a integridade física dos trabalhadores da empresa.
+
+
+a)  O PAPAEL DO CIPEIRO
+
+0  CIPEIRO é o funcionário de um estabelecimento regularmente eleito por escrutínio secreto para representar os empregados, em uma gestão de um  ano, perante a Comissão Interna de Prevenção de Acidentes. 
+
+0  É cipeiro também o funcionário de um estabelecimento escolhido pelo empregador para representá-lo na Comissão Interna de Prevenção de Acidentes, com representantes do empregador e dos empregados.
+
+0  O primeiro passo é acreditar que algo pode ser feito para a prevenção de acidentes em sua empresa, que a CIPA não é abstrata, mas que pode desenvolver um trabalho concreto, real. 
+
+0  Dificuldades poderão existir, visto que você nunca irá trabalhar sozinho. O cipeiro faz parte de uma Comissão que, por sua vez, poderá esbarrar em outras áreas da empresa. Isto porque a CIPA depende:
+0 do apoio constante do empregador;
+0 do assessoramento do SESMT (Serviço Especializado em Segurança e Medicina do Trabalho);
+0 da receptividade e conscientização dos empregados.
+
+0  É necessário, pois, que o cipeiro esteja consciente dessa situação, de sua responsabilidade e que se proponha a ser um agente de mudança, no sentido de ser o elemento de articulação para resolver os problemas.
+
+0  Para tanto, é indispensável que o objetivo da CIPA - PREVENÇÃO DE ACIDENTES - norteie todas as suas ações. O grupo ganhará maior coesão se todos os seus membros reconhecerem a importância deste objetivo.
+
+0  Deve o cipeiro, portanto:
+0 ter uma atitude receptiva com tudo quanto diz respeito à prevenção de acidentes;
+0 estar predisposto a participar do treinamento para membros da CIPA, para adquirir conhecimentos específicos, à sua atuação;
+0 buscar e propor soluções para os problemas que porventura surjam, como se isto dependesse especialmente dele.
+0  A prevenção de acidentes não se faz da noite para o dia. É preciso trabalhar tendo em mente as dificuldades, mas com a convicção de que pode ser concretizada, se houver boa vontade, por parte de todas as pessoas envolvidas, e persistência nos objetivos.
+
+
+3 - ACIDENTE DO TRABALHO
+
+a)  CONCEITO LEGAL
+
+O artigo 19 da Lei nº 8.213, de 24/07/91, estabelece:
+
+“Acidente do Trabalho é o que ocorre pelo exercício do trabalho a serviço da empresa ou pelo exercício do trabalho dos segurados referidos no início VII do artigo 11 desta Lei, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho”.
+
+
+0  Exercício do trabalho a serviço da empresa
+0 Para que uma lesão ou moléstia seja considerada acidente do trabalho é necessário que haja entre o resultado e o trabalho uma ligação, ou seja, que o resultado danoso tenha origem no trabalho desempenhado e em função do serviço.
+
+0 Assim, por exemplo, se um empregado for assistir a um jogo de futebol e cair a arquibancada onde se sentou, não se tratará de acidente do trabalho. Todavia, se com ele cai o empregado do clube que estava a efetuar a limpeza da arquibancada, a legislação referida protegerá o funcionário do clube.
+
+0  Lesão corporal
+0 Por lesão corporal deve ser entendido qualquer dano anatômico; por exemplo: uma fratura, um machucado, a perda de um membro.
+
+0  Perturbação funcional
+0 Por perturbação funcional deve ser entendido o prejuízo ao funcionamento de qualquer órgão ou sentido, como uma perturbação mental devida a uma pancada, o prejuízo ao funcionamento de um órgão (pulmões etc.), pela aspiração ou ingestão de elemento nocivo usado no trabalho.
+
+0  Acidente do trabalho - caracterização
+0 O acidente típico do trabalho ocorre no local e durante o trabalho, considerando como um acontecimento súbito, violento e ocasional que provoca no trabalhador uma incapacidade para a prestação de serviço.
+0  A legislação (art.21 da Lei 8.213/91) enquadra como acidentes aqueles que ocorrem nas seguintes situações:
+
+0 Acidente de trajeto
+
+Cada dia mais correm-se riscos quando alguém se propõe a sair de casa para qualquer fim. Quando esse fim é a prestação de serviço, entende-se que é justo ficar o trabalhador protegido pela legislação de acidente. 
+
+Assim, no percurso da residência para o trabalho ou deste para aquela, está o trabalhador protegido pela legislação acidentária. Fica caracterizado como acidente do trabalho também aquele que ocorra na ida ou na volta do trabalho, ou o ocorrido no mesmo trajeto quando o trabalhador efetua suas refeições em sua casa. 
+
+Deixa de caracterizar-se o acidente quando o empregado tenha, por interesse próprio, interrompido ou alterado o percurso normal. 
+
+Entende-se por percurso normal o caminho ordinariamente seguido, locomovendo-se a pé ou usando transporte fornecido pela empresa, condução própria interrupção, também por interesse próprio, deixa de caracterizar-se o acidente do trabalho nos períodos destinados a refeições ou descansos, bem como em intervalos destinados à satisfação de necessidades fisiológicas, no local de trabalho ou durante este, o empregado é considerado a serviço da empresa para fins de acidente do trabalho.
+
+
+0 Ato de terceiro
+
+Quando se fala em acidente do trabalho, nunca nos ocorre a possibilidade de que um ato de outra pessoa possa caracterizar-se como acidente.
+
+Esse ato de terceiro pode ser culposo ou doloso. Será considerado culposo quando a pessoa que deu ensejo ao mesmo não tinha a intenção de que o fato acontecesse. Foi um ato de imprudência, negligência, imperícia que resultou num dano a outrem . Já o ato doloso é consciente, e a pessoa que o pratica age de má-fé com a vontade dirigida para a obtenção de um resultado criminoso.
+
+Assim, o legislador (pessoa que elabora as leis) estendeu o conceito de acidente aos atos dolosos que atingem o trabalhador proveniente da relação de emprego, tais como os casos de sabotagem, ofensa física levada a cabo por companheiro de serviço ou terceiro, resultante de disputa originada na prestação de serviço.
+
+A exclusão que se manifesta é a referente ato doloso contra o empregado, oriundo de terceiro ou de companheiro de serviço, não originado de disputa relativa ao trabalho. Assim, o ferimento sofrido por um empregado no local e horário de trabalho, por parte de outro colega de serviço, com origem em questão de ciúme ou mesmo discussão sobre futebol, não se caracteriza como acidente do trabalho.
+
+
+0 Força maior 
+A caracterização de acidente do trabalho vai tão longe que atinge as lesões oriundas de inundações, incêndios ou qualquer outro motivo de força maior, desde que ocorrido o fato no local e horário de trabalho.
+
+
+0 Acidente fora do local e horário de trabalho
+A Legislação considera como acidente de trabalho o sofrido pelo trabalhador mesmo fora do local e horário de trabalho, quando ocorra no cumprimento de ordem ou na realização de serviço sob a autoridade da empresa. Ou, ainda, quando seja espontaneamente  prestado o serviço para evitar o prejuízo ao propiciar o proveito. Quando o empregado acidentar-se realizando viagem a serviço da empresa, estaremos diante de um acidente de trabalho, qualquer que seja o meio de condução utilizado ainda que seja de propriedade do empregado.
+
+
+
+0 Causas de incapacidade “associadas” ao acidente do trabalho
+O acidente do trabalho, portanto, em sentido amplo, é aquele que causa lesão corporal, perturbação funcional ou doença que provoque a morte, perda ou redução, permanente ou temporária, da capacidade para o trabalho, ocorrido nas condições acima enunciadas.
+
+Pode acontecer que o empregado já tivesse condições pessoais que facilitassem o acontecimento ou resultado. 
+
+Se um indivíduo tem uma certa fraqueza óssea e sofre uma pancada que para outro traria como conseqüência apenas uma zona dolorida, mas para ele resulta numa fratura, suas condições pessoais não afastam a aplicação da legislação acidentária pela totalidade do acontecimento. 
+
+Se uma lesão com ferimento atinge um diabético, que em face de suas condições de saúde vem a sofrer a amputação de uma perna ou de um braço, a legislação acidentária cobre a conseqüência total.
+
+Por isso, a Lei (artigo 21, inciso I, da Lei nº 8.213/91) também considera com acidente de trabalho: “o acidente ligado ao trabalho que, embora não tenha sido a causa única, haja contribuído diretamente para a morte do segurado, para redução ou perda de sua capacidade para o trabalho ou produzido lesão que exija atenção médica para sua recuperação.”
+
+
+0  Doenças profissionais do trabalho
+0 O legislador equiparou ao acidente do trabalho as doenças que, oriundas do trabalho, acarretem incapacidade laboral. Para tanto, vem estabelecido no artigo 20 da Lei 8.213/91:
+
+0  Doenças profissional
+0 Doença profissional, assim entendida a produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade e constante da respectiva relação elaborada pelo Ministério do Trabalho e da Previdência Social.
+
+0 Assim, o saturnismo (intoxicação provocada em que trabalha com chumbo), e a silicose (pneumoconiose provocada em trabalha com sílica) são doenças tipicamente profissionais.
+
+
+
+
+
+0  Doença do Trabalho
+0 Doença do trabalho, assim entendida a adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado e com ele se relacione diretamente, constante da relação mencionada no inciso I.
+
+0 Como exemplo, poderia ser citada a surdez como doença do trabalho tendo em conta o serviço executado em local extremamente ruidoso.
+0 De outra parte, não são consideradas como doença profissional  ou do trabalho as doenças degenerativas, as inerentes a grupo etário e as que não acarretam incapacidade para o trabalho.
+
+
+b)  CONCEITO PREVENCIONISTA
+
+0  O acidente do trabalho no conceito legal só é caracterizado quando dele decorre uma lesão física, perturbação funcional ou doença, levando à morte, perda total ou parcial, permanente ou temporária da capacidade para o trabalho.
+
+0  Os prevencionistas, em especial o cipeiro, não devem se ater somente ao conceito legal, mas procurar conhecer o acidente do trabalho em toda a sua extensão e principalmente em suas possibilidades de prevenção.
+
+0  Os acidentes que não causam ferimentos pessoais devem ser considerados acidentes do trabalho do ponto de vista técnico-prevencionista, visando evitar os danos físicos que possam por eles serem provocados. 
+
+0  O conceito prevencionista caracteriza o acidente de trabalho como “toda ocorrência não programada, estranha ao andamento normal do trabalho, da qual possa resultar danos físicos e/ou funcionais, ou morte do trabalhador e/ou danos materiais e econômicos à empresa.”
+
+0  Nessa definição, o acidente não fica condicionado à lesão física. Sob o aspecto prevencionista, todo acidente deve ser considerado importante, pois não é possível prever se ele provocará ou não lesões no trabalhador.
+
+0  Esta conceituação ampla leva ao registro de todos os acidentes do trabalho ocorridos, permitindo a exploração de suas causas e conseqüente prevenção, que caracteriza a verdadeira atuação da CIPA. 
+
+0  Um exemplo seria o caso de uma ferramenta que caí do alto de um andaime. Fica caracterizado o acidente sob o enfoque prevencionista, mesmo que esta não atinja ninguém.           
+
+
+
+VII - REGULAMENTAÇÃO DA SEGURANÇA E MEDICINA DO TRABALHO (NR7)
+
+NR7 - PROGRAMA DE CONTROLE MÉDICO DE SAÚDE OCUPACIONAL.
+
+7.1  - Do Objeto
+
+7.1.1  - Esta Norma Regulamentadora - NR estabelece a obrigatoriedade da elaboração e implementação, por parte de todos os empregadores e Instituições que admitam trabalhadores como empregados, do Programa de Controle Médico de Saúde Ocupacional - PCMSO, com o objetivo de promoção e preservação da saúde do conjunto dos seus trabalhadores. 
+
+7.1.1  - Esta NR estabelece os parâmetros mínimos e diretrizes gerais a serem observados na execução do PCMSO, podendo os mesmos ser ampliados mediante negociação coletiva de trabalho.
+
+7.1.3  - Caberá à empresa contratante de mão-de-obra prestadora de serviços, informar à empresa contratada, os riscos existentes e auxiliar na elaboração e implementação do PCMSO nos locais de trabalho onde os serviços estão sendo prestados.
+
+7.2  - Das Diretrizes
+
+7.2.1  - O PCMSO é parte integrante do conjunto mais amplo de iniciativas da empresa no campo da saúde dos trabalhadores, devendo estar articulado com o disposto nas demais NR.
+
+7.2.2  - O PCMSO deverá considerar as questões incidentes sobre o indivíduo e a coletividade de trabalhadores, privilegiando o instrumental clínico - epidemiológico na abordagem da relação entre sua saúde e o trabalho.
+7.2.3  - O PCMSO deverá ter caráter de prevenção, rastreamento e diagnóstico precoce dos agravos à saúde relacionados ao trabalho, inclusive de natureza subclínica, além da constatação da existência de casos de doenças profissionais ou danos irreversíveis à saúde dos trabalhadores.
+
+7.2.1  - O PCMSO deverá ser planejado e implantado com base nos riscos à saúde dos trabalhadores, especialmente os identificados nas avaliações previstas nas demais NR.
+7.1  - Das Responsabilidades.
+
+7.3.1  - Compete ao empregador:
+a)  garantir a elaboração e efetiva complementação do PCMSO, bem como zelar pela sua eficácia;
+b)  custear, sem ônus para o empregado, todos os procedimentos relacionados ao PCMSO;
+c)  indicar, dentre os médicos dos Serviços Especializados em Engenharia de Segurança e Medicina do Trabalho - SESMT, da empresa, um coordenador responsável pela execução do PCMSO;
+d)  no caso de a empresa estar desobrigada de manter médico do trabalho, de acordo com a NR4, deverá o empregador indicar médico do trabalho, empregado ou não da empresa para coordenar o PCMSO;
+e)  inexistindo o médico do trabalho na localidade, o empregador poderá contratar médico de outra especialidade para coordenar o PCMSO.
+
+7.3.2  - compete ao médico-coordenador, realizar os exames médicos previstos no item 7.4.1, o encarregar os mesmos a profissional médico familiarizado com os princípios da patologia ocupacional e suas causas, bem como o ambiente, as condições de trabalho e os riscos a que está ou será exposto cada trabalhador da empresa a ser examinado.
+
+
+7.4  - Do Desenvolvimento do PCMSO
+
+7.4.1  - o PCMSO o deve incluir, entre outros, a realização obrigatória dos exames médicos:
+a)  admissional;
+b)  periódico;
+c)  de retorno ao trabalho;
+d)  de mudança de função;
+e)  demissional.
+7.4.2  - os exames que trata o item 7.4.1 compreendem:
+
+a)  avaliação clínica, abrangendo anamnese ocupacional e exame físico e mental;
+b)  exames complementares, realizados de acordo com os termos específicos desta NR e seus anexos.
+
+7.4.1  - A avaliação clínica referida no item 7.4.2, alínea “a”, como parte integrante dos exames médicos constantes no item 7.4.1, deverá obedecer os prazos e à periodicidade conforme previstos no subitens abaixo relacionados:
+
+7.4.3.1  - No exame médico admissional, deverá ser realizado antes que o trabalhador assuma suas atividades;
+
+7.4.3.2  - No exame médico periódico, de acordo com os intervalos mínimos de tempo abaixo discriminados:  
+
+a)  para trabalhadores expostos a riscos ou situações de trabalho que impliquem no desencadeamento ou agravamento de doença ocupacional, ou, ainda, para aqueles que sejam portadores de doenças crônicas, os exames deverão ser repetidos:
+
+a.1) a cada ano ou a intervalos menores, a critério do médico encarregado, ou se notificando pelo médico agente da inspeção do trabalho, ou, ainda, como resultado de negociação coletiva de trabalho.
+
+a)  para os demais trabalhadores:
+
+b.1) anual, quando menores de 18 anos e maiores de 45 anos de idade;
+b.2) a cada dois anos, para os trabalhadores entre 18 anos e 45 anos de idade;
+
+7.4.3.1  - No exame médico de retorno ao trabalho, deverá ser realizada obrigatoriamente no primeiro dia da volta ao trabalho do trabalhador ausente por período igual ou superior a 30 dias por motivo de doença ou acidente, de natureza ocupacional ou não, ou parto.
+
+7.4.3.4  - No exame médico de mudança de função, será obrigatoriamente realizado antes da data de mudança.
+
+7.4.3.1  - No exame médico demissional, será obrigatoriamente realizado até a data homologação.
+
+7.4.4  - Para cada exame médico realizado previsto no item 7.4.1, o médico emitirá o Atestado de Saúde Ocupacional - ASO, em duas vias.
+
+7.4.5  - Os dados obtidos nos exames médicos, incluindo avaliação clínica e exames complementares, as conclusões e as medidas aplicadas deverão ser registrados em prontuário clínico individual, que ficará sob a responsabilidade do médico coordenador do PCMSO.
+
+7.4.1  - O PCMSO deverá obedecer a um planejamento em que estejam previstas as ações de saúde a serem executadas durante o ano, devendo estas ser objeto de relatório anual.
+
+
+7.1  - Dos Primeiros Socorros
+
+Todo estabelecimento deverá estar equipado com material necessário à prestação de primeiros socorros, considerando-se as características da atividade desenvolvida; manter esse material guardado em local adequado, e aos cuidados de uma pessoa treinada para esse fim.
+
+
+
+
+
+
+94
+
+

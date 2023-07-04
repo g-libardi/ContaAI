@@ -1,0 +1,3241 @@
+O Fantasma da Máquina
+
+Les Martin
+
+
+
+ "Baseado no roteiro e série de TV, Arquivo X, criado por Chris Carter".
+
+ Editora Mercuryo Ltda
+ São Paulo, 1997
+
+
+ Nota de contra-capa
+ Toda uma série de comandos que lhe daria o controle sobre o sistema de
+computadores que
+ele havia projetado.
+ De repente, piscando sem parar, no monitor do vídeo aparecia uma imagem de
+um homem
+parado diante da porta de aço inoxidável do elevador.
+ - Desce... - anunciou o computador.
+ O homem, boquiaberto, perdeu o equilíbrio no momento em que o piso sobre o
+qual se
+apoiava baixou.
+ Ele foi atirado de encontro à parede de aço inoxidável.
+ - Não gritou Wilczek.
+ Seu grito acabou ficando sufocado na garganta enquanto a cena no visor foi se
+apagando.
+ A última coisa que ele viu foi a imagem das pernas do homem tremendo com
+violência.
+ - Programa executado. - declarou o computador.
+Final da nota de contra-capa.
+
+ A todas as maravilhosas pessoas que estão lá fora, no escuro
+
+-- Página 7
+
+ Capítulo 1
+
+  Crystal City, Virgínia. É aqui que fica o edifício Eurisko, sede mundial da
+Eurisko
+Corporation. Revestido de painéis de vidro escuro, o arranha-céu subia esguio,
+com seus
+trinta andares, na direção das nuvens. Era quase possível ouvir a gigantesca
+estrutura dizer:
+"Eu sou o futuro".
+  Nesse momento, em um dos maiores escritórios que ficavam no último andar
+do prédio,
+dois homens discutiam a respeito desse futuro.
+  Bastava olhar para eles para ver como eram diferentes os seus respectivos
+pontos de vista.
+  Um dos dois estava vestido com um terno muito caro, que assentava
+perfeitamente em seu
+corpo. Seus cabelos grisalhos e cheios estavam muito bem cortados. Ele estava
+em pé, atrás
+de uma escrivaninha bastante grande e bem arrumada.
+  O outro homem, que estava na frente dele, usava uma camiseta de malha e um
+par de
+calças
+jeans desbotadas, que ficavam folgadas em seu corpo esquelético. Os cabelos
+desalinhados
+caíam por toda a volta de sua cabeça. Mas o que mais se destacava nele era o
+brilho intenso
+dos seus olhos, por trás dos óculos de armação de metal.
+
+-- Página 8
+
+ O homem magro era Brad Wilczek, fundador da Eurisko Corporation.
+ - Por que você acha que o preço das ações da Eurisko afundaram como um
+peso de
+chumbo? - perguntou ele.
+ O outro homem, Benjamin Drake, presidente da Eurisko, limitou-se a sorrir.
+Mas era o
+sorriso de alguém que parecia estar falando com uma criança que tem um
+ataque de
+teimosia.
+ - Os lucros foram muito pequenos no ano passado - disse Drake. - E não
+devem melhorar
+coisa alguma este ano, a menos que façamos uma drástica redução de custos.
+ - Errado - retrucou Wilczek. - É porque você cortou pela metade as verbas
+destinadas ao
+Departamento de Pesquisa e Desenvolvimento de Produtos. Você se esqueceu
+de que os
+negócios da Eurisko se baseiam no futuro, e não no presente. Você não tem a
+menor idéia do
+significado da aventura.
+ O mesmo sorriso permaneceu no rosto de Drake.
+ - Queira você ou não, os negócios estão mudando muito no ramo de software
+para
+computadores - disse ele. - Não somos mais uma indústria que está apenas
+começando.
+Estamos em pleno campo de batalha, diante dos gigantes do setor. Temos de
+ser uma
+empresa ascética e dura. Temos de cortar toda a gordura e acabar com os
+desperdícios.
+ - O que temos de cortar é a ganância desmedida de certas pessoas - disse
+Wilczek. -
+Precisamos sacrificar os lucros de curto prazo, em favor dos objetivos do futuro
+mais
+distante.
+ - Vamos mudar um pouco de assunto, está bem? - disse Drake. - Não se
+esqueça de que
+passamos por este mesmo debate durante a reunião dos nossos principais
+acionistas. E você
+se lembra bem o que eles decidiram. Quem é que está tentando convencer
+agora? A câmera
+que está ali?
+
+-- Página 9
+
+  Drake olhou para o teto. Havia uma luz acesa no centro do olho eletrônico que
+estava
+ligado ao Sistema Operacional Central, ou SOC. Com centenas de outros olhos
+eletrônicos
+semelhantes em todo o prédio, o sistema mantinha uma rigorosa vigilância sobre
+tudo o que
+acontecia no edifício, desde o porão até o ultimo andar.
+  Wilczek olhou com rancor para Drake e disse:
+  - Será que não entende? Você está me matando. Está matando minha
+empresa.
+  O sorriso de Drake permaneceu em seus lábios.
+  - A Eurisko não é sua empresa, Brad - lembrou ele a Wilczek. - E já faz tempo
+que não é.
+Seria melhor você crescer um pouco e acostumar-se com isso. Agora, por que
+não vai
+embora e me deixa fazer meu trabalho?
+  Drake ficou olhando, enquanto Wilczek saía bufando de raiva. Então, tirou o
+paletó e
+sentou-se diante do pequeno computador portátil, para redigir o anúncio oficial
+de mudança
+de direção na Eurisko.
+  Já era noite quando Drake terminou. Ele tornou a ler o parágrafo final do
+documento:
+"Como meu primeiro ato oficial, estou colocando um ponto final no Projeto SOC.
+Apesar de
+todas as nossas esperanças, as reduzidas vendas desse sistema e os custos
+em constante
+elevação exigem que esta decisão seja tomada".
+  Drake balançou a cabeça em sinal de satisfação, apertou a tela para salvar o
+arquivo, e
+fechou o pequeno computador. Bocejando, ele se levantou e espreguiçou.
+Tornou a vestir o
+paletó e caminhou em direção da porta.
+ Antes que chegasse à saída, ele ouviu o barulho de água corrente. Vinha do
+banheiro na
+grande sala da direção executiva. Fazendo uma careta, Drake virou-se em
+direção ao
+banheiro, para ver o que estava acontecendo lá.
+
+-- Página 10
+
+  Seus pés mergulharam na água que já se acumulava sobre o piso frio do
+banheiro. A luz
+que
+entrava pela porta aberta permitiu que ele visse a água que escapava pela borda
+superior da
+pia de mármore negro do lavatório. Ele se aproximou para ver melhor. A torneira
+estava
+aberta, e o ralo parecia estar entupido.
+  - Mais um bom motivo para acabar com o Projeto SOC - resmungou ele. - O
+sistema parece
+não ser capaz de controlar as coisas no prédio.
+  Ele chegou perto do lavatório e passou a mão por cima da torneira. A água
+parou de correr.
+Pelo menos este controle eletrônico ainda está funcionando - pensou ele
+consigo mesmo.
+  Mas a pia continuou cheia até a boca. Drake tirou o paletó, dobrou as mangas
+da camisa e
+enfiou a mão na água, para desentupir o ralo.
+  Antes que conseguisse fazer o que pretendia, ouviu a campainha do telefone
+que havia sido
+instalado no banheiro.
+  - Quando não é uma coisa, é outra - suspirou Drake, tirando a mão de dentro
+da água.
+Depois de sacudir o braço para livrar-se do excesso de água, ele apanhou o
+telefone.
+  - Alô - disse ele, laconicamente. Mas o receptor permaneceu em silêncio. Com
+um pouco
+mais de veemência, ele repetiu: - Alô.
+  Ouviu então uma voz digitalizada, gerada por um computador, que dizia:
+ - Ao sinal, a hora padrão do leste será sete e trinta e cinco da noite...
+ O barulho surdo da porta batendo impediu-o de ouvir o restante da mensagem
+ao telefone.
+O banheiro ficou mergulhado na mais completa escuridão. Drake ouviu a tranca
+eletrônica
+da porta sendo fechada.
+
+-- Página 11
+
+  - Que diab...? - perguntou ele.
+  Colocou o fone no gancho. Foi até a porta e tirou do bolso o cartão magnético
+usado para
+abrir as fechaduras do prédio. Passou o cartão pelo sensor magnético e tentou
+torcer a
+maçaneta. Não funcionou.
+  - Raios! - disse Drake. - Acho que vou ter de agir à moda antiga.
+  Ele apanhou um chaveiro que trazia no bolso. Tateou entre as chaves até
+achar aquela que
+procurava, e passou os dedos pela porta, em busca da fechadura. Enfiou a
+chave e...
+  Uma bola de fogo explodiu no meio do banheiro.
+  O clarão foi a última coisa que Drake conseguiu ver.
+  Seu corpo voou violentamente para trás, no meio da escuridão, atingindo o
+grande espelho
+do banheiro.
+  Benjamin Drake caiu de costas sobre o piso molhado, com os braços
+estendidos para os
+lados, e o corpo totalmente imóvel. (Acima dele, a luz vermelha da câmera
+cintilou,
+ameaçadoramente).
+
+-- Página 13
+
+ Capítulo 2
+
+ Já era quase o Dia das Bruxas, e uma abóbora com uma vela acesa dentro
+decorava o
+saguão do edifício, sede do FBI. O agente especial Jerry Iamana observava
+aquela estranha
+decoração. A abóbora parecia estar sorrindo para ele. Dos dois, a abóbora com
+a vela
+dentro parecia ser um pouco mais inteligente.
+ Em nome da verdade, Jerry não era totalmente idiota. Mas, por outro lado, não
+era lá muito
+esperto.
+ Mas, apesar disso, ele havia feito uma coisa bem inteligente no FBI. Tinha sido
+parceiro do
+agente especial Fox Mulder durante um ano inteiro. Jerry lembrava-se, com
+saudade,
+daqueles doze meses. Na verdade, tinha sido muito divertido resolver todos
+aqueles casos.
+Esta tinha sido a razão pela qual ele estava agora no saguão, procurando por
+Mulder.
+ Naquele momento, porém, ele não conseguia deixar de olhar para as balas e
+os doces que
+estavam dentro das abóboras que decoravam aquele ambiente.
+ Jerry sabia que não podia comer nenhum doce. Já estava com sete quilos além
+do normal
+para sua altura, segundo informação obtida durante o mais recente exame
+médico que fizera
+no FBI.
+
+-- Página 14
+
+  Mesmo assim, uma balinha só não faria mal nenhum. Além disso, ele sentia
+necessidade
+de
+energia.
+  Enfiou a mão na abóbora decorativa. E tirou de dentro uma porção de balas.
+Enfiou uma
+delas na boca e as outras no bolso do paletó. Afinal, não podia adivinhar quando
+sentiria
+novamente necessidade de um estímulo como aquele. O seu trabalho
+significava enfrentar
+uma emergência após a outra. Algumas vezes Jerry desejava que não tivesse
+assistido tantos
+filmes de bandido e mocinho, quando era criança. Assim, poderia ter seguido
+alguma outra
+carreira profissional. Mas já havia investido tempo demais no FBI para pensar
+em
+abandonar a profissão agora.
+  O olhar de Jerry percorreu todo o salão. Ele viu dezenas de agentes tomando
+café, batendo
+papo e comendo o lanche. Seu rosto se iluminou quando o olhar encontrou a
+figura de Fox
+Mulder.
+  Mulder e sua parceira, a agente especial Dana Scully, estavam apanhando o
+lanche em um
+carrinho.
+  Eles se viraram ao mesmo tempo, quando uma voz ecoou no salão:
+  - Mulder!
+  Mulder forçou um sorriso, quando viu quem gritava.
+  - Oi, Jerry - disse ele. - Que prazer vê-lo aqui.
+  Jerry também sorriu calorosamente, enquanto se aproximava. Mulder achava
+mais fácil
+imaginar que Jerry fosse semelhante a um cachorrinho de estimação, que se
+aproximava do
+dono, abanando a cauda.
+  Então Jerry sorriu ainda mais, olhando para Scully e estendendo a mão para
+ela.
+  - Você é Dana Scully, não é? - perguntou ele, enquanto apertava a mão dela. -
+Sou Jerry
+Lamana. Mulder já deve ter-lhe falado a meu respeito.
+
+-- Página 15
+
+  - Prazer em conhecê-lo - respondeu Scully Ela ergueu as sobrancelhas para
+Mulder, como
+se fizesse uma pergunta em silêncio.
+  - Jerry e eu trabalhamos juntos na seção de Crimes Violentos - explicou
+Mulder.
+  - Ei, que negócio é esse de "trabalhamos juntos"? - perguntou Jerry, com uma
+risada. -
+Fizemos muito mais do que "trabalhar juntos". Nós fomos bons parceiros, não é
+mesmo
+parceiro?
+  - É, sim, é verdade - disse Mulder, olhando interessado para o prato de salada.
+  Enquanto isso, Scully apanhava o sanduíche de atum que havia escolhido, feito
+com pão
+integral, de sete tipos de grãos. O homem que tomava conta do carrinho de
+lanche olhou para
+a bandeja única onde estavam os lanches de Mulder e Scully.
+  - São oito dólares e cinqüenta - disse ele.
+  - É minha vez de pagar, Mulder - disse Scully, abrindo a bolsa.
+  Rapidamente Jerry tirou a carteira do bolso de dentro do paletó.
+  - Vou pagar o almoço de vocês - anunciou ele, apanhando uma cédula de dez
+dólares.
+Colocou o dinheiro sobre o balcão do carrinho de lanche, como se fosse uma
+nota de cem.
+  - Ora, muito obrigada - disse Scully, dando para Mulder outro olhar intrigado.
+  Mas Mulder não se mostrava nem um pouco interessado.
+  - Está enfrentando problemas em algum caso, Jerry? - perguntou ele,
+suavemente.
+  - Para dizer a verdade... - começou Jerry. Então fez uma pausa e olhou em
+volta,
+sussurrando: - Ouça, talvez fosse melhor discutirmos este assunto em particular.
+
+-- Página 16
+
+ - Se quiser podemos ir para minha sala - disse Mulder, espetando com o garfo
+um tomate
+vermelhinho.
+ - Boa idéia - respondeu Jerry E voltou-se para Scully, acrescentando: - É claro
+que você
+também está convidada para a conversa. Acho que três cabeças pensam melhor
+do que duas.
+ - Irei com prazer - respondeu Scully, sem poder esconder sua curiosidade.
+ - Posso até lhes oferecer a sobremesa - disse Jerry, apanhando do bolso duas
+balas doces.
+ Quando os três chegaram à porta da sala de Mulder, no porão do prédio, Jerry
+balançou a
+cabeça.
+ - Jamais consegui entender por que a chefia colocou você neste lugar horrível -
+disse ele. -
+Um sujeito brilhante como você...
+ Quando entraram, o olhar de Jerry percorreu toda a sala e ele tornou a
+balançar a cabeça.
+  - Jamais consegui entender como você pode trabalhar no meio de toda esta
+bagunça. Para
+mim as coisas precisam estar muito limpas e arrumadas.
+  - Alguns dos casos em que trabalho são... uma bagunça - disse Mulder,
+esperando que
+Jerry
+fosse direto ao assunto.
+  E não foi preciso esperar muito.
+  - Para dizer a verdade, o caso em que estou trabalhando agora é meio
+bagunçado e confuso
+- disse Jerry - Talvez vocês já tenham ouvido falar a respeito. O presidente da
+Eurisko
+Corporation foi encontrado frito no banheiro privativo de seu gabinete.
+Oficialmente ele foi
+considerado morto por eletrocussão.
+  - Não foi acidental? - perguntou Scully.
+  - Tudo indica que não - respondeu Jerry ­ Parece que ele caiu em uma
+armadilha bastante
+sofisticada. Mas ainda não temos a menor idéia de como foi armada ou quem a
+teria
+preparado. O pessoal encarregado da manutenção do prédio encontrou o corpo
+há apenas
+doze horas.
+
+-- Página 17
+
+  - E por que o FBI está investigando o caso? ­ perguntou Mulder.
+  - A Eurisko tem alguns contratos com o Governo - explicou Jerry - Acredita-se
+que poderia
+haver algum risco de segurança nacional.
+  - Por acaso esses contratos envolvem armamentos? - perguntou Mulder.
+  - Pelas informações que nos foram dadas, não - respondeu Jerry - É claro que
+ainda não
+temos todos os detalhes. Mas os contratos poderiam envolver outros interesses
+do Governo,
+além de armamentos. Afinal, hoje em dia utilizamos software de computadores
+para todos os
+tipos de coisa.
+  - Quem é o encarregado das investigações? - indagou Scully.
+  - Você conhece Nancy Spiller? - disse Jerry
+- A catedrática de Medicina legal na Academia do FBI? - perguntou Scully - A
+guru oficial,
+especialista em morte e suas causas?
+  - Ela mesma - respondeu Jerry.
+  - Eu me lembro de ter feito o curso com ela ­ comentou Scully - Os alunos lhe
+deram o
+apelido de "A Dama de Ferro".
+  - Isso foi nos bons tempos dela - explicou Jerry.
+- Hoje, basta cometer um erro e ela crucificará você. Mas, vamos ao que
+interessa: ela está
+organizando a equipe para a investigação e... - Jerry fez uma pausa, pigarreou e
+voltou-se
+para Mulder: - Depois que ela me escolheu, tomei a liberdade de sugerir o seu
+nome.
+  Mulder parou.
+
+-- Página 18
+
+ - Ouça Jerry, eu gostaria muito de ajudar você ­ disse ele. - Mas não estamos
+mais nas
+Investigações Gerais. A agente Scully e eu somos escalados apenas para casos
+muito
+particulares.
+ - Sim, eu já sabia disso - explicou Jerry. - São os Arquivos X. Foi para esse
+Departamento
+que você foi mandado, depois que deixou de trabalhar comigo. Me lembro que
+você achava
+que esse tipo de coisa não servia para mim.
+ - Como você mesmo disse, nós dois temos tipos bem diferentes - comentou
+Mulder. - Um
+gosta das coisas bem arrumadas e o outro é bagunçado. Acho que você
+combina melhor com
+o Departamento de Crimes Violentos. Geralmente esses casos são... bem mais
+simples. Sabe
+como é: tudo limpo e bem organizado.
+ - Este caso não - respondeu Jerry. - Ouça Mulder, eu não gosto de ficar
+implorando... Mas
+preciso muito de sua ajuda. Não sei para onde devo chutar a bola, neste caso.
+ - Você não vai chutar errado, Jerry - disse Mulder. E esperava que suas
+palavras tivessem
+um tom mais convicto do que ele se sentia.
+ Jerry suspirou.
+ - Este caso é grande demais para que eu me arrisque. A vítima, Benjamin
+Drake, não era
+apenas o presidente de uma empresa gigantesca. Ele era amigo pessoal do
+Ministro da
+Justiça. Minha carreira receberia um belo empurrão se eu conseguisse descobrir
+o assassino.
+E acreditem, minha carreira precisa desse empurrão.
+ Mulder começou a falar de novo:
+ - Jerry, eu gostaria muito de ajudá-lo, mas...
+ - Ora, vamos, Mulder - disse Jerry. - Tenha um pouco de compaixão. Em nome
+dos velhos
+tempos.
+ Scully sorriu consigo mesma, quando percebeu que Mulder titubeava.
+
+-- Página 19
+
+ Ela sabia que Mulder jamais conseguiria livrar-se de um mendigo sem tirar
+algumas
+moedas do bolso, nem passar perto de um pássaro caído, sem tentar colocá-lo
+de volta no
+ninho.
+ - Bem, não posso prometer coisa alguma ­ disse Mulder. - Mas vou ver o que
+posso fazer
+por você.
+ Ele olhou para Scully e ela arrematou:
+ - Vamos ver o que nós podemos fazer.
+
+-- Página 21
+
+Capítulo 3
+
+  Na manhã seguinte Mulder e Scully estavam parados na praça que havia em
+frente ao
+edifício Eurisko, olhando para o seu ponto mais alto. A luz forte do sol se refletia
+nas
+paredes externas revestidas de vidro, que mais pareciam gigantescos espelhos.
+A imagem
+refletida era a do céu azul e brancas nuvens que vagavam lentamente.
+  - Puxa! - exclamou Scully - Parece que é o tipo de lugar de que você gosta,
+Mulder. Dá a
+impressão de que desceu do espaço e foi colocado aqui.
+  - Na verdade veio do espaço cibernético ­ disse Mulder. - É o prédio construído
+por
+software. E, pelo que eu andei lendo, também é mantido por um complexo
+sistema de
+software. Recentemente havia um artigo a respeito deste prédio em uma revista
+de
+informática. O título da matéria era "Alta tecnologia sobe para o céu". Parece
+que há um
+gigantesco computador encarregado de toda a manutenção do edifício.
+  - Parece um lugar interessante para visitar, mas... - disse Scully, balançando a
+cabeça.
+
+-- Página 22
+
+ - Bem, acho que devemos tratar de conhecê-lo por dentro - disse Mulder. - Já é
+hora de
+darmos uma mãozinha a Jerry Lamana.
+ - Abra o jogo comigo, Mulder - disse Scully, enquanto eles caminhavam para a
+entrada do
+prédio. - Por que foi que você e Jerry se separaram?
+ - Porque é muito difícil trabalhar com um cara como eu - respondeu Mulder.
+ - Falando sério, Mulder - disse Scully.
+ - Então não sou um cara chato? - perguntou Mulder.
+ - Ora vamos, Mulder - disse Scully.
+ Antes que Mulder pudesse responder, os dois tiveram de parar para mostrar
+suas cédulas
+de identidade ao guarda de segurança que estava na entrada do prédio.
+ Quando passaram pela porta, Mulder continuou:
+ - Digamos que Jerry e eu tínhamos objetivos diferentes para nossas
+respectivas carreiras. A
+vontade de Jerry era trabalhar até chegar a ocupar uma sala no último andar de
+cima do
+prédio do FBI.
+ - E você? - perguntou Scully.
+ - Minha meta era chegar a ter uma sala no porão do prédio, sem janelas e nem
+aquecimento
+no inverno - respondeu Mulder.
+  - Já sei o que aconteceu com você - disse Scully - Mas, o que houve com
+Jerry?
+  - Jerry teve um pouco de azar em Atlanta ­ disse Mulder. - Ele estava
+trabalhando nas
+investigações de uma série de crimes hediondos.
+  - E que tipo de azar ele teve? - perguntou Scully.
+  - Parece que não guardou direito uma prova dos crimes, com a sacola plástica
+e tudo o mais
+- explicou Mulder.
+  - Quando conseguiu encontrar a prova, um juiz federal já havia perdido ambas
+as mãos e o
+olho direito. Isso tudo acabou colocando certos obstáculos na carreira de Jerry.
+
+-- Página 23
+
+ - Eu imagino que deve ter colocado mesmo ­ disse Scully.
+ A esta altura eles já haviam atravessado o saguão de brilhante mármore
+branco do edifício
+e chegado à porta dos elevadores. Mulder apertou o botão para subir. Ouviu-se
+o estalido
+forte de uma campainha e a porta de aço inoxidável abriu com um barulho de
+sopro.
+ A parte de dentro do elevador também era toda revestida de aço inoxidável.
+Scully passou
+os olhos por uma fileira vertical de botões que havia no painel de controle. E
+apertou o
+número 30. A porta se fechou, fazendo de novo o barulho de sopro forte.
+ - Sobe - anunciou uma voz digital, gerada por computador. E o elevador
+começou a subir
+silenciosamente.
+ - Primeiro andar... segundo andar... terceiro andar... - ia anunciando a voz
+digital.
+  De repente, sem qualquer aviso, o elevador parou com um salto.
+ A parada repentina fez com que Scully perdesse o equilíbrio e caísse.
+  Depois de ajudar sua parceira a levantar-se, Mulder olhou em volta,
+examinando todo o
+elevador. Em um dos cantos do teto podia-se ver a lente de uma câmera, com
+uma luz
+vermelha que parecia olhar direto para eles.
+ Scully viu uma porta no painel de controle onde estava escrita a palavra
+EMERGÊNCIA.
+Ela abriu-a e viu um telefone.
+ Scully mal havia levado o fone ao ouvido quando uma voz digital lhe disse:
+ - Olá. Estou aqui para ajudar. Por favor, diga o seu nome.
+ - Sou a agente Dana Scully - disse ela. - Do FBI.
+
+-- Página 24
+
+  - Por favor, diga o motivo de sua visita - pediu a voz digital.
+  O elevador começou a mover-se lentamente, tornando a subir.
+  - Por favor, diga o motivo de sua visita - repetiu a voz digital.
+  - Bem - disse Scully - Tudo parece ter voltado ao normal por aqui. Agradeço da
+mesma
+forma.
+  Ela colocou o fone no gancho e trocou olhares inquisitivos com Mulder.
+  Quando a porta do elevador abriu, no trigésimo andar do edifício, apareceu
+Jerry Lamana,
+que estava esperando por eles.
+  - Descobriu alguma coisa? - perguntou Mulder, enquanto eles caminhavam em
+direção ao
+gabinete de Benjamin Drake.
+  - Descobri, sim - respondeu Jerry, com uma expressão de alegria no rosto. E
+levou Mulder
+e Scully até um painel aberto na parede do gabinete.
+  Do lado de dentro havia uma complexa placa de circuitos elétricos.
+  - Está vendo isto? - perguntou Jerry - Alguém andou mexendo nestes circuitos.
+A carga
+positiva foi transformada em negativa. É um processo que produz choques
+elétricos de alta
+voltagem. E estão vendo isto? - Ele apontou para um fio que saía da placa de
+circuitos e
+entrava pela fechadura do banheiro. - Quando Drake enfiou a chave aqui... finito!
+- explicou
+Jerry, apontando para a chave que ainda se encontrava na fechadura.
+  - Belo trabalho, agente Lamana - disse Scully.
+  - Eu não sabia que você entendia tanto de circuitos elétricos,
+Jerry - disse Mulder.
+
+-- Página 25
+  - Para dizer a verdade, foi um dos funcionários do prédio que me forneceu
+determinados
+detalhes ­ explicou Jerry. - Um tal de Peterson. Acho que ele é da equipe de
+manutenção.
+  - Por acaso haveria perigo em colocar a mão na chave agora? - perguntou
+Scully - Gostaria
+de examiná-la melhor.
+  - Não há como tirar a chave dali - respondeu Jerry. - Acabou sendo fundida
+junto com a
+fechadura. - Ele balançou a cabeça e acrescentou: - É necessária uma voltagem
+extremamente alta para fundir desse jeito uma chave de aço.
+- Assim como para atirar longe o corpo de um homem que pesava mais de
+oitenta quilos -
+acrescentou Scully. Ela olhou para o perfil do corpo de um homem, assinalado
+sobre o piso
+do banheiro. Acima do lavatório, havia um espelho de parede, com a superfície
+toda
+rachada.
+  Enquanto isso, Mulder havia voltado ao painel de circuito elétrico.
+  - Este interruptor... Por acaso foi acionado por mãos humanas? - perguntou ele.
+  Jerry coçou a cabeça por alguns instantes. Depois disse:
+  - Bem, não encontramos nenhuma impressão digital.
+  - Mas poderia ter sido acionado por mãos humanas? - perguntou Mulder.
+  - An... - resmungou Jerry, procurando alguma coisa para dizer.
+  Uma voz que veio da direção da porta salvou-o de seu embaraço.
+  - Claro que o interruptor poderia ter sido acionado manualmente - disse uma
+voz que vinha
+de trás deles. Era uma voz carregada de autoridade.
+
+-- Página 27
+
+ Capítulo 4
+
+ O homem que estava parado junto à porta tinha uma constituição forte. Seu
+terno bege
+claro
+contrastava com a pele escura. O homem parecia tão frio e competente como
+sua voz. Jerry
+encarregou-se das apresentações.
+ - Este é Claude Peterson, engenheiro de sistemas que trabalha na manutenção
+do edifício.
+Foi ele quem descobriu o cadáver aqui.
+ - O senhor acha que alguém poderia ter montado propositalmente uma
+armadilha
+eletrônica? ­ perguntou Mulder a Peterson.
+ - Teoricamente isso seria possível ­ respondeu Peterson. - Mas, antes de mais
+nada, seria
+preciso desativar o SOC.
+ - SOC? - perguntou Mulder.
+ - É o Sistema Operacional Central, que comanda o edifício - respondeu
+Peterson.
+ - Esse tal de SOC comanda tudo que há no prédio? - perguntou Scully.
+
+-- Página 28
+
+  - Sim. Tudo e algumas coisas mais ­ respondeu Peterson. - O sistema controla
+desde as
+lâmpadas até os elevadores e a água dos banheiros. Foi uma criação de
+Wilczek.
+  - Wilczek? - perguntou Mulder.
+  - Brad Wilczek - explicou Peterson. - Foi ele quem criou o SOC. Insistiu que o
+sistema
+fosse instalado quando este edifício estava em construção, fosse qual fosse o
+custo. Achava
+que seria um projeto-piloto para sistemas que, em futuro próximo, cuidariam da
+manutenção
+de todo tipo de prédio, desde simples residências até estruturas gigantescas,
+como as torres
+gêmeas do World Trade Center, de Nova York.
+  - Pelo que estou entendendo, esse Wilczek deve ser a luz que ilumina os
+caminhos da
+Eurisko - disse Scully.
+  - Era a luz que iluminava nossos caminhos ­ disse Peterson, balançando a
+cabeça. - A
+Eurisko e ele passaram a seguir caminhos diferentes, depois da mais recente
+reunião dos
+acionistas.
+  Mulder e Scully trocaram um rápido olhar. Então, Mulder tornou a dirigir-se a
+Peterson,
+perguntando:
+  - Como engenheiro de sistemas, o senhor seria capaz de desativar o SOC?
+  - Quem? Eu? - perguntou Peterson de volta. E balançou a cabeça, com um
+leve sorriso nos
+lábios. - Não se deixe enganar pela posição que ocupo aqui. Na verdade, não
+passo de um
+zelador importante. Tudo o que tenho a fazer é monitorar o sistema o tempo
+todo, para ter
+certeza de que está funcionando bem. Foi o que aconteceu quando observei a
+sobrecarga de
+energia que se manifestou neste gabinete e vim ver o que estava acontecendo,
+acabando por
+descobrir o... - Ele parou, fazendo uma careta ao lembrar-se do cadáver que
+encontrara.
+
+-- Página 29
+
+  - Pelo que estou entendendo, a desativação do SOC exige um alto grau de
+especialização -
+disse Mulder.
+  - Antes de mais nada, seria preciso violar o código de acesso, o que é
+bastante... - Peterson
+fez outra pausa, como se estivesse fazendo cálculos. - Bem, acho suficiente
+dizer que não
+seria nada fácil.
+  - Vamos precisar de uma lista com os nomes de todas as pessoas que
+trabalham aqui e têm
+suficiente conhecimento para isso - disse Mulder. - Poderia nos fornecer essa
+lista de
+nomes?
+  - Claro - respondeu Peterson. - Mas já posso lhe adiantar que vai ser uma lista
+de
+pouquíssimos nomes.
+  - Mais uma coisa - disse Mulder. - Por acaso o SOC também controla as linhas
+telefônicas?
+  - Claro que controla - respondeu Peterson. ­ Wilczek estava planejando um
+sistema de
+controle total.
+  - Ele pode ouvir e gravar as chamadas telefônicas de fora para dentro, e os
+telefonemas
+feitos daqui para fora? - perguntou Mulder.
+  - Sim, pode - respondeu Peterson. - Por quê?
+  - Nada. Só queria saber - respondeu Mulder.
+  - Posso ir agora? - perguntou Peterson. - Tenho de examinar todo o sistema de
+ventilação
+do décimo andar. Já prestei minhas declarações ao agente Lamana e lhe dei o
+número de
+meu
+bip aqui no trabalho, assim como o telefone de minha casa.
+  - Se precisarmos do senhor nós trataremos de chamá-lo - disse Jerry, dando
+permissão para
+que Peterson saísse. Assim que Peterson se afastou, Jerry perguntou a Mulder:
+- Por que
+você lhe perguntou aquilo sobre os telefonemas?
+  - Porque o aparelho que há no banheiro está fora do gancho - respondeu
+Mulder.
+  Jerry olhou bem para o banheiro e disse:
+
+-- Página 30
+
+ - Bem, sim, isso mesmo. Está fora do gancho. Na verdade, eu estava
+começando a verificar
+esse tipo de coisa quando vocês dois chegaram.
+ - Talvez Drake estivesse conversando com alguém pouco antes de fazer sua
+imitação de
+Benjamin Franklin - disse Mulder. Jerry olhou para ele sem expressão alguma no
+rosto. E
+Mulder explicou: - Você sabe da história de Benjamin Franklin com o papagaio,
+no meio da
+tempestade... Com uma chave amarrada na ponta da linha. E o relâmpago que o
+atingiu...
+ - Ó, sim, claro. Agora entendi - disse Jerry. Ele sorriu para Scully e deu um
+tapinha no
+ombro de Mulder. ­ Eu ensinei a ele tudo o que ele sabe...
+ - Tudo o que você sabe, hein Mulder? - disse Scully, em tom de provocação,
+enquanto Jerry
+saía do gabinete.
+
+-- Página 31
+ Capítulo 5
+
+  Na tarde seguinte, Scully encontrou Mulder em sua sala, procurando
+nervosamente por
+alguma coisa, no meio da papelada que havia sobre sua mesa.
+  A confusão ali era muito grande. Havia livros, panfletos, revistas, pastas de
+documentos e
+todo tipo de objetos sobre a mesa.
+  - Perdeu alguma coisa? - perguntou Scully.
+  - As anotações que havia feito, durante as investigações na Eurisko -
+respondeu Mulder
+distraído, sem levantar os olhos da mesa.
+  - Talvez fosse mais fácil se você limpasse sua mesa mais de uma vez por ano -
+comentou
+Scully - Ou só limpa a cada dez anos?
+  - Pois eu lhe digo que aquelas anotações estavam aqui mesmo - insistiu
+Mulder.
+  - Não temos tempo para procurar por elas agora - disse Scully - Já passa das
+três horas.
+Estamos atrasados.
+  - É verdade - disse Mulder. Ele acompanhou Scully para fora de sua sala e
+foram os dois
+pelo corredor.
+
+-- Página 32
+
+  Na sala de reuniões já havia uma dúzia de outros agentes, todos sentados ao
+redor de uma
+longa mesa. Na cabeceira estava a agente especial Spiller. Scully sorriu para
+sua antiga
+instrutora da Academia, enquanto ela e Mulder se apressavam para ocuparem
+os dois
+últimos lugares vagos.
+  Spiller sorriu de volta com sua expressão corriqueira, que era totalmente
+neutra.
+  - Que bom que vocês dois puderam vir a esta reunião - disse ela
+laconicamente. -
+Chegaram
+bem a tempo de ouvir o relatório preparado pelo agente Lamana.
+  Jerry Lamana não olhou para Mulder nem para Scully. Manteve os olhos fixos
+no bloco de
+papel amarelo que tinha nas mãos.
+  - Tanto a raridade estatística do assassinato por eletrocussão como a
+complexidade do
+próprio crime indicam que foi cometido por um tipo de assassino bastante fora
+do comum -
+disse Jerry, lendo as anotações. - Afinal de contas, existem maneiras muito mais
+simples de
+se matar alguém.
+  Scully olhou para Mulder. Ele balançou a cabeça com uma expressão de total
+incredulidade, quando ouviu o perfil que Jerry traçava do criminoso. Os olhos de
+Scully
+começaram a brilhar mais intensamente, quando ela se deu conta do que estava
+acontecendo.
+  - E tudo isso me leva a crer que o culpado por este assassinato tem um tipo de
+personalidade totalmente antisocial - disse Jerry. Ele parecia tornar-se mais
+confiante a cada
+palavra que dizia.
+  Enquanto isso, Mulder havia conseguido recompor-se a duras penas. Mas seus
+lábios
+permaneciam tensos, como se ele houvesse engolido um comprimido amargo.
+  - Talvez o assassino seja um recluso ­ continuou Jerry -, já que projetou uma
+armadilha não
+apenas para evitar que fosse descoberto, mas também para não ter contato
+direto com a
+vítima.
+
+-- Página 33
+
+ Scully não conseguiu mais se conter. Inclinou o corpo para o lado, em direção
+a Mulder, e
+sussurrou em seu ouvido:
+ - Mulder, por acaso foi você quem escreveu esse perfil?
+ Mulder voltou-se para ela e mexeu os lábios para formar as palavras: "Deixa
+pra lá".
+ Enquanto isso, Jerry colocava uma fita cassete em um gravador que havia
+sobre a mesa.
+ - O telefonema que Drake recebeu poucos instantes antes de morrer dá total
+apoio a esta
+teoria - declarou Jerry, ao apertar o botão play.
+  - Ao sinal, a hora padrão do leste será sete e trinta e cinco da noite... - disse
+uma voz
+eletrônica digitalizada.
+  - Esta é a hora estimada da morte de Drake - informou Jerry, desligando o
+gravador.
+  Spiller curvou-se para a frente, sem poder esconder o interesse por aquelas
+informações,
+que agora iluminava seus olhos.
+  - Por que Drake teria telefonado para saber a hora certa, pouco antes de
+morrer? -
+perguntou ela.
+  - Ele não apanhou o telefone para chamar, mas atendeu a um telefonema
+vindo de algum
+outro ponto do próprio edifício Eurisko - disse Jerry. E fez uma pausa, para criar
+tensão.
+Quando percebeu que todos os presentes estavam concentrados no que ele
+dizia, continuou: -
+O assassino queria ter certeza de que Drake morderia a isca. Devo admitir que
+foi um plano
+muito brilhante.
+  - E sua análise também foi brilhante - disse Spiller. Era possível notar um
+ligeiro traço de
+calor na voz dela.
+- Excelente trabalho, agente Lamana.
+  Jerry fez um grande esforço para mostrar-se modesto.
+
+-- Página 34
+
+  - Estou apenas tentando fazer o meu trabalho ­ disse ele.
+  Mas, depois da reunião, Jerry tinha uma tarefa muito mais complicada pela
+frente. Teria de
+dar explicações a Mulder.
+  - Que diabo você pensa que está fazendo? - perguntou Mulder, cercando Jerry
+perto do
+bebedouro.
+  - Ei, antigo parceiro, não precisa ficar tão irritado - disse Jerry.
+  - Aquelas eram minhas anotações - disse Mulder.
+- Achei que você não se importaria - respondeu Jerry, apaziguadoramente. -
+Afinal de
+contas, estamos todos em família.
+  Mulder chegou a abrir a boca para responder, mas não conseguiu pensar em
+coisa alguma
+para dizer. Enquanto isso, Jerry olhava nervosamente ao redor, para ter certeza
+de que
+ninguém estava ouvindo. Então, voltou-se para Mulder e declarou:
+  - De qualquer maneira, não passavam de algumas anotações. Se você tivesse
+prestado mais
+atenção, teria visto que eu preenchi todos os espaços em branco.
+  - Jerry, você foi à minha sala e deliberadamente roubou minhas anotações -
+disse Mulder,
+ainda tentando entender
+o que o outro havia feito.
+  - Olhe - disse Jerry, dando umas batidinhas de leve no braço de Mulder -, você
+só está
+envolvido neste caso porque eu pedi que viesse me ajudar. E foi exatamente
+isso que fez.
+Você me ajudou. Qual é o problema?
+  Dizendo isso, ele se afastou.
+  Mulder ficou olhando-o se afastar, limitando-se a balançar a cabeça.
+  - O que foi que Jerry disse? - perguntou Scully, aparecendo de repente por trás
+de Mulder.
+  Mulder virou-se para ela e encolheu os ombros.
+
+-- Página 35
+
+ - Ele pediu desculpas... de um modo bastante peculiar.
+ - Ah, é? - disse Scully, erguendo as sobrancelhas.
+ Mulder preferiu mudar de assunto.
+ - Tem alguma novidade a respeito do caso? - perguntou
+ele.
+ - Acabei de falar por telefone com Peterson, o engenheiro de sistemas -
+respondeu Scully -
+Ele me passou a lista de nomes das pessoas que dominam o código de acesso
+ao SOC.
+ Scully entregou uma folha de papel a Mulder.
+ Ele olhou para o papel e disse:
+ - Um nome? Brad Wilczek?
+ - Ele disse que seria uma lista bem curta, lembra? - disse Scully - Andei
+fazendo algumas
+pesquisas nos jornais especializados em notícias do mercado financeiro. A coisa
+mais
+comentada ultimamente era o ódio mortal que Wilczek tinha por Drake.
+  - Faz sentido pensar em Wilczek assassinando Drake
+- disse Mulder. - E o problema é justamente este: faz sentido demais. Só um
+louco
+egomaníaco tentaria fazer uma coisa tão óbvia como essa.
+  - E isso demonstra que o excelente perfil psicológico do assassino, traçado por
+Jerry
+Lamana, acertou em cheio no alvo - disse Scully secamente. - Acho que você
+deveria dar os
+parabéns a ele.
+  - Tratarei de fazer isso - respondeu Mulder. - Assim que acabarmos de
+investigar o Sr.
+Wilczek.
+
+-- Página 37
+
+ Capítulo 6
+
+  Excelente lugar para morar - disse Scully, olhando pela janela do carro. Ela e
+Mulder
+passavam de automóvel pela linda região arborizada e de verdejantes colinas do
+interior da
+Virgínia.
+  - Este lugar era antes conhecido como paraíso dos cavalos - disse Mulder. - E
+talvez ainda
+seja. Acho que os puros-sangues locais ainda correm atrás dos cachorros na
+caça às raposas.
+  - Duvido que isso seja uma coisa do agrado de Brad Wilczek - disse Scully, ao
+virar o
+carro pela longa avenida que levava à casa de Wilczek.
+  - Tenho a impressão de que sua impressão é correta - disse Mulder, olhando
+para a
+brilhante e ultra-moderna estrutura que ficava no final da avenida. - Aquela não é
+nenhuma
+velha casa de fazenda desta região.
+  Scully estacionou atrás de outro carro que já estava parado ali, e os dois
+desceram.
+  - Excelente de novo - disse ela, observando o luzidio carro esporte. - É um
+Corvette 1957.
+Em magníficas condições. Deve ter custado uma soma magnífica em algum
+leilão.
+
+-- Página 38
+
+ Mulder olhou para a placa de licenciamento: EURISKO 1. Acariciou o brilhante
+capô do
+veículo e tornou a olhar para a casa. - Então é isso que se consegue com um QI
+de 220 e um
+salário anual de vários milhões de dólares.
+ - Tudo isso e o paraíso também - disse Scully.
+ - O paraíso da alta tecnologia - resmungou Mulder, olhando para a câmera do
+sistema de
+segurança, instalada na parte superior da porta da mansão, e apontada
+diretamente para eles.
+A câmera movimentava-se para seguir cada movimento deles.
+ - Não acho que seja necessário tocar a campainha para avisar que chegamos -
+comentou
+Scully, ao mesmo tempo em que apertava o botão.
+ Seu dedo mal se levantara do botão quando a porta se abriu.
+ Brad Wilczek apareceu em pessoa. Era exatamente a mesma pessoa que
+Scully vira nas
+fotos encontradas nos artigos de jornal a seu respeito. Franzino, magro e fraco.
+Mas
+nenhuma
+das fotos tinha capturado a intensa energia que irradiava daquele homem.
+ - Sim? - perguntou Wilczek. A palavra saíra rápida e clara, como uma fagulha
+no meio da
+escuridão.
+ - É Brad Wilczek? - perguntou Scully.
+ - Sou - respondeu ele.
+ Scully mostrou sua identificação e disse:
+ - Somos do FBI.
+ - Por que foi que demoraram tanto? ­ perguntou Wilczek, com um misto de
+impaciência e
+desprezo.
+ Scully trocou um olhar com Mulder. Wilczek podia ser muitas coisas, mas
+claramente não
+tinha nada de humilde.
+  - Entrem - disse Wilczek, ao mesmo tempo em que se virava para levá-los para
+dentro. -
+Oh, vocês se importariam de tirar os sapatos?
+
+-- Página 38
+
+  Foi só então que Scully percebeu que Wilczek estava descalço.
+  Wilczek foi à frente, caminhando sobre pisos de mármore,
+passando por magníficos jardins japoneses, construídos debaixo de clarabóias
+de vidro, até
+chegarem a um grande espaço aberto, dominado por uma gigantesca
+escrivaninha de aço
+inoxidável. Entronizado, havia sobre ela um poderoso computador.
+  Wilczek empoleirou-se em uma beirada da escrivaninha. E fez sinal para que
+Scully e
+Mulder tomassem lugares em duas poltronas.
+  - O que querem de mim? - perguntou Wilczek. Então, antes que Scully ou
+Mulder pudesse
+dizer uma palavra, ele respondeu sua própria pergunta: - Suponho que
+pretendem obter
+informações a respeito do meu relacionamento com o falecido Benjamin Drake.
+  - Se houver alguma coisa que poderia nos dizer, estamos esperando - disse
+Scully.
+  - Podemos dividir aqueles que estão envolvidos na indústria da ciência da
+computação em
+dois tipos de pessoas - disse Wilczek. - Os organizados e os desorganizados.
+Na verdade,
+acho que podemos dividir o mundo da mesma forma.
+  - Imagino que o senhor considera que Drake fazia parte do primeiro grupo -
+disse Scully.
+Enquanto falava, não conseguiu evitar de olhar para Mulder. Surpreendeu-o
+enquanto ele
+balançava a cabeça consigo mesmo, com um brilho de compreensão nos olhos.
+Como ela
+havia suspeitado, Mulder e Wilczek pareciam estar na mesma faixa de onda.
+- As pessoas organizadas gostam de tudo muito claro - continuou Wilczek, com
+absoluta
+clareza na voz. ­ Usam roupas limpas e bem passadas. Gostam de trabalhar
+com coisas que
+podem ser somadas ou subtraídas sem deixar restos nem sobras. Coisas do tipo
+percentagem
+de mercado, ações e lucros anuais, semestrais e trimestrais, além de gordos
+abonos
+individuais.
+
+-- Página 40
+
+  - Mas o senhor tinha uma visão diferente para a companhia - disse Scully.
+  - Eu comecei a Eurisko no fundo da garagem da casa de meus pais - disse
+Wilczek. Havia
+orgulho em sua voz. Orgulho e um toque de tristeza, por um passado
+desaparecido. - Eu
+estava com vinte e dois anos de idade. Tinha acabado de passar um ano
+acompanhando os
+Grateful Dead. Minha mente estava completamente aberta, e eu conseguia
+sentir que todo o
+Universo entrava pelo meu cérebro.
+  Scully conseguia imaginar com muita facilidade o quadro que estava sendo
+pintado pelas
+palavras de Wilczek. Os cabelos dele eram ralos na parte de cima da cabeça, e
+havia umas
+poucas rugas no rosto daquele homem. Mas o garoto de vinte e dois anos de
+idade, cheio de
+sonhos, ainda estava muito vivo em cada palavra que ele dizia, e em cada gesto
+que fazia.
+  Wilczek fez uma pausa, e depois perguntou:
+  - Por acaso sabe o que significa eurisko?
+  Mulder pigarreou e falou:
+  - É uma palavra grega, não é mesmo? Significa "eu aprendo coisas".
+  Wilczek deu-lhe um relutante e ligeiro olhar surpreso de aprovação.
+  - É quase isso - disse ele. - Na verdade a palavra significa "eu descubro
+coisas".
+  Dizendo isso, Wilczek desceu da escrivaninha. Sua voz adquiriu um tom
+amargo, quando
+ele disse:
+  - Infelizmente, Ben Drake não estava interessado em descobertas. Era um
+homem de pouca
+visão, tinha sede de poder, e era apenas mais um homem ganancioso, que tinha
+olhos apenas
+para si mesmo... Era completamente cego para tudo o mais.
+
+-- Página 41
+
+  - O senhor poderia ser um pouco mais específico?
+- pediu Scully - Poderia definir melhor essa cegueira que atribui a Benjamin
+Drake?
+  - Ele era cego para todas as novas possibilidades de aplicação dos softwares
+de
+computador- disse Wilczek, como se estivesse cuspindo as palavras. - Como os
+programas
+de realidade virtual, a inteligência artificial, a Casa Inteligente.
+  - Casa Inteligente? - perguntou Scully.
+  Movendo-se com rapidez, Wilczek levou Scully e Mulder para um gabinete
+preto
+impressionantemente grande. Abriu o armário, deixando à vista um enorme
+monitor de tela
+plana.
+  - Este é o protótipo de um sistema que algum dia será usado em todos os
+edifícios que
+forem construídos - explicou ele. - Com este sistema, tenho acesso a cada
+centímetro
+quadrado de minha casa.
+  Wilczek apertou um botão para ligar o aparelho.
+  Apareceu na tela um emaranhado de linhas e pontos interligados.
+  - O que estão vendo é um plano detalhado do primeiro piso de minha casa -
+disse Wilczek.
+- Todas as portas, janelas, peças de mobília, detectores de fumaça, lâmpadas,
+canos do
+sistema hidráulico, linhas de fiação elétrica, sistemas de telecomunicações...
+tudo. Estes
+gráficos indicam a temperatura e a umidade. Aquelas três luzes vermelhas que
+estão
+piscando representam nós três parados aqui e, se houvesse qualquer outra
+coisa em
+movimento dentro da casa, o sistema também acompanharia cada um dos seus
+movimentos.
+  - Impressionante - disse Scully, enquanto Mulder balançava a cabeça,
+indicando concordar
+com ela.
+ - Impressionante? Claro que é - disse Wilczek. ­ Este lugar é tão seguro como
+Fort Knox, e
+tem a mesma eficiência energética de qualquer iglu construído pelos esquimós.
+
+-- Página 42
+
+  - Quando foi que instalou este sistema? ­ perguntou Mulder.
+  - Três anos atrás - respondeu Wilczek, com um tom de ódio envolvendo suas
+palavras. - A
+Eurisko estava muito à frente da Microsoft e de outros gigantes do software,
+neste projeto em
+particular. Mas então, Ben Drake, em um dos seus típicos golpes de mestre,
+resolveu cortar
+os fundos destinados ao projeto.
+  Mulder permitiu que Wilczek tivesse alguns momentos para controlar-se. Então,
+perguntou:
+  - Sr. Wilczek, por acaso este sistema é semelhante àquele que se acha
+instalado na sede
+mundial da Eurisko?
+  - Está falando do SOC? - perguntou Wilczek. - Claro que sim. O SOC é uma
+variação do
+sistema que tenho instalado aqui. A única diferença é que o SOC é bem maior, o
+que o torna
+ainda melhor. Depois que projetei o SOC, achei que ninguém seria capaz de
+negar que se
+tratava de uma amostra do futuro. - Wilczek fez uma pausa. - Mas Ben Drake
+provou que eu
+estava errado.
+  Com um movimento brusco e quase selvagem, Wilczek desligou o monitor. E
+olhou com
+uma expressão severa para a tela escura.
+  - Em sua opinião, Sr. Wilczek - disse Mulder -, quantas pessoas conhecem
+suficientemente
+aquele sistema para poder desativá-lo?
+  - Ah, estava demorando a pergunta principal - disse Wilczek. Havia uma certa
+malícia em
+sua voz. - Eu estava imaginando quanto tempo ainda iria demorar até me
+perguntarem isso.
+E
+a resposta é: não são muitas.
+ - Poderia alguém ter penetrado ilegalmente no sistema?
+
+-- Página 43
+
+  - Duvido que isso fosse possível para a média dos viciados em computador -
+respondeu
+Wilczek. ­ Mas existem muitos malucos por aí. Malucos bastante talentosos.
+Pessoas que
+vivem viajando pela Internet. Gênios da eletrônica. Anarquistas da tecnologia. E
+até mesmo
+garotos de vinte e dois anos trabalham dia e noite em suas garagens. No espaço
+cibernético
+tudo é possível.
+  Scully voltou à carga.
+  - O senhor poderia ter feito isso? - perguntou ela.
+  Wilczek respondeu com um sorriso.
+  - Claro que sim - disse ele. - Eu inventei o sistema. O SOC é minha criação. -
+Ele fez uma
+pausa e, ainda sorrindo, acrescentou: - Mas, naturalmente, esta declaração
+poderia ser
+interpretada de outra maneira. Poder-se-ia dizer que o SOC poderia ser minha
+arma. Por isso
+é que vocês estão aqui, não é mesmo? Pela lógica, eu sou o principal suspeito.
+  - O senhor não parece estar muito preocupado com isso - disse Scully.
+  - É um quebra-cabeças, Srta. Scully - disse Wilczek. - Pessoas desorganizadas
+como eu
+gostam de quebra-cabeças. Gostamos de caminhar pelas avenidas
+desconhecidas do
+pensamento. Adoramos dobrar novas esquinas. Gostamos de dizer: eurisko.
+  Scully sentia-se de certo modo atraída por aquele homem. Era muito difícil para
+ela não
+sentir simpatia por ele.
+  Wilczek parecia estar lendo os pensamentos dela.
+  - Mais uma coisa a respeito dos tipos desorganizados - disse ele. - Como regra
+geral, não
+cometemos assassinatos.
+
+-- Página 45
+
+ Capítulo 7
+  Esta noite eu cuidarei do relatório de campo sobre as investigações de hoje em
+casa - disse
+Scully a Mulder, quando eles voltaram para o escritório. - Vai ser mais seguro
+deixar as
+anotações lá em casa. Você sabe, a segurança aqui ...
+  - Jerry não é um mau sujeito - disse Mulder, compreendendo o que ela bem
+queria dizer. -
+Ele é apenas ... Jerry.
+  - Bom, você o conhece muito melhor do que eu - disse Scully. - E não me
+importo nem um
+pouco em conhecê-lo melhor do que já conheço.
+  - Jerry é uma pessoa com quem precisamos nos acostumar aos poucos -
+concordou Mulder.
+- Acho que a apreciação por ele só pode ser adquirida com o tempo.
+  - É isso mesmo, como chocolate quente em cima de sanduíche de atum - disse
+Scully, com
+um sorriso irônico. - E, se você o quer de volta como parceiro, pode deixar que
+eu me
+transfiro para outra Unidade.
+  - Até amanhã, Scully - disse Mulder. ­ Acho que vou fazer mais algumas
+investigações a
+respeito de Brad Wilczek. Com a reduzida lista de suspeitos que temos, parece
+que ele é o
+único que merece investigações.
+
+-- Página 46
+
+  De volta ao seu apartamento naquela noite, Scully descobriu que suas
+anotações estavam
+ficando ao mesmo tempo fáceis e difíceis.
+  Era fácil fazer uma lista das razões pelas quais poder-se-ia considerar Brad
+Wilczek como
+a pessoa que havia assassinado Ben Drake.
+  Antes de mais nada, Wilczek tinha um bom motivo para o crime. Já fazia um
+bom tempo
+que
+ele não gostava de Drake. E a ordem de Drake para que o Projeto SOC fosse
+encerrado
+poderia ter sido a gota d'água final.
+ Em segundo lugar, Wilczek tinha os conhecimentos necessários para o crime.
+Se havia
+alguém capaz de programar o SOC no edifício Eurisko pára cometer um
+assassinato, esse
+alguém era Wilczek.
+ E o mais importante de tudo era o fato de Wilczek ter a personalidade ideal
+para aquele
+crime. o assassinato de Drake tinha sido, claramente, obra de alguém que
+gostava de brincar
+de gato e rato. Para uma pessoa como ele, a linha divisória entre a realidade e a
+realidade
+virtual, era praticamente invisível. Seria muito difícil para ele ver a diferença
+entre
+eletrocutar uma pessoa na tela ou fora dela.
+ O grande problema era que, embora fosse fácil apontar o dedo para ele, seria
+muito difícil
+encurralar o homem. Fosse Wilczek o que fosse, sua grande característica era
+que se tratava
+de um gênio. Conforme Scully escreveu ao final do seu relatório diário: "O
+problema aqui é
+que Wilczek parece ser um verdadeiro gênio, capaz de usar toda a sua
+genialidade para
+destruir quaisquer pistas que possam levar a ele. Se Wilczek é tão esperto,
+como faremos
+para sermos mais espertos do que ele?"
+
+-- Página 47
+
+  Ela releu todo o relatório, corrigiu um par de erros de grafia, e salvou o arquivo.
+  Na manhã seguinte colocaria o relatório em um disquete e o levaria para o
+escritório, a
+salvo de olhares curiosos.
+  Desligou o computador e foi para a cama, adormecendo quase no mesmo
+instante.
+  Ela não despertou quando um ruído leve de campainha ecoou pelo
+apartamento. Ouviu-se
+uma série de bips e estalidos quando o modem completou uma ligação. Na sala
+ao lado, a
+tela do pequeno computador acendeu-se.
+ O relatório a respeito de Wilczek subiu pela tela, desde a primeira até a última
+palavra.
+ Depois de alguns instantes, a tela tornou a ficar escura, como se nunca tivesse
+acendido no
+meio da noite.
+
+  No dia seguinte, na sala de Mulder, Scully mostrou-lhe o relatório.
+  Ele leu, balançando a cabeça em aprovação. Era exatamente aquilo que ele
+teria escrito.
+  Então ele mostrou a Scully o que havia descoberto. Uma série de fitas de áudio
+do tipo
+digital. Os rótulos diziam: BRAD WILCZEK, SÉRIE DE PALESTRAS NO
+INSTITUTO
+SMITHSONIAN.
+  Então ele passou a ela uma fita marcada GRAVAÇÕES DE CONVERSAS
+TELEFÔNICAS, DO SOC DA SEDE DA EURISKO.
+  - Acho que seria interessante fazermos uma comparação - disse ele.
+  E estava certo. Uma hora depois, Scully ainda estava ouvindo as fitas.
+  A voz de Wilczek saía com a clareza do cristal:
+  - Desde o princípio eu sempre soube que a Eurisko não se expandia de acordo
+com o
+pensamento ocidental tradicional, mas sim empregando determinadas crenças
+Zen e de
+outras
+filosofias orientais...
+
+-- Página 48
+
+ Scully apertou o botão de PAUSA. Voltou rapidamente a fita e apertou PLAY
+mais uma
+vez:
+ ... filosofias orientais...
+ Outra pausa, a volta da fita, e PLAY mais uma vez.
+ ... orientais...
+ Balançando a cabeça, Scully apertou de novo o botão de PAUSA e estendeu a
+mão, para
+que Mulder lhe passasse outra fita.
+ Ela estava a ponto de colocar a fita no gravador quando viu os olhos de Mulder
+virando-se
+depressa para o lado do corredor.
+ Jerry Lamana estava parado na porta.
+ - Espere só um segundo - disse Mulder a Scully.
+ Ele se levantou e foi falar com Jerry.
+ - O que é? - perguntou ele. - Como pode ver, a agente Scully e eu estamos
+bastante
+ocupados.
+ - Tenho de conversar com você - disse Jerry
+ Mulder olhou para Scully.
+ - Por que não saímos para o corredor e conversamos? - disse ele.
+ Jerry não se moveu.
+ - Olhe - disse ele. - Vim até aqui de chapéu na mão. Concordo que fiz uma
+besteira. Peço
+perdão. o que mais posso dizer?
+ - A única coisa que precisava fazer era pedir ­ disse Mulder, com tristeza na
+voz. - Eu o
+teria ajudado a preparar seu perfil do assassino.
+ - Você não sabe o que eu passo, Mulder - disse Jerry.
+ - E o que é que você passa? - perguntou Mulder.
+ - Já ouviu falar do que me aconteceu em Atlanta - disse Jerry - Mulder
+balançou a cabeça,
+sem dizer nada. E Jerry continuou, sua voz se tornando quase um lamento: - Por
+causa
+daquele episódio eu fiquei seis meses sob observação. Tinha de preparar
+relatórios diários
+sobre cada passo que dava, como qualquer agente recém-contratado.
+
+-- Página 49
+
+  - Você teve má sorte - disse Mulder. - Poderia ter acontecido com qualquer um.
+  - Com você não! - disse Jerry, em tom de acusação.
+  - Não fique se martirizando, Jerry - disse Mulder, procurando acalmar o colega.
+- Você é
+um bom agente. Fizemos um excelente trabalho juntos.
+  Jerry balançou a cabeça e disse:
+  - Ora, vamos. A única coisa que eu fazia era acompanhar você.
+  - Não foi bem assim - disse Mulder. Mas sua afirmação não parecia ter muito
+peso.
+  - Como é que você poderia saber, Mulder? - perguntou Jerry - Você estava
+sempre
+ocupado, como um artista no palco, arrancando aplausos da chefia o tempo
+todo. Do mesmo
+jeito que está fazendo agora. Está fazendo suas próprias investigações neste
+caso, enquanto
+eu fico aqui, totalmente no escuro.
+  - Nada disso, Jerry - declarou Mulder, sem olhar para Scully dessa vez. - Para
+dizer a
+verdade, acho bom que você tenha aparecido aqui justamente agora. Assim,
+não preciso me
+preocupar em lhe telefonar. A agente Scully e eu queremos sua opinião a
+respeito de um
+material que estamos investigando. Não é mesmo, Scully?
+  Scully forçou um sorriso e disse:
+  - É verdade. Por favor, entre, agente Lamana.
+
+ Eles se sentaram diante de um grande monitor de computador. A máquina
+estava ligada a
+dois gravadores de fita do tipo digital. Conforme o próprio Jerry observou, era
+"um
+equipamento e tanto".
+
+-- Página 50
+
+ - Com este equipamento nós podemos produzir espectrogramas
+computadorizados -
+explicou Scully. ­ O sistema foi desenvolvido pelo laboratório de Biométrica
+Vocal da
+Universidade de Georgetown.
+ - Para quê? - perguntou Jerry.
+ - Este sistema tem a capacidade de identificar as características individuais dos
+sons
+vocais de cada pessoa - explicou Scully
+ Jerry balançou a cabeça, admirado.
+ - Certo. É como eu disse: vocês têm um equipamento e tanto.
+ Ele coçou a cabeça, enquanto Scully dizia:
+ - Agora olhe para isto.
+ Ela apertou o botão PLAY, em um dos dois gravadores digitais.
+ Uma voz digitalizada disse:
+ - Ao sinal, a hora padrão do leste será sete e trinta e cinco da noite...
+  Na tela, o som daquela voz apareceu na forma de um espectrograma, uma
+série de linhas e
+barras variando de tonalidades, entre o cinza e o negro.
+ Scully salvou a imagem da tela.
+ Então, tocou a segunda fita. Ali estavam gravadas palavras e sílabas gravadas
+a partir da
+série de palestras proferidas por Wilczek. Os sons saíam aos saltos e desiguais,
+mas
+perfeitamente distintos.
+ - Ao sinal, a hora padrão do leste será sete e trinta e cinco da noite...
+  Na tela do computador, apareceu um novo espectrograma.
+ - Agora, vamos combinar as duas imagens ­ disse Scully E digitou um
+comando no
+teclado.
+
+-- Página 51
+
+  Os dois espectrogramas apareceram na tela, um sobre o outro.
+  Scully digitou um novo comando.
+  O computador iluminou as mesmas palavras em ambos os espectrogramas,
+indo de palavra
+para palavra, e de sílaba para sílaba.
+  - Você estava com a razão, Mulder - anunciou Scully, congelando as imagens
+na tela.
+  - Com a razão a respeito do quê? - perguntou Jerry.
+  Scully não perdeu tempo em responder. Ao invés disso, apanhou um lápis de
+cera.
+  - Observe a primeira sílaba da palavra padrão ­ disse ela. Aquela sílaba havia
+sido
+iluminada pelo computador, em ambos os espectrogramas. Com o lápis de cera,
+Scully fez
+um círculo ao redor das sílabas. - A imagem é absolutamente idêntica em ambos
+os gráficos.
+Não há dúvida de que foram ambas proferidas pela mesmíssima voz.
+  o rosto de Jerry Lamana iluminou-se de repente.
+  - Então você está dizendo que a voz da palestra é a mesma voz que foi
+gravada durante
+aquele telefonema? - perguntou ele. Parecia estar muito feliz com sua
+capacidade de
+dedução.
+  - Estou afirmando que ambas as gravações foram feitas por Brad Wilczek -
+disse Mulder. -
+Ele usou de recursos eletrônicos para disfarçar sua própria voz. Mas não
+poderia Ter
+adulterado os ritmos e entonações subjacentes, peculiares aos seus próprios
+padrões de fala.
+  - E isso quer dizer que foi ele quem matou Drake - disse Scully - Ele tinha
+motivo e
+dispunha dos meios necessários. Agora temos prova suficiente para incriminá-
+lo.
+  Ela apanhou a blusa que estava no encosto da poltrona e começou a se vestir.
+
+-- Página 52
+
+  - Vou telefonar para o juiz Benson, em Virgínia ­ disse ela. - Acho que posso
+conseguir um
+mandado de prisão contra Wilczek em menos de uma hora.
+  Jerry também se levantou. E já estava com o paletó.
+- Alguém tem de garantir que Wilczek não tente fugir. A gente nunca sabe o que
+um cara
+como aquele poderá fazer.
+  Mulder estava pensando a mesma coisa.
+  - Vou com você, Jerry - sugeriu ele.
+  - Não! - exclamou Jerry, em um tom de voz bem mais agressivo.
+  - Mas talvez seja melhor assim... - disse Mulder, calmamente.
+  - Deixe que eu o traga sozinho - disse Jerry, quase implorando. - Eu preciso de
+um sucesso
+desse tipo, Mulder.
+  Sem esperar pela resposta, Jerry saiu porta afora.
+
+-- Página 53
+
+ Capítulo 8
+
+ Brad Wilczek estava enfrentando sérios problemas.
+ Não com a morte de Ben Drake. De acordo com a opinião de Wilczek, o mundo
+estava
+muito melhor sem ele. A Eurisko certamente estava melhor. Drake havia
+prometido libertar a
+Eurisko dos seus problemas financeiros, vendendo ações da companhia ao
+público. Mas, ao
+invés de melhorar, a empresa caiu nas mãos de pessoas que não tinham a
+menor
+preocupação
+com as coisas que a Eurisko poderia fazer para o mundo, e sim apenas com o
+crescimento de
+suas próprias contas bancárias.
+  E seus problemas tampouco tinham a ver com aqueles abelhudos do FBI.
+Wilczek sabia
+que
+podia dar voltas e mais voltas ao redor deles, no espaço cibernético. Além disso,
+ele achava
+simpático aquele sujeito, qual era mesmo o nome dele? Mulder, isso mesmo. Ele
+tinha um
+certo brilho nos olhos, uma tal intensidade que Wilczek entendia bastante bem.
+Quanto à
+outra agente, Scanlan... Solly .. ah, Scully, ela parecia simplesmente interessada
+em obter
+todos os fatos, seguindo as pistas para onde quer que elas a levassem
+
+-- Página 54
+
+  Isso Wilczek também conseguia entender bem. Ele sempre havia acreditado
+em permitir
+que
+as descobertas o levassem até onde quisessem.
+  Mas Wilczek estava tendo sérios problemas com a única coisa que ele pensara
+ser digna de
+sua confiança.
+  O SOC.
+  Era como se estivesse sendo traído por seu melhor amigo. Ou, mais
+exatamente, por seu
+único filho. Era isso que o SOC era, o filho de sua mente. E nenhum pai jamais
+amara seu
+filho como ele amava o SOC.
+  Mas agora, ele estava tentando entrar no sistema, e era como se estivesse
+batendo contra
+uma porta trancada.
+  Sentado diante da tela do computador, lia a mensagem que aparecia e
+reaparecia no
+monitor.
+  ACESSO NEGADO.
+  - Diabo! - resmungou Wilczek. Sentia vontade de dar murros na tela e de
+arrebentar a
+proteção de plástico com os punhos.
+  Mas, ao invés disso, digitou mais um comando.
+  O computador começou a emitir uma longa série de senhas, em alta
+velocidade. As senhas
+iam correndo para baixo na tela, como verdadeiros raios. Mas a resposta era
+sempre a
+mesma.
+  ACESSO NEGADO.
+  - Ora vamos, abra logo isso - resmungou ele. O teclado parecia uma
+metralhadora, quando
+ele digitou mais um comando.
+  Finalmente, ele teclou ENTER.
+  Mas o sistema tornou a responder: ACESSO NEGADO.
+  Os ombros de Wilczek tombaram, quando ele decidiu desligar seu computador.
+Balançando
+a cabeça, ele olhou para a tela escura.
+
+-- Página 55
+
+  Então levantou-se e caminhou por sua imensa casa, a caminho da porta de
+entrada
+principal.
+Ali ele calçou um par de tênis bastante surrados, e saiu.
+  Aproximou-se de seu Corvette, entrou e saiu em disparada, procurando
+recuperar o tempo
+perdido.
+  Voava pela estrada, sem se preocupar em olhar pelo espelho retrovisor.
+  Se tivesse olhado, teria visto um carro que saía do acostamento para persegui-
+lo.
+  Meia-hora depois, Wilczek estacionava seu carro diante do Edifício Eurisko. A
+área de
+estacionamento estava quase completamente vazia. O dia de trabalho já havia
+terminado. Ele
+desceu do carro e correu para dentro do prédio, sem olhar para trás.
+  Se tivesse olhado, teria visto o outro carro parar bem atrás do Corvette, e o
+agente especial
+Jerry Lamana saltar de dentro.
+  Wilczek não se preocupou em parar, quando passou ao lado do guarda de
+segurança,
+sentado atrás de um balcão.
+  - Sr. Wilczek - disse o guarda, quando Wilczek passou por ele rapidamente.
+  Já fazia dez anos que aquele guarda trabalhava na Eurisko. Ele conhecia
+suficientemente
+Brad Wilczek para não achar estranha qualquer coisa que o homem fazia. Afinal
+de contas,
+Wilczek era um gênio, e os gênios raciocinam e fazem as coisas à sua própria
+maneira.
+  No entanto, o guarda parou o rapaz gorducho que veio entrando
+apressadamente, logo em
+seguida, pela porta principal do prédio. Mesmo quando o homem apresentou
+sua cédula de
+identidade do FBI, o guarda ainda olhou para ele com ar de suspeita.
+  Jerry Lamana perguntou:
+  - Para onde foi Wilczek.
+
+-- Página 56
+
+  - Pode procurar no último andar de cima ­ disse finalmente o guarda. - É lá que
+fica a sala
+de Wilczek. Pelo menos era lá.
+  Jerry nem pensou em agradecer pela informação. Apenas correu em direção
+aos
+elevadores. Apertou um botão e a porta se abriu, com um sopro. Ele entrou e
+apertou o botão
+para o último andar, e o elevador imediatamente começou a subir. Jerry
+mantinha os olhos
+fixos no indicador dos andares, enquanto os números iam mudando
+rapidamente. Não olhou
+para cima, quando se acendeu a luz vermelha de uma câmera comandada por
+computador.
+Nem viu quando a lente da câmera fechou em zoom sobre ele, que estava preso
+no elevador.
+
+--Página 57
+ Capítulo 9
+
+  Brad Wilczek prendeu a respiração ao colocar o cartão magnético na fechadura
+eletrônica
+da porta de sua sala. Bem, naquela que era sua sala.
+  Empurrou, e a porta abriu com facilidade.
+  Ele deu um sorriso ironicamente. Ben Drake não tinha tido tempo de mandar
+trocar o
+código eletrônico da fechadura.
+  Ligou o interruptor da luz e caminhou direto para o computador que estava
+sobre a
+escrivaninha. Sentou-se junto à escrivaninha. Era como se estivesse voltando
+para casa.
+  Poderia ter usado alguns dos vários milhões de dólares que havia ganho com a
+Eurisko
+para
+construir a casa dos seus sonhos, mas tinha sido naquela mesa que os seus
+sonhos haviam
+nascido. Era ali o seu lugar.
+  Correu levemente os dedos pelo teclado do computador. Era possível fechar os
+olhos e
+lembrar-se de como ele se sentira no começo de tudo, quando ainda era jovem
+e o futuro
+estava em toda parte por onde olhava. Isso havia sido antes de a porta do futuro
+ter-se
+fechado bem na sua cara, devagar a princípio, mas depois com uma forte
+pancada.
+
+-- Página 58
+
+ Achou uma vantagem os seus inimigos não terem ainda conseguido destruir o
+SOC. O
+sistema ainda estava funcionando. E ele ainda tinha o poder de fazer o sistema
+funcionar a
+seu favor.
+ Pelo menos é o que esperava.
+ Endireitou o corpo na cadeira e começou a digitar um comando.
+ Fez uma pausa, digitou ENTER, e prendeu a respiração.
+ - É bom vê-lo de volta, Brad - disse o computador.
+ O queixo de Wilczek caiu.
+ Estarrecido, ele ficou parado por alguns instantes.
+ Então, voltou a digitar no teclado. Enquanto digitava, ia falando as palavras que
+escrevia:
+ - Você não está equipado com um sintetizador de voz. Quando foi que fizeram
+essa
+modificação?
+ A máquina nada respondeu.
+ Os dedos de Wilczek voltaram a voar sobre o teclado.
+ - Qual é meu nível de autorização de uso?
+ Wilczek ouviu o computador funcionando. Por baixo desse barulho, podia ouvir
+as batidas
+do seu próprio coração.
+ - Isso agora é uma decisão a ser feita pelo Sistema Operacional - disse a voz
+do
+computador.
+ - Vamos ver se eu consigo influenciar essa decisão - resmungou Wilczek.
+ Sua testa franziu durante a concentração, enquanto digitava uma série de
+comandos que
+poderiam lhe dar o controle sobre o sistema que ele mesmo havia projetado.
+ - Desculpe, estes comandos não estão disponíveis no seu nível de autorização
+de uso. Tente
+de novo - disse-lhe a voz do computador.
+ Tentar de novo? Mas tentar o quê?
+
+-- Página 59
+
+ A nova direção da empresa não havia tido tempo de mandar trocar o código
+eletrônico da
+fechadura de sua porta, mas alguém havia mudado o código de acesso ao
+centro de comando
+do SOC. Seu cérebro funcionava a mil por hora, e seus dedos voavam pelo
+teclado enquanto
+ele procurava pelas teclas apropriadas para conseguir acesso.
+  De repente, ele se imobilizou. Piscando no monitor apareceu o rosto de um
+homem.
+ Era um rosto gorducho e pálido . Olhava para cima, com um ar curioso.
+ Wilczeck conseguia ouvir a voz digitalizada do computador anunciando os
+andares:
+ - Vigésimo-sexto andar.
+  - Que diabo... - disse Wilczek. E digitou rapidamente uma pergunta: O que está
+fazendo?
+  O computador nada respondeu, e a imagem que aparecia no monitor mudou de
+repente.
+Agora era possível ver o corpo inteiro do homem, que usava um terno escuro,
+tinha a camisa
+suada no colarinho e a gravata desarrumada. Estava em pé, dentro do elevador
+revestido de
+aço inoxidável.
+  - Vigésimo-sétimo andar - anunciou o computador.
+  O homem que estava no elevador sorriu, mostrando sua ansiedade. Tocou um
+volume que
+havia em seu paletó, embaixo do braço esquerdo.
+  - Coldre de ombros - disse Wilczek consigo mesmo. - Deve ser outro agente do
+FBI.
+  - Vigésimo-oitavo andar - disse o computador.
+  - O que está fazendo? - Wilczek digitou freneticamente.
+- Vigésimo-nono andar - disse o computador. - Trigésimo and... Vigésimo-nono...
+Trigés...
+vigés...
+  Wilczek deu um salto da cadeira. Levantou-se e saiu correndo para uma fila de
+monitores
+de vídeo que havia na parede da sala.
+
+
+-- Página 60
+
+  Todos mostravam a mesma imagem do homem no elevador.
+  Wilczek puxou a porta que abria o painel de controle, embaixo dos monitores.
+Com uma
+velocidade frenética, ele ligou e desligou vários interruptores. Nada que ele fazia
+tinha o
+menor efeito.
+  -Trigés... Vigés... Trigés... - O computador ia cuspindo as meias palavras, como
+uma
+metralhadora.
+  Agora o sensor captava a voz do homem que estava no elevador.
+  - Que diabo é isto? - perguntou ele, quando o elevador parou de repente e as
+portas se
+abriram de uma vez.
+  O homem olhou pela porta aberta, junto à parede de concreto do poço do
+elevador.
+  - O que está fazendo? - Wilczek gritou para o SOC.
+  Enquanto isso, o homem no elevador apertava o botão da campainha de
+emergência. Ele
+apertou mais e mais forte, e tornou a apertar.
+  Era possível ver o suor correndo pelo seu rosto quando ele finalmente resolveu
+desistir. E
+ficou parado ali, em silêncio.
+  De algum lugar veio um barulho metálico. Então ele ouviu uma batida de leve.
+E
+novamente
+o silêncio.
+
+  - Desce... - anunciou o computador.
+  O homem ficou boquiaberto. Ele perdeu o equilíbrio no momento em que o piso
+sobre o
+qual se apoiava baixou.
+  Ele foi atirado contra a parede, e sua cabeça esmagada pela chapa de aço
+inoxidável, no
+momento em que o elevador caiu.
+  Através da porta aberta, o túnel de concreto passava com uma velocidade
+estonteante,
+enquanto o homem jazia caído no chão.
+
+-- Página 61
+
+ - Não! - gritou Wilczek.
+ Seu grito acabou ficando sufocado na garganta, enquanto balançava a cena
+mostrada no
+visor do computador, que foi se apagando como uma vela.
+ A última coisa que ele viu foi a imagem das pernas do homem tremendo com
+violência, e
+que pararam de balançar no instante em que a tela ficou negra.
+ - Programa executado - declarou o computador.
+
+-- Página 63
+
+ Capítulo 10
+  Scully sentia-se muito mal. E tinha um gosto horrível na boca.
+  Não tinha dado muito apoio ao agente Jerry Lamana durante aquelas
+investigações. E agora
+ele estava morto. Ela chegou à porta da sala de Mulder, engoliu em seco, e
+bateu.
+  Não houve resposta.
+  Engraçado - pensou ela. Já era tarde da noite, mas ela estava certa de que
+Mulder poderia
+ser encontrado ali. Ele havia passado muitas noites em claro, desde o início do
+caso Eurisko.
+  Agora, deveria estar trabalhando mais duro do que nunca.
+  Scully tentou abrir a porta. Ela observou que, como sempre, a porta estava
+destrancada.
+Abriu, entrou, e viu Mulder sentado no escuro, diante de um monitor de vídeo.
+Em sua mão
+havia um aparelho de controle remoto. Estava apertando rapidamente os botões,
+desacelerando o movimento da imagem, congelando-a, acelerando-a de novo e
+voltando
+tudo, para fazer mais uma verificação.
+
+-- Página 64
+
+  Scully o observou durante alguns minutos. Ele nem havia percebido que ela
+entrara. Seus
+olhos estavam grudados ao monitor.
+  Finalmente, Scully pigarreou e disse:
+  - Estive procurando por você. E achei que iria mesmo encontrá-lo aqui.
+  Mulder nada respondeu. Ainda estava completamente concentrado no vídeo.
+  Scully tentou mais uma vez.
+  - Ouvi as notícias sobre Jerry - Isso fez com que Mulder levantasse o rosto. -
+Estou muito
+sentida ­ disse ela.
+  Mulder balançou a cabeça devagar.
+  Houve então um longo momento de silêncio.
+  Depois, Mulder disse:
+  - Não acho que Wilczek tenha feito isso.
+  - O quê? - perguntou Scully, espantada. Nunca tinha tido oportunidade de ver o
+julgamento
+de Mulder sendo influenciado por suas emoções. Mas sempre há uma primeira
+vez para
+tudo.
+ - Não faz sentido algum - disse Mulder, com firmeza na voz. - Por que ele teria
+voltado à
+sede da Eurisko?
+ Scully encolheu os ombros.
+ - Talvez pretendesse destruir alguma prova ­ disse ela. - Talvez pretendesse
+assegurar-se
+de haver acabado com todas as pistas.
+ - Se alguém pretende destruir provas, por acaso faz pose para as câmeras? -
+perguntou
+Mulder. - Olhe para este vídeo. A imagem mostra Wilczek em sua antiga sala.
+Ele deveria
+saber que havia uma câmera gravando cada um dos seus movimentos. Foi ele
+mesmo quem
+projetou todo aquele sistema e mandou instalar as câmeras.
+ - Talvez tivesse esquecido esse detalhe ­ sugeriu Scully
+
+-- Página 65
+
+  - Seria possível, se Wilczek tivesse uma mente comum. Mas não a inteligência
+privilegiada
+que tem ­ disse Mulder. - Olhe, veja bem o vídeo. - Ele apertou o botão
+REWIND, esperou
+alguns instantes e tornou a apertar PLAY. - Por acaso isto lhe parece com a
+imagem de um
+homem que está cometendo assassinato?
+  Scully ficou observando Wilczek entrar em sua sala. Viu quando ele digitou
+furiosamente
+no teclado do computador. E notou quando ele deu um salto e saiu correndo em
+direção aos
+monitores de vídeo que havia na parede, batendo com força nos controles que
+havia
+embaixo. Finalmente, viu Wilczek sair correndo como louco de sua sala, um
+instante depois
+que os monitores haviam tornado a ficar escuros.
+  - Quem poderia dizer o que está se passando em uma mente como a dele? -
+perguntou
+Scully - Talvez tenha voltado à sua antiga sala por egoísmo e satisfação
+pessoal. Talvez
+quisesse brincar uma última vez com seu brinquedinho predileto. Também
+poderia ter sido
+uma simples compulsão no sentido de voltar à cena do crime. E pode ter sido
+que, ao
+observar Jerry vindo atrás dele, tenha entrado em pânico e reagido como um
+rato
+encurralado, desencadeando um ataque em defesa própria. Eu diria que esta
+última
+possibilidade é a mais forte de todas.
+ - Pois eu lhe digo uma coisa: estou convencido de que alguma coisa não está
+muito certa
+nestas imagens ­ insistiu Mulder. - Há algo muito errado aí.
+ Scully mordeu os lábios. Era doloroso para ela ver Mulder agindo desse jeito,
+completamente surdo para a voz da razão.
+ - Ouça o que estou dizendo, Mulder - disse ela. - Você passou por uma
+situação difícil...
+Muito mais difícil do que possa estar imaginando.
+
+-- Página 66
+
+ Com uma expressão completamente neutra, Mulder limitou-se a balançar a
+cabeça.
+ Deu as costas para Scully e voltou a concentrar suas atenções no monitor de
+vídeo.
+ - Mulder... - começou a dizer Scully.
+ - Eu posso lhe garantir que Wilczek é muito mais esperto do que esta gravação
+mostra -
+disse Mulder, enquanto observava a imagem de Wilczek gritando
+silenciosamente contra o
+SOC.
+ Scully suspirou fundo.
+ - Mulder - disse ela. - Brad Wilczek acabou de assinar sua confissão. Que
+provas você
+ainda precisa da culpa dele?
+ Ouviu-se um estalido forte, vindo do aparelho de controle remoto.
+ O monitor apagou.
+ Mas Mulder continuou olhando para o aparelho.
+ - Mulder - disse Scully Mas não continuou a frase, quando percebeu que ele
+não lhe dava a
+mínima atenção. Os olhos dele estavam congelados sobre a tela escura.
+  - Scully .. - disse ele finalmente.
+  - Sim? - respondeu ela.
+  - Eu acho que gostaria de ficar sozinho por algum tempo - disse ele. - Tenho
+que pensar em
+algumas coisas.
+  - Claro - disse ela. Voltou-se e saiu da sala, fechando a porta devagar, ao
+passar por ela.
+  Chegou a abrir automaticamente a boca para lembrar a Mulder de que deveria
+trancar a
+porta... mas não chegou a dizer isso.
+  Jerry Iamana não estava mais por perto para roubar as anotações de Mulder.
+  Ela precisava esquecer dele... do mesmo modo que Mulder precisava
+esquecer.
+  Os dois precisavam deixar o passado ficar no passado.
+  Ela sabia que conseguia isso. Mas, e Mulder? Conseguiria?
+
+-- Página 67
+
+ Capítulo 11
+
+  Mulder virou o carro para entrar no largo caminho que levava à casa de
+Wilczek.
+  Era possível que ele conseguisse passar pelo sistema de segurança eletrônica
+montado por
+Wilczek. Com Wilczek ausente, incapaz de comandar o sistema, qualquer
+alarme seria como
+uma árvore caindo no meio da floresta.
+  Mulder fez uma curva na alameda e viu um carro parado à frente da casa de
+Wilczek.
+  Não era o Corvette antigo de Wilczek. Era um carro muito diferente. Um sedã
+como
+milhares de outros, muito comum, daqueles cuja presença não é sequer notada
+nas ruas.
+Ninguém percebe um carro desses, exceto Mulder. Ele reconheceu o carro no
+mesmo
+instante
+em que o viu. Do mesmo modo como reconheceu os três homens parados ao
+lado do veículo.
+Não sabia os nomes deles, mas sabia muito bem o significado daquelas
+expressões duras e o
+que era o volume que cada um tinha por baixo do braço esquerdo.
+ Eram todos muito educados, como Mulder sabia que seriam. E deixariam de
+ser educados
+apenas quando fosse necessário. Mas não era uma atitude muito inteligente
+fazer com que
+eles o fizessem.
+
+-- Página 68
+
+  Quando Mulder desceu do carro e começou a andar em direção à casa, um
+dos homens
+colocou-se lentamente na frente dele.
+  - Desculpe, cavalheiro - disse o homem. - Mas está entrando na cena de um
+crime. Vai ter
+de ir embora.
+  - Sim, eu sei - disse Mulder. - Mas tenho um mandado de busca.
+  Ele tirou o documento do bolso.
+  O homem nem perdeu tempo em ler o documento. Seus dois companheiros
+aproximaram-se
+e ficaram ao lado dele. Nenhum dos outros dois preocupou-se em olhar para o
+documento.
+Todos se concentraram no rosto de Mulder, com olhos tão frios e insensíveis
+como espelhos.
+  - Ouçam, eu sou do FBI - explicou Mulder. E mostrou sua carteira com a cédula
+de
+identidade e a insígnia.
+  Nenhum dos três homens piscou.
+  - Esse mandado já não vale mais nada - disse o primeiro dos homens.
+  - O quê? - perguntou Mulder. - Mas foi emitido apenas esta manhã. A tinta da
+assinatura
+do
+juiz mal secou!
+  Enquanto dizia isso, Mulder tentou olhar por trás dos homens, para ver se
+conseguia
+enxergar o que estaria acontecendo na casa de Wilczek.
+  Isso serviu apenas para que os três homens se aproximassem mais dele,
+impedindo sua
+visão e obrigando-o a dar um passo para trás.
+  - Se o senhor não tiver autorização de acesso de Código Cinco, seremos
+obrigados a pedir
+que se retire imediatamente - disse o primeiro dos três homens.
+ - Autorização de Código Cinco? - perguntou Mulder. - Mas as únicas pessoas
+que possuem
+esse tipo de autorização
+são...
+
+-- Página 69
+
+  - São as únicas que poderão entrar nesta casa por enquanto - interrompeu o
+primeiro
+homem.
+  Mulder olhou de um homem para o outro. Era como se estivesse olhando para
+três tijolos
+absolutamente idênticos, em uma parede sólida.
+  Mesmo assim, eles lhe haviam dito o que precisava saber.
+  E ele sabia que havia apenas uma coisa que poderia fazer para descobrir mais
+alguma
+coisa.
+  Havia alguém com quem ele tinha de conversar. Essa pessoa era um homem
+de muitos
+segredos... E entre esses segredos estava o seu próprio nome, e o papel que
+desempenhava
+em uma agência do Governo tão misteriosa como ele mesmo. O homem usava
+o pseudônimo
+de Garganta Profunda.
+  Não era uma pessoa muito fácil de encontrar. Mas Mulder sabia como agir para
+isso.
+Dispunha de meios que eram desconhecidos até daqueles que tinham
+autorização de acesso
+de Código Cinco.
+
+ - Obrigado por atender ao meu chamado ­ disse Mulder a Garganta Profunda.
+ Era hora do almoço na grande praça que havia em frente ao prédio sede da
+Eurisko. Todo
+aquele espaço aberto era iluminado pela luz forte e clara do sol, e estava
+ocupado pelos
+funcionários da empresa, que se deliciavam com o ar limpo e fresco. Garganta
+Profunda
+havia escolhido a hora e o lugar para aquele encontro. Havia calculado bem as
+coisas para
+poder misturar-se à multidão. Seu terno cinza facilitaria o seu desaparecimento.
+Até os seus
+cabelos grisalhos e sua pele pálida pareciam fazer parte do seu projeto de se
+misturar à
+multidão. Garganta Profunda era um mestre na arte da invisibilidade.
+
+-- Página 70
+
+ O próprio Mulder estava usando óculos escuros, como uma atitude de respeito
+diante da
+paixão que Garganta Profunda tinha pela necessidade de manter-se incógnito.
+ Apesar disso, Garganta Profunda estava irritado, como aliás Mulder sabia que
+estaria.
+ Garganta Profunda não gostava nem um pouco de aparecer. Era ele quem
+preferia entrar em
+contato com Mulder, e não o contrário. Gostava de deixar claro que ele era
+quem exercia o
+controle das coisas, o tempo todo. Controle era algo de que ele jamais abriria
+mão.
+ - Estou aqui contra minha vontade - disse ele a Mulder, enquanto caminhavam
+pela praça
+apinhada de gente. Seu olhar saltava de um ponto para outro, para ter certeza
+de que
+ninguém
+prestava a mínima atenção aos dois. Ninguém parecia notar a presença deles. -
+No futuro, eu
+faço questão absoluta de que você se atenha aos termos de nosso acordo.
+ - Desculpe - disse Mulder. - Mas há um certo tipo de informação que só posso
+obter por
+seu intermédio. Informação muito importante. Preciso saber por que Brad
+Wilczek está
+sendo
+objeto de uma investigação de Código Cinco. Em geral esse nível de código
+compreende
+apenas os casos mais secretos das áreas de Segurança Militar. Qual o interesse
+que o
+Departamento de Defesa tem nesse homem?
+ Garganta Profunda nada podia fazer senão sorrir. As perguntas de Mulder
+eram, quase
+sempre, uma fonte de diversão para ele, já que o próprio Mulder muitas vezes
+sabia as
+respostas. Era como um jogo, cuja meta era fazer com que Garganta Profunda
+colocasse o
+carimbo oficial de verdade a determinadas suspeitas que vinham de fora.
+Felizmente para
+Mulder, Garganta Profunda era um homem que gostava de jogos e de
+brincadeiras de gato e
+rato.
+ - Por que você acha que eles se interessariam pelo mais audacioso e mais
+brilhante
+programador de computador que existe no mundo? - perguntou Garganta
+Profunda.
+
+-- Página 71
+
+  Ele parou alguns instantes diante de um carrinho de cachorro-quente e
+levantou um dedo
+para fazer seu pedido.
+  Mulder imitou o gesto dele. Quando os dois estavam colocando mostarda nos
+seus
+sanduíches, Mulder perguntou:
+  - O pessoal da Defesa quer que Wilczek crie algum software especial?
+  Garganta Profunda deu uma mordida, mastigou, engoliu e respondeu:
+  - Por anos, o Sr. Wilczek teve inúmeras oportunidades de recusar algumas das
+ofertas mais
+tentadoras para o desenvolvimento de avançados sistemas de telemetria para
+sistemas de
+foguetes teleguiados. - Os lábios de Garganta Profunda se curvaram, indicando
+todo o seu
+desprezo, enquanto apanhava um guardanapo de papel para limpar a mostarda
+de seu lábio
+superior. - Parece que Wilczek não é a favor da guerra. É um verdadeiro bebê
+chorão.
+  - De que tipo de software estamos falando? - perguntou Mulder, quando
+começaram a
+caminhar de novo.
+  - O que você sabe a respeito de inteligência artificial? - perguntou Garganta
+Profunda.
+ - Pensei que se tratasse apenas de teoria ­ disse Mulder. - Achei que seria
+apenas um tema
+para os autores de obras de ficção científica. Jamais imaginei que se tratasse de
+uma
+possibilidade que alguém poderia vir a levar a sério.
+ - Ninguém levou isso a sério... até há dois anos atrás - disse Garganta
+Profunda. - Por acaso
+você se recorda daquela partida de xadrez realizada em Helsinque, na
+Finlândia? Quando um
+computador venceu um Grande Mestre? Foi aquela a primeira vez que uma
+máquina
+produziu
+uma linha de raciocínio melhor do que uma afinadíssima mente humana.
+ - Eu me lembro de ter lido a respeito - disse Mulder.
+
+-- Página 72
+
+  - Por acaso você pensou a respeito disso... e do que o fato poderia significar? -
+perguntou
+Garganta Profunda.
+  - Sim, eu pensei a respeito - disse Mulder.
+- Então eu acho que você estará interessado em saber que aquele computador,
+campeão
+mundial de xadrez, tinha sido programado por Brad Wilczek informou Garganta
+Profunda.
+Ele olhou para o céu claro e brilhante, onde havia inúmeras nuvens brancas.
+Uma delas
+passou na frente do sol, e uma sombra fria atravessou a praça. - Segundo os
+rumores,
+Wilczek conseguiu aquilo através do desenvolvimento da primeira rede de
+adaptação.
+  - Rede de adaptação? - perguntou Mulder, procurando ter certeza de que
+entendia o
+significado da expressão. Era uma coisa importante demais, para ele arriscar-se
+a uma
+interpretação errada.
+  - Uma máquina de aprendizado - confirmou Garganta Profunda. - Um
+computador que
+absorve experiências e é alterado por elas. Um computador que vai
+continuamente
+melhorando o seu próprio funcionamento. Em outras palavras, um computador
+que consegue
+pensar por si mesmo.
+ - Inteligência artificial - disse Mulder, piscando por trás das lentes dos óculos
+escuros,
+quando o sol apareceu de novo. - Então, isso é mesmo possível.
+ - Suficientemente possível para que algumas pessoas do Departamento de
+Defesa façam
+tudo o que podem para tentar colocar as mãos no sistema - disse Garganta
+Profunda.
+ - Dá para ver isso - disse Mulder. - E dá para ver que eles talvez sejam
+capazes de
+qualquer coisa para obter o que desejam.
+ Garganta Profunda parou, olhou bem para Mulder e disse:
+ - A questão aqui é saber o que você pode fazer.
+
+-- Página 73
+
+ Capítulo 12
+
+  Depois de seu encontro com Garganta Profunda, Mulder ficou mais convencido
+do que
+nunca de que estava certo a respeito de Brad Wilczek. Tinha certeza de que
+Wilczek havia
+confessado os assassinatos para dar proteção ao SOC.
+  Ele tinha de falar com Wilczek e convencer o gênio da computação de que
+estava errado, o
+que ele vinha fazendo. Errado demais.
+  Felizmente, a carteira de identidade de Mulder como agente da FBI era
+suficiente para que
+ele chegasse até a cela onde Wilczek vinha sendo mantido preso. Os homens
+do Governo
+haviam conseguido colocar a casa de Wilczek fora do acesso dele. Mas o
+Centro Federal de
+Detenção, em Washington, DC, ainda ficava dentro do território de Mulder.
+  A cela onde Wilczek estava tinha paredes lisas em três dos seus quatro lados,
+e barras de
+ferro, do piso ao teto, na parte da frente. Não havia TV, nenhum livro e nem
+jornais. Wilczek
+tinha sido deixado ali sozinho para ficar olhando para as paredes sem janelas,
+ou através das
+barras de ferro, pensando e repensando em sua vida.
+
+-- Página 74
+
+  Wilczek estava sentado em uma cadeira, contando as manchas que havia no
+teto, quando
+Mulder entrou. O rosto de Wilczek mostrava a barba preta, que ele não fazia
+havia dois dias.
+Tinha círculos vermelhos ao redor dos olhos. E sua camiseta e calças jeans
+tinham sido
+substituídas por um uniforme de prisioneiro, de cor azul escura.
+  Mas havia mais uma diferença.
+  - Como pode ver, eles me obrigam a andar calçado o tempo todo - disse ele a
+Mulder.
+  - É um prazer vê-lo tão bem disposto - disse Mulder, procurando quebrar o
+gelo.
+  Enquanto falava, Mulder corria os olhos rapidamente por toda a cela,
+investigando cada
+canto e cada rachadura nas paredes.
+  Wilczek sorriu.
+  - Pode parar de perder seu tempo, agente Mulder - disse ele. - Já procurei por
+toda parte e
+não encontrei nenhum grampo. Aqui não existem insetos nem grampos
+eletrônicos que
+imitam
+insetos. Nada. Pode acreditar no que estou dizendo. Tenho tido muito tempo
+livre para
+procurar por eles. Além do mais, raciocine comigo: por que eles iriam preocupar-
+se em
+grampear minha cela? Já estão com a confissão que eu assinei. E isso me leva
+a uma
+pergunta: O que deseja de mim, agente Mulder? Ou será que veio aqui apenas
+para zombar
+de mim?
+  - Preciso de uma simples informação - disse Mulder.
+  - O que seria? - perguntou Wilczek. - O número que eu calço?
+  - Diga-me: Por que está disposto a passar o resto da vida na cadeia, por um
+crime que
+nunca cometeu? - perguntou Mulder.
+ - O que está tentando me dizer? - retrucou Wilczek. - Sou culpado. Você deve
+ter lido a
+confissão que assinei. E posso lhe garantir, como vou garantir ao Tribunal, que a
+assinei por
+minha livre e espontânea vontade.
+
+-- Página 75
+
+ - Eu sei que é inocente - disse Mulder. Usava um tom de voz direto e firme,
+como se
+estivesse somando dois mais dois.
+ Os olhos de Mulder encontraram-se com os de Wilczek. Houve um longo
+momento de
+silêncio. Então, Wilczek olhou para o outro lado. Mas não disse coisa alguma.
+ - Está dando sua proteção a uma máquina ­ disse Mulder, no mesmo nível e
+tom de voz. -
+Está protegendo sua criação intelectual, o Sistema Operacional Central da
+Eurisko.
+  Houve mais uma longa pausa.
+ Finalmente, Wilczek disse:
+ - Se estou protegendo alguma coisa... Não é a máquina!
+ - Então, o que está protegendo? - perguntou Mulder, com uma voz
+repentinamente intensa,
+como se alguém houvesse ligado o interruptor de uma luz muito forte.
+  De novo houve um longo silêncio.
+ Quando Wilczek falou, sua voz parecia vir de longe. Era como se as palavras
+estivessem
+nascendo no fundo de sua alma.
+ - Uma vez eu li a história da vida de Robert Oppenheimer - disse ele. - Acho
+que você sabe
+de quem estou falando.
+ - Do cientista americano que chefiava a equipe de pesquisadores responsável
+pelo
+desenvolvimento da bomba atômica - disse Mulder.
+ Wilczek fez que sim, com um movimento da cabeça, e continuou:
+ - Depois que derrubaram a bomba sobre Hiroshima e Nagasaki, no Japão,
+Oppenheimer
+passou o resto de sua vida lamentando o fato de haver estudado o átomo.
+ - É possível que Oppenheimer tenha lamentado suas ações - disse Mulder -,
+mas ele jamais
+negou ter sido responsável pelo que fez. Ele era quem era, fazia o que fazia, e
+nunca tentou
+esconder-se ou fugir da realidade de sua própria vida.
+
+-- Página 76
+
+  - Oppenheimer era um cientista que amava o trabalho que fazia - disse
+Wilczek, com a voz
+agora cheia de sentimento. - O grande erro que cometeu foi colocar seu trabalho
+em mãos
+erradas. As mãos daqueles cuja responsabilidade era matar.
+  Havia dor na voz de Wilczek. A dor que Oppenheimer devia ter sentido. E sua
+própria dor.
+  - É comum as pessoas cometerem erros ­ disse Mulder.
+  - Não cometerei o mesmo erro - declarou Wilczek.
+  - Mas sua máquina matou Drake - disse Mulder. ­ E também matou meu
+amigo.
+  Wilczek tornou a virar o rosto para o outro lado, evitando o olhar acusador de
+Mulder.
+Depois de alguns instantes, ele disse com frieza:
+  - Sinto muito por tudo o que aconteceu. Mas não há mais nada que eu possa
+fazer.
+  Havia chegado a vez de Mulder falar com sentimento.
+  - É interessante que você fala na grande maldade que existe em matar. Você
+tem medo de
+que o Governo descubra o que o SOC pode fazer, e teme que a máquina seja
+controlada por
+aquelas pessoas. Mas está se arriscando a permitir que o SOC continue
+matando.
+  Wilczek encolheu os ombros e disse.
+  - Acho que é o menor dos dois males ­ resmungou ele.
+  - E que tal se houvesse uma terceira opção? - perguntou Mulder. - Wilczek
+ficou calado.
+Mas o olhar que deu a Mulder estava cheio de interrogação. E Mulder continuou:
+- Aquela
+maldita máquina é uma criação sua. E do mesmo modo como a projetou, sei que
+pode achar
+um modo para que eu a destrua.
+-- Página 77
+
+  - Mulder, estou preocupada com você - disse-lhe Scully.
+  - Não precisa preocupar-se ­ respondeu Mulder - Temos coisas muito mais
+importantes em
+que pensar.
+  Mulder a havia chamado e combinado o encontro na praça diante do Edifício
+Eurisko, no
+final daquela tarde. Achava melhor e mais seguro conversarem ao ar livre. No
+seu modo de
+ver, a investigação havia chegado a um estágio em que era necessário manter o
+mais alto
+nível de segurança possível.
+  Isso fazia com que Scully se preocupasse ainda mais. Não considerava como
+bom sinal o
+fato de uma pessoa começar a ficar imaginando que todos os outros a estão
+espionando.
+Uma
+atitude assim indicava uma certa... tensão.
+  Agora, caminhando lado a lado com ele, Scully disse:
+  - Não estou entendendo o que diz, Mulder A qual estágio da investigação você
+está se
+referindo? A investigação acabou. O caso está encerrado. Wilczek confessou
+seus crimes.
+Ele nem está tentando alegar insanidade ou coisa parecida. A única questão que
+permanece
+no ar é saber quantos anos de cadeia ele vai acabar pegando.
+
+-- Página 78
+
+ Mulder balançou a cabeça.
+ - A confissão dele não passa de uma grande mentira. Ele está tentando
+proteger o SOC.
+Não
+quer que determinadas pessoas fiquem sabendo da capacidade total do
+sistema. Quer evitar
+que essas pessoas ponham as mãos em sua criação e a utilizem para o mal.
+ - Olha, Mulder, eu sei que você se recusa a acreditar que Wilczek é culpado -
+disse Scully
+- Mas os fatos estão aí para provar tudo. Nenhum sistema de computador
+poderia tomar
+sozinho a decisão de matar.
+  - O SOC pode fazer isso - disse Mulder.
+- Acho que você tem conversado demais com Wilczek - disse Scully - E também
+acho que
+ele confundiu seu julgamento, com toda aquela conversa sobre alta tecnologia.
+Ele passou a
+vida inteira defendendo os computadores. Mas me parece bem claro que está
+apenas
+colocando toda a culpa sobre a máquina, como último recurso. É uma atitude
+desesperada. E
+não vai dar certo.
+  - Mas é a única coisa que faz sentido nesta história toda - insistiu Mulder. - O
+Projeto SOC
+estava representando uma grande perda de dinheiro para a Eurisko. Drake
+estava a ponto de
+acabar com o projeto. O SOC tem olhos e ouvidos em todo o Edifício Eurisko, e
+ficou
+sabendo dos planos de Drake. Foi o próprio SOC que tomou a decisão de matar,
+e que
+acabou cometendo o assassinato.
+  - Ora, vamos, Mulder - disse Scully, balançando a cabeça. - Por acaso está
+tentando me
+dizer que a máquina assassinou Drake como recurso de autodefesa?
+  - Como recurso de auto-preservação - disse Mulder. - É a primeira lei da vida.
+Éo
+primeiro e mais importante instinto de todas as criaturas vivas.
+
+-- Página 79
+
+ - Mas o SOC não tem vida - disse Scully - Não tem sentimentos. Não pode
+pensar.
+ - Mas, e se pudesse pensar? - perguntou Mulder.
+ - Mulder, tal nível de inteligência artificial só poderá ser alcançado daqui a
+várias
+décadas, se é que será alcançado - disse Scully
+ - Então, por que acha que o Governo vem tentando assumir o controle das
+pesquisas de
+Wilczek? - perguntou Mulder. - O que é que eles sabem e que você não quer
+acreditar?
+  - Com quem é que você anda conversando? - perguntou Scully
+  - Desculpe, mas vai ter de confiar em mim - respondeu Mulder.
+- Tem certeza de que não anda ouvindo vozes misteriosas? - perguntou Scully,
+olhando para
+Mulder com ar de viva preocupação.
+  Mulder ignorou as dúvidas dela.
+  - O mais importante de tudo é que Wilczek pode desenvolver um vírus capaz
+de destruir o
+SOC - disse ele.
+  Scully parou de andar, fazendo com que Mulder parasse também.
+  - Mulder, não sei como vou lhe dizer isto...
+  - Dizer o quê? - perguntou Mulder.
+  - Acho que você está procurando por alguma coisa que não existe - disse
+Scully
+gentilmente. - Parece-me que a morte de Jerry Lamana afetou você mais do que
+pode estar
+imaginando. E acho que você deseja encontrar uma causa para aquela morte,
+uma causa tão
+grande como a culpa que você sente a respeito. Talvez fosse boa idéia você
+conversar com
+alguém... Com uma pessoa que o pudesse ajudar.
+  Mulder olhou bem para Scully.
+
+-- Página 80
+
+ Depois de alguns instantes, ele falou:
+ - É provável que você esteja certa. Até amanhã.
+ Ele deu as costas para ela e afastou-se.
+ - Ei, aonde é que você vai? - perguntou Scully.
+ - Conversar com alguém - respondeu Mulder. E continuou indo embora a
+passos rápidos
+pela praça vazia, sob o sol poente.
+ Já era tarde da noite, e Brad Wilczek estava deitado no escuro, com os olhos
+bem abertos.
+ Não conseguia dormir, e mesmo que conseguisse, não queria adormecer.
+ Achava que estava vivendo como nos velhos tempos, quando trabalhava sobre
+uma idéia,
+sentindo que seu cérebro funcionava a toda velocidade, acelerado ao máximo. A
+emoção,
+pelo menos, era a mesma.
+ Sentia a energia. Era isso que ele havia pretendido experimentar durante toda
+a sua vida.
+ Mas havia uma diferença, uma enorme diferença.
+ Nos velhos tempos, as emoções que sentia tinham origem na sua intensa
+motivação,
+procurando criar alguma coisa nova.
+ Agora, o que dominava sua mente era a destruição.
+ De repente, a luz se acendeu em sua cela.
+ Ele ouviu o barulho metálico da fechadura sendo destrancada, e a porta da
+cela se abrindo.
+ Mulder apareceu na porta, com o guarda vindo logo atrás.
+ - Poderia por favor nos deixar conversar a sós? - pediu Mulder ao guarda. -
+Tenho de falar
+com o prisioneiro sobre alguns aspectos confidenciais. Material altamente
+secreto.
+ - Tem certeza de que não corre perigo? ­ perguntou o guarda. - O prisioneiro
+pode estar...
+emocionalmente estressado. Talvez seja violento.
+
+-- Página 81
+
+ - Pode ficar tranqüilo - garantiu Mulder. E bateu de leve sobre o bolso,
+acrescentando: -
+Posso cuidar de tudo.
+ - Muito bem - disse o guarda.
+ O homem fechou a porta da cela e tomou o caminho de volta pelo corredor.
+ - Então, já tomou a decisão? - perguntou Mulder, assim que o guarda se
+afastou o suficiente
+para não ouvir a conversa dos dois.
+ - Sim - respondeu Wilczek.
+ - Vai fazer o que pedi? - perguntou Mulder.
+ - Sim - respondeu Wilczek.
+ - Acha que consegue fazer isso? - perguntou Mulder.
+ - Suponho que sim - respondeu Wilczek. - Talvez. Vou ter de tentar. Ou melhor:
+você vai
+ter de tentar. O caso é que o SOC passou por algumas modificações. E algumas
+modificações
+que eu talvez nem conheça. Pode ter sofrido mudanças feitas pelo próprio
+sistema.
+ Mulder colocou um computador portátil sobre a cama de Wilczek. Era um
+computador tão
+pequeno que ele o havia trazido debaixo da capa de chuva.
+ - Quanto tempo acha que vai demorar? ­ perguntou Mulder.
+ - Volte dentro de algumas horas - disse Wilczek, abrindo a tela do computador.
+E
+imediatamente ligou o pequeno aparelho. Seus dedos começaram a pairar sobre
+o teclado,
+enquanto o sistema operacional ainda estava sendo carregado. - Acho que vou
+conseguir
+fazer o que você deseja. A partir daí, vai ter de enfrentar a fera sozinho.
+
+-- Página 83
+
+ Capítulo 14
+
+  Naquela noite, Scully não estava gostando de escrever seu relatório de
+atividades do dia.
+Quando terminou, desligou o computador e foi deitar-se.
+ Mas, apesar de ter adormecido, ficou virando de um lado para o outro na cama,
+assaltada
+por uma série de pesadelos.
+ Foi quase um alívio quando a campainha do telefone a acordou no meio da
+noite.
+ Scully decidiu permitir que sua secretária eletrônica atendesse o chamado. O
+telefone tocou
+mais uma vez e então parou. Mas, ao invés do som familiar de sua voz na
+gravação da
+secretária eletrônica, ela ouviu uma série de ruídos de alta freqüência. Ruídos
+que ela
+reconheceu como o som do modem fechando um contato através da linha
+telefônica.
+ Bem acordada agora, Scully saltou da cama e dirigiu-se ao computador, na
+sala de visitas.
+Mas não foi rápida o bastante. Pela porta do quarto ela viu quando a tela do
+computador
+acendeu.
+-- Página 84
+
+  Scully correu para o computador. Viu uma seqüência de comandos aparecendo
+na tela, o
+primeiro dos quais era WILCZEK.DOC.
+  Ficou imobilizada quando viu seu relatório de campo subindo pela tela do
+computador. Ao
+final do relatório, ouviu mais uma série de bips breves, e o computador se
+desligou.
+  Scully não hesitou. Apanhou o telefone, discou um número, e disse à
+telefonista que
+atendeu
+no outro lado da linha:
+  - Aqui é a agente especial Dana Scully, do FBI, identidade profissional número
+2317-616.
+Preciso saber imediatamente onde foi que se originou uma conexão via modem,
+que acaba de
+ser feita para o telefone de número (202) 555-6431.
+  A resposta demorou apenas alguns minutos. Assim que Scully ouviu a
+informação,
+agradeceu à telefonista, desligou o telefone e começou a vestir as primeiras
+peças de roupa
+que conseguiu encontrar.
+
+ - Droga! - disse Mulder consigo mesmo.
+ Havia estacionado o carro perto do Edifício Eurisko. Tinha acabado de sair do
+veículo e
+estava a ponto de abrir o porta-malas quando viu faróis aproximando-se pela
+rua, que até
+então havia estado deserta.
+ O automóvel que chegava parou cantando pneus atrás do carro dele.
+ Scully desceu de dentro. Mulder ergueu as sobrancelhas. Pela primeira vez na
+vida, Scully
+não estava impecável. Parecia que ela havia vestido as roupas no escuro.
+ - Mulder! - gritou ela, com um tom de ansiedade na voz.
+ - O que está fazendo aqui? - perguntou ele.
+ - Alguém... ou alguma coisa... tem acompanhado tudo o que escrevo nos
+arquivos do meu
+computador - disse ela.
+-- Página 85
+
+  - E provavelmente meu telefone também está grampeado. Acessaram todas as
+informações
+a
+respeito deste caso nos arquivos do meu disco rígido, mas eu consegui
+descobrir de onde foi
+que roubaram os dados... - Scully fez uma pausa e levantou os olhos para o
+Edifício Eurisko,
+que se erguia bem alto na escuridão da noite. - Os chamados foram feitos de
+algum lugar aí
+dentro...
+  - E a máquina, Scully - disse Mulder.
+  Dessa vez Scully não retrucou. Limitou-se apenas a perguntar:
+  - Como vamos fazer para entrar?
+  Mulder sorriu e abriu o porta-malas do carro.
+  - Lembra-se do Cavalo de Tróia? - perguntou ele, tirando do porta-malas uma
+placa de
+licença de veículo e uma chave de fenda.
+  Scully olhou para a placa.
+  A licença era EURISKO 1.
+  - Você teve acesso ao carro de Wilczek?
+  - É maravilhoso o que se pode fazer com uma carteirinha do FBI - comentou
+Mulder. E
+começou a trocar a placa de seu carro pela de Wilczek.
+  Terminado o trabalho, sentou-se ao volante com Scully ao seu lado. Dirigiu o
+veículo até a
+porta de ferro da garagem que ficava no porão do Edifício Eurisko.
+  - A patente dos oficiais oferece alguns privilégios - disse Mulder. - Vamos ver
+se a patente
+de Wilczek pode nos ajudar.
+  Uma câmera instalada acima da porta de entrada da garagem examinou a
+licença do carro.
+  Ouviu-se um leve ruído metálico e a enorme porta metálica começou a se
+levantar
+lentamente.
+  - Abre-te Sésamo - disse Mulder, e colocou o carro em marcha para entrar pela
+garagem.
+
+-- Página 86
+  O veículo já havia quase passado pela porta quando um grande braço de ferro
+baixou,
+bloqueando sua passagem.
+  - Ei, que diabo... - disse Mulder.
+  - Mulder! - sussurrou Scully, quando olhou pela janela do carro e viu a enorme
+porta de aço
+descendo como uma guilhotina.
+  Uma fração de segundo depois, ela estava olhando para o vidro estilhaçado da
+janela.
+  Logo atrás do banco da frente, o teto do carro havia sido amassado até
+embaixo. Se
+houvesse alguém no banco de trás, certamente teria ficado com cabeça
+achatada.
+  Todo o corpo dela tremia convulsivamente, e Scully não conseguia ouvir coisa
+alguma,
+além do alarme do carro, que havia disparado com a pancada.
+  - Acho que nossa viagem de carro termina aqui - disse Mulder, fazendo um
+enorme esforço
+para abrir a porta do seu lado. Finalmente ele conseguiu abrir e saiu do carro.
+Estendeu a
+mão para a parte de trás do veículo e tirou uma pequena sacola preta, ajudando
+então Scully
+a sair também.
+  - Não adiantou muito tentar usar o elemento surpresa - disse ele, gritando para
+ser ouvido
+no meio do barulho do alarme. Ele ergueu o capô do carro e arrancou o fio. O
+silêncio
+repentino pareceu tão alto como o ensurdecedor barulho da sirene do alarme.
+  A voz dele ecoou pela garagem vazia, quando Mulder disse:
+  - Não me parece boa idéia tomar o elevador neste prédio. O que acha de
+subirmos pelas
+escadas?
+  - Claro - disse Scully. - Vai ser um ótimo exercício para mim. Tenho faltado
+muito da
+academia recentemente.
+  A escadaria era iluminada por lâmpadas muito fortes. Mas no vigésimo-quinto
+andar, onde
+Mulder e Scully pararam para descansar e respirar um pouco, as luzes se
+apagaram.
+-- Página 87
+
+  - Mulder? - chamou Scully no meio da escuridão.
+  - Buuuu! - respondeu Mulder. E o facho da lanterna que ele havia acabado de
+tirar da
+sacola iluminou os degraus da escada acima.
+  Quando a lanterna iluminou o número 30, eles pararam de subir e caminharam
+em direção
+à porta que levava aos gabinetes dos diretores-executivos.
+  Uma luz verde estava piscando perto da maçaneta da porta.
+  - Parece que está aberta - disse Scully.
+  Ela estendeu a mão em direção da maçaneta... mas Mulder segurou seu pulso
+com firmeza.
+  - Ei, está me machucando! - disse ela. - O que está pretendendo fazer?
+  - Segure a lanterna - disse Mulder, estendendo a mão com o farolete.
+  Mulder apanhou na sacola uma grossa luva de borracha e uma chave de
+fenda.
+  - Não vamos cair no mesmo erro que Benjamin Drake cometeu - disse Mulder,
+calçando a
+luva de borracha.
+  Com a mão protegida ele enfiou a ponta da chave de fenda no buraco da
+fechadura.
+  Explodiu um clarão azulado, e Mulder deixou cair a chave de fenda, saltando
+para trás.
+  - Parece que lhe devo mais uma, Mulder - disse Scully.
+  Mas Mulder não estava prestando atenção ao que ela dizia. Estava ouvindo o
+barulho do
+ferrolho da porta sendo fechado.
+  - Pode me devolver a lanterna? - pediu ele, estendendo a mão.
+  Scully lhe passou a lanterna acesa, e Mulder usou o facho para examinar
+cuidadosamente
+as extremidades da porta.
+
+-- Página 88
+
+ - O vão parece estreito demais para que eu possa enfiar um cartão plástico por
+aqui - disse
+ele. E examinou a fechadura eletrônica. - É preciso ter um cartão magnético
+especial para
+abrir. Não há como abrir de outra forma.
+  Então, levantou a lanterna para cima, para o ponto onde havia uma câmera
+observando os
+movimentos dos dois, com uma luz vermelha acesa.
+  - Por alguma razão eu tenho a impressão de que não estamos sozinhos - disse
+ele. - Temos
+companhia desde o instante em que entramos aqui.
+  - Cada centímetro deste prédio deve ser constantemente observado - disse
+Scully E fez uma
+pausa. ­ Estamos sendo vistos... pela máquina.
+  Mulder levantou os olhos para a luz vermelha acesa lá em cima.
+  - O que é que você está olhando? - rosnou ele, tirando a luva de borracha.
+Erguendo o
+corpo sobre as pontas dos pés, cobriu a lente da câmera com a luva, e disse: -
+Agora, que
+finalmente temos um pouco de privacidade, vamos ver se podemos encontrar
+algum ponto
+fraco no sistema de segurança do prédio.
+  Lentamente ele varreu todas as paredes com o facho da lanterna. Ele e Scully
+viram ao
+mesmo tempo a grade metálica que havia no teto, bem acima da porta.
+- Aquilo é parte do sistema de ventilação - disse Scully - Isso quer dizer que a
+passagem dá
+para um ducto de ar.
+- Talvez haja uma passagem através do ducto, que leve ao outro lado da porta -
+disse
+Mulder.
+  - Eu vou à frente - disse Scully. - Sou menor do que você. Vou encaixar melhor
+ali.
+  Mulder não tinha como recusar.
+  - Bem, se o ducto lhe serve... - disse ele, entregando a Scully a lanterna e a
+chave de fenda.
+
+-- Página 89
+
+ Mulder cruzou os dedos das duas mãos para dar apoio a Scully Ela se apoiou
+nele para
+erguer o corpo, com a lanterna e a chave de fenda embaixo do cinto.
+ - Mal dá para alcançar a grade - disse ela.
+ Estendeu os braços para cima, soltou os parafusos da grade de ferro e deixou
+o pesado
+objeto cair no piso do corredor.
+ Enfiou o pescoço e acendeu a lanterna pela abertura.
+ - Não dá para ver onde o ducto termina - disse ela. - Mas acho que é grande o
+bastante para
+que eu possa engatinhar dentro dele. Pode me desejar boa sorte.
+ Ela tornou a colocar a lanterna e a chave de fenda embaixo do cinto. Usando
+as duas mãos,
+ergueu o corpo e entrou pela abertura do ducto de ar.
+
+-- Página 91
+
+ Capítulo 15
+
+  O ducto de ar através do qual Scully estava engatinhando era feito de aço
+inoxidável. O
+metal refletia toda a intensidade do facho da lanterna, a ponto de dificultar a
+visão dela.
+Scully engatinhava na direção que supunha ser a do gabinete da diretoria
+executiva. Deveria
+haver outra grade de saída de ar no gabinete. A idéia era soltar os parafusos
+dessa grade,
+descer no escritório e abrir a porta para que Mulder entrasse.
+  Só que ela não conseguia encontrar grade alguma.
+  Achou que havia calculado mal as distâncias. Ou talvez houvesse perdido seu
+sentido de
+direção naquele espaço confinado, e tivesse engatinhado pela divisão errada do
+sistema de
+ventilação. Decidiu continuar engatinhando mais algum tempo na mesma
+direção em que
+estava indo. Se continuasse perdida, teria de...
+  Mas ela não teve tempo de decidir o que faria.
+  Já não podia mais continuar no rumo em que estava indo.
+
+-- Página 92
+
+ Bateu em seu rosto uma ventania forte, impedindo-a de continuar, como se
+fosse uma
+parede de tijolos.
+  Ela sentiu que estava sendo empurrada para trás por aquela forte rajada de
+vento, o que a
+forçaria a entrar por uma divisão do sistema de ventilação, pela qual havia
+passado
+anteriormente.
+  Demorou alguns instantes para que ela compreendesse que o vento não a
+estava
+empurrando.
+  Ao ver pequenos pedaços de papel e outros objetos que vinham na sua
+direção, batiam em
+seu rosto e caíam, percebeu que estava sendo puxada para trás. Alguma coisa
+estava
+sugando
+o ar para dentro do ducto.
+  Scully agarrou-se a uma borda do encanamento de ar que havia junto à solda
+de uma das
+emendas. Desesperadamente, agarrada à borda com uma das mãos e
+segurando a lanterna na
+outra, conseguiu virar o corpo para ver onde ficava a origem daquela forte
+sucção.
+  O facho da lanterna mostrou um enorme ventilador que girava com grande
+velocidade, na
+extremidade do ducto de ar. As lâminas pareciam extremamente afiadas.
+  A força exercida pelo ventilador era enorme. A aceleração parecia estar
+aumentando,
+puxando o ar com mais força, até que Scully não conseguiu mais manter-se
+agarrada à
+pequena borda de metal. Seu corpo voltou a escorregar pelo ducto, enquanto
+ela procurava
+agarrar-se desesperada às chapas de aço extremamente lisas. Ela viu que as
+lâminas do
+ventilador se aproximavam cada vez mais, tornando-se maiores a cada instante.
+  Havia um cano que corria pela lateral do ducto, e ela agarrou-se a ele com toda
+a força de
+uma das mãos, quando passou perto dele. Procurou manter-se agarrada, ao
+mesmo tempo em
+que tentava apoiar os pés junto à curvatura do ducto de ar.
+
+-- Página 93
+  Não vai me pegar! - pensou ela consigo mesma, atirando a chave de fenda e
+depois a
+lanterna contra o ventilador, na esperança de quebrar-lhe as pás.
+  O ventilador mastigou os objetos com a mesma facilidade com que um
+cachorro engole
+pedaços de ração.
+  - Ora, vamos, Scully, pelo menos procure tombar lutando - disse ela a si
+mesma, tirando do
+coldre seu revólver calibre 45 automático.
+  Rangendo os dentes, ela fez mira sobre o cano da arma e começou a disparar
+contra o alvo
+impossível.
+
+  - Scully? - gritou Mulder, quando ouviu o barulho metálico do ferrolho sendo
+aberto e viu a
+luz verde que se acendia na fechadura.
+  Ela conseguiu - pensou ele, com um suspiro de alívio. Não deveria ter-se
+preocupado tanto.
+Deveria saber que ela haveria de conseguir chegar ao outro lado da porta.
+  Então a porta se abriu, e Mulder sentiu o coração bater em sua boca.
+  Não era Scully quem estava do lado de dentro.
+  Era Peterson, o engenheiro de sistemas do Edifício Eurisko.
+  - Agente Mulder - disse Peterson, com as sobrancelhas levantadas. - O que
+está fazendo
+aqui?
+  Antes que Mulder pudesse responder, ouviu um barulho distante que fez todo o
+seu corpo
+congelar.
+  Poderia ter sido um trovão, mas era impossível, porque a noite lá fora estava
+clara e seca,
+com milhares de estrelas brilhando no céu.
+  Ou poderia ter sido uma série de tiros.
+  Mas Peterson tinha outra explicação.
+
+-- Página 94
+
+ - O SOC tem agido de maneira estranha ultimamente - disse ele. - A queda
+daquele
+elevador que matou seu colega do FBI foi apenas o começo de tudo. Desde
+então temos visto
+muita coisa estranha acontecendo por aqui. E esta noite a situação acabou
+ficando ainda
+mais
+confusa. Os barulhos estranhos são apenas uma parte de tudo. Temos
+enfrentado enormes
+variações no fornecimento de energia, com as luzes acendendo e apagando
+sem mais nem
+menos. E por isso que estou trabalhando até tarde hoje. Estou procurando
+manter as coisas
+mais ou menos sob controle. Mas devo admitir que é trabalho demais para mim.
+Como já
+tive oportunidade de dizer antes, não passo de um zelador que ganha bastante
+bem...
+  - Poderia me deixar dar uma olhada? ­ perguntou Mulder.
+  Peterson encolheu os ombros e foi na frente, em direção à sala onde estava o
+computador
+do gabinete da diretoria executiva.
+  Ele afastou-se para o lado e deixou Mulder passar. Rapidamente Mulder
+passou os dedos
+pelas laterais e pela parte de trás da máquina.
+  - Onde está a abertura B? - perguntou a si mesmo em voz alta.
+  - Algumas dessas coisas eu sei - disse Peterson. E abriu um painel que havia
+na lateral do
+computador. Apareceu uma coluna de portas de acesso eletrônico.
+  Antes de permitir que Mulder entrasse em ação, ele perguntou, com as
+sobrancelhas
+cerradas:
+- Tem certeza que sabe o que está fazendo? Porque, se não sabe, pode colocar
+em risco o
+meu emprego aqui...
+  - As instruções de Wilczek foram bastante claras - garantiu Mulder.
+  Da sacola que trazia ao ombro, Mulder tirou uma pequena caixa preta, mais ou
+menos do
+tamanho de um isqueiro, conectando-a à ranhura B.
+
+-- Página 95
+
+ O computador pareceu ganhar vida, acendendo e piscando várias luzes.
+ - Puxa vida! - exclamou Peterson admirado, coçando a cabeça com as duas
+mãos.
+ - Droga! - resmungou Mulder, quando leu a mensagem que aparecia na tela do
+computador.
+ ACESSO NEGADO.
+ Apertando os lábios com força, Mulder apanhou outra caixinha preta na sacola
+e a conectou
+à ranhura C.
+ Digitou uma série de números no teclado e esperou.
+ Uma grande quantidade de asteriscos encheu a tela, como estrelas cadentes.
+ Então, uma voz anunciou:
+ - Acesso permitido ao sistema. Código de autorização de uso em Nível Sete.
+ Peterson ficou boquiaberto.
+ A boca de Mulder abriu-se em um sorriso de triunfo.
+ Ele enfiou a mão na sacola e tirou o disquete com o vírus que Wilczek havia
+preparado
+para ele. Lembrou-se do olhar de Wilczek, sem brilho e carregado de tristeza,
+quando lhe
+entregara aquele disquete.
+ Mulder estava em posição para colocar o disquete no drive, quando a voz
+gelada de
+Peterson o fez parar.
+ - Nada mau, agente Mulder - disse Peterson. Mulder virou a cabeça para trás.
+E notou que
+estava olhando para o cano de um revólver de grande calibre. E Peterson
+continuou: -
+Obrigado, agente Mulder. Faz mais de dois anos que estou tentando acessar o
+Nível Sete.
+Agora, afaste-se por favor.
+
+-- Página 97
+
+ Capítulo 16
+
+ Mulder arregalou os olhos para a arma brilhante de Peterson. Então, analisou a
+expressão
+dura do rosto dele. E conseguiu entender o que estava acontecendo. Na
+verdade, considerou-
+se um imbecil por não ter percebido tudo muito antes.
+ - Departamento de Defesa? - perguntou ele. Peterson encolheu os ombros,
+segurando a
+arma
+com firmeza.
+ - Quase acertou - disse ele. - Mas podemos dizer que nossos contra-cheques
+de pagamento
+são assinados pela mesma pessoa.
+ Mulder estremeceu, enquanto uma série de perguntas tomava conta de sua
+mente. Por que
+Garganta Profunda não lhe dera sequer uma pista a respeito da verdadeira
+profissão de
+Peterson? Por acaso haveria algum outro nível de Governo ao qual nem
+Garganta Profunda
+teria acesso? Ou estaria Garganta Profunda apenas testando Mulder?
+ Se fosse este o caso, Mulder havia sido reprovado. Peterson sacudiu a arma
+diante de
+Mulder e disse:
+
+-- Página 98
+
+  - Afaste-se da máquina e me entregue o disquete. - Quando Mulder hesitou,
+Peterson
+aproximou a arma do peito dele e disse: - É melhor não duvidar da minha
+determinação,
+agente Mulder. Tenho autoridade total para fazer tudo o que tiver de fazer.
+  Mulder ficou tenso... assim como ficou tenso o dedo de Peterson junto ao
+gatilho.
+  Por um instante, o tempo parecia haver parado.
+  - Pode baixar a arma - disse uma voz atrás deles.
+  Era Scully que estava junto à porta. As roupas dela estavam em farrapos, e seu
+rosto cheio
+de graxa e terra. Os cabelos totalmente desalinhados. Mas a arma que trazia na
+mão não
+tremia nem um pouco, apontada diretamente para Peterson.
+  Mas Peterson ainda tinha sua própria arma apontada para Mulder, quando
+virou a cabeça
+para olhar para Scully.
+  - Talvez pense que sabe com quem está lidando, mas eu
+devo lhe dizer que...
+  - Cale a boca e deixe cair a arma! - disse Scully, quase gritando.
+  Peterson percebeu a raiva que a dominava. E deixou a arma cair sobre o
+tapete que revestia
+o piso da sala.
+  Balançando a cabeça, ele advertiu:
+  - Está cometendo um erro, agente Scully Um grande erro. Está violando o
+juramento que
+fez
+ao entrar para o Bureau.
+  Mulder sentiu um calafrio na espinha quando percebeu uma sombra de dúvida
+no olhar de
+Scully.
+  Peterson notou a mesma coisa nela. E continuou falando, com a voz mais firme
+agora:
+  - Esta operação é mais importante do que poderia imaginar. Foi autorizada por
+pessoas que
+ocupam os mais altos postos no Governo. Tem um valor incalculável para a
+segurança de
+nosso país. Trata-se...
+
+-- Página 99
+
+  A voz de Mulder interrompeu o discurso dele:
+  - Não dê ouvidos a ele, Scully!
+  Os olhos de Scully começaram a mover-se de um homem para o outro, como
+se estivesse
+assistindo a uma partida de tênis.
+  Peterson continuou:
+  - A tecnologia que existe nesta máquina pode colocar os Estados Unidos na
+liderança
+mundial em...
+  - A máquina é um monstro, Scully ­ interrompeu Mulder. - Já conseguiu matar
+duas
+pessoas. O Governo não terá como controlar este computador, assim como o
+próprio
+Wilczek não conseguiu.
+  O tom de voz de Peterson tornou-se ameaçador.
+  - Não engane a si mesma, agente Scully. Sofrerá todas as conseqüências de
+seus atos se
+interferir com esta operação. Não será apenas o seu emprego que estará
+ameaçado, mas
+também a sua liberdade. E talvez até sua própria...
+  - Scully, pense naquelas pessoas que já morreram, e naquelas que poderão
+morrer no futuro
+- insistiu Mulder.
+  Scully olhou bem para Peterson. Depois olhou para Mulder.
+  Mulder entendia bem o que Scully estava passando naquele momento.
+  Ele a havia colocado em uma situação muito delicada. Ela estava entre a cruz
+e a espada,
+dividida entre sua lealdade pelo Bureau, e sua lealdade para com a pessoa do
+companheiro
+de trabalho. Dividida entre a exigência de fazer seu trabalho conforme o manual,
+e permitir
+que ele rescrevesse as regras de sua atuação.
+  Não era a primeira vez que ele a colocava em situação semelhante. De fato,
+ele a havia
+posto permanentemente nessa situação, desde o momento em que tinham
+começado a
+trabalhar juntos.
+
+-- Página 100
+
+ Ele sabia qual tinha sido a decisão dela em todas as ocasiões anteriores. Mas
+não tinha a
+menor idéia do que ela poderia fazer agora.
+ Scully olhou dele para Peterson e de novo para ele.
+ - Ponha o disquete no drive, Mulder - disse ela.
+ - Claro, Scully - respondeu Mulder.
+ - Está cometendo um erro... Não sabe o tamanho do erro que está cometendo -
+disse
+Peterson em tom ameaçador.
+ Mas ninguém estava prestando atenção ao que ele dizia.
+ Mulder respirou fundo, enfiou o disco no drive e prendeu a respiração enquanto
+esperava.
+ E não precisou esperar muito tempo.
+  Demorou apenas alguns segundos para que a máquina falasse, como se
+estivesse ferida:
+ - O que está fazendo, Brad? - Instantes depois, a pergunta se transformou em
+súplica: - Não
+faça isso, Brad.
+  Números, letras e símbolos começaram a correr pela tela, a uma velocidade
+cada vez
+maior. Milhões de números, letras e símbolos. Bilhões, talvez. Mulder não podia
+nem pensar
+em calcular a quantidade de coisas que via na tela. Só conseguia piscar
+enquanto a tela se
+enchia cada vez mais.
+  As luzes do console do computador acendiam e apagavam nas mais
+inexplicáveis
+seqüências.
+  Por outro lado, as luzes que iluminavam a sala também começaram a acender
+e apagar. Do
+lado de fora vinha o barulho de portas abrindo e fechando, dos elevadores
+subindo e
+descendo a toda velocidade em seus poços profundos, até que os cabos
+começaram a se
+arrebentar.
+  Do meio de todos aqueles sons ensurdecedores formou-se a imagem de todo o
+enorme
+edifício sendo destruído e gemendo como um animal ferido. Um animal que
+enfrentava
+espasmos de agonia, enquanto as flechas eletrônicas iam dilacerando seu
+corpo.
+
+-- Página 101
+
+  De dentro do computador no gabinete da diretoria uma voz começou a dizer:
+  - Zona de segurança de Nível Sete... Cinco... Sobe...Desce... Olá... Adeus...
+Olá... Adeus...
+01... Ad... 0... A...
+  Mulder inclinou o corpo para chegar mais perto da máquina e ouvir as últimas
+palavras que
+ela dizia, com a voz quase inaudível:
+- Por quê, Brad?
+
+-- Página 103
+
+ Capítulo 17
+
+ A voz desapareceu. As luzes se apagaram. Tudo ficou envolto no mais
+completo silêncio e
+escuridão.
+ Então, pouco a pouco, em uma sala após a outra, andar após andar, as luzes
+do Edifício
+Eurisko voltaram a se acender.
+ Era como se todo o prédio estivesse acordando de um sono pesado.
+ Ou talvez de um pesadelo.
+ Mulder limpou o suor que lhe caía pela testa. Scully limpou a graxa que havia
+em sua face.
+Peterson balançou a cabeça, com uma expressão severa no rosto.
+ - Isso precisava ser feito - disse-lhe Mulder. - Desculpe Peterson... se é que
+este é seu
+verdadeiro nome.
+ - Meu nome é o que menos importa - disse Peterson, com amargura na voz.
+ - Eu sei que estava apenas fazendo o seu trabalho - disse Mulder. - Achava
+que estava
+fazendo a coisa certa. Mas a agente Scully e eu pensávamos a mesma coisa.
+
+-- Página 104
+
+Tínhamos a mesma sensação. Na verdade, foi um conflito entre diferentes
+pontos de vista.
+Essas coisas acontecem.
+ Mulder e Scully deixaram Peterson olhando para a tela do computador. Ele não
+disse uma
+palavra sequer, quando eles saíram da sala. Ficou apenas parado ali, olhando
+para a tela
+escura, balançando a cabeça, desanimado.
+
+   A primeria pergunta de Mulder quando eles chegaram ao centro de detenção
+foi:
+  - Como é que Brad Wilczek não está mais aqui? Por acaso ele foi posto em
+liberdade?
+  - desculpe , mas esta é uma informação secreta - disse o guarda do presídio,
+como se
+estivesse repetindo uma frase decorada.
+  - Sou agente do Bureau Federal de Investigações, e fui escalado para
+investigar este caso -
+insistiu Mulder.
+  - Desculpe, mas o senhor não dispõe da autorização necessária para obter
+maiores
+informações - respondeu o guarda, no mesmo tom de voz quase automático.
+  Cinco dias mais tarde, uma tempestade de fúria dentro do peito de Mulder
+ainda não havia
+se acalmado. Mas os seus ombros começavam a cair. A essa altura dos
+acontecimentos, ele
+já estava cansado de procurar em todas as suas fontes normais de informações.
+Havia
+pesquisado em todos os bancos de dados aos quais tinha acesso. Tinha
+procurado falar com
+todas as pessoas que ocupavam altos cargos em todos os departamentos do
+Governo que
+conhecia. E ainda não havia progredido um centímetro sequer.
+  Só lhe faltava uma fonte de informações a consultar.
+  No entanto, Garganta Profunda apareceu para Mulder com uma espécie de
+surpresa. Foi
+muito mais simpático do que Mulder havia esperado, quando se encontraram na
+praça do
+Edifício Eurisko.
+
+-- Página 105
+
+ Claro que os vitoriosos sempre podem se dar ao luxo de parecerem simpáticos.
+E foi um
+olhar de vitorioso que Garganta Profunda deu a Mulder.
+ - Conversei com o congressista Klebanow e com a subcomissão encarregada
+do
+Departamento de Correções Criminais, a respeito do paradeiro de Wilczek -
+disse-lhe
+Mulder. - Cheguei inclusive a encaminhar uma petição ao gabinete do Ministro
+da Justiça.
+ - Não vai encontrar Wilczek - garantiu-lhe Garganta Profunda.
+ - Ninguém pode sumir com um homem da estatura de Brad Wilczek sem dar
+explicação
+alguma - insistiu Mulder.
+ - Eles podem fazer qualquer coisa que pretendam fazer - disse Garganta
+Profunda com toda
+seriedade.
+ - Mas, onde está ele? - Mulder precisava saber.
+ - Está participando de uma série de discussões muito importantes com
+representantes do
+Governo - disse Garganta Profunda. - Está em contato com gente que tem
+autoridade para
+lhe prestar importantes favores, em troca de sua ajuda em certas áreas. É o que
+nós
+poderíamos chamar de intercâmbio profissional, ou barganha.
+  - Brad Wilczek nunca fará esse tipo de acordo ­ disse Mulder, em um tom de
+voz ardente. -
+Jamais concordará em trabalhar para eles. É um homem que tem sua própria
+visão do
+futuro... diferente da visão deles.
+  - Permita-me lembrar que o futuro de Wilczek, pelo menos até onde podemos
+enxergar,
+seria dentro de uma cela muito pequena, sem acesso algum a qualquer
+computador, mesmo
+dos mais antigos - disse Garganta Profunda, ainda sorrindo. - A falta de
+liberdade costuma
+provocar as mais estranhas reações na pessoa humana. Lembre-se de que
+Wilczek já
+confessou haver cometido dois assassinatos.
+
+-- Página 106
+
+  - Qualquer advogado pode conseguir anular essa confissão com a maior
+facilidade - disse
+Mulder.
+  - Na verdade isso dependeria mais do juiz escolhido para presidir o julgamento
+- disse
+Garganta Profunda. - Não se esqueça de que já não existe mais a única prova
+que poderia ser
+usada para ajudá-lo a recuperar a liberdade. A máquina está... kaput. Você
+mesmo a
+destruiu.
+  Mulder mordeu os lábios.
+  - Mas o que mais eu poderia ter feito? ­ perguntou ele.
+  - Nada - respondeu Garganta Profunda. - A menos que estivesse disposto a
+deixar a
+máquina sobreviver.
+  - Quer dizer que o Departamento de Defesa não encontrou coisa alguma que
+pudesse
+aproveitar? ­ perguntou Mulder.
+ - Pelo menos você pode encontrar conforto neste fato - disse Garganta
+Profunda. - Os
+técnicos deles estão trabalhando naquele computador há cinco dias. O vírus de
+Wilczek fez
+um trabalho muito bom. Não deixou qualquer rastro de inteligência artificial na
+máquina.
+Enquanto estamos aqui conversando, os agentes estão terminando a pesquisa
+que fazem lá
+dentro. - Garganta Profunda apontou com o dedo para o Edifício Eurisko, que
+estava cercado
+de barricadas e guardas armados até os dentes.
+ - Quer dizer que não aproveitaram nada? - perguntou Mulder.
+ - A máquina está morta.
+
+-- Página 107
+
+  Quando Claude Peterson estava crescendo, seu pai lhe deu um lema para
+seguir na vida:
+  - Os vencedores nunca se entregam, e quem se entrega nunca vence.
+  Estas palavras o haviam incentivado durante os tempos de colégio e de
+faculdade. E o
+tinham levado adiante, passo a passo, pelos vários escalões da agência
+governamental para a
+qual trabalhava. Haviam feito com que ele chegasse onde estava agora,
+discutindo com seu
+superior pelo telefone.
+  - Chefe - disse ele -, acredito sinceramente que seria bastante proveitoso
+continuarmos
+nossa investigação durante, pelo menos, mais alguns dias. O sistema de
+computadores é
+bastante complexo. Acho que ainda existe uma possibilidade de...
+  A voz que vinha do outro lado da linha o interrompeu:
+  - Peterson, você conta com uma equipe de vinte homens, todos especialistas
+nesse campo,
+certo?
+  - Sim senhor - respondeu Peterson.
+
+-- Página 108
+  - Já está trabalhando no edifício há cinco dias, certo? - continuou dizendo a
+voz. Não era
+uma voz gerada por computador. Só parecia ser.
+  - Isso mesmo - disse Peterson. - Cinco dias e cinco noites.
+  - E não encontrou o menor sinal da existência de inteligência artificial naquela
+máquina,
+certo? - disse a voz.
+  - Não senhor... Isto é, sim senhor ­ respondeu Peterson.
+  - Por acaso tem idéia dos custos envolvidos em uma investigação desse tipo...
+e das
+dificuldades que muitas vezes encontramos ao tentarmos justificar nosso
+orçamento? -
+perguntou a voz.
+  - Sim senhor... Isto é, não exatamente, chefe ­ disse Peterson. - Essa não é
+minha
+especialidade.
+  - Pois eu sinto informá-lo de que é minha especialidade - disse a voz. - Nossa
+agência tem
+outras áreas em que pode aplicar o dinheiro com melhores resultados. Portanto,
+estou
+mandando que encerre de uma vez a investigação. Trate de limpar tudo e
+terminar o trabalho
+dentro das próximas cinco horas.
+  - Mas, chefe... - Peterson começou a dizer.
+  - Estou dizendo que, às 17 horas, você e os seus auxiliares têm de cair fora daí
+- disse a
+voz. - Está entendendo o que eu digo?
+  - Sim senhor - respondeu Peterson, desanimado.
+  - Mais alguma pergunta? - indagou a voz.
+  - Não senhor - respondeu Peterson.
+  - Então, cumpra minhas ordens! - disse a voz.
+  Peterson ouviu o telefone sendo desligado no outro lado da linha, e colocou o
+fone no
+gancho.
+
+-- Página 109
+
+ Ao redor dele, os técnicos ainda estavam investigando o que havia restado do
+Sistema
+Operacional Central do Edifício Eurisko, com microscópios, estetoscópios,
+sensores
+eletrônicos e uma parafernália de instrumentos... Tudo menos pentes finos.
+ Mais palavras da infância de Peterson passaram por sua mente:
+
+ Humpty Dumpty estava sentado no muro
+ E Humpty Dumpty logo caiu duro.
+ Nem todos os cavalos do rei,
+ nem todos os soldados do rei,
+ conseguiram juntar
+  os pedaços de Humpty outra vez.
+
+  Peterson suspirou fundo, e disse em voz alta:
+- Atenção, pessoal. Temos exatamente cinco horas para terminar o trabalho
+aqui.
+  Sua ordem foi recebida com murmúrios e reclamações. Ele tinha uma equipe
+muito boa.
+Assim como ele, nenhum dos seus companheiros queria abandonar aquela
+investigação.
+  Ele falou em um tom de voz mais forte:
+  - As ordens que recebi vieram lá de cima.
+  Um homem que estava ao lado dele resmungou:
+  - Claro. Não temos o direito de questionar as ordens recebidas. Temos de
+parar o que
+estamos fazendo e deixar as coisas como estão.
+  - Ora, vamos, Sam - disse outro homem que trabalhava ao lado do primeiro. -
+Esta máquina
+está morta. Encare este fato. Algumas vezes ganhamos. Outras perdemos.
+  Peterson fez questão de anotar o nome do segundo homem. Ele jamais faria
+parte de
+qualquer equipe que Peterson viesse a liderar no futuro.
+  Apesar de tudo, Peterson ainda teve de repetir:
+
+-- Página 110
+
+ - Vamos, pessoal. Temos de começar a juntar os aparelhos para cair fora
+daqui.
+ Ele deu uma rápida olhada em volta para ter certeza de que os seus
+comandados estavam
+começando a fazer as malas. Então, saiu da sala. Não queria estar por perto
+para ver o fim
+daquele trabalho.
+  Ele já não estava mais na sala para olhar embaixo de um monte de peças de
+computador e
+ver três luzes piscando uma após a outra. Se estivesse, teria jurado consigo
+mesmo que as
+luzes estavam piscando umas para as outras.
+  Ele não viu a luz vermelha da câmera acendendo e examinando todo aquele
+cenário, para
+ver se a equipe de investigadores já estaria partindo.
+  Não foi capaz de especular que nada estaria além das habilidades da
+inteligência pura...
+nem mesmo a capacidade do SOC de tornar a montar suas peças, a partir do
+nada.
+  E ele não poderia adivinhar quais seriam os planos da máquina para o futuro.
+
+ Final do livro
+

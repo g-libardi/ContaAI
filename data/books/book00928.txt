@@ -1,0 +1,1143 @@
+Desidério Murcho - Júlio Sameiro
+
+LÓGICA-11.° ANO
+
+1. O que é a lógica?
+
+2. Lógica e filosofia.
+
+3. As frases e o que elas dizem.
+
+4. A forma lógica das proposições.
+
+5. Argumentos e forma lógica.
+
+6. A teoria lógica de Aristóteles.
+
+7. A lógica moderna.
+
+8. Indução.
+
+9. Exercícios.
+
+10. Bibliografia aconselhada.
+
+com o apoio científico da
+
+CD
+
+Sociedade Portuguesa de Filosofia
+1
+
+O que é a lógica?
+
+O objectivo desta brochura é dar aos professores algumas informações importantes no que respeita à lógica e ao seu ensino. Não é o objectivo desta brochura ensinar lógica, mas antes desfazer algumas das confusões que dificultam o seu ensino e apresentar algumas referências bibliográficas para que o professor possa complementar o seu estudo da lógica. Muitos dos aspectos aqui apresentados não se destinam a ser
+transmitidos aos estudantes; são ao invés informações de fundo que o professor tem de dominar para compreender correctamente o que está a ensinar.
+
+A lógica estuda alguns aspectos da argumentação. A lógica permite-nos 1) distinguir os argumentos correctos dos incorrectos, 2) compreender por que razão uns são correctos e outros não, e 3) evitar cometer falácias ou sofismas na nossa argumentação. Uma falácia ou um sofisma é um argumento incorrecto que parece correcto. Um argumento correcto é um conjunto de afirmações organizadas de tal modo que uma delas (a conclusão) é apoiada pelas outras (as premissas). Num argumento incorrecto as premissas não
+apoiam a conclusão. Um argumento só pode ter uma conclusão, mas pode ter várias premissas. Eis alguns exemplos de argumentos:
+1. Não podemos permitir o aborto porque é o assassínio de um inocente.
+2. Dado que os artistas podem fazer o que muito bem entenderem, é impossível definir a arte.
+3. Considerando que sem Deus tudo é permitido, é necessária a existência de Deus para fundamentar a moral e dar sentido à vida.
+4. Se Sócrates era um deus, era imortal. Mas dado que Sócrates não era imortal, não era um deus.
+"Argumento", "inferência", e "raciocínio" são termos praticamente equivalentes. Fazer uma inferência é apresentar um argumento, e raciocinar é retirar conclusões a partir de premissas. Pensar é em grande parte raciocinar.
+Nem sempre é fácil determinar qual é a conclusão e quais são as premissas de um dado argumento.
+Mas esse é o primeiro passo para o podermos discutir. No caso do argumento 1 a conclusão é "Não podemos permitir o aborto" e a premissa é "O aborto é o assassínio de um inocente". No caso do argumento 2 a conclusão é "É impossível definir a arte" e a premissa é "Os artistas podem fazer o que muito bem entenderem". O argumento 3 é mais complexo: a conclusão é "É necessária a existência de Deus para fundamentar a moral e dar sentido à vida" e a premissa é "Sem Deus tudo é permitido".
+Uma maneira de tornarmos mais claros os argumentos, é reformulá-los canonicamente com as premissas claramente separadas da conclusão. O argumento 4 pode ser canonicamente reformulado como se segue:
+Se Sócrates era um deus, era imortal.
+Sócrates não era imortal.
+Logo, Sócrates não era um deus.
+O professor deve conceber exercícios deste género, pedindo ao estudante para reformular argumentos na forma canónica. Os argumentos não poderão ser demasiado complexos porque só um estudante avançado ou um especialista poderá reformular argumentos cuja estrutura seja demasiado complexa. No entanto, o estudante deverá desenvolver a capacidade para, face a um texto, identificar a conclusão (ou conclusão principal) e distinguir diferentes argumentos, explícitos ou aludidos, que o texto apresenta. Esta capacidade permitirá ao estudante discutir as ideias dos filósofos e adoptar uma posição crítica. Sem ela, restará
+ao estudante a paráfrase e a dissertação sem rumo, a que habitualmente se chama "comentário de texto".
+
+Verdade, validade e solidez
+
+Os argumentos são válidos quando têm uma certa conexão entre as suas premissas e conclusão. No caso dos argumentos dedutivos, essa conexão é a seguinte: é impossível as premissas serem verdadeiras e a conclusão falsa. A validade é uma propriedade de argumentos; não é uma propriedade de afirmações, mas algo que resulta da conexão existente entre as premissas e a conclusão de um argumento.
+Repare-se que ao dizer que num argumento válido é impossível todas as premissas serem verdadeiras e a conclusão falsa, não estamos a falar de possibilidade física, mas lógica. Dado um argumento válido, é impossível que as suas premissas sejam verdadeiras e a sua conclusão falsa, mesmo que as leis da física fossem completamente diferentes.
+O significado de "validade" em filosofia e lógica é diferente do seu significado popular ou corrente. Em termos populares ou correntes, dizer que uma afirmação é válida é dizer que essa afirmação é verdadeira, interessante, inspiradora ou que nos faz pensar. Mas uma única afirmação não pode ter o tipo de conexão
+entre afirmações que constitui um argumento, e só essa conexão é susceptível de ser válida ou não. Em filosofia e lógica as afirmações não podem ser válidas nem inválidas.
+Por outro lado, os argumentos não são verdadeiros ou falsos. Os argumentos podem ter premissas e conclusões verdadeiras ou falsas - mas isso é diferente de dizer que os próprios argumentos podem ser verdadeiros ou falsos. Os argumentos podem ser muitas coisas - podem ser interessantes ou aborrecidos,
+
+3
+inúteis ou inteligentes, etc. Mas não podem ser verdadeiros nem falsos. Quando, em termos populares, dizemos que um argumento é verdadeiro queremos dizer, em regra, que é sólido.
+Um argumento sólido obedece a duas condições: tem forma válida e as premissas são verdadeiras.
+Mas estas duas condições não bastam para que um argumento seja bom. Vejamos o seguinte exemplo:
+A neve é branca. Logo, a neve é branca.
+Este argumento é válido: é impossível a premissa ser verdadeira e a conclusão falsa. E é sólido: a premissa é verdadeira. Mas o argumento é obviamente mau. Vejamos outro tipo de exemplo:
+A neve é branca. Logo, ou Deus existe ou não.
+Este argumento é válido: é impossível a premissa ser verdadeira e a conclusão falsa. Isto acontece, neste caso, porque a conclusão não pode ser falsa, pois é uma verdade lógica. O argumento é também sólido, dado que a premissa também é verdadeira. Mas é apesar disso obviamente mau.
+Para que um argumento sólido seja bom é necessário que as suas premissas sejam mais evidentes do que a sua conclusão. Agora compreendemos por que razão estes dois argumentos não são bons, apesar de serem sólidos. É que no primeiro caso a conclusão é igual à premissa e portanto a premissa não é mais evidente do que a conclusão. E no segundo caso a conclusão é uma tautologia e portanto é mais evidente do que a premissa.
+
+Validade formal e material
+
+Há um uso popular do termo "validade" que tem de ser evitado por provocar confusões. Trata-se do uso que ocorre quando se fala da "validade material" por oposição à "validade formal". Dizer que uma afirmação como "A neve é branca" tem "validade material" é apenas dizer que a afirmação é verdadeira; dizer que uma afirmação como "Os círculos são quadrados" não tem "validade formal" é apenas uma maneira confusa de dizer que essa afirmação é falsa por ser auto-inconsistente. Esta terminologia obscurece a ideia subjacente: só olhando para o mundo podemos descobrir que uma afirmação como "A neve é verde" não é verdadeira, mas podemos descobrir pela pura reflexão sobre os conceitos usados que uma afirmação como "Os triângulos têm 4 lados" é falsa.
+Assim, nem a "validade formal" nem a "validade material" são formas de validade, mas sim diferentes maneiras de uma afirmação ser verdadeira ou falsa. Esta terminologia tem de ser abandonada, pois não faz senão lançar a confusão entre a validade e a verdade.
+
+Os limites da lógica
+
+Diz-se por vezes que a lógica é muito limitada porque se baseia em três "leis": a identidade, o terceiro excluído e a não contradição. Apesar de ser verdade que a lógica clássica tem várias limitações, não se baseia de forma alguma nestas três leis. Por outro lado, várias lógicas modernas violam essas três "leis": as lógicas paraconsistentes violam a lei da não contradição; e as lógicas intuicionistas violam a "lei" do terceiro excluído. E a lei da identidade não é usada na silogística nem na lógica proposicional.
+Apesar de ter ultrapassado grande parte das limitações e dos erros da lógica aristotélica, a lógica clássica actual tem limitações - tal como a física tem limitações. É por isso que há muitas lógicas modernas além da clássica, desenvolvidas a partir dos anos 30 do passado século. Todavia, a lógica clássica é a matriz em relação à qual as outras lógicas se definem; e o estudo da lógica deve começar pela clássica. Há argumentos válidos que a lógica clássica não consegue captar, tal como há fenómenos que a física não consegue explicar. Mas é importante estudar lógica clássica porque é a partir dela que se compreendem as outras, e porque, apesar das suas limitações, a lógica clássica é um importante instrumento filosófico.
+Outro tipo de limitação que é costume apontar à lógica assenta na distinção entre demonstrações e argumentos. Esta distinção, contudo, está errada. Uma demonstração é apenas um argumento formalizado, um modelo simplificado de argumentação. Não podemos acusar um modelo deliberadamente simplificado por ser apenas um modelo e não a coisa real. A ideia de um modelo é precisamente simplificar, para podermos destacar melhor alguns aspectos importantes da argumentação, com o objectivo de compreendermos melhor. É verdade que as demonstrações, como todos os modelos, modelam de forma imperfeita a argumentação, tal como um mapa nunca representa de forma perfeita um país. Mas a única maneira de representar perfeitamente um país seria fazer outro país igualmente complexo, o que seria precisamente inútil como mapa. Qualquer estudo sério da argumentação, filosófica ou outra, implica o domínio dos instrumentos formais da lógica, sendo as demonstrações o seu produto mais poderoso.
+
+Lógica clássica
+
+Por "lógica clássica" entende-se a lógica proposicional e a lógica de predicados que tem origem em Gottlob Frege (1848-1925) (pronuncia-se "frêga") e Bertrand Russell (1872-1970). Chama-se "lógica 
+clássica" a esta lógica para a distinguir de outras lógicas modernas que são extensões ou desvios dela, como a lógica intuicionista, a lógica livre, a lógica modal, a lógica temporal, a lógica relevante, etc.
+A lógica clássica tem duas secções distintas: a lógica proposicional e a lógica de predicados. A lógica proposicional estuda argumentos como o seguinte:
+Se Deus existe, a felicidade eterna é possível.
+Deus existe.
+Logo, a felicidade eterna é possível.
+A validade deste argumento depende exclusivamente do modo como as diferentes proposições estão conectadas, mas não da estrutura interna de cada proposição. É por isso que se chama "lógica proposicional". A forma lógica deste argumento mostra precisamente este facto:
+Se P, então Q.
+P.
+Logo, Q.
+A lógica proposicional estuda as formas mais básicas do raciocínio, e por isso é imprescindível começar pelo seu estudo. Por outro lado, a lógica de predicados estuda argumentos como o seguinte:
+Sócrates é um filósofo.
+Logo, há filósofos.
+A validade deste argumento depende da estrutura interna das proposições. Se nos limitarmos a olhar para a estrutura das conexões entre proposições, este argumento parecerá inválido:
+P.
+Logo, Q.
+Mas a lógica de predicados permite-nos compreender por que razão o argumento original é válido. Formalizando o argumento na lógica de predicados torna-se evidente:
+Fn
+Logo, 3x Fx.
+A primeira premissa afirma que há um objecto determinado, n (Sócrates), que tem a propriedade F (é um filósofo). É evidente que podemos concluir que há pelo menos um objecto (3x) que tem a propriedade F.
+2
+
+Lógica e filosofia
+
+Pode pensar-se que a lógica não tem qualquer interesse para a filosofia por ser "meramente formal".
+Um argumento pode ser válido, poderá alguém argumentar, mas isso não garante que a conclusão seja verdadeira. Como o que interessa à filosofia são as conclusões verdadeiras, a lógica não tem qualquer interesse, diria essa pessoa.
+A resposta a este argumento é chamar a atenção para duas coisas. Em primeiro lugar, nem toda a lógica é "meramente formal". A lógica informal, precisamente, não é formal. A lógica informal estuda muitos
+aspectos da argumentação que não são estudados pela lógica formal. Todavia, não é possível dominar a
+lógica informal com a profundidade necessária para a aplicarmos à filosofia se não dominarmos também os aspectos elementares da lógica formal. A lógica formal é o alicerce a partir do qual podemos erguer a lógica informal.
+Em segundo lugar, o argumento apresentado ignora que as conclusões verdadeiras ou plausíveis devem ser justificadas e as suas consequências explicitadas. O papel da lógica torna-se manifesto quando compreendemos que os filósofos procuram, implícita ou explicitamente, argumentos sólidos e relevantes para defender as suas ideias. Mas para sabermos se um argumento é sólido e relevante precisamos de
+saber se é válido. E é a lógica que nos ajuda a saber se um dado argumento é ou não válido.
+
+Clarificação e validade
+
+A lógica tem dois papéis na filosofia: clarificar o nosso pensamento e ajudar-nos a evitar erros de raciocínio. A filosofia é identificada por um conjunto de problemas. Os filósofos, ao longo da história, têm respondido a esses problemas, tentando solucioná-los. Para isso, apresentam teorias e argumentos.
+- Precisamos da lógica para avaliar criticamente os problemas da filosofia. Se alguém quiser reflectir sobre o problema filosófico de saber por que razão as ideias verdes não são salgadas, o melhor que temos a fazer é
+mostrar que esse é um falso problema. Para isso precisamos de argumentos.
+- Precisamos da lógica para avaliar criticamente as teorias dos filósofos. Será que uma dada teoria é plausível?
+Como poderemos defendê-la? Quais são os seus pontos fracos e quais são os seus pontos fortes? E porquê?
+- Precisamos da lógica para avaliar criticamente os argumentos dos filósofos. São esses argumentos sólidos? Ou são erros subtis de raciocínio? Ou baseiam-se em premissas tão discutíveis quanto as suas conclusões?
+A lógica representa para a filosofia o que o laboratório representa para o cientista empírico: é o palco onde as ideias se testam e avaliam criticamente. Sem esta atitude crítica não há atitude filosófica. Logo, sem lógica não pode haver uma verdadeira atitude filosófica.
+Alguns filósofos não apresentam muitos argumentos. Oferecem-nos apenas as suas ideias e teorias.
+Mas o papel dos professores de filosofia não é ensinar os estudantes a repetir acriticamente essas ideias e teorias. O papel do professor de filosofia é dar ao estudante os instrumentos que lhe permitam ter uma atitude crítica perante elas. O objectivo do estudo da música é aprender a compor sinfonias novas e não apenas aprender a repetir as sinfonias antigas. Do mesmo modo, o objectivo do estudo da filosofia é aprender a filosofar e não aprender a repetir as filosofias dos outros. Mas só podemos ter a esperança de vir a ter filósofos em Portugal se os nossos jovens adquirirem desde cedo os instrumentos críticos que os seus colegas
+dos países filosoficamente mais desenvolvidos adquirem.
+
+A criatividade
+
+Todos queremos um ensino criativo, aberto a novas ideias, crítico e formativo. E a filosofia é uma disciplina cujo ensino perde o sentido se não se orientar por estes ideais - porque ao contrário do que acontece noutras disciplinas, não há "A Filosofia" para ser aprendida. Há apenas os problemas filosóficos e depois as diferentes teorias e argumentos que os diferentes filósofos apresentam, não havendo uma "síntese" ou um consenso que possa ser ensinado como "A Filosofia". Na filosofia, estamos quase desde o início nas fronteiras do conhecimento. 
+Por isso, temos de ensinar a filosofar e não tentar ensinar uma filosofia. E ensinar a filosofar é ensinar a discutir ideias filosóficas.
+Dado que não é possível discutir com seriedade ideias filosóficas sem saber lógica, saber lógica é uma condição necessária, mas não suficiente, do ensino de qualidade da filosofia. Sem a disciplina argumentativa que a lógica proporciona, a discussão filosófica nunca atinge o nível de interesse, sofisticação e criatividade que vemos atingir nos grandes filósofos ao longo da história.
+Assim, para que os nossos estudantes possam enfrentar os problemas da filosofia de forma criativa, têm de dominar os instrumentos críticos elementares que lhes permitirão formular com clareza os problemas, as teorias e os argumentos da filosofia, e que lhes permitirão adoptar uma postura crítica - defendendo as suas próprias ideias com argumentos. A arte da filosofia é a arte da fundamentação das nossas ideias em argumentos sólidos, criativos e inteligentes. Dominar essa arte é ter a capacidade de distinguir os
+argumentos com essas características daqueles que não as têm, e ter a capacidade para mudar de ideias quando somos incapazes de as defender com argumentos bem fundamentados. O pensamento logicamente disciplinado não inibe portanto a criatividade; pelo contrário, promove-a.
+
+8
+Promove-a também por uma segunda razão. Uma das condições de possibilidade da criatividade é a capacidade para pensar em alternativas. Onde nos parece que só há uma alternativa, o pensador criativo descobre outra. Onde parece que não há solução, o pensador criativo descobre uma. A lógica ajuda-nos a pensar em diferentes possibilidades. Para determinarmos se um argumento é ou não válido temos de determinar se há alguma maneira de as premissas serem todas verdadeiras e a conclusão falsa. Uma falácia é precisamente um argumento que parece válido a uma pessoa sem formação lógica porque ela não é capaz de ver que é possível que as premissas sejam verdadeiras e a conclusão falsa (ou seja, não é capaz de ver que a conclusão não é uma consequência lógica das premissas). O estudo da lógica contribui assim decisivamente para a criatividade filosófica, pois habitua o estudante a pensar em circunstâncias novas que de outro modo não teria em consideração.
+
+O modelo do pensamento consequente
+
+O pensamento consequente é o pensamento fundamentado. Um pensamento é consequente quando se baseia em razões e sabe retirar consequências das razões em que se baseia. Pensar é, em grande medida, retirar consequências de ideias. Uma pessoa pode pensar que Deus existe, por exemplo, por achar que se não existisse, a vida não faria sentido. Ou pensar que o aborto é um mal por achar que matar um feto é um assassínio. Esta actividade de retirar consequências das nossas ideias pode ser executada com rigor ou não. A lógica dá-nos um modelo do que é o pensamento rigoroso, o pensamento consequente.
+A lógica ensina-nos quais são as consequências que podemos efectivamente retirar das nossas ideias, e quais as consequências que só aparentemente podemos retirar. Uma demonstração lógica é um modelo abstracto e simplificado do pensamento consequente. Ao tomar consciência das diversas formas como podemos errar ao pensar mesmo nos casos simplificados da lógica, o estudante adquire não apenas rigor mas também cautela e maturidade - aprende a não aceitar as suas ideias e os seus argumentos sem uma reflexão ponderada, pois percebe que pode ter-se enganado a pensar, retirando consequências que não podem ser retiradas, ou não vendo consequências falsas que se podem retirar das suas ideias.
+Ser criativo e consequente dificilmente poderia ser mais importante para os cidadãos de uma democracia moderna. Precisamos de jovens criativos para que se possam encontrar novas soluções para novos e velhos problemas; e precisamos de jovens que saibam pensar de forma consequente para que as decisões que tomamos não tenham consequências que não fomos capazes de antecipar por deficiência de um pensamento sem formação lógica.
+3
+
+As frases e o que elas dizem
+
+Frases e proposições
+
+Uma frase é a unidade gramatical mínima de sentido. Um conjunto de palavras como "A neve é" não é uma frase. Há muitos tipos de frases: interrogativas, exclamativas, etc. As frases que nos interessam em filosofia são as frases declarativas. Interessam-nos estas frases porque só estas exprimem proposições - e são as proposições que nos interessam.
+Uma proposição é o pensamento literalmente expresso por uma frase. Diferentes frases podem exprimir a mesma proposição. Por exemplo, as frases "A neve é branca", "Snow is white" e "É branca a neve" exprimem a mesma proposição. Claro que as frases exprimem muitas outras coisas além do pensamento que exprimem literalmente: podem exprimir surpresa, deleite, ironia, etc. Mas o que nos interessa é o pensamento literal que o filósofo quer transmitir. O filósofo pode usar uma metáfora ou uma mera sugestão para exprimir algo, mas para podermos assumir uma atitude crítica perante o que ele diz temos de começar por compreender o que o filósofo quer literalmente dizer (e não podemos compreender o significado metafórico de uma frase sem antes compreender o seu significado literal).
+
+Vejamos os seguintes exemplos:
+
+1. Fecha a porta!
+2. Prometo devolver-te o livro antes do exame.
+3. O Francisco chão Alentejo ontem.
+4. As ideias verdes dormem furiosamente juntas.
+5. Será que a erva é comestível?
+6. Há vida em Marte.
+
+Só a frase 6 exprime uma proposição. 1 não exprime porque é uma ordem. 2 também não porque é uma promessa. 3 também não porque nem sequer é uma frase bem formada: não é uma frase gramaticalmente correcta. Mas 4 também não exprime uma proposição, apesar da sintaxe correcta, porque infringe restrições semânticas acerca da combinação de palavras portuguesas. 5 não exprime uma proposição porque é uma pergunta.
+
+10
+Valor de verdade
+
+Se uma frase declarativa exprime uma proposição, então é susceptível de receber um valor de verdade.
+
+A lógica silogística e a lógica clássica trabalham apenas com frases declarativas que exprimam proposições
+verdadeiras ou falsas, excluindo, portanto, circunstâncias em que o que as frases declarativas exprimem
+não tem valor de verdade. Por exemplo, podemos defender que, em certas circunstâncias, uma frase como
+
+"O João é corajoso" não é verdadeira nem falsa - por exemplo, numa circunstância em que o João viveu
+uma vida pacata, nunca fugiu do perigo, mas nunca esteve perante o perigo, de modo que nunca mostrou
+nem coragem nem falta dela. A lógica intuicionista, por exemplo, trabalha com este tipo de frases cujo valor
+de verdade é indeterminado; mas a lógica silogística e clássica não. No ensino secundário trabalhamos
+apenas com a lógica clássica e portanto unicamente com frases que exprimem proposições.
+
+O valor de verdade de uma proposição é o facto de essa proposição ser verdadeira ou falsa - ainda
+que nós não saibamos se essa proposição é verdadeira ou falsa. Compare-se as frases 4 e 6. Ninguém
+sabe realmente se 6 é uma frase falsa ou verdadeira. Mas é fácil ver que a frase tem um valor de verdade
+qualquer, consoante haja ou não vida em Marte. Mas 4 não tem valor de verdade. Não se trata apenas de
+não sabermos se 4 é verdadeira ou falsa. Acontece antes que 4 não tem valor de verdade - é um absurdo,
+apesar de ser gramaticalmente correcta. Portanto, não basta que uma frase esteja gramaticalmente correcta
+para que tenha valor de verdade.
+
+11
+4
+
+A forma lógica das proposições
+
+A argumentação é o processo de retirar conclusões de premissas. As premissas e a conclusão dos
+argumentos são proposições. Estas proposições têm uma estrutura lógica. Ter sensibilidade à forma lógica
+das proposições é essencial para ter a capacidade para argumentar e analisar argumentos correctamente.
+
+Na argumentação as conectivas (não; e; ou; se..., então...; se, e só se) e quantificadores (todo; algum)
+têm um papel de relevo. A lógica proposicional estuda a argumentação que se baseia nas conectivas. A
+lógica silogística e de predicados estuda a argumentação que se baseia na quantificação.
+
+Os conectores são operadores frásicos: partículas da linguagem que servem para produzir proposições
+a partir de outras proposições. Por exemplo, podemos acrescentar o operador de negação à frase "Sócrates é mortal", obtendo assim a frase "Sócrates não é mortal". A negação é um operador unário: aplica-se a
+uma só frase. A condicional, bicondicional, conjunção e disjunção são operadores binários: aplicam-se a
+duas frases.
+
+Operadores verofuncionais
+
+Há muitos operadores de formação de frases. Qualquer partícula que possamos acrescentar a uma ou
+mais frases para formar outra frase é um operador de formação de frases. Podemos distinguir dois tipos de
+operadores de formação de frases: os verofuncionais e os não verofuncionais. Os operadores estudados
+pela lógica clássica são verofuncionais.
+
+Um operador verofuncional é um operador de formação de frases que, dado o valor de verdade da frase
+ou frases à qual ou às quais aplicamos esse operador, permite deduzir qual é o valor de verdade da frase
+que resulta dessa aplicação. Assim, dado que a frase "Sócrates é mortal" é verdadeira, a frase "Sócrates
+não é mortal" é falsa. Podemos deduzir o valor de verdade da frase de chegada porque sabemos que o
+operador de negação inverte sempre o valor de verdade.
+
+Mesmo que não saibamos o valor de verdade da frase de partida, sabemos em que circunstâncias a
+frase de chegada será verdadeira ou falsa. Por exemplo, não sabemos se a frase "Há vida em Marte" é
+verdadeira. Mas sabemos que a frase "Não há vida em Marte" será falsa se a primeira for verdadeira e
+verdadeira se a primeira for falsa. Isto acontece porque o operador de negação é verofuncional. No caso de
+um operador não verofuncional isto não acontece. Por exemplo, o operador de crença, "x pensa que", não
+é verofuncional. Apesar de sabermos o valor de verdade da frase "Frege era alemão" não podemos dedu 
+12
+zir o valor de verdade da frase "O João pensa que Frege era alemão" - pois o João tanto pode pensar
+correctamente que Frege era alemão como pensar outra coisa qualquer, errada, acerca de Frege.
+
+A forma lógica
+
+Os operadores verofuncionais estudados pela lógica clássica dão origem a 5 tipos fundamentais de proposições:
+
+1. Negações: Sócrates não é mortal.
+2. Conjunções: Sócrates e Platão são mortais.
+3. Disjunções: Sócrates é ateniense ou estagirita.
+4. Condicionais: Se Sócrates é um ser humano, é mortal.
+5. Bicondicionais: Sócrates é um ser humano se, e só se, é racional.
+
+Relativamente à lógica silogística, a lógica clássica está muito mais de acordo com a linguagem natural,
+pois permite a combinação de proposições. Assim, podemos dizer "Ou Sócrates é um ser humano e é mortal, ou é um deus e é imortal, mas nem Platão nem Aristóteles são imortais nem deuses".
+
+A forma lógica das proposições é importante porque é esta forma lógica que irá determinar a validade
+ou invalidade dos argumentos estudados pela lógica formal - e é por isso que se chama "formal" à lógica
+silogística e à lógica clássica (opondo-se à lógica informal, que estuda também argumentos cuja validade
+não depende da forma lógica das proposições).
+
+Alguns tipos de inferências dependem da estrutura interna das proposições, como já vimos. A lógica de
+predicados distingue três tipos de formas lógicas:
+
+1. Universais: Tudo é matéria.
+2. Existenciais: Há lisboetas.
+3. Singulares: Sócrates é grego.
+
+Uma vez mais, ao contrário do que acontece na silogística, a lógica clássica permite combinar estes
+tipos de proposições para formar novas proposições. Assim, podemos dizer "Se Sócrates é grego e mortal,
+há gregos mortais, mas nem tudo o que é mortal é grego".
+
+13
+4
+
+Argumentos e forma lógica
+
+A forma lógica dos argumentos determina a sua validade ou invalidade dedutivas. Esta forma lógica por
+sua vez resulta da combinação das formas lógicas das premissas e conclusões que constituem o argumento. Por exemplo:
+Se Deus não existisse, a vida não teria sentido. Dado que a vida tem sentido, Deus existe.
+
+Este argumento pode ser colocado em forma canónica:
+
+Se Deus não existisse, a vida não teria sentido.
+A vida tem sentido.
+Logo, Deus existe.
+
+Por sua vez, podemos formalizar parcialmente as premissas e a conclusão deste argumento:
+
+Se não P, então não Q.
+
+Q.
+
+Logo, P.
+
+Agora podemos compreender que este argumento tem uma certa forma lógica. É esta forma que explica
+a validade do argumento original. Podemos substituir P e Q por quaisquer frases declarativas e obteremos
+sempre um argumento válido. Eis um exemplo:
+
+Se os cépticos não estivessem enganados, o conhecimento não seria possível.
+
+Mas o conhecimento é possível.
+
+Logo, os cépticos estão enganados.
+
+Este tipo de fenómeno é precisamente o que Aristóteles descobriu e que ocorre também na lógica silogística. Qualquer argumento com a forma seguinte é válido:
+
+Todos os G são H.
+Todos os F são G.
+Logo, todos os F são H.
+
+14
+Conclusões contidas nas premissas
+
+A afirmação, muito frequente, de que em todos os argumentos dedutivos a conclusão está contida nas
+premissas, se for interpretada literalmente, é falsa. O argumento seguinte é válido mas a conclusão não
+está contida nas premissas:
+
+Sócrates é grego.
+
+Logo, Sócrates é grego ou os livros estão errados.
+
+No argumento seguinte a conclusão está contida nas premissas mas o argumento é inválido:
+
+Se Sócrates tivesse nascido em Estagira, seria grego.
+Sócrates era grego.
+
+Logo, Sócrates nasceu em Estagira.
+
+As premissas são verdadeiras mas a conclusão é falsa. Logo, o argumento é inválido. Mas se a validade
+resultasse do facto de a conclusão estar contida nas premissas, este argumento teria de ser válido.
+
+Estes dois exemplos mostram que "a conclusão está contida nas premissas" é apenas uma maneira
+metafórica e infeliz de dizer que a conclusão deriva das premissas - infeliz porque obscurece a compreensão da dedução. O que há de fundamental na dedução é a forma lógica.
+
+Todavia, seria um erro pensar que a forma lógica de uma proposição é sempre evidente. Este erro resulta do facto de no ensino da lógica se trabalhar em geral com proposições cuja forma lógica é muito simples. Todavia, muitos filósofos contemporâneos importantes discutiram e continuam a discutir o problema de
+saber qual é a forma lógica de algumas proposições problemáticas. É o que acontece no caso de proposições como "O actual rei de França é calvo", que levaram Bertrand Russell a introduzir a Teoria das Descrições Definidas, discutidas entre outros por P. F. Strawson e Keith Donnellan - que procuraram mostrar que
+a teoria de Russell não captava perfeitamente a forma lógica deste tipo de proposições. As proposições
+existenciais, como "Pégaso não existe", constituem outro dos grupos de proposições cuja forma lógica está
+longe de ser evidente.
+
+O professor deve escolher proposições cuja forma lógica seja razoavelmente clara, mas não deve dar
+aos estudantes a ideia falsa de que a determinação da forma lógica das proposições (e consequentemente
+dos argumentos) é uma tarefa automática, feita e acabada.
+
+15
+6
+
+A teoria lógica de Aristóteles
+
+Classes vazias
+
+As proposições singulares como "Sócrates é mortal" são artificialmente tratadas como universais, na
+lógica aristotélica, confundindo as propriedades das seguintes duas relações: "o particular x pertence à
+classe F" e "a classe G está incluída na classe F". A diferença é a seguinte: o facto de a classe G estar
+incluída na classe F não garante que F não seja vazia; mas se um dado particular pertence a uma dada
+classe F, está garantido que F não é uma classe vazia. Intuitivamente, a diferença é clara: a verdade da
+universal afirmativa "Todas as pessoas com 2,70 m são gigantes" não nos obriga a concluir que alguma
+vez tenham existido pessoas da classe dos gigantes; mas da verdade de "José é gigante" concluímos que
+a classe dos gigantes não é vazia.
+
+Para evitar dificuldades, Aristóteles, impôs a condição prévia, para podermos usar a sua silogística, de
+não usarmos classes vazias. Uma consequência desta restrição é que estamos proibidos de usar não só as
+classes vazias como todas aquelas que não sabemos se são vazias ou não. Mas nos nossos raciocínios
+comuns não hesitamos em usar classes vazias, ou classes que não sabemos se são vazias ou não. Isto
+acontece sobretudo quando formulamos hipóteses ("Admitamos que há vida em Marte..."), quando idealizamos um modelo científico ("Todo corpo que não esteja sujeito a forças exteriores..."), ou quando enunciamos regras morais ou legais ("Todo aquele que trai a Pátria..."). Este é um dos motivos pelos quais a lógica silogística só deve ser estudada como curiosidade histórica, e evidenciando sempre que não podemos
+nela usar classes vazias.
+
+A lógica silogística é formal e simbólica
+
+O que distingue a lógica silogística da clássica não é o facto de esta última ser simbólica e de a primeira
+não o ser. Qualquer lógica formal tem de ser simbólica e a lógica silogística é formal. A lógica silogística é
+formal porque não nos diz se um argumento específico é válido; diz-nos antes que qualquer argumento que
+tenha uma dada forma válida é válido. E para poder exprimir essa ideia temos de usar símbolos:
+
+Todo o G é H.
+Todo o F é G.
+Logo, todo o F é H.
+
+16
+Tanto podemos eliminar completamente as palavras portuguesas da lógica silogística, simbolizando-a
+completamente, como podemos misturar algumas expressões portuguesas na exposição da lógica clássica,
+como aliás fizemos aqui. Não devemos pensar que a lógica silogística não é formal só porque habitualmente a apresentamos misturando palavras portuguesas com símbolos. Também podemos fazer o mesmo na
+lógica clássica.
+
+Como instrumento do pensamento correcto, a lógica silogística é de interesse muito reduzido, pois nem
+sempre os argumentos são sobre classes - e quando o são, raramente se limitam aos 4 tipos de proposições admitidas na lógica silogística. Em qualquer caso, todos os argumentos válidos sobre classes que a
+silogística abrange são também abrangidos pela lógica clássica.
+
+Sujeito e predicado
+
+A lógica silogística trata o termo "lisboetas" como sujeito na frase "Todos os lisboetas são portugueses" e como predicado na frase "Alguns portugueses são lisboetas". Este modo de proceder pode dar origem a confusões entre os estudantes, que o professor tem de saber esclarecer. Este modo de tratar a noção de sujeito e predicado é artificioso.
+
+Tomemos a frase "O João é alto". O sujeito da frase é "o João" e o predicado é "é alto". Não podemos colocar no lugar do predicado o sujeito desta frase. Isto acontece porque neste caso o sujeito gramatical é um verdadeiro sujeito lógico: um termo singular, que designa um particular. E os termos singulares não
+podem estar na posição de predicados, excepto metaforicamente (como quando dizemos "O Francisco é
+um autêntico Sócrates!").
+
+Na lógica silogística podemos mudar o termo sujeito para o termo predicado porque nem o sujeito nem
+o predicado são o que parecem. Numa frase como "Todos os lisboetas são portugueses" o verdadeiro termo sujeito não é "lisboetas", mas antes "pessoas". O que efectivamente se afirma é que todas as pessoas
+que têm a propriedade de serem lisboetas têm também a propriedade de serem portuguesas.
+
+A distinção entre particulares e propriedades é crucial e fica por vezes confundida no ensino da lógica
+aristotélica. Um particular é um item que não pode ser predicado de algo como uma cidade, uma pessoa,
+uma cadeira, uma árvore - aqueles itens que podemos designar através de termos singulares como "Lisboa", "João", etc. Um predicado (como "ser lisboeta") designa uma propriedade (a propriedade de ser
+lisboeta) e as propriedades são as características que os particulares exemplificam. Os predicados e os
+termos singulares são os dispositivos linguísticos usados para designar, respectivamente, propriedades e
+particulares.
+
+17
+7
+
+A lógica clássica
+
+Linguagem proposicional
+
+O ensino da lógica proposicional tem duas partes distintas: o ensino da linguagem proposicional e o
+ensino da lógica proposicional propriamente dita. No ensino da linguagem proposicional o estudante aprende a formalizar argumentos. O objectivo é compreender os aspectos elementares da estrutura lógica da
+linguagem. Depois, no ensino da lógica propriamente dita, o estudante põe em prática métodos de avaliação da validade de argumentos.
+
+O ensino da linguagem proposicional começa pela delimitação do tipo de frases que podemos formalizar na lógica proposicional. Ao contrário do que acontecia no caso da lógica silogística, na lógica clássica
+não se usam apenas 4 tipos de proposições. Em vez de termos 4 tipos de proposições temos 5 elementos a
+partir dos quais podemos construir um número infinito de proposições na linguagem desta lógica. Esses
+elementos são os operadores verofuncionais de que já falámos: negação, conjunção, disjunção, condicional
+e bicondicional.
+
+Chama-se por vezes "implicação" à condicional, mas esta terminologia introduz uma ambiguidade entre a implicação formal e a material. A implicação formal não é uma condicional como "Se Sócrates era
+grego, não era egípcio", mas antes um argumento como "Sócrates era grego; logo, não era egípcio". Por
+outro lado, a implicação material é uma condicional e não um argumento.
+
+Formalização
+
+Muitas vezes, no ensino da lógica em geral e da formalização em particular, usam-se exemplos completamente abstractos, sem ter qualquer consideração nem pelo seu interesse nem pela sua plausibilidade. É assim que se pede aos estudantes para formalizarem argumentos e frases completamente descabidas sobre morcegos azuis ou elefantes voadores. Há vantagens neste tipo de ensino: chama-se a atenção para a
+forma lógica das frases e não para o facto de serem verdadeiras ou falsas. Mas as desvantagens são maiores: o estudante fica com a falsa impressão de que a lógica só serve para resolver quebra-cabeças sem
+interesse filosófico ou argumentativo. É por isso recomendável que se usem frases e argumentos com conteúdo filosófico ou argumentativo, para que os estudantes compreendam a importância da lógica. Por exemplo:
+
+18
+Se Deus não existisse, a vida não faria sentido.
+
+Mas Deus existe.
+
+Logo, a vida faz sentido.
+
+Este argumento falacioso pode ser apelativo para muitos estudantes. Ver por que razão é falacioso mostra
+imediatamente ao estudante a importância da lógica na detecção de erros elementares do pensamento.
+
+Por outro lado, se os exercícios de formalização forem demasiado evidentes por partirem de versões
+semi-formalizadas de argumentos o estudante fica com a sensação que a lógica é completamente artificiosa
+porque "ninguém fala assim". Isto é um mau ensino da lógica, já que, pelo contrário, ninguém pode falar ou
+pensar sem usar a lógica. Ora, o nosso objectivo é que a pouco e pouco o estudante seja capaz de detectar
+a forma lógica das afirmações e dos argumentos tal como eles ocorrem quer na linguagem quotidiana quer
+nos textos dos filósofos. Por isso, usar o exemplo anterior como exercício de formalização não ajuda em
+nada o estudante. com toda a certeza, ele não encontrará um texto escrito desta maneira. Mas poderá encontrar um texto assim:
+
+É evidente que a vida faz sentido, dado que Deus existe. Se por acaso Deus não existisse, a vida não faria sentido.
+
+Os exercícios de formalização não poderão ser tão complexos que o estudante não consiga ver a sua
+forma lógica. Mas também não podem ser tão artificiosos que tornem o exercício uma tarefa sem qualquer
+interesse. O estudante tem de progressivamente ser capaz de encontrar num texto normal a sua estrutura
+lógica. O primeiro passo para isso é encontrar para isso a conclusão do texto. Depois, encontrar as premissas. Feito isto, pode dispor o argumento na sua forma canónica, após o que poderá então formalizá-lo.
+
+Adaptar textos de filósofos, aligeirando-os ou modernizando a pontuação ou o estilo, é um bom processo
+para criarmos exercícios escalados do simples para o complexo.
+
+O professor deve dar atenção a diferentes formas de exprimir negações, conjunções, disjunções, condicionais e bicondicionais. Eis alguns exemplos:
+
+Negação
+
+O conhecimento não é possível.
+
+Não é verdade que o conhecimento seja possível.
+
+O conhecimento é impossível.
+
+Conjunção
+
+O conhecimento e a fé são estudados pela filosofia.
+
+O conhecimento é estudado pela filosofia e a fé também.
+
+19
+Tanto o conhecimento como a fé são estudados pela filosofia.
+
+O conhecimento é estudado pela filosofia e a fé é estudada pela filosofia.
+
+O conhecimento é estudado pela filosofia mas a fé também.
+
+Disjunção
+
+Platão ou Sócrates conceberam a República ideal.
+
+Ou foi Platão que concebeu a República ideal ou foi Sócrates.
+
+Platão concebeu a República ou Sócrates concebeu a República.
+
+No que respeita à concepção da República, a alternativa é entre Platão e Sócrates.
+
+Condicionais
+
+Se Deus existe, então a vida faz sentido.
+
+Se Deus existe, a vida faz sentido.
+
+A vida faz sentido se Deus existir.
+
+A vida faz sentido caso Deus exista.
+
+Deus não existe, a menos que a vida faça sentido.
+
+Deus não existe, a não ser que a vida faça sentido.
+
+A vida faz sentido, a menos que Deus não exista.
+
+A vida faz sentido, a não ser que Deus não exista.
+
+Uma condição necessária para Deus existir é a vida fazer sentido.
+
+A existência de Deus é uma condição suficiente para que a vida faça sentido.
+
+Bicondicionais
+
+Uma obra é arte se, e só se, for uma criação de um artista.
+
+Uma obra é arte se, e somente se, for uma criação de um artista.
+
+Se uma obra for arte, é criação de um artista e vice-versa.
+
+Uma condição necessária e suficiente para algo ser uma obra de arte é ser a criação de um artista.
+
+As condicionais são os elementos fundamentais do pensamento e o estudante deve aprender a trabalhar com elas de forma rigorosa. Isto implica o seguinte: 1) conhecer pelo menos algumas das muitas formas como exprimimos condicionais; 2) dominar a forma canónica de interpretar o seu valor de verdade; 3) saber negar condicionais.
+
+O facto de o condicional, ao contrário de todos os outros operadores, não ser simétrico, gera dificuldades de compreensão. Muitas pessoas estão dispostas a concluir "Se Q, então P" a partir de "Se P, então
+
+Q". Apesar de ser fácil mostrar a invalidade desta inferência ("Se é sardinha é peixe. Logo, se é peixe é
+sardinha"), é difícil extirpá-la - tanto mais que na linguagem comum a forma "Se P, então Q" é muitas
+vezes usada para exprimir uma bicondicional.
+
+A operação de negação, sendo muito simples, levanta dificuldades a quem não tem uma formação lógica. A negação de condicionais provoca quase sempre erros. Negar "Se Silva é empirista, valoriza a experiência" não é dizer "Se Silva não é empirista, não valoriza a experiência" mas sim "Silva é empirista mas
+
+20
+não valoriza a experiência". Esta é a maneira canónica de refutar as condicionais: uma frase com a forma
+
+"Se P, Q" é falsa se, e só se, P for verdadeira e Q falsa.
+
+Ao afirmar uma condicional "Se P, Q" uma pessoa só se compromete com o seguinte:
+
+1. Verificando-se que P é verdadeira, afirmará que Q é verdadeira. Nada afirma, portanto, sobre o que deva dizer
+no caso de P ser falsa. Este compromisso é claro numa frase como "Se é sardinha, é peixe". Caso não se trate de uma sardinha, não temos qualquer compromisso.
+
+2. Compromete-se também a afirmar que P é falsa se Q o for (para não contradizer o compromisso 1). Este compromisso é também claro: se não é peixe, não é sardinha.
+
+Este tipo de explicação esclarece as condições em que aquilo que dizemos é falso ou verdadeiro. Ao
+explicitar as condições de verdade de um operador estamos a explicitar as afirmações com que nos comprometemos ao usar esse operador. Este aspecto é relevante para a didáctica dos operadores que, com
+frequência, ganha o aspecto de um trabalho de tradução aplicando convenções que parecem arbitrárias (as
+tabelas de verdade). Este formalismo oco é uma perversão de um dos objectivos do ensino da lógica:
+
+permitir que o estudante tome consciência da estrutura lógica do pensamento.
+
+O que fizemos com a condicional é fácil de fazer com os outros operadores. Por exemplo, afirmar "P e Q" é estar comprometido com a verdade de P e de Q - logo, é estar comprometido a abandonar "P e Q"
+
+no caso de uma das afirmações ser falsa; afirmar "P ou Q" só nos compromete com a verdade de P ou de Q, apesar de P e Q puderem ser ambas verdadeiras - só nos comprometemos a abandonar "P ou Q" se ambas forem falsas.
+
+É neste contexto, que sublinha o significado dos operadores lógicos, que as tabelas de verdade devem ser introduzidas. Mas ao contrário do que acontece muitas vezes no ensino da lógica, as tabelas de verdade
+
+não devem ser apresentadas como convenções arbitrárias que só resta decorar para repetir, mas antes como modelos abstractos do significado real dos operadores lógicos. Assim, compreender a lógica da disjunção não é decorar uma tabela de verdade mas sim usar intuitivamente a regra "Uma disjunção "P ou Q"
+só é falsa se ambas, P e Q, forem falsas" e derivar daqui as implicações para cada caso.
+
+É preciso ter também em atenção o seguinte: a questão de saber quais são exactamente as condições de verdade das condicionais é um problema filosófico em aberto. As condições de verdade das condicionais resistem por vezes ao tratamento canónico da lógica clássica. Isto pode provocar problemas na sala de
+aula. Por exemplo, uma condicional como "Se Sócrates nasceu em Lisboa, é francês" é intuitivamente interpretada como falsa. Todavia, do ponto de vista da lógica clássica, esta condicional é verdadeira, dado que a sua antecedente é falsa. Não se pode obviamente tratar do espinhoso tema filosófico das condicionais no secundário. Mas o professor deve saber que há problemas por resolver nesta área. Se numa aula
+
+21
+surgir um exemplo de uma condicional que resiste à leitura clássica, o professor deve esclarecer que se trata de um problema filosófico em aberto, mas que para o podermos estudar temos primeiro de dominar as condicionais clássicas - o que significa que o exemplo problemático tem de ser abandonado.
+
+É muito importante que o estudante aprenda a negar as afirmações que resultam dos diferentes tipos de operadores:
+
+Negar "Se P, então Q" é afirmar "P e não Q".
+Negar "P e Q" é afirmar "Não P ou não Q".
+Negar "P ou Q" é afirmar "Não P e não Q".
+Negar "P se, e só se, Q" é afirmar "P e não Q, ou Q e não P".
+**(ESTES SÍMBOLOS SÓ PODERÃO SER CORRECTAMENTE ESCRITOS COM O COTEJO DO LIVRO)
+Os símbolos (-•, ->, A, v, ^) podem ser usados ou não no ensino da lógica proposicional. Em vez de símbolos o professor pode usar as expressões portuguesas canónicas correspondentes. Sobretudo numa
+primeira fase o uso de símbolos é prejudicial. Por exemplo, o estudante não beneficiaria com a seguinte apresentação da negação da condicional: **(DEVERÁ SER COTEJADO O LIVRO)-"(P -> Q) ^ (P A -"Q). Mas o estudante terá de saber formalizar parcialmente. Só assim compreenderá que os seguintes dois argumentos têm a mesma forma:
+
+Se Deus não existisse, a vida não faria sentido. 
+Mas Deus existe.
+Logo, a vida faz sentido.
+
+Se o João não fosse europeu, não seria português.
+. Mas o João é europeu.
+. Logo, é português.
+
+A forma (inválida) que ambos os argumentos partilham toRNa-se imediatamente manifesta quando formalizamos parcialmente os argumentos:
+
+Se não P, não Q.
+P.
+Logo, Q.
+
+Âmbito
+
+Uma das noções mais importantes no que respeita à linguagem, proposicional e predicativa é a noção de âmbito de um operador. Vejamos o seguinte exemplo: 1) "Se Deus existe, o sofrimento humano é uma ilusão e a vida tem sentido". Sendo P a proposição "Deus existe", Q "O sofrimento humano é uma ilusão"
+e R "A vida tem sentido", a formalização parcial desta proposição é a seguinte:
+**(VERIFICAR, PELO LIVRO, AS DUAS FORMULAÇÕES SEGUINTES)
+Se P, então (Q e R).
+
+É imediatamente visível que esta forma é diferente da seguinte:
+
+22
+(Se P, então Q) e R.
+
+que corresponde à proposição 1) "Se Deus existe, o sofrimento humano é uma ilusão, e a vida faz sentido".
+
+A importância do âmbito é compreender exactamente o que está a ser afirmado. Para refutar a proposição 1 é necessário que nem o sofrimento humano seja uma ilusão nem a vida faça sentido. Para refutar a proposição 2 basta que a vida não faça sentido. A proposição 1 é uma condicional (cujo consequente é uma conjunção). A proposição 2 é uma conjunção (em que um dos conjuntos é uma condicional). Dominar a pouco e pouco estas diferenças subtis, imprescindíveis para a discussão das ideias dos filósofos, é um dos objectivos do ensino da lógica.
+
+Inspectores de circunstâncias
+
+Os inspectores de circunstâncias não podiam ser mais importantes no ensino da filosofia e da lógica.
+
+São eles que dão ao estudante uma ideia palpável do conceito de validade. Num argumento dedutivo válido é impossível as premissas serem todas verdadeiras e a conclusão falsa. Este conceito de validade aplica-se
+a todos os argumentos dedutivos, formalizáveis ou não pela lógica. Mas os argumentos preposicionais que podemos formalizar e avaliar usando inspectores de circunstâncias constituem um modelo simplificado que
+mostra ao estudante o que é avaliar um argumento.
+
+Vejamos um exemplo. Tomemos o nosso argumento falacioso e a sua formalização parcial:
+
+Se Deus não existisse, a vida não faria sentido.
+Mas Deus existe.
+Logo, a vida faz sentido.
+
+Se não P, não Q.
+P.
+Logo, Q.
+
+Podemos agora construir o seguinte inspector de circunstâncias: 
+**(deverá verificar-se, pelo livro, a tabela que se segue )
+
+PQ
+
+Se não
+
+P, então
+
+não Q
+
+P
+
+Logo, Q
+
+1. W
+
+F
+
+V
+
+F
+
+V
+
+V
+
+2. V F
+
+F
+
+V
+
+
+V
+
+v
+
+F
+
+3. F V
+
+V
+
+F
+
+F
+
+F
+
+V
+
+4. FF
+
+V
+
+V
+
+V
+
+F
+
+F
+
+Cada uma das linhas 1 a 4 representa uma circunstância diferente. Determinar se um argumento é válido é determinar se há ou não alguma circunstância em que as premissas são todas verdadeiras e a conclusão falsa. Neste caso, as duas premissas são verdadeiras nas circunstâncias 1 e 2. Mas na circunstância 2
+a conclusão é falsa. Logo, o argumento é inválido.
+
+23
+Um inspector é um modelo simplificado do que um estudante tem de fazer para determinar a validade de um argumento. Será que é possível que as premissas sejam todas verdadeiras e a conclusão falsa?
+
+Depois de trabalhar com um inspector de circunstâncias o estudante percebe exactamente o que esta pergunta quer dizer.
+
+Sistemas axiomáticos e de dedução natural
+
+Os inspectores de circunstâncias são modelos do modo como avaliamos a validade de um argumento. Mas, por si mesmos, não nos ajudam a apresentar argumentos, a pensar de forma consequente, a extrair consequências de ideias. São as derivações ou demonstrações que nos dão um modelo simplificado do que
+é pensar de forma consequente. As derivações baseiam-se na aplicação de regras.
+
+Há vários sistemas lógicos. Os primeiros sistemas eram axiomáticos, mas hoje em dia ensina-se sobretudo sistemas de dedução natural. As diferenças entre os dois tipos de sistemas são as seguintes. Num
+sistema axiomático parte-se de um conjunto maior ou menor de axiomas lógicos. Estes axiomas são verdades lógicas. USA-se depois um dado sistema de regras, que permite obter teoremas a partir dos axiomas.
+Num sistema de dedução natural não há quaisquer axiomas; há apenas regras. Além disso, as regras usadas pretendem captar as inferências óbvias associadas a cada uma das conectivas lógicas (negação, disjunção, etc.), coisa que não acontece nas regras dos sistemas axiomáticos.
+
+Os sistemas axiomáticos dão ao estudante a ideia falsa de que um sistema dedutivo serve unicamente para derivar teoremas da própria lógica, que se extraem dos seus axiomas. Isto dá a ideia de que a lógica é
+inútil para a filosofia, pois serviria apenas para descobrir verdades lógicas e não para avaliar argumentos.
+
+Em segundo lugar, a ênfase da dedução natural na aplicação de regras intuitivas torna o ensino menos formalista e mais próximo da experiência dedutiva do estudante.
+
+Todavia, um sistema de dedução natural puro não é aconselhável, pois algumas das regras dedutivas mais comuns não surgem nestes sistemas como regras primitivas. De modo que se aconselha a adopção de um sistema misto de dedução natural, com as seguintes regras:
+
+24
+I. Introdução da conjunção
+
+P Q
+
+Logo, P e Q
+
+3. Introdução da disjunção
+
+P
+
+Logo, P ou Q
+
+5. Silogismo disjuntivo
+
+P ou Q
+
+Não P
+
+Logo, Q.
+
+7. Modus tollens
+
+Se P, então Q.
+
+Não Q.
+
+Logo, não P.
+
+9. Redução ao absurdo (introdução da negação)
+
+P
+
+De P segue-se Q e não Q.
+
+Logo, não P.
+
+II. Silogismo hipotético (raciocínio em cadeia)
+
+Se P, então Q.
+
+Se Q, então R.
+
+Logo, se P, então R.
+
+13. Negação da disjunção (Leis de  Morgan)
+
+Não é verdade que (P ou Q).
+
+Logo, não P e não Q.
+
+2. Eliminação da conjunção
+
+PeQ
+
+Logo P
+
+4. Dilema (eliminação da disjunção)
+
+P ou Q
+
+Se P, então R
+
+Se Q, então R
+
+Logo, R
+
+6. Modus ponens (eliminação da condicional)
+
+Se P, então Q
+
+P
+
+Logo, Q
+
+8. Contraposição
+
+Se P, então Q.
+
+Logo, se não Q, então não P.
+
+10. Negação dupla (eliminação da negação)
+
+Não não P.
+
+Logo, P.
+
+12. Negação da condicional
+
+Não é verdade que (se P, então Q).
+
+Logo, P e não Q.
+
+14. Negação da conjunção (Leis de Morgan)
+
+Não é verdade que (P e Q)
+
+Logo, não P ou não Q.
+
+O que é importante não é a capacidade para memorizar estas regras, mas antes a capacidade para as aplicar. Daí que nos testes e exercícios na aula o professor possa dar ao estudante esta tabela.
+
+Algumas destas regras são de tal modo óbvias e simples que o estudante as compreende de imediato. É o caso da introdução da conjunção e disjunção, e da eliminação da negação e da conjunção. As regras
+cujas aplicações são mais sofisticadas são a redução ao absurdo e a eliminação da disjunção. Mas o professor deve usar um sistema de derivações simplificado, que evite as complexidades técnicas que estas regras exigem. Em qualquer caso, as derivações exigidas aos estudantes devem ser curtas, não ultrapassando os 6 ou 7 passos, e simples, não envolvendo estratégias demonstrativas complexas. Mas as derivações são importantes, pois constituem um modelo simplificado do pensamento consequente.
+
+25
+Derivações
+
+O pensamento consequente é o que queremos desenvolver nos estudantes. O pensamento consequente é o pensamento que sabe justificar-se. Não queremos que o estudante aprenda a repetir as ideias de Kant ou Descartes, mas antes que saiba pensar sobre os mesmos problemas que Kant e Descartes pensaram, desenvolvendo a pouco e pouco pontos de vista próprios. Para isso terá de saber justificar as suas ideias. As derivações são um modelo do que é justificar as nossas ideias.
+
+As derivações simplificadas que o professor tem de ensinar ao estudante devem ter apenas três colunas: a coluna da numeração, a coluna do raciocínio e a coluna da justificação. Vejamos um exemplo de uma derivação. A forma argumentativa a derivar é a seguinte:
+
+R ou P.
+
+Se não Q, então não R.
+
+Se P, então Q.
+
+Logo, Q.
+
+A seguinte derivação demonstra a validade desta forma:
+
+1. R ou P Premissa
+2. Se não Q, então não R Premissa
+3. Se P, então Q Premissa
+4. Se R, então Q 2, Contraposição
+5. Q 1,2,3, Dilema
+
+Como se vê, o raciocínio é extremamente simples. A terceira coluna justifica o nosso raciocínio. Os primeiros 3 passos são as premissas. O passo 4 resulta da aplicação da regra da contraposição ao passo 2.
+O passo 5 resulta da aplicação da regra do dilema aos passos 1, 2 e 3.
+
+O que importa numa derivação não é a manipulação acrítica e automática de símbolos, mas sim a capacidade para pensar de forma clara, usando regras precisas. Deste modo, aconselha-se fortemente que o professor use nos exercícios argumentos com conteúdo filosófico.
+
+A importância do ruído
+
+O exercício de derivação anterior poderia ser parte de um exercício que começasse por pedir ao estudante que formulasse canonicamente o seguinte argumento:
+
+É evidente que a vida é absurda. Nem compreendo como se possa pensar outra coisa. Se a vida não fosse absurda, não haveria tanto sofrimento. Pense-se só nos terramotos, cheias, secas, fome, doenças, etc. Por outro
+
+26
+lado, se for tudo uma ilusão, a vida é absurda. Isto porque ou é verdade que o sofrimento existe ou então é tudo uma ilusão.
+
+Uma formulação canónica do argumento é a seguinte:
+
+Ou o sofrimento existe ou é tudo uma ilusão.
+Se a vida não for absurda, não haverá sofrimento.
+Se tudo for uma ilusão, a vida é absurda.
+Logo, a vida é absurda.
+
+Repare-se no "ruído" que acompanha o argumento tal como foi formulado originalmente. Por "ruído" entende-se tudo o que não desempenha qualquer papel lógico no argumento. É muito importante que o
+professor inclua "ruído" nos seus exercícios de formalização de argumentos, pois este está geralmente presente nos argumentos filosóficos reais, e o estudante terá de se habituar a detectá-lo e a eliminá-lo. Evidentemente, compete ao professor introduzir níveis de ruído progressivamente maiores, à medida que os
+estudantes aprendem a analisar melhor a argumentação. E o professor deve ter em atenção que não há receitas automáticas para determinar o que é ruído e o que não é. Mas a importância de saber distinguir o
+essencial do acessório não podia ser maior, sobretudo se quisermos dotar os nossos estudantes de capacidade argumentativa, condição sem a qual não poderão intervir de forma rigorosa na discussão de matérias de interesse público.
+
+As falácias
+
+O estudo das falácias deve estar integrado no estudo da argumentação e das derivações. Usando ainda o exemplo anterior de exercício, o professor poderá pedir depois ao aluno que se pronuncie sobre a solidez
+do argumento. Uma derivação prova que um dado argumento é válido, mas não que é sólido.
+
+É evidente que discutir cada uma das premissas é algo muito complexo. Mas há uma discussão prévia, mais simples, que pode e deve ser integrada no estudo das falácias: trata-se das falácias informais. No
+caso acima, ainda antes de valer a pena discutir a verdade das premissas 2 e 3, a premissa 1 parece enfermar de uma falácia informal1 muito comum: o falso dilema. Para o argumento ser sólido é preciso que as
+duas alternativas que se apresentam esgotem o domínio das possibilidades. Mas dificilmente isso parece acontecer neste caso. Sem dúvida que temos mais opções, entre o sofrimento existir e tudo ser uma ilusão.
+
+Pode ser que só algumas coisas sejam uma ilusão. Isto é uma forma muito directa de discutir a primeira
+
+1 O que distingue as falácias informais das formais é o facto de as últimas não resultarem da forma lógica dos argumentos.
+
+27
+premissa deste argumento de um ponto de vista puramente lógico, ainda sem discutir quaisquer doutrinas filosóficas substanciais.
+
+Apresentamos a seguir a lista das falácias que devem ser estudadas, em conexão com as regras válidas a que estão associadas. As falácias estão em geral associadas a raciocínios válidos e é por isso que são falácias: são raciocínios inválidos que, por serem parecidos com raciocínios válidos, parecem válidos.
+
+ARGUMENTO VÁLIDO
+
+FALÁCIA
+
+Dilema
+
+P ou Q.
+
+Se P, então R.
+
+Se Q, então R.
+
+Logo, R
+
+Silogismo disjuntivo
+
+P ou Q
+
+Não P
+
+Logo, Q
+
+Falso dilema
+
+"P ou Q" não esgota todas as possibilidades. Falácia informal.
+
+Modus ponens
+
+Se P, então Q.
+
+P.
+
+Logo, Q.
+
+Afirmação da consequente
+
+Se P, então Q.
+
+Q
+
+Logo, P
+
+Modus tollens
+
+Se P, então Q
+
+Não Q.
+
+Logo, não P.
+
+Negação da antecedente
+
+Se P, então Q.
+
+Não P.
+
+Logo, não Q.
+
+Contraposição
+
+Se P, então Q.
+
+Logo, se não Q, então não P.
+
+Inversão da condicional
+
+Se P, então Q.
+
+Logo, se Q, então P.
+
+Silogismo hipotético
+
+Se P, então Q.
+
+Se Q, então R.
+
+Logo, se P, então R.
+
+Derrapagem
+
+Cada uma das condicionais é ligeiramente improvável. O
+resultado final é inaceitável. Falácia informal. Exemplo:
+
+"Se fores para a faculdade, terás de estudar muito durante muitos anos. Se o fizeres, terás de te privar de muitas coisas boas. Se te privas, acabarás por ficar infeliz. Se ficares infeliz, poderás acabar por te suicidar. Logo, se
+fores para a faculdade, acabarás por te suicidar e o melhor é não ires!"
+
+Negação da condicional
+
+Não é verdade que se P, então Q.
+
+Logo, P e não Q.
+
+Falácia da negação da condicional
+
+Não é verdade que se P, então Q.
+
+Logo, se não P, então não Q.
+
+28
+8
+
+A indução
+
+Há vários tipos de argumentos ou raciocínios não dedutivos:
+
+• Generalizações,
+
+• Previsões indutivas,
+
+• Argumentos por analogia;
+
+• Inferência de causas a partir de indícios ou sintomas;
+
+• Confirmação de hipóteses.
+
+Geralmente usa-se o termo "indução" para falar de dois tipos diferentes de argumentos ou raciocínios:
+
+as generalizações e as previsões.
+
+Diz-se por vezes que nos argumentos dedutivos se "parte do geral para o particular" e que nos argumentos não dedutivos se "parte do particular para o geral". Isto é falso, como podemos ver nos exemplos seguintes:
+
+Alguns filósofos são gregos.
+Logo, alguns gregos são filósofos.
+
+Este é um argumento dedutivo, e no entanto não parte do geral para o particular. Tanto a premissa como a conclusão são particulares.
+
+Vejamos agora este exemplo:
+
+Todos os corvos observados até hoje são pretos.
+Logo, o corvo do meu vizinho é preto.
+
+Este é um argumento não dedutivo. No entanto, não parte do particular para o geral. A premissa é geral e a conclusão é particular.
+
+O que marca a diferença entre os argumentos dedutivos e os não dedutivos é o seguinte: a validade dedutiva depende inteiramente da forma lógica dos argumentos; mas a validade indutiva não depende inteiramente da forma lógica dos argumentos. Um argumento indutivo inválido ou fraco pode ter exactamente a
+mesma forma lógica do que outro argumento indutivo válido ou forte. O mesmo não acontece nos argumentos dedutivos. Vejamos os seguintes exemplos:
+
+Todos os cães que vi até hoje eram mamíferos.
+Logo, todos os cães são mamíferos.
+
+29
+Todos cães que vi até hoje estavam em Portugal.
+Logo, todos os cães estão em Portugal.
+
+Os dois argumentos têm a mesma forma lógica. Mas o primeiro é razoável e o segundo é claramente mau.
+
+Há 4 características importantes que distinguem os argumentos ou raciocínios não dedutivos dos dedutivos:
+
+1. A validade de um argumento não dedutivo não depende unicamente da sua forma. Por exemplo, qualquer argumento que tenha a forma de um modus ponens è válido. A validade depende unicamente da sua forma. Mas
+uma generalização inválida pode ter precisamente a mesma forma do que uma generalização válida. Vejamos alguns exemplos. Argumento 1: "Todos os corvos que vi até hoje são pretos. Logo, todos os corvos são pretos". Argumento 2: "Todos os corvos que vi até hoje viveram antes do ano 2010. Logo, todos os corvos vão viver antes do ano 2010." O argumento 1 tem uma certa força indutiva. Mas o 2 é muito mau. Todavia, têm ambos a mesma forma lógica.
+
+2. Num argumento não dedutivo válido é improvável, mas não impossível, que as suas premissas sejam verdadeiras e a sua conclusão falsa, ao contrário do que acontece nos argumentos dedutivos. Num argumento
+dedutivo é impossível que as suas premissas sejam verdadeiras e a sua conclusão falsa. Esta impossibilidade é lógica, no sentido em que depende unicamente da forma do argumento. Mas isto não acontece nos argumentos não
+dedutivos. Por muito forte que seja um argumento indutivo, será sempre logicamente possível que a sua conclusão seja falsa, apesar de as suas premissas serem verdadeiras.
+
+3. Um argumento dedutivo é válido ou inválido, sem admitir graus de validade; mas a validade dos argumentos não dedutivos admite graus. Por exemplo, o argumento 1 é mais forte do que o 2. Mas há muitos argumentos
+indutivos mais fortes do que o 1, nomeadamente os argumentos que justificam as leis da física, por exemplo, que
+resultam de um estudo muito mais pormenorizado da natureza do que a mera observação assistemática de corvos.
+
+4. Os argumentos não dedutivos são "abertos". Em termos técnicos, diz-se que os argumentos não dedutivos não são "monotónicos". Vejamos mais um exemplo. Argumento 3: "Todos os corvos que vi até hoje viveram depois de
+1965. Logo, todos os corvos viveram depois de 1965." Este argumento é muito fraco porque é "derrotado" pelo conhecimento que temos de que já havia corvos antes de eu ter nascido. Todavia, o argumento é "derrotado" sem
+que a sua premissa seja falsa. Acontece apenas que há conhecimento relevante, exterior ao argumento 3, que o
+derrota, que o torna fraco. Isto não acontece com os argumentos dedutivos estudados na lógica clássica (apesar de outras lógicas dedutivas procurarem dar conta do carácter não monotónico do raciocínio). Neste sentido, os argumentos não dedutivos são "abertos", pois podemos hoje achar que um argumento não dedutivo a favor de X é muito forte, e amanhã descobrimos informação que derrota esse argumento, sem todavia falsificar qualquer uma das
+suas premissas.
+
+Dadas as diferenças entre os argumentos dedutivos e os não dedutivos, alguns autores preferem reservar o termo "validade" unicamente para os dedutivos, falando no caso dos não dedutivos apenas em maior ou menor "força". Outros autores, todavia, usam o termo "validade" para os argumentos não dedutivos,
+ressalvando que se trata de um tipo diferente de validade.
+
+30
+O problema filosófico da indução
+
+O problema filosófico da indução é por vezes mal compreendido precisamente por não se dispor de uma compreensão adequada das diferenças entre os argumentos dedutivos e os não dedutivos. O problema da indução não é o facto de os argumentos indutivos não garantirem a verdade da conclusão; ou seja, o
+problema das induções não é o facto de não serem deduções, o que seria absurdo. O problema da indução é um problema de justificação: é muito difícil, perante um argumento indutivo válido, dizer por que razão
+esse argumento é realmente válido.
+
+Os argumentos não dedutivos são fundamentais, e o estudante não deve ficar com a ideia de que na argumentação e no raciocínio estamos perante o seguinte dilema: os argumentos dedutivos são os únicos verdadeiramente rigorosos, mas são inúteis porque são meramente formais; os argumentos não dedutivos
+não são meramente formais, mas não têm qualquer rigor. A conclusão óbvia a tirar deste falso dilema é que a lógica, formal e informal, não serve para nada. Nem a filosofia.
+
+Todavia, é falso que os argumentos dedutivos sejam inúteis por serem meramente formais, e é falso que os argumentos não dedutivos sejam inúteis por não serem rigorosos. O raciocínio e a argumentação
+que os seres humanos usam no dia-a-dia, na filosofia, nas ciências e em todas as áreas da vida, é precisamente o objecto de estudo da lógica formal e informal, que assim nos ajuda a pensar melhor e a distinguir
+os bons dos maus argumentos.
+
+É fácil mostrar a presença do modus tollens nas nossas discussões quotidianas e dar exemplos do seu poder na investigação científica - e, afinal, trata-se de uma forma dedutiva que esperamos que venha a estruturar muito do trabalho dos estudantes em Filosofia. Da mesma maneira, é fácil exemplificar a presença de diferentes padrões de indução na investigação científica e nas nossas crenças básicas, cujo exame, afinal, esperamos que o estudante venha a realizar. Os professores deverão, portanto, inteirar-se dos aspectos mais relevantes da indução - as suas categorias e regras, tendo em mente que a sua aplicação se
+alarga a todas as matérias, com particular relevo para a filosofia da ciência.
+
+A apresentação da noção de validade não pode resumir-se à validade dedutiva. Não devemos veicular a ideia de que só há uma forma de justificação legítima e analisável com rigor. A questão da validade enquadra-se na questão geral da justificação e nunca deverá desprezar a validade indutiva, e nesta não se
+devem privilegiar apenas as generalizações. Os argumentos indutivos a apresentar deverão ser de diferentes categorias e com diferentes graus de força, mesmo que o objectivo seja o de exercitar a distinção entre dedução e indução. Se, por razões didácticas, o trabalho for baseado numa só categoria deverá ser claro
+que se trata de uma opção que não esgota o campo da indução.
+
+31
+9 Exercícios
+
+A lógica silogística permite uma reduzida diversidade e criatividade de exercícios. O mais comum consiste em dar ao estudante um silogismo cuja validade ele deverá avaliar. Em regra, é preferível que o silogismo seja inválido, para que o estudante possa justificar esse facto apelando para a regra violada. Uma
+forma de dar maior interesse a este exercício é escrever um pequeno texto, que pode ser um diálogo, que o estudante depois formalizará:
+
+João - Este quadro é horrível! É só traços e cores! Até eu fazia isto!
+Adriana - Concordo que não é muito bonito, mas nem toda a arte tem de ser bela.
+João - Não sei... por que razão dizes isso?
+Adriana - Porque nem tudo o que os artistas fazem é belo.
+João - E depois? É claro que nem tudo o que os artistas fazem é belo, mas daí não se segue nada.
+Adriana - Claro que se segue! Dado que tudo o que os artistas fazem é arte segue-se que nem toda a arte tem de ser bela.
+
+Perante este argumento, o estudante teria de isolar o silogismo apresentado e formalizá-lo:
+
+Tudo o que os artistas fazem é arte. Todo o F é G.
+Nem tudo o que os artistas fazem é belo. Alguns F não são H.
+Logo, nem toda a arte tem de ser bela. Logo, alguns G não são H.
+
+Duas regras de ouro na elaboração de exercícios são as seguintes: 1) procurar que tenham algum conteúdo filosófico; 2) evitar proposições falsas. Violar qualquer destas regras é tornar a lógica um formalismo
+aparentemente sem interesse.
+
+Um segundo tipo de exercício em lógica silogística consiste em dar uma ou duas proposições ao estudante, pedindo-lhe que forme com elas um silogismo válido. Finalmente, restam os exercícios de carácter
+conceptual. Estes são exercícios mais exigentes, que podem ser uma oportunidade para os estudantes mais talentosos sentirem algum estímulo. Eis alguns exemplos:
+
+1. Será que podemos ter um argumento válido com uma conclusão falsa? Justifique.
+2. Será que podemos ter um argumento sólido com uma conclusão falsa? Justifique.
+3. Será que podemos ter um argumento válido com premissas falsas? Justifique.
+4. Será que podemos ter um argumento sólido com premissas falsas? Justifique.
+
+Também estes exercícios podem ser apresentados em pequenos diálogos ou outros textos redigidos pelo professor. Estes exercícios aplicam-se igualmente à lógica silogística e à clássica.
+
+32
+É nos exercícios da lógica clássica que o professor pode ser mais imaginativo, por não estar limitado unicamente a 4 tipos de proposições. Pode apresentar pequenos textos, da sua autoria ou de filósofos, que
+permitam ao estudante realizar várias tarefas:
+
+1. Distinguir as premissas da conclusão.
+2. Eliminar o ruído.
+3. Representar o argumento na forma canónica.
+4. Formalizar o argumento.
+5. Determinar a sua validade ou invalidade recorrendo a inspectores de circunstâncias.
+6. Demonstrar a validade do argumento apresentando uma derivação.
+7. Caso o argumento seja válido, indicar as premissas logicamente inaceitáveis (como no falso dilema), e indicar o que seria necessário para as refutar (uma disjunção refuta-se com uma conjunção, uma conjunção refuta-se
+com uma disjunção, uma condicional refuta-se com uma conjunção).
+
+Um exercício muito básico consiste em apresentar um inspector de circunstâncias (completo ou incompleto) e pedir ao estudante que o complete (se for o caso) e que determine se a forma argumentativa em causa é válida ou não. O professor pode então pedir ao estudante para apresentar um argumento com premissas verdadeiras que obedeça à forma dada.
+
+A técnica do contra-exemplo deve também ser exercitada. Consiste em dar ao estudante um argumento para formalizar e determinar a sua validade. Decidida a sua invalidade, pede-se ao estudante que apresente
+um contra-exemplo ao argumento dado: um argumento com a mesma forma mas com premissas claramente verdadeiras e conclusão falsa. A regra geral deste tipo de exercício é a seguinte: as proposições do argumento dado devem ser tais que não seja evidente que o argumento é inválido. O objectivo do exercício é
+precisamente habituar o estudante a testar, por meio de contra-exemplos, argumentos que parecem válidos por serem muito abstractos.
+
+No caso das derivações, o professor deve ter em atenção que pode haver mais de uma maneira de derivar precisamente a mesma conclusão a partir das mesmas premissas.
+
+33
+10
+
+Bibliografia aconselhada
+
+Branquinho, João e Murcho, Desidério (orgs.) (2001) Enciclopédia de Termos Lógico-Filosóficos. Lisboa, Gradiva. Trata-se de uma obra de consulta que aborda com algum desenvolvimento todos os aspectos da lógica clássica e silogística, permitindo esclarecer dúvidas e orientar o estudo.
+
+Copi, Irving e Cohen, Carl (1998) Introduction to Logic. New Jersey, Prentice Hall. Um clássico muito abrangente. Talvez o melhor para lógica silogística. Trata a lógica formal e informal, a indução e a filosofia da ciência com clareza e profundidade.
+
+Downes, Stephen e Sameiro, Júlio (s.d.) "Guia das Falácias", Crítica: Central de filosofia e cultura, http://critica.no.sapo.pt. Uma extensa lista das falácias mais importantes, com explicações e exemplos.
+
+Loose, John (1980) Introdução Histórica à Filosofia da Ciência, Lisboa, Terramar, 1998. Uma abordagem
+introdutória mas abrangente. O laço entre lógica e filosofia da ciência é claro e acessível.
+
+Murcho, Desidério (1998) "Limites do Papel da Lógica na Filosofia", Revista Filosófica de Coimbra, 14.
+Uma discussão actualizada e acessível dos papéis da lógica na filosofia.
+
+Newton-Smith, W. H. (1994) Lógica: Um curso introdutório. Lisboa, Gradiva, 1998. Um manual de lógica clássica para estudantes de filosofia. Apresenta um sistema de dedução natural, tem vários exercícios, e explica todas as noções da lógica clássica de forma rigorosa mas acessível. É tudo o que um professor necessita para dominar a lógica clássica.
+
+Priest, Graham (2000) Lógica: Uma introdução concisa. Lisboa, Temas e Debates, no prelo. Um pequeníssimo mas muito informativo livro que apresenta alguns dos problemas em aberto que a lógica procura resolver. Especialmente útil para compreender que a lógica não é um "mero cálculo", mas sim uma actividade criativa como qualquer outro estudo sério.
+
+Weston, Anthony (1986) A Arte de Argumentar. Lisboa, Gradiva, 1996. Um manual de lógica informal muito sintético e simples, essencial para dominar os aspectos elementares da lógica informal.
+
+Todas as críticas, comentários e sugestões serão bem vindos e podem ser enviados para o endereço de correio electrónico cefspf@mail.prof2000.pt. No sítio http://cef.no.sapo.pt/ encontrará uma página dedicada a esta brochura, da exclusiva responsabilidade dos seus autores, que será actualizada periodicamente
+de acordo com as sugestões e críticas recebidas.
+
+34
+

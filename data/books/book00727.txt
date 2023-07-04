@@ -1,0 +1,348 @@
+© desta edição, Boitempo, 2020
+© Angela Davis, Naomi Klein, Thenjiwe McHarris, Cindy Wiesner,
+Maurice Mitchell, Loan Tran e The Rising Majority, 2020
+
+Edição
+Ivana Jinkings
+
+Coordenação de produção
+Livia Campos
+
+Assistência editorial
+Pedro Davoglio
+
+Tradução
+Leonardo Marins
+
+Preparação
+Thais Rimkus
+
+Capa
+Flávia Bomfim e Maguma
+
+Diagramação
+Schäffer Editorial
+
+Equipe de apoio
+Renzo, Carolina Mercês, Débora Rodrigues, Dharla Soares, Elaine Ramos, Frederico Indiani, Heleni Andrade, Higor Alves, Isabella Marcatti, Ivam Oliveira, Kim Doria, Luciana Capelli, Marina Valeriano, Marissol Robles, Marlene Baptista, Maurício Barbosa, Raí Alves, Talita Lima, Tulio Candiotto
+
+CIP-BRASIL. CATALOGAÇÃO NA PUBLICAÇÃO
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ
+D292c
+
+Davis, Angela, 1944-
+
+Construindo movimentos [recurso eletrônico] : uma conversa em tempos de pandemia / Angela Davis, Naomi Klein ; tradução Leonardo Marins. - 1. ed. - São Paulo : Boitempo, 2020.
+
+recurso digital (Pandemia capital)
+
+Tradução de: Movement building in the time of the coronavirus : a rising majority teach-in with Angela Davis & Naomi Klein
+
+Formato: epub
+
+Requisitos do sistema: adobe digital editions
+
+Modo de acesso: world wide web
+
+ISBN 978-85-7559-779-8 (recurso eletrônico)
+
+1. Coronavírus (Covid-19). 2. Epidemias - Aspectos políticos. 3. Epidemias - Aspectos sociais. 4. Livros eletrônicos. I. Klein, Naomi. II. Marins, Leonardo. III. Título. IV. Série.
+
+
+
+20-64231 
+
+CDD: 303.485
+
+CDU: 316.4:616-022.7 
+
+Meri Gleice Rodrigues de Souza - Bibliotecária CRB-7/6439
+
+É vedada a reprodução de qualquer parte deste livro sem a expressa autorização da editora.
+
+1ª edição: maio de 2020
+
+BOITEMPO
+
+Jinkings Editores Associados Ltda.
+Rua Pereira Leite, 373
+05442-000 São Paulo SP
+Tel.: (11) 3875-7250 / 3875-7285
+editor@boitempoeditorial.com.br
+www.boitempoeditorial.com.br
+www.blogdaboitempo.com.br
+www.facebook.com/boitempo
+www.twitter.com/editoraboitempo
+www.youtube.com/tvboitempo
+
+
+APRESENTAÇÃO
+
+Angela Davis e Naomi Klein, reconhecidas ativistas feministas de esquerda, protagonizaram um importante debate on-line sobre os rumos da globalização durante e após a pandemia de covid-19, organizado pela Rising Majority. A elas se juntaram – a partir de diversas localidades nos Estados Unidos e na África do Sul – Cindy Wiesner (Grassroots Global Justice), Maurice Mitchell (Working Families Party) e Loan Tran (Southern Vision Alliance). O evento aconteceu no dia 2 de abril de 2020.
+
+A troca de ideias foca temas essenciais de como a doença atinge em especial os pobres, os negros e as mulheres ao redor do mundo. Isso se dá mesmo no interior de países ricos, a exemplo do que acontece com a população carcerária dos Estados Unidos, largamente atingida pela crise e na sua maioria composta por latinos e afrodescendentes. Segundo Thenjiwe McHarris (Blackbird), mediadora virtual, “estamos sob ataque do capitalismo racial, realidade em que o interesse de executivos, corporações, acionistas e alguns ricos vale mais que a vida de bilhões de pessoas – e até mesmo que o próprio planeta”.
+
+O Brasil também ganha destaque entre as participantes. Naomi Klein aponta que “vemos Viktor Orban, na Hungria; Jair Bolsonaro; Benjamin Netanyahu; e o próprio Trump – todos eles fazendo manobras autoritárias para garantir mais poder de controle”. E, ao fim, Angela Davis sublinha: “Estou preocupada com o fato de que, no Brasil, a situação é muito pior que aqui – sem falar nas semelhanças entre os dois presidentes. Mas eu acredito que nós, dos Estados Unidos, podemos encontrar em lugares como o Brasil e a África do Sul vozes que almejem sair criativamente desta crise”.
+
+Segundo a página da Rising Majority na internet, a organização surgiu em 2017 como “uma coalizão que busca desenvolver uma estratégia coletiva e uma prática compartilhada que envolve trabalho, juventude, abolição, direitos dos imigrantes, mudança climática, feminismo, movimentos antiguerra/anti-imperialistas e por justiça econômica”. Thenjiwe McHarris acrescenta tratar-se de um coletivo de organizações e movimentos de vários setores, empenhado em construir uma esquerda comprometida com a democracia radical e que, além de anticapitalista, seja antirracista.
+
+
+Thenjiwe McHarris
+
+Acredito que todos concordamos que, agora mais que nunca, é preciso ter uma perspectiva que trate das mudanças estruturais necessárias. Organizamos esta conversa porque nosso povo ao redor do mundo não está apenas sob os ataques causados por esse vírus, pela terrível perda de vidas e pelo adoecimento de entes queridos. Também estamos sob ataque do capitalismo racial, realidade em que o interesse de executivos, corporações, acionistas e alguns ricos vale mais que a vida de bilhões de pessoas – e até mesmo que o próprio planeta. Este momento requer uma perspectiva transformadora. É vital lutar por aquilo de que as pessoas precisam com urgência. Não há dúvida de que se trata de um período desafiador, mas também queremos dizer que, mesmo sendo tempos de grande risco, é possível levantarmos a mais transformadora, poderosa e ousada exigência atual. E construir a mais unificada e poderosa esquerda, que nosso povo e o planeta tanto merecem.
+
+Esta, conversa nos permite chegar a uma imagem coletiva sobre o momento em que vivemos, sobre o que é possível prever e sobre o que é exigido de nós como esquerda. Sinto-me muito honrada em mediar e realizar este evento com algumas das mais brilhantes e incríveis pensadoras contemporâneas, Angela Davis e Naomi Klein. Muita gente conhece essas grandes líderes e o que elas fazem no sentido de construir um poderoso campo de pensamentos ao redor dessas exigências. Comecemos com Angela Davis, uma fundamental liderança política e alguém cuja obra impactou vários de nós, nos Estados Unidos e no mundo. Também estamos na companhia de Naomi Klein, incrível ativista e escritora, cujo pensamento teve impacto em tantos movimentos pelo mundo. Sei que todos vocês – os que estão em Nova York, os que estão em Joanesburgo – se sentem animados com tão brilhantes companhias e presenças. Ficamos gratos por nos encontrarmos e buscarmos uma conjunção neste momento.
+
+O evento vai começar com algumas questões, um diálogo entre Naomi Klein e Angela Davis. Em seguida, juntam-se os companheiros Maurice Mitchell, do Working Families Party; Cindy Wiesner, do Grassroots Global Justice; e Loan Tran, do Southern Visions Collective – todos lideranças do Rising Majority. Assim, será de fato uma discussão coletiva sobre como construir a poderosa ação que o momento exige.
+
+Eu gostaria de convidar agora Angela Davis e Naomi Klein para a conversa, começando com estas primeiras questões: qual é sua avaliação sobre esta crise sem precedentes? O que ela nos diz sobre as falhas do capitalismo atual? Quais são as ameaças das soluções provenientes do capitalismo do desastre? Eu gostaria de lhe pedir, Naomi Klein, para iniciar.
+
+Naomi Klein
+
+Claro. Antes de tudo, gostaria de dizer que fico muito feliz de estar com vocês, de conversar com a Angela, que é uma heroína para mim, de me reunir com esse incrível grupo de organizadores e de participar de uma conversa global. Tenho ouvido pessoas de todo o mundo, sintonizadas a todo o momento, e isso reflete nosso profundo desejo de conexão. Acho que sentimos isso agora, mais que nunca, talvez porque muitos estejamos privados daquilo que sempre nos foi garantido: a possibilidade de estar na presença de nossos companheiros. Também devemos lembrar que, ao mesmo tempo, muitas pessoas não podem se dar ao luxo da quarentena, seja por que não têm casa para ficar isoladas, seja porque precisam trabalhar fora. Então, acho que a resposta rápida para sua pergunta é: esse capitalismo é o desastre. Sim, tenho escrito sobre o capitalismo do desastre, mas esta é uma crise criada pelo sistema capitalista. A pandemia em si é a expressão da guerra contra a natureza. Doenças migrando de animais selvagens para a esfera humana porque estamos invadindo a natureza, mais e mais. Estamos vendo isso de todas as formas... Nós já sabemos que essa doença prejudica quem está com o sistema imunológico fraco, já sabemos disso, sabemos o que o vírus faz. No entanto, se olharmos de fora, o que vemos é o sistema econômico. Ele é tão inconsequente que é construído sobre essa disposição de sacrificar vidas em nome do lucro – sempre foi assim, desde o tráfico de escravos no Atlântico até a crise climática contra a natureza. Esse sistema criou as condições para esta crise se aprofundar, ele enfraqueceu nosso sistema imunológico coletivo e, assim, criou as condições nas quais esse vírus se espalha desenfreadamente. Esse sistema econômico que se expressa de tantas formas – quer no sistema de saúde privado lucrativo, nos Estados Unidos, quer nos sistemas públicos de saúde da Itália e do Reino Unido, que estão passando necessidade por décadas de regime implacável – também se expressa pela degradação do trabalho na área da saúde, se expressa ao falhar no fornecimento de equipamentos de proteção e na degradação do trabalho do tão falado setor de serviços, que também é o trabalho de cuidar. Fica expresso no modo em que as pessoas entregam comida, fazem comida e embalam os pacotes. Os trabalhadores são tratados como se fossem descartáveis. De toda forma, isso tudo está fazendo com que o vírus se espalhe mais depressa e fora de controle. Somado a isso, temos o capitalismo do desastre, que representa mais do mesmo. Esse oportunismo corporativo que olha para toda essa dor, toda essa necessidade, e não se pergunta “como vamos resolver isso? Como vamos salvar essas vidas?”, e sim “como posso enriquecer ainda mais em benefício de meus próprios interesses?”. Isso se expressa agora com a suspensão de regulamentações ambientais na China e nos Estados Unidos em nome de um fortalecimento da economia. Está demonstrado agora com os ataques às regulamentações fiscais. Essa é sua lista de desejos, empurrada com pressa sob o pretexto da crise, de novo e de novo. E também se demonstra nos ataques explícitos à sempre minguante democracia. Vemos Viktor Orban, na Hungria; Jair Bolsonaro; Benjamin Netanyahu; e o próprio Trump – todos eles fazendo manobras autoritárias para garantir mais poder de controle. No caso de Orban e Netanyahu, governam por decreto sem perspectiva de fim. Então esse é o retrato do que está à frente, acredito. Ou parte de disso, uma amostra.
+
+Thenjiwe McHarris
+
+Obrigada pela fala, Naomi. Agradeço por levantar quais são as condições que nos levaram a esta crise específica, o impacto que ela tem sobre nós no mundo todo, e por apresentar o que estamos enfrentando. Agora, gostaria de falar com você, Angela, e lhe passar a vez para compartilhar sua avaliação do momento atual. Como você vê que está acontecendo? O que está por vir?
+
+Angela Davis
+
+Bem, boa tarde. Antes de tudo, deixe-me dizer que sinto-me realmente honrada por conversar com você, Naomi. E obrigada, Thenjiwe, Barbara Ransby, Moe Mitchell e todos os outros organizadores do Rising Majority que promoveram este incrível encontro. Uma coisa que gostaria de acrescentar, para aqueles de nós que se sentem muito sozinhos durante o distanciamento social: devemos nos fortalecer, todos podemos nos sentir fortalecidos e energizados pela conexão com pessoas de outros cantos do planeta que neste exato momento passam por situação semelhante. Fico pensando no que se passa na Palestina agora. No que se passa no Curdistão, especialmente no Curdistão sírio... Estou preocupada com as populações que se encontram sempre sujeitas a diferentes formas de repressão e que são muito mais vulneráveis durante este período de resposta falha ao coronavírus.
+
+Thenjiwe McHarris
+
+Obrigada pelas considerações. Tem um ponto que eu gostaria de aprofundar, Angela. Você nos ensinou muito ao longo dos anos sobre o complexo industrial prisional e o sistema carcerário. Como podemos entender este momento por uma ótica abolicionista? Foram chamadas para a liberdade pessoas que estavam em prisões. O que você acha disso e o que significa ser abolicionista, enquanto movimento, nestes tempos?
+
+Angela Davis
+
+Em primeiro lugar, Thenjiwe, muito obrigada por esta pergunta, que destaca o impacto das condições atuais – o vírus e a tentativa de mitigá-lo por meio das pessoas forçadas a se abrigar em casa. Tem havido tanta preocupação com quem está em navios de cruzeiro, onde a transmissão rápida é inevitável... Entretanto, deveríamos ficar ainda mais preocupados com as pessoas detidas nas penitenciárias, nas instalações específicas para imigrantes. Em primeiro lugar, as pessoas que estão aprisionadas em geral ficam lá durante um curto período, talvez um mês, seis meses. Se estão cumprindo pena, é sempre por um ano ou menos. Nas condições atuais, no entanto, uma sentença de três meses pode ser equivalente a uma sentença de morte. Aqui na Califórnia, o governador não ordenou novas prisões no sistema estadual, o que é bom. Porém, é possível que, por esse atraso, as prisões do Estado fiquem superlotadas. A propósito, esse seria um momento apropriado para fechar Rikers, em Nova York. Eu estou em Oakland, Califórnia, onde moro, e é claro que muitas organizações, como Critical Resistance, No New Jails, All Of Us or None, Transgender Gender-Variant & Intersex Justice Project, exigiram que os detentos fossem soltos. É verdade que milhares de prisioneiros foram soltos, mas isso é apenas uma gota no oceano, se considerarmos que existem 2,3 milhões de pessoas atrás das grades neste país. Estão exigindo a libertação imediata de idosos, mas é importante considerarmos que a prisão acelera o envelhecimento. Quando falamos em idosos neste caso, falamos de gente com mais de cinquenta anos de idade. Sei que a maioria das pessoas com cinquenta anos não se considera velha no mundo livre, mas isso não se aplica para quem está atrás das grades. Estão também pedindo a libertação de todas as crianças em instalações juvenis e de todas as pessoas que aguardam julgamento. Exigem também o fim do chamado “policiamento de qualidade de vida”, que cria o aprisionamento desnecessário de tantas pessoas. É fundamental a interrupção de todas as operações conduzidas pelo Serviço de Imigração e Controle Alfandegário (ICE, na sigla em inglês). Pois, quando falamos sobre o complexo industrial prisional, é muito importante reconhecer que a detenção de imigrantes está, de muitas formas, na vanguarda desse processo. A grande lição disso tudo é que o desencarceramento precisa acontecer. Desencarceramento é uma importante estratégia abolicionista. E isso precisa acontecer não apenas pelo bem daqueles que estão atrás das grades, mas pela saúde de todos.
+
+Eu estava lendo o artigo de Mike Davis na Jacobin, “O coronavírus é um monstro alimentado pelo capitalismo”. Ele argumentou que a atual pandemia reforça que o capitalismo global parece biologicamente insustentável na ausência de uma infraestrutura internacional de saúde pública. Diz, ainda, que essa infraestrutura não existirá até que os movimentos populares acabem com o poder da grande indústria farmacêutica e da assistência médica privada com fins lucrativos. Sei que Naomi falou sobre isso, e ela é especialista no capitalismo do desastre. Há muitos anos acompanhamos seu trabalho em torno dessa questão, Naomi. Pois é, quando se pensa em abolição, por uma ótica abolicionista, isso exige refletir amplamente e lembrar, por exemplo, que há aqueles que não contam com local para se abrigar. Mesmo que se tenha sucesso nesse esforço de envolver um grande número de pessoas presas no desencarceramento, muitas daquelas que deixam detenções e prisões terão apenas a rua para se abrigar. Esse modelo de quarentena incorpora uma lógica que pressupõe que as pessoas tenham casa e dinheiro para comida e que contem com os meios para se conectar com os outros. Muitas das pessoas na prisão, daquelas que já foram libertadas, não têm esse luxo. Portanto, devemos discutir a necessidade de moradia e comida acessíveis e gratuitas. Se o Irã libertou 70 mil de 240 mil prisioneiros, o que é aproximadamente um terço da população carcerária nacional, os EUA devem seguir o exemplo. O que significa que as autoridades devem libertar pelo menos 765 mil pessoas neste momento.
+
+Thenjiwe McHarris
+
+Obrigada, Angela. Você fez uma ótima transição, falando sobre as exigências mais urgentes e poderosas necessárias neste momento, no que diz respeito ao nosso povo – nos EUA e em todo o mundo. E essa era a transição para a próxima pergunta que eu adoraria que você respondesse, Naomi: Como ter uma ideia do que é possível nesta crise? Acabamos de falar sobre nossa avaliação e o contexto atual, mas o que nos é possível e o que é necessário de nós neste momento?
+
+Naomi Klein
+
+Bem, muito nos é exigido neste momento, especialmente porque estamos apenas nos primeiros estágios desta grande crise. Acho que a lição hoje é: uma vez que se reconhece a situação de emergência, muita coisa é possível. Vários de nós, aqui nesta chamada, nesta conversa, e dos que estão nos ouvindo passamos a vida tentando convencer todo mundo, os interesses dos poderosos, de que o status quo é uma emergência, quer pelo encarceramento em massa, quer pelos níveis absolutamente insustentáveis de desigualdade e injustiça, quer por nossa guerra contra natureza. O que é declarado emergência é sinônimo de poder nos Estados Unidos. O que vimos na prática: um número razoável de reações negativas ao alarme nos primeiros dias. Esse é o grande motivo pelo qual os EUA estavam tão despreparados. Eles não viram como crise. Eles não viram como emergência. E muita gente disse em voz alta, na Fox News e em outros canais, justamente o que pensava: que pessoas idosas e doentes deveriam morrer silenciosamente em nome do mercado de ações. Acho que a única razão pela qual houve mobilização de emergência, mesmo achando inadequado diante da crise, tem muito a ver com a viagem geográfica do vírus, no sentido de ter atingido partes do mundo com um tecido social mais forte antes de atingir os Estados Unidos. E assim tivemos os precedentes na China e no sul da Europa, onde as economias foram fechadas para salvar vidas. Isso forçou a resposta do governo Trump. Honestamente, não sei se teriam feito a mesma coisa se o sul da Europa não tivesse sido atingido primeiro.
+
+A crise escancara o sentido de possibilidade, certo? Quando escrevi A doutrina do choque, citei Milton Friedman, que agora é muito citado: “Apenas uma crise, presenciada ou percebida, produz mudanças reais” – e, quando a crise ocorre, isso depende de quais ideias existem por aí. Essa citação, alguns de vocês já devem ter me ouvido dizer isso... A razão pela qual Milton Friedman estava focado em estruturar uma conduta para desastres para o direito, para as empresas, era ter entendido que, quando o capitalismo produz suas próprias crises e as injustiças do sistema são expostas a todos, assim como aconteceu durante a Grande Depressão, isso cria uma grande oportunidade para a esquerda. Milton Friedman escreveu em uma carta, nos anos 1970, a Augusto Pinochet: “Acredito que tudo deu errado no seu país, assim como no meu, nos anos 1930, quando as pessoas tiveram a ideia de fazer coisas boas com o dinheiro dos outros”. Em outras palavras, toda essa estratégia que está sendo implantada, de agir rapidamente diante da crise e fazer avançar as exigências, é porque eles têm medo de impormos nossas exigências. Eles têm medo de exigirmos exatamente o que Angela disse: as prisões vazias, moradia para todos. Se preocupam que a gente fale assim: “Espere um minuto, vocês têm 6 trilhões de dólares guardados? Poderíamos começar um belo ‘Novo Acordo Verde’ com isso!”. Quer dizer, se você pode pagar as pessoas para ficarem em casa, pode pagar as pessoas para se afastarem do setor de combustíveis fósseis, não é? Se as empresas estão pedindo socorro, as atividades mais poluentes do planeta, as companhias de petróleo, companhias de gás, companhias aéreas, empresas de automóveis, empresas de navios de cruzeiro – isso tudo nos permite assumir a propriedade desses setores e podemos liquidá-los, já que estão em guerra com a vida na Terra, e podemos cuidar de seus trabalhadores. Portanto, cito meus colegas da organização The Leap, fundada com minha participação: “Nosso trabalho é abrir a porta da transformação radical ao máximo e pelo maior tempo possível”. E acho que você sabe do trabalho que vem realizando, Thenjiwe, também no movimento pelas vidas negras, todos esses anos: estamos em uma posição melhor nesta crise que na última vez em que a economia global entrou em colapso, em 2008, quando era muito claro de que éramos forçados a pagar pela crise dos banqueiros. Ocupamos praças e dissemos “não”, e sei que há pessoas ouvindo isso do sul da Europa que fizeram parte do movimento de ocupação das praças e tomaram a frente formando o Podemos. No entanto, naquela época, não apresentamos alternativas de transformação radical com coragem suficiente, com a força necessária, que é o que precisamos fazer agora. Sinto-me muito inspirada por pessoas que trabalham em empresas como Amazon, Whole Foods, Instacart, GE, por enfermeiras e enfermeiros, por toda a classe trabalhadora que se encontra na linha de frente, que agora compreende quanto suas funções são essenciais, apesar de terem seu trabalho tão precarizado e apesar de às vezes precisarem usar até saco de lixo como proteção. É assim que o capitalismo vê essas pessoas, literalmente como lixo: “Opa, opa, mantenha o mundo girando”. A energia de que precisamos para estruturar o movimento é do mesmo tipo da força desses trabalhadores. Teremos de exercer nosso direito de parar, de recusar esses trabalhos, e principalmente precisamos apoiar esses profissionais de todas as formas possíveis. Desculpe, estou me exaltando, mas precisamos chutar a porta e mantê-la aberta.
+
+Thenjiwe McHarris
+
+Que fala inspiradora. Eu sei disso que você está nos dizendo, que precisamos ousar, ter confiança, impor as exigências mais radicais e transformadoras, mas devemos também expandir o domínio do que é possível em nossa imaginação, porque estamos aprendendo que o que antes pensávamos que talvez não fosse alcançável agora é claramente uma possibilidade. Então, como prosseguir com as exigências mais profundas, que realmente ampliem essa poderosa imaginação radical, essa percepção do que é possível no momento?
+
+Naomi Klein
+
+Se eu puder acrescentar algo... É uma corrida contra o tempo. É uma corrida contra o tempo, porque ainda não vimos as piores medidas. Angela mencionou Gaza. Sabemos que o povo de Gaza nos diz, há anos, que eles são como um laboratório para o resto do mundo. Os primeiros casos do novo coronavírus foram diagnosticados na favela de Mumbai hoje. Isso é muito preocupante. Porque o que Angela está dizendo é real, existe a impossibilidade de pessoas se protegerem por não terem local de abrigo. E o que o sistema carcerário faz em resposta a isso? O que Modi faz? O que Duterte faz? O que Bolsonaro faz? Cercam e fecham a favela, a transformam em Gaza. Então, a não ser que a gente esteja aqui dizendo não, dizendo que todos têm direito a uma casa e que há muitos hotéis vagos por aí, seremos testemunhas de coisas muito piores.
+
+Thenjiwe McHarris
+
+Sim. É por isso que agora temos também que focar o que é exigido de nós. Angela, gostaria de passar a palavra para você antes de abrirmos para os outros companheiros do debate. Se puder compartilhar o que acha que nos é exigido neste momento, o que tem sido feito e o que é claramente uma possibilidade... Assim, podemos entender e informar o nível de ação e movimento que vamos organizar. Então eu a convido a compartilhar alguns de seus pensamentos.
+
+Angela Davis
+
+Bem, concordo plenamente com Naomi, devemos pensar nas semelhanças entre a década de 1930 e o presente. Acho que muitas pessoas reconhecem como o capitalismo está despreparado para suprir de fato as necessidades das pessoas e dos seres no planeta. A razão pela qual existe uma crise de saúde é justamente o processo de privatização iniciado na década de 1980, época em que surgiu o complexo industrial prisional. Os hospitais agora funcionam sob os mandamentos do lucro, do capital. E leitos extras vazios não são lucrativos, estoques de equipamentos, de ventiladores a máscaras, não são compatíveis com a produção just in time. Portanto, o capitalismo global é de fato responsável pela incapacidade de lidar com esta pandemia e também é responsável pelo grande número de pessoas presas em centros de detenção e pelo alto preço dos cuidados de saúde, moradia e educação. Acredito que as pessoas tenham capacidade de perceber que as coisas não precisavam ser assim. Que a saúde não deveria ser tratada como mercadoria. Que as pessoas não precisavam ser presas, simplesmente porque não há lugar para elas na economia atual.
+
+Também quero pontuar que esta crise está revelando a natureza do capitalismo racial, desde o racismo direcionado aos asiáticos-americanos, seguindo a liderança de... Como é mesmo o nome dele, o atual ocupante da Casa Branca? Que falha até em fornecer kits de teste para hospitais, clínicas e bairros negros. Podemos ver os americanos asiáticos sendo insultados e atacados fisicamente. Em lugares como o Meharry Medical College, em Nashville, Tennessee, que é indicado para testes, houve grande atraso porque não receberam os materiais. Penso que estamos reconhecendo a situação e que temos a capacidade de nos organizarmos contra o racismo estrutural que dirige nossas instituições, o racismo do cotidiano. Acredito que temos a capacidade de criar organizações feministas e que a gente pode chamar de abolicionistas as organizações feministas, porque todas essas questões são feministas. O racismo é uma questão feminista. A falta de moradia é uma questão feminista. A abolição das prisões é uma questão feminista. Devemos levar em consideração também o fato de que muitas pessoas no centro desta crise, na linha de frente, são mulheres. Mulheres de todas as origens raciais e étnicas, mulheres pobres, mulheres trans – especialmente nos países do sul do mundo. Portanto, acho que devemos aproveitar para construir um tipo de organização que aprimore a noção de solidariedade internacional. Isso talvez tenha a capacidade de nos tirar dessa ilusão autocentrada nos EUA e reconhecer que podemos impulsionar lideranças que estão se organizando em outras partes do mundo, trabalhadoras domésticas em todo o mundo que estão perdendo o emprego por causa do isolamento social, daqueles que cuidam de pessoas no setor privado de enfermagem com fins lucrativos, no ramo das casas de repouso, como a que sofreu o surto em Washington. Quero dizer também uma coisa sobre violência de gênero e abuso de crianças. Parece que toda a noção de ficar em casa é apoiada na ideia de que podemos recuar para esse ambiente acolhedor, esse refúgio. Mas muitos estão sendo forçados a permanecer 24 horas por dia com seus agressores, impossibilitados de estar em contato com quem tem sido sua rede de apoio. Crianças e mulheres vítimas de abusos. Acho que isso não é algo para usar na oportunidade de criar o tipo de organização que dará nosso senso de pertencimento ao mundo e aumentará nossas noções das possibilidades de ir além do capitalismo.
+
+Thenjiwe McHarris
+
+Muito obrigada pela fala, Angela. É essencial não nos ausentarmos para com as pessoas mais vulneráveis, principalmente neste momento, seja a classe trabalhadora na linha de frente, sejam crianças e mulheres sobreviventes de violência doméstica e agressão sexual nas próprias casas. Neste momento, é necessário estarmos atentos a todas as pessoas e às dificuldades que enfrentam neste momento. Como as estamos apoiando?
+
+Abrindo agora o debate a alguns dos outros participantes, eu gostaria de agradecer vocês duas por compartilharem avaliações da situação atual, obviamente do coronavírus, mas também por falarem sobre o capitalismo racial e como ele nos trouxe até aqui; por nos mostrarem quais são as possibilidades e as oportunidades a que nossos movimentos devem atentar-se não somente para atender às demandas do momento, mas para nos prepararmos para o que está por vir. Obrigada por isso. Eu realmente vejo como um chamado para agirmos, um chamado sobre o que nos é exigido neste momento.
+
+Convido, então, outros três palestrantes e companheiros que são lideranças no Rising Majorit: Cindy Wiesner, da Grassroots Global Justice; Maurice Mitchell, da Working Families Party; e Loan Tran, da Southern Vision Alliance. Sabemos que pessoas de todo o país e todo o mundo estão nos assistindo. Então, ao acompanhar e divulgar a conversa, usem a hashtag #risingmajority.
+
+Novamente agradeço a todos por aceitarem nosso convite. Obrigada aos três companheiros e palestrantes que se juntam agora a nós. Começaremos conversando sobre a perspectiva de como o coronavírus afeta o mundo e como as respostas ao vírus afetam as pessoas. Então, Cindy, gostaria de fazer a próxima pergunta a você: ao que precisamos estar mais atentos ou no que devemos pensar neste momento, enquanto observamos os efeitos do vírus ao redor do mundo?
+
+Cindy Wiesner
+
+Olá a todes. Sinto-me mesmo honrada em participar deste diálogo, desta conversa. Vou pegar alguns pontos que Angela e Naomi apresentaram. Antonio Gramsci, além de Friedman, escreveu muito sobre crises. A crise nos dá a oportunidade de fazer algo ou dá à direita essa oportunidade. Sinto que agora temos a chance de quebrar o neoliberalismo global; caso contrário, encararemos um futuro de autoritarismo e fascismo. É o momento de repensarmos a reorganização da sociedade em nível global, desde a escala local, do bairro, até nossos territórios e o mundo todo. Devemos ser capazes de imaginar e repensar, garantindo que, nesta fase traumática e desesperadora, não se perca tal imaginação radical.
+
+No mundo inteiro há pessoas vivendo em condições precárias, sem acesso a água e eletricidade. E parte do que veremos junto a isso são prováveis aumentos de repressão, fechamento da democracia e perda dos direitos democráticos, com uso da militarização. Acho que é isso. Não estamos apenas exigindo itens indispensáveis, como máscaras, ventiladores e recursos para hospitais e pessoas que trabalham em supermercados. Temos também de nos posicionar contra a guerra, contra a militarização e pelo fim das invasões territoriais Precisamos acabar com as sanções, que já são mortes vagarosas. As pessoas não morrerão apenas de coronavírus, elas também morrerão de fome. Precisamos, agora mais que nunca, ter solidariedade para com as pessoas do Irã, da Venezuela, da Coreia do Norte, de Cuba, da Palestina, do Zimbábue e de outros trinta países que sofrem com sanções.
+
+Além disso, é uma oportunidade de pensarmos em quantos movimentos ao redor do mundo experimentam alternativas ao capitalismo e realmente analisaram as necessidades que os movimentos sociais apresentam. Soberania de uma produção alternativa de alimentos, pois os pequenos agricultores equilibram o clima do planeta, é o que diz a Via Campesina. A economia feminista, o pujante movimento feminista que em todo o mundo está em ação, no fronte contra o autoritarismo e que tem demonstrado a necessidade de uma economia feminista. Ambientalistas e povos indígenas têm apontado para uma economia regenerativa. Povos indígenas nos Andes falando sobre bem-viver e diferentes experiências em torno do socialismo no século XXI. Acho que este é um momento para dizer que precisamos desesperadamente de uma alternativa ao sistema capitalista, colonialista, patriarcal e racista. Estamos trabalhando – e todos os nossos movimentos ao redor do mundo têm trabalhado – essas alternativas. Somos capazes de atender às necessidades das pessoas e amparar a vida de maneira muito diferente. Acho que esse é um dos pontos sobre os quais os movimentos mundiais estão falando. Agora que o lar se tornou local da luta, como Angela disse, também é lugar da esperança. É também um momento em que o trabalho reprodutivo se torna muito visível – em casa, nas comunidades, nos trabalhos, o trabalho reprodutivo das pessoas que prestam serviços estão na vanguarda de salvar o planeta. Acho que é uma das coisas em que realmente precisamos pensar neste momento, para desmantelar o sistema patriarcal e neoliberal em que vivemos. Trump, Bolsonaro e Duterte, por exemplo, tiveram abordagens patriarcais da crise. E precisamos entender que, em última análise, temos as soluções. E as pessoas que nos meteram nessa bagunça não vão nos tirar dela. Podemos ser os defensores da vida, dos territórios e dos conhecimentos e também fazer saber que há alternativa.
+
+São vários os cantos do mundo em que há uma demanda muito clara começando a ser articulada para acabar com as sanções. O segundo passo é cortar os orçamentos militares até o topo, em toda esfera, do nacional, ao local e no Estado. Terceiro, há esse resgate não capaz de resgatar as corporações, os CEOs e as empresas transnacionais, mas especialmente resgatar as pessoas, porque é isso que está em questão. E precisamos ser capazes de fazer isso, precisamos proporcionar moradia para todos, precisamos criar serviços e grupos de socorro para pessoas sem documentos. Precisamos ser capazes de revogar a autorização do uso da força militar e estar capacitados para falar o que queremos, não apenas o que rejeitamos; então este é o momento, mais que nunca, de dizer o que queremos.
+
+Thenjiwe McHarris
+
+Muito obrigada, Cindy. Agradeço por destacar quanto a solidariedade internacional é crucial. Essa vitória é resultado da construção mundial de movimentos que temos agora, e só alcançaremos uma reestruturação radical do poder, só chegaremos ao fim do capitalismo racial, se construirmos um movimento global, pronto para realinhar drasticamente o poder.
+
+Você destacou vários pontos diferentes sobre a necessidade de priorizar as pessoas e não os empresários, tampouco as corporações e as instituições financeiras. Agora quero chamar Maurice Mitchell, do Working Families Party, para a conversa. Muitas pessoas têm falado sobre subsídios fiscais e como eles atendem às necessidades das instituições financeiras e corporações, mas não às necessidades das pessoas. Assim, precisamos conversar sobre quem está dirigindo. Este é um ano eleitoral, você apresentar quais são as implicações desta pandemia para a próxima eleição? Poderia falar sobre qualquer questão relevante e que merece nossa atenção, sobre quem está no poder, sobre eleições e sobre o momento atual?
+
+Maurice Mitchell
+
+Muito obrigado, Thenjiwe. É uma honra participar desta conversa com Cindy Wiesner, Loan Tran, Naomi Klein e Angela Davis. Creio ser realmente importante neste momento de crise. Respondendo à pergunta, as implicações são profundas. Nesta época, tradicionalmente, os movimentos organizados construíram poder, poder eleitoral, entre várias formas, por meio de conversas cara a cara, porta a porta, fazendo campanha em nossas comunidades. Tivemos desde pequenos grupos reunidos até multidões em comícios, certo? Tivemos conversas, construímos conexões e relacionamentos. Relacionamentos são a base dos nossos movimentos. Mas agora não podemos construir relacionamentos da mesma maneira, pois devemos ficar em casa e cumprir o distanciamento social a fim de salvar nossa vida e a vida de integrantes de nossas comunidade. Então, precisamos nos adaptar. E estamos nos adaptando, nos engajando em todos os meios de comunicação para conseguir conversar com nosso pessoal, usando mensagens de texto, chamadas e o universo virtual, como agora. Usamos códigos por cores nas portas e nas janelas para comunicar necessidades e se estamos seguros ou não. Sabemos que não podemos realizar reuniões tradicionais. No entanto, podemos realizar uma chamada virtual com dezenas de milhares de espectadores, como esta. Ou podemos levantar nossas vozes, das janelas, como muitas pessoas fazem ao redor do mundo. É um momento em que se faz necessária a adaptação, e teremos que inovar para continuar construindo o vínculo de nossos relacionamentos, mesmo distanciados. Estamos isolados, mas certamente não estamos sozinhos. É um momento em que pessoas de extrema direita e republicanas pedem a renda básica universal – ao mesmo tempo que pedem que os avós basicamente se sacrifiquem pelo mercado. E isso demonstra que a lógica do capitalismo neoliberal não faz mais sentido. Essa organização do capital, sustentada pelas pessoas em Washington, está em desacordo. Elas farão o necessário para sustentar o sistema. Caso isso signifique proporcionar subsídios a algumas pessoas, que assim seja. Portanto, este é um momento em que nossa liderança política e nossa clareza são essenciais.
+
+Atualmente o Working Families Party e muitos de nossos aliados estão desenvolvendo táticas inovadoras, pois agora não podemos recuar. Nós precisamos disso mais que nunca e já ouvimos essa demanda dos palestrantes anteriores, de líderes que prestam contas à classe trabalhadora – e não apenas nos Estados Unidos, mas em todo o mundo. Haverá um cabo de guerra entre interesses das empresas e interesses da mão de obra. Portanto, movimentos sociais e as pessoas provenientes de movimentos sociais podem desempenhar um papel importante no preenchimento dessa lacuna. É por isso que precisamos cada vez mais de integrantes de movimentos sociais e protagonistas dos movimentos sociais concorrendo a cargos políticos, no nível local e no estadual. Algumas dessas pessoas podem questionar se é melhor usarmos a força da esquerda em ações diretas ou na construção de movimentos de massa. E achar que não devemos perder tempo agora com eleições. Mas o que estamos vendo acontecer, na minha opinião, ressalta a necessidade de construção do poder eleitoral. Imaginem se Donald Trump não fosse presidente. A resposta federal seria muito diferente. Poderíamos medir isso em centenas de milhares de vidas. Para usar um exemplo mais local: o governador Kemp, na Geórgia, falhou totalmente em lidar com esta pandemia, e as pessoas vão morrer por causa de sua resposta. Deixem-me aprofundar isso por um momento: as pessoas vão morrer porque uma eleição foi roubada de Stacey Abrams em 2018. Isso dito, entendemos que as eleições não são nossa única estratégia neste momento; precisamos de greves, de não pagar o aluguel, hipotecas, das greves de trabalhadores essenciais, como Naomi falou, de trabalhadores da Amazon, da Instacart e de outras empresas. Precisamos de ajuda mútua na causa e estamos vendo muito disso acontecer. Precisamos de manifestações com exigências profundas e oferecendo soluções inspiradoras e acalentadoras para quem precisa desesperadamente delas. E devemos traduzir isso em consequências eleitorais. Os trabalhadores devem conquistar todos os níveis do poder – e eles simplesmente não possuem nenhuma outra ferramenta à disposição, a não ser as ferramentas eleitorais. É por isso que devemos garantir que a democracia continue. E, quando digo democracia, quero dizer que devemos assegurar que a verdadeira democracia radical floresça neste momento, não apenas no dia das eleições, mas nos 365 dias do ano. A sociedade civil florescendo totalmente neste momento. Trata-se de um tempo frágil e incerto, e nada é dado ainda. Autoritários de todo o mundo seguirão uns aos outros. E precisamos garantir que a ala da extrema direita em nosso país não use este momento para extinguir a pequena aparência de democracia que nos resta. Então, prestem atenção ao que já está acontecendo na Hungria. Garanto a vocês que Donald Trump está prestando atenção. Portanto, devemos estar vigilantes, temos que acordar do sonho de que os Estados Unidos são sempre exceção. Este é realmente um movimento global. Termino dizendo que, como se sabe, o atual surto de coronavírus e os esforços de nos protegermos abrigados em casa nos demonstram a necessidade de uma expansão maciça da democracia e da infraestrutura eleitoral. Estamos participando de campanhas em torno do conceito de que todos os estadunidenses devem estar habilitados a votar de casa. Achamos que isso é uma opinião comum, uma vez que talvez não consigamos sair pessoalmente de casa. Precisamos garantir que todos recebam cédulas por e-mail, com tempo suficiente para devolvê-las de várias modos. Essa é uma solução concreta, que pode garantir que as pessoas sejam ouvidas em novembro. Grandes eventos como esse são necessários para grandes realinhamentos políticos. E já foi dito como eles podem inverter a situação. Acho que Rising Majority, Working Families e nossos aliados no movimento precisamos construir uma coalizão multirracial nunca antes vista neste país. Caso contrário, a aliança entre as corporações e a ala direita supremacista branca usará esta crise para fortalecer ainda mais seu poder. Todos os anos, alcançamos milhões de cidadãos que votam em progressistas, e isso, de todos os modos, está no nível hiperlocal. Porque entendemos que as rédeas do poder realmente importam para o nosso povo. Continuaremos fazendo isso. E precisamos descobrir novas maneiras de fazer isso. Ampliando o apelo a milhões e milhões de pessoas que buscam entender este momento. Não é um momento para pessoas de esquerda falarem com gente da própria esquerda. Trata-se de uma oportunidade para as soluções de esquerda inspirarem o país. Gostaria de encerrar encorajando todos a acessarem o site do Rising Majority para conferir soluções e passos do Partido Working Families e de outros grupos. Por exemplo, estamos construindo um exército de voluntários que enviam mensagens de texto para conscientizar pessoas de todo o país. Convido todos a se unirem ao movimento e a outras organizações do Rising Majority que trabalham no que é preciso para construir tal coalizão.
+
+Thenjiwe McHarris
+
+Muito obrigada, Moe. Agora eu gostaria de chamá-lo para esta conversa, Loan, e depois encerraremos com uma última pergunta a todos os palestrantes. Estamos comprometidos em construir o Rising Majority porque acreditamos ser necessária uma esquerda antirracista, ligada à democracia radical. Então, Loan, você pode dizer algumas palavras sobre como a xenofobia e o racismo antiasiático estão se projetando durante esta crise?
+
+Loan Tran
+
+Sim, claro. Obrigado, Thenjiwe, e obrigado aos demais participantes deste debate. Estou achando muito produtivo. O discurso antiasiático e especificamente antichinês de Trump, chamando a covid-19 de “vírus estrangeiro” ou “vírus chinês”, tem sido obviamente muito grosseiro. Em um nível básico, sabemos que esse tipo de retórica não se importa se os asiáticos morrem nesta pandemia. Mas o que esse tipo de retórica também diz sobre o povo asiático é que não há problemas se o nosso povo é vítima de guerras imperialistas, vítima de desastres climáticos e extrativismo predatório, vítima de ocupação e neocolonialismo. Tanto dentro das fronteiras dos EUA quanto pelas áreas afetadas por forças dos EUA ao redor do globo. Que não há problema se os asiáticos são vítimas de trabalho não remunerado, de exploração, fome, confinamento e insegurança habitacional. Portanto, espero que agora fique claro para todos aqueles que participam de movimentos sociais, que estão entrando em movimentos, que esse tipo de discurso antiasiático estabelece as bases e as justificativas para a política social e econômica, que não mata apenas asiáticos, mata todos nós.
+
+Assim como outros falaram, especialmente para aqueles de nós que já estávamos vulneráveis antes da crise, que vivemos em ocupações, que vivemos em prisões e centros de detenção, que já vivemos em uma realidade precária, com salários e escolas em ruínas, enfrentando sirenes da polícia e agentes do Serviço de Imigração e Controle Alfandegário. O que quero dizer é que o racismo antiasiático de Trump é bastante insidioso. Não é uma jogada inovadora, certo? Sabemos quais são as políticas sociais e econômicas que surgirão desta crise, a não ser que a gente organize e se organize para valer, e que continuarão a agravar a realidade de uma estrutura totalmente arruinada, de uma democracia que atualmente só funciona para os ricos e que está atrelada a um governo cada vez mais fascista. Fica claro que o racismo e a xenofobia antiasiáticos, sendo defendidos por Trump e seu governo, revelam a verdadeira crise: o capitalismo. É o capitalismo racial, do qual a supremacia branca, a antinegritude e o racismo são os alicerces. O estranhamento e a demonização do povo asiático, neste momento específico, é uma manobra da elite que tenta esconder o que é de fato inaceitável, que agora mesmo empresas multinacionais como a Amazon podem usar o racismo para se proteger e receber os subsídios maciços do chamado “mercado livre” e continuam a lucrar, enquanto nosso povo é obrigado a esperar e morrer.
+
+Nós já vimos esse tipo de alteridade e xenofobia antes – que ataca nossas irmãs e nossos irmãos muçulmanos, ataca aqueles de nós sem documentos, ataca nossos parentes negros, pardos e indígenas por todo o país, que foi construído com base em algumas interpretações assassinas sobre pertencimento. Independentemente do que façamos, é primordial lembrar que a culpa não é do povo asiático. A culpa de enfrentarmos uma pandemia não é dos negros e das pessoas não brancas, de migrantes, mulheres, da classe trabalhadora. Temos que apontar os alvos certos. E, principalmente, precisamos nos fortalecer para derrubar as instituições que irracionalmente determinam se o povo vive ou morre. No fim das contas, até que é bastante simples, o Sars-Cov-2 é o vírus; o capitalismo, a crise e nossa organização e nossa solidariedade são a resposta. Gostaria de pontuar novamente para quem quer mudança, quem quer se aprofundar na luta neste momento e depois: confira o Rising Majority, você pode acessar www.majority.org e receber informações sobre atualizações e ações. Para aqueles que já estão conectados às organizações, informaremos sobre novas conversas em breve. Acho que tudo o que foi mencionado aqui – libertar a população carcerária, salários dignos, moradia para todos – é agora o chão, não o teto. E qual será o novo teto? Realmente esperamos lutar por isso com o Rising Majority. Assim, as pessoas se juntarão a nós. Obrigado.
+
+Thenjiwe McHarris
+
+Muito obrigado, Loan. Isso nos deixa mais perto da conclusão deste debate; então quero convidar novamente Angela Davis e Naomi Klein. Ouvimos bastante coisa parecida sobre o que está acontecendo, o que estamos enfrentando, mas o que é exigido de nós neste momento? Que tipo de movimento que precisamos construir? Quero deixar com vocês palavras e mensagens finais para os ativistas, milhares de ativistas, que estão conectados aqui no momento, os líderes do Rising Majority, os organizadores e as pessoas na linha de frente dessa batalha. Se vocês puderem compartilhar qualquer consideração final conosco... O que nos é exigido neste momento? O que é liderar? Como é o poder? Naomi, começo com você; depois vamos para Angela Davis.
+
+Naomi Klein
+
+Primeiro, agradeço a Moe, Loan e Cindy essas reflexões incríveis e a demonstração verdadeira de liderança neste momento. Muito do que sei sobre o poder transformador de uma crise aprendi vivendo na Argentina. Após a quebra da economia nacional, em 2001, eles passaram por cinco presidentes em três semanas, e tudo entrou em colapso. As pessoas começaram a reconstruir algo a partir dos escombros. Uma das coisas que testemunhei e realmente me transformou foi um movimento de fábricas que estavam sendo abandonadas pelos empresários e transformadas em cooperativas de trabalhadores. Cito isso porque, quando falamos de solidariedade internacional – e gostei muito de ouvir Cindy sobre como precisamos aprender com as lideranças do sul mundial e com as comunidades indígenas do norte, com o movimento pela soberania alimentar –, também precisamos aprender com o movimento de ocupação de fábricas. Haverá um colapso de pequenas empresas. Caso não queiramos terminar em um mundo no qual Jeff Bezos seja o último homem de pé, devemos dar o direito aos trabalhadores de restaurantes que estão fechando, de salões de beleza que estão fechando e de todos os tipos de empresas que estão fechando de assumir os seus locais de trabalho e transformá-los em cooperativas. Acho essa uma das batalhas necessárias. Existe legislação para esse tipo de resgate. E lanço aqui a ideia.
+
+Tenho outra ideia que considero importante: está acontecendo uma admirável organização digital no momento. Uma das coisas que vemos é que o direito à internet, que é uma utilidade pública, está nas mãos de poucas grandes empresas. Quando falamos de repressão, de respostas autoritárias a essa crise, isso inclui a capacidade, infelizmente, de termos desligada a nossa organização, por estarmos nos organizando em plataformas corporativas. Precisamos estar cientes disso e prontos para reagir. Vamos olhar para o que aconteceu na Índia, no governo Modi, que simplesmente bloqueou o acesso da Caxemira à internet. Precisamos nos encontrar sem a permissão de Mark Zuckerberg. Há muitas maneiras diferentes de se manifestar, mas isso precisa estar entre nossas prioridades, enquanto lutamos por um verdadeiro bem digital, sendo parte da transformação necessária. Quero mencionar o People’s Bailout. As pessoas podem acessar o site, Green Stimulus, e conferir. Também já comentei sobre o theleap.org. Essas são organizações que desenvolvem estruturas essenciais e algumas pessoas as mencionaram.
+
+Vamos lembrar fatos que muitos de nós estamos percebendo. Primeiro, sentimos falta um do outro. Mesmo que a gente passe bastante tempo nas telas, quando tudo isso acabar, eu gostaria de gastar menos tempo conectada e mais tempo em comunidade, olho no olho. Quero viver em um mundo que torne isso mais fácil e possível. Vamos nos lembrar do amor que sentimos pelas pessoas cuidadoras. Vamos construir uma economia que valoriza, enaltece e está enraizada na necessidade de cuidarmos uns dos outros. Vamos nos lembrar do consolo que a natureza nos proporciona com isso ocorrendo na primavera, vamos construir uma economia que se baseia em cuidar um do outro e de cuidar do planeta. É possível. Serão necessárias todas as ferramentas mencionadas por Moe e talvez até uma greve geral. Eu não acho que tenha uma hashtag para isso, então teremos que descobrir maneiras de nos organizarmos que não surjam no vale do Silício.
+
+Uma das coisas mais difíceis desta crise é ter um menino de sete anos e ensiná-lo a tomar cuidado com outras pessoas, porque todas têm germes. Essa lição é oposta à que tento passar a ele. Acho que todos sabemos o que é isso, que tudo o que temos somos nós mesmos. E quando tentarem nos virar um contra o outro, devemos lembrar que, mesmo isolados, precisamos nos aproximar dos outros e construir a maior resistência possível, porque tudo está em risco.
+
+Thenjiwe McHarris
+
+Obrigada, Naomi. Sim, devemos buscar uns aos outros. Angela, para encerrar, eu adoraria que você dissesse algumas palavras a todos os que estão nos acompanhando.
+
+Angela Davis
+
+Bem, muito obrigada pela conversa. Aprendi bastante nesta última hora. E estou ciente do fato de que pessoas nos assistem de outras partes do mundo. Agora me pergunto se podemos criar conversas semelhantes envolvendo pessoas da África, da América do Sul, da Índia. E estou preocupada com o fato de que, no Brasil, a situação é muito pior que aqui – sem falar nas semelhanças entre os dois presidentes. Mas eu acredito que nós, dos Estados Unidos, podemos encontrar em lugares como o Brasil e a África do Sul vozes que almejem sair criativamente desta crise.
+
+Volto ao fato de que, na situação atual, somos obrigados a viver dentro dos limites dos estados-nação. Estes, porém, não funcionam de um modo que melhore a vida. De fato, o estado-nação está se tornando cada vez mais obsoleto. E é o que vemos agora. Então, realmente busco conversas e organizações globais, internacionais, e acho que este tipo de troca deve acontecer mais e mais vezes. Organização digital, sim! E precisamos estar preparados para um novo começo quando finalmente entrarmos em contato uns com os outros pessoalmente. Precisaremos realizar grandes manifestações e movimentos, apoiar todas as greves e criar uma organização duradoura que nos ajude a nos afastarmos desse monstro capitalista em direção a um futuro melhor. Então, muito obrigada, Naomi. Obrigada, Thenjiwe. Obrigada, Cindy, Moe e Loan e todos os que estão por trás deste evento. E ao Rising Majority.
+
+Thenjiwe McHarris
+
+Muito obrigada, Angela. E obrigada por sempre nos lembrar que precisamos ter uma leitura global, mas que, principalmente, devemos ter um pensamento global em nossa organização. E que precisamos dessas discussões, expandindo-as para nos envolvermos com líderes de movimentos do Brasil e da África do Sul. Então, obrigada por isso.
+
+Para todos os que nos assistem: este é um espaço de aprendizado, de crescimento, mas também é um chamado à ação. Vivemos um momento de crise, que exige toda a nossa bravura e toda a nossa força. Seguindo nossos passos, temos uma oportunidade, além da exigência e da demanda de nos unirmos, nos alinhando e trabalhando juntos na mais profunda estratégia para construir o movimento que não apenas nossas crianças e nosso planeta merecem, mas também aqueles que ainda não nasceram.
+
+Então, obrigada pela participação. Obrigada às extraordinárias Naomi Klein e Angela Davis por compartilharem seu brilhantismo. Agradeço aos camaradas Maurice Mitchell, Cindy Wiesner, Loan Tran não apenas por apresentarem análises e perspectivas, mas também por chamarem à ação. Quero pedir a todos os que estão conosco para continuarem a seguir a conversa on-line. Precisamos estar em comunidade, praticar o amor, e também precisamos nos encontrar. Então use a hashtag #risingmajority e acesse o site therisingmajority.com para manter-se atualizado.
+
+Sabemos que as pessoas estão assustadas, que estão lidando com um momento desafiador. Sabemos que o que nos ajudará é o outro, é alcançarmos uns aos outros. Nossa cura é a comunidade, é o amor. O que nos ajudará nestes tempos é saber quão poderosos somos. Então, obrigada pela participação. Nos vemos em breve. Tchau, pessoal!
+
+
+SOBRE AS AUTORAS
+
+ANGELA DAVIS nasceu em Birmingham, Alabama (EUA), em 1944. É filósofa, professora emérita do departamento de estudos feministas da Universidade da Califórnia e ícone da luta pelos direitos civis. Integrou o Partido Comunista dos Estados Unidos, tendo sido candidata a vice-presidente da República em 1980 e 1984. Próxima ao grupo Panteras Negras, foi presa na década de 1970 e ficou mundialmente conhecida pela mobilização da campanha “Libertem Angela Davis”. Ensaísta prolífica, escreveu uma série de livros marcados por reflexões que visam romper com as assimetrias sociais. Dela, a Boitempo publicou Mulheres, raça e classe (2016), Mulheres, cultura e política (2017), A liberdade é uma luta constante (2018) e Uma autobiografia (2019).
+
+NAOMI KLEIN nasceu em Montreal, Canadá, em 1970. Premiada jornalista, escreve para diversos meios de comunicação, como The Intercept, e ocupa a cátedra Gloria Steinem de estudos de mídia, cultura e feminismo na Universidade Rutgers. Autora de best-sellers sobre capitalismo, globalização, mudança climática, é também uma conhecida ativista. Entre seus títulos publicados estão: Sem logo (Record, 2002), Cercas e janelas (Record, 2003), A doutrina do choque (Nova Fronteira, 2008) e Não basta dizer não (Bertrand Brasil, 2017).
+
+
+OUTROS E-BOOKS DE ANGELA DAVIS
+
+Mulheres, raça e classe
+
+Mulheres, cultura e política
+
+A liberdade é uma luta constante
+
+Uma autobiografia
+
+
+Siga a Boitempo
+
+BOITEMPOEDITORIAL.COM.BR
+
+/blogdaboitempo.com.br
+
+/boitempo
+
+@editoraboitempo
+
+/tvboitempo
+
+@boitempo
+
+
+Estação Perdido
+
+Miéville, China
+
+9788575594902
+
+610 páginas
+
+Compre agora e leia
+
+"Com seu novo romance, o colossal, intricado e visceral Estação Perdido, Miéville se desloca sem esforço entre aqueles que usam as ferramentas e armas do fantástico para definir e criar a ficção do século que está por vir." – Neil Gaiman "Não se pode falar sobre Miéville sem usar a palavra 'brilhante'." – Ursula K. Le Guin O aclamado romance que consagrou o escritor inglês China Miéville como um dos maiores nomes da fantasia e da ficção científica contemporânea. Miéville escreve fantasia, mas suas histórias passam longe de contos de fadas. Em Estação Perdido, primeiro livro de uma trilogia que lhe rendeu prêmios como o British Fantasy (2000) e o Arthur C. Clarke (2001), o leitor é levado para Nova Crobuzon, no planeta Bas-Lag, uma cidade imaginária cuja semelhança com o real provoca uma assustadora intuição: a de que a verdadeira distopia seja o mundo em que vivemos. Com pitadas de David Cronenberg e Charles Dickens, Bas-Lag é um mundo habitado por diferentes espécies racionais, dotadas de habilidades físicas e mágicas, mas ao mesmo tempo preso a uma estrutura hierárquica bastante rígida e onde os donos do poder têm a última palavra. Nesse ambiente, Estação Perdido conta a saga de Isaac Dan der Grimnebulin, excêntrico cientista que divide seu tempo entre uma pesquisa acadêmica pouco ortodoxa e a paixão interespécies por uma artista boêmia, a impetuosa Lin, com quem se relaciona em segredo. Sua rotina será afetada pela inesperada visita de um garuda chamado Yagharek, um ser meio humano e meio pássaro que lhe pede ajuda para voltar a voar após ter as asas cortadas em um julgamento que culminou em seu exílio. Instigado pelo desafio, Isaac se lança em experimentos energéticos que logo sairão do controle, colocando em perigo a vida de todos na tumultuada e corrupta Nova Crobuzon.
+
+Compre agora e leia
+
+
+Cabo de guerra
+
+Benedetti, Ivone
+
+9788575594919
+
+306 páginas
+
+Compre agora e leia
+
+Finalista do Prêmio São Paulo de Literatura de 2010, Ivone Benedetti lança pela Boitempo seu segundo romance, o arrebatador Cabo de guerra, que invoca fantasmas do passado militar brasileiro pela perspectiva incômoda de um homem sem convicções transformado em agente infiltrado. No final da década de 1960, um rapaz deixa o aconchego da casa materna na Bahia para tentar a sorte em São Paulo. Em meio à efervescência política da época, que não fazia parte de seus planos, ele flerta com a militância de esquerda, vai parar nos porões da ditadura e muda radicalmente de rumo, selando não apenas seu destino, mas o de muitos de seus ex-companheiros. Quarenta anos depois, ainda é difícil o balanço: como decidir entre dois lados, dois polos, duas pontas do cabo de guerra que lhe ofertaram? E, entre as visões fantasmagóricas que o assaltam desde criança e a realidade que ele acredita enxergar, esse protagonista com vocação para coadjuvante se entrega durante três dias a um estranho acerto de contas com a própria existência. Assistido por uma irmã devota e rodeado por uma série de personagens emersos de páginas infelizes, ele chafurda numa ferida eternamente aberta na história do país. Narradora talentosa, Ivone Benedetti tem pleno domínio da construção do romance. Num texto em que nenhum elemento aparece por acaso e no qual, a cada leitura, uma nova referência se revela, o leitor se vê completamente envolvido pela história de um protagonista desprovido de paixões, dono de uma biografia banal e indiferente à polarização política que tanto marcou a década de 1970 no Brasil. Essa figura anônima será, nessa ficção histórica, peça fundamental no desfecho de um trágico enredo. Neste Cabo de guerra, são inúmeras e incômodas as pontes lançadas entre passado e presente, entre realidade e invenção. Para mencionar apenas uma, a abordagem do ato de delação política não poderia ser mais instigante para a reflexão sobre o Brasil contemporâneo.
+
+Compre agora e leia
+
+
+Tempos difíceis
+
+Dickens, Charles
+
+9788575594209
+
+336 páginas
+
+Compre agora e leia
+
+Neste clássico da literatura, Charles Dickens trata da sociedade inglesa durante a Revolução Industrial usando como pano de fundo a fictícia e cinzenta cidade de Coketown e a história de seus habitantes. Em seu décimo romance, o autor faz uma crítica profunda às condições de vida dos trabalhadores ingleses em fins do século XIX, destacando a discrepância entre a pobreza extrema em que viviam e o conforto proporcionado aos mais ricos da Inglaterra vitoriana. Simultaneamente, lança seu olhar sagaz e bem humorado sobre como a dominação social é assegurada por meio da educação das crianças, com uma compreensão aguda de como se moldam espíritos desacostumados à contestação e prontos a obedecer à inescapável massificação de seu corpo e seu espírito. Acompanhando a trajetória de Thomas Gradgrind, "um homem de fatos e cálculos", e sua família, o livro satiriza os movimentos iluminista e positivista e triunfa ao descrever quase que de forma caricatural a sociedade industrial, transformando a própria estrutura do romance numa argumentação antiliberal. Por meio de diversas alegorias, como a escola da cidade, a fábrica e suas chaminés, a trupe circense do Sr. Sleary e a oposição entre a casa do burguês Josiah Bounderby e a de seu funcionário Stephen Blackpool, o resultado é uma crítica à mentalidade capitalista e à exploração da força de trabalho, imposições que Dickens alertava estarem destruindo a criatividade humana e a alegria.
+
+Compre agora e leia
+
+
+O homem que amava os cachorros
+
+Padura, Leonardo
+
+9788575593622
+
+592 páginas
+
+Compre agora e leia
+
+Esta premiadíssima e audaciosa obra do cubano Leonardo Padura, traduzida para vários países (como Espanha, Cuba, Argentina, Portugal, França, Inglaterra e Alemanha), é e não é uma ficção. A história é narrada, no ano de 2004, pelo personagem Iván, um aspirante a escritor que atua como veterinário em Havana e, a partir de um encontro enigmático com um homem que passeava com seus cães, retoma os últimos anos da vida do revolucionário russo Leon Trotski, seu assassinato e a história de seu algoz, o catalão Ramón Mercader, voluntário das Brigadas Internacionais da Guerra Civil Espanhola e encarregado de executá-lo. Esse ser obscuro, que Iván passa a denominar "o homem que amava os cachorros", confia a ele histórias sobre Mercader, um amigo bastante próximo, de quem conhece detalhes íntimos. Diante das descobertas, o narrador reconstrói a trajetória de Liev Davidovitch Bronstein, mais conhecido como Trotski, teórico russo e comandante do Exército Vermelho durante a Revolução de Outubro, exilado por Joseph Stalin após este assumir o controle do Partido Comunista e da URSS, e a de Ramón Mercader, o homem que empunhou a picareta que o matou, um personagem sem voz na história e que recebeu, como militante comunista, uma única tarefa: eliminar Trotski. São descritas sua adesão ao Partido Comunista espanhol, o treinamento em Moscou, a mudança de identidade e os artifícios para ser aceito na intimidade do líder soviético, numa série de revelações que preenchem uma história pouco conhecida e coberta, ao longo dos anos, por inúmeras mistificações.
+
+Compre agora e leia
+
+
+Pssica
+
+Proença, Edyr Augusto
+
+9788575594506
+
+96 páginas
+
+Compre agora e leia
+
+Após grande sucesso na França - onde teve três livros traduzidos -, o paraense Edyr Augusto lança um novo romance noir de tirar o fôlego. Em Pssica, que na gíria regional quer dizer "azar", "maldição", a narrativa se desdobra em torno do tráfico de mulheres. Uma adolescente é raptada no centro de Belém do Pará e vendida como escrava branca para casas de show e prostituição em Caiena. Um imigrante angolano vai parar em Curralinho, no Marajó, onde monta uma pequena mercearia, que é atacada por ratos d'água (ladrões que roubam mercadorias das embarcações, os piratas da Amazônia) e, em seguida, entra em uma busca frenética para vingar a esposa assassinada. Entre os assaltantes está um garoto que logo assumirá a chefia do grupo. Esses três personagens se encontram em Breves, outra cidade do Marajó, e depois voltam a estar próximos em Caiena, capital da Guiana Francesa, em uma vertiginosa jornada de sexo, roubo, garimpo, drogas e assassinatos.
+
+Compre agora e leia
+
+
+Table of Contents
+
+Capa
+
+Créditos
+
+Apresentação
+
+Construindo movimentos
+
+Sobre as autoras
+

@@ -1,0 +1,743 @@
+5
+A filosofia social de Adam Smith - António José Avelãs Nunes
+*
+RESUMO: A partir da teoria do valor-trabalho, Adam Smith constrói uma teoria da distribuição dos rendimentos que pressupõe uma certa estrutura de classes da sociedade e um
+estudo "instituído com vista à defesa dos ricos em prejuízo dos pobres". Defensor do liberalismo, entende, porém, que o contrato de trabalho não é um contrato como os outros,
+porque as duas partes não são, de modo algum, iguais: uma tende a trabalhar para viver; a outra pode viver sem trabalhar. Diante das desigualdades que reconhece, defende que
+o Estado não deve intervir, confiando na "mão invisível" do mercado e na virtude das leis naturais que regem a economia. Palavras-chave: Teoria do valor-trabalho. Estado mínimo.
+1 - O pensamento de Adam Smith no domínio da Economia estrutura-se, basicamente, a partir da crítica às teses fisiocráticas segundo as quais a produtividade natural da terra
+é um dom da natureza, dom que só pode ser aproveitado pelos que trabalham na agricultura, o que significa que só o trabalho agrícola se configura, por isso mesmo, como trabalho 
+produtivo (i.é, capaz de produzir um produto líquido). Era claramente diferente da realidade económica e social da França do tempo dos fisiocratas aquela que caracterizava 
+a Inglaterra do tempo de Adam Smith. E este conseguiu aperceber-se de algumas diferenças fundamentais: por um lado, no que toca à agricultura, deu-se conta de que os rendeiros 
+(capitalistas) arrecadavam um rendimento que não era um salário; por outro lado, conseguiu conseguiu compreender que este lucro capitalista não se confinava à agricultura: 
+o lucro surgia agora de forma clara na indústria, actividade em que o capital vinha encontrando o seu mais amplo campo de aplicação.
+*
+Professor Catedrático da Faculdade de Direito da Universidade de Coimbra e Vice-Reitor da Universidade de Coimbra
+5
+6
+O “poder produtivo do trabalho” (a produtividade) deixava de estar ligada às características estruturais da terra, deixava de ser exclusiva da agricultura. Por isso, a explicação 
+do excedente (i.é, do produto líquido, do qual sai não só a renda mas também o lucro, tanto o lucro agrícola como o lucro industrial) não pode continuar a assentar nas condições 
+específicas de que beneficia um determinado tipo de trabalho concreto (o trabalho agrícola). Adam Smith foi além das várias formas de trabalho concreto que se encontram na 
+vida real, e elaborou uma nova categoria, a de trabalho abstracto, a qual — como ele próprio reconhece —, “embora possa tornar-se suficientemente inteligível, não é de modo 
+algum tão natural e óbvia.” 1 Esta foi uma novidade teórica particularmente importante. Marx considera-a o “ponto de partida da economia moderna”:
+Um imenso progresso foi realizado quando Adam Smith rejeitou todas as formas particulares de actividade criadora de riqueza [...], para considerar apenas o trabalho sem mais, 
+isto é, todas as actividades sem qualquer distinção. A esta universalidade da actividade criadora de riqueza corresponde a universalidade do objecto, o produto sem mais, e 
+também o trabalho em geral, embora ele seja concebido sob a forma de trabalho passado e objectivado. 2
+À luz dos ensinamentos de Smith, generaliza-se o entendimento de que a produtividade depende não já das características de um determinado sector de actividade, mas das características 
+do trabalho abstracto — o trabalho em geral, o trabalho tout court (Marx) ou trabalho enquanto tal (Napoleoni) —, do dispêndio de energia física e psíquica exigido no processo 
+de produção (qualquer que seja o objecto sobre que este incide), daquilo que é comum a todas as formas de trabalho, independentemente da sua forma concreta ou do sector de 
+actividade produtiva em que se exerce. Dava-se deste modo um passo decisivo no sentido de conceber e explicar o excedente em termos de valor e não já em termos físicos (como 
+os fisiocratas), no sentido de equacionar a necessidade de uma teoria do valor e no sentido de configurar esta como uma teoria do valor-trabalho, ligando a teoria do valor 
+ao trabalho em geral, entendido como a origem e a medida do valor. Escreveu Napoleoni:
+Quando, em Smith, o produto líquido é identificado fora da agricultura a caracterização em termos de valor torna-se a única conceptualmente possível; consequentemente, é com 
+Smith que, pela primeira vez, o
+1 Cfr. Riqueza das Nações, I, 122.
+2 Cfr. K. MARX, Grundrisse, ed. cit., 65/66.
+6
+7
+problema capital da análise da economia capitalista consiste em saber o que é que determina o valor das mercadorias. 3
+2 - O desenvolvimento da divisão do trabalho trouxe consigo uma enorme proliferação de tipos muito diferentes de trabalho concreto, criando assim as condições históricas que 
+possibilitaram (e ‘exigiram’) a passagem à noção de trabalho abstracto, uma noção que ‘abstrai’ das particularidades de cada forma de trabalho concreto. Como Marx sublinhou, 
+trata-se de um tipo de economia “em que existe um conjunto muito diversificado de modos concretos de trabalho, e em que nenhum deles predomina sobre os outros”, “uma forma 
+de sociedade em que os indivíduos passam com facilidade de um trabalho para outro e consideram como fortuito – e portanto indiferente – o carácter específico do trabalho.” 
+Só nestas condições “o trabalho deixa de se conceber sob uma forma particular” e “não apenas no plano das categorias, mas no da própria realidade, o trabalho se torna o meio 
+de produzir a riqueza em geral”. 4 Pois bem. O Capítulo I do Livro I de Riqueza das Nações ocupa-se exactamente da divisão do trabalho. Segundo Smith, nela radica a explicação 
+de “grande parte da perícia, destreza e bom senso” e do “maior acréscimo dos poderes produtivos do trabalho”, o qual se verificaria, proporcionalmente à divisão do trabalho, 
+“em todas as artes, na medida em que é possível introduzila”. Da divisão do trabalho depende, pois, a produtividade do trabalho, i.é, a capacidade do trabalho para produzir 
+um excedente:
+O grande aumento da quantidade de trabalho que, em consequência da divisão do trabalho, o mesmo número de pessoas é capaz de executar deve-se a três circunstâncias: primeira, 
+o aumento de destreza de cada um dos trabalhadores; segunda, a possibilidade de poupar o tempo que habitualmente se perdia ao passar de uma tarefa a outra; e, finalmente, 
+a invenção de um grande número de máquinas que facilitam e reduzem o trabalho, e tornam um só homem capaz de realizar o trabalho de muitos. 5
+3 Cfr. C. NAPOLEONI, O valor..., cit., 24. Isto mesmo é posto em relevo por Carlos Laranjeiro:
+“ao detectar em outros ramos da actividade, para além da agricultura, a possibilidade de criação de um excedente, Smith passa da produção concreta à produção em geral. Com 
+isso a matriz do acto produtivo desloca-se do objecto (no caso a terra) para o agente transformador (o trabalho). Nesta medida, o conceito de trabalho abstractiza-se porque 
+se desliga de uma actividade concreta, o acto de trabalho é em si mesmo gerador de valor, independentemente do objecto sobre que incide.” (C. LARANJEIRO, 73).
+4 Cfr. K. MARX,Grundrisse, ed. cit., 66.
+5 Cfr. Riqueza das Nações, I, 83.
+7
+8
+O homem substituiu deus como gerador da riqueza: esta deixou de ter na sua origem uma dádiva do “Criador de todas as coisas” para ser um fruto do trabalho produtivo dos homens. 
+Adam Smith deixa muito claro o seu pensamento acerca da origem (da explicação) da divisão do trabalho:
+“A divisão do trabalho de que derivam tantas vantagens não procede originariamente da sabedoria humana, na sua tentativa de prever e procurar atingir a opulência geral que 
+ela ocasiona. É antes a consequência necessária, embora muito lenta e gradual, de uma certa propensão para cambiar, permutar ou trocar uma coisa por outra” (...), propensão 
+que “é comum a todos os homens e não se encontra em quaisquer outros animais, que parecem desconhecer esta e todas as outras espécies de contratos”, propensão que “é um daqueles 
+princípios originários da natureza humana”, e que é, como parece mais provável, “a consequência necessária das faculdades do raciocínio e da fala”. (...) “Tal como é por acordo, 
+por tratado, ou por compra que obtemos uns dos outros a maior parte do que necessitamos – conclui Smith –, é essa mesma disposição para a troca que originariamente leva à 
+divisão do trabalho”.
+É, pois, esta propensão para a troca, entendida como tendência inerente à natureza humana, anterior à própria circulação dos bens, que leva as sociedades humanas a organizar-se 
+de tal forma que as relações de produção, baseadas na especialização de cada trabalhador, permitem levar ao mais alto grau de realização aquela propensão para a troca.
+Uma vez que a divisão do trabalho se tenha estabelecido completamente, só uma parte muito pequena das necessidades de cada pessoa será suprida pelo produto do seu próprio 
+trabalho. De longe a maior parte dessas necessidades terá de ser satisfeita graças à troca da parte do produto do trabalho de cada um que excede o seu próprio consumo, por 
+aquelas parcelas do produto do trabalho dos outros homens de que ele necessita. Assim, todos os homens vivem da troca, tornando-se, até certo ponto, mercadores, e a própria 
+sociedade se vai transformando numa verdadeira sociedade mercantil.
+3 – A partir desta sociedade mercantil, na qual as trocas de bens desempenham uma função essencial e a moeda se apresenta como “instrumento universal do comércio, Adam Smith 
+propõe-se examinar “as regras que os homens naturalmente observam ao trocar esses bens, quer uns pelos outros, quer por dinheiro”. São estas regras que determinam o valor
+8
+9
+relativo ou valor de troca dos bens, noção que Smith distingue claramente da de valor de uso. Esta a distinção:
+Deve observar-se que a palavra VALOR tem dois significados diferentes; umas vezes exprime a utilidade de um determinado objecto; outras, o poder de compra de outros objectos 
+que a posse desse representa. O primeiro pode designar-se por ‘valor de uso’; o segundo por ‘valor de troca’. As coisas que têm o maior valor de uso, têm, em geral, pouco 
+ou nenhum valor de troca; e, pelo contrário, as que têm o maior valor de troca têm, geralmente, pouco ou nenhum valor de uso. Nada é mais útil do que a água: mas com ela praticamente 
+nada pode comprar-se; praticamente nada pode obter-se em troca dela. Pelo contrário, um diamante não tem praticamente qualquer valor de uso; no entanto, pode normalmente obter-se 
+grande quantidade de outros bens em troca dele. 6
+No Capítulo V Smith analisa, não o problema da causa, origem ou princípio do valor, mas o problema da medida (i.é, do padrão de medida) do valor dos bens, “a verdadeira medida 
+do valor de troca” ou “em que consiste o preço real de todos os bens”. Este problema adquiriu importância fundamental a partir do reconhecimento da existência do excedente 
+nas várias actividades económicas e não já apenas na agricultura, reconhecimento que tornou inadequado o critério fisiocrático de comparação directa entre as quantidades de 
+bens agrícolas existentes no início e no fim do processo produtivo. O trabalho, enquanto trabalho abstracto, está presente em todas as formas de actividade produtiva. Mas, 
+para cada homem (trabalhador) em concreto, o trabalho significa sempre o sacrifício de uma certa “parcela de bem-estar, liberdade e felicidade.” Se cada homem consumisse (utilizasse) 
+apenas os bens por si próprio produzidos, o valor dos bens utilizados corresponderia ao “esforço do nosso próprio corpo” para os produzir: “o verdadeiro preço de todas as 
+coisas ? escreve Smith 7 ?, aquilo que elas, na realidade, custam ao homem que deseja adquiri-las, é o esforço e a fadiga que é necessário dispender para as obter.” Se se 
+admitir uma sociedade de produtores que trocam (vendem) uma parte dos bens que produzem para obterem por troca (compra) bens produzidos por outros, então, segundo Adam Smith,
+aquilo que elas, na realidade, custam ao homem que deseja adquirilas é o esforço e a fadiga em que é necessário incorrer para as obter. Aquilo que uma coisa realmente vale 
+para o homem que a adquiriu e
+6 Cfr. Riqueza das Nações, I, 117.
+7 Cfr. Riqueza das Nações, I, 119ss.
+9
+10
+que deseja desfazer-se dela ou trocá-la por outra coisa é o esforço e a fadiga que ela lhe pode poupar, impondo-os a outras pessoas. Aquilo que compramos, com dinheiro ou 
+em troca de outros bens, é adquirido pelo trabalho, exactamente como aquilo que obtemos à custa do esforço do nosso próprio corpo. Aquele dinheiro ou aqueles outros bens poupam-nos, 
+na verdade, esse esforço. Contém o valor de uma certa quantidade de trabalho, que nós trocamos por algo que, no momento, se supõe conter o valor de idêntica quantidade.
+A relação de troca é aqui concebida como troca de equivalentes, como troca de idênticas quantidades de trabalho. Nestes termos, Adam Smith pode concluir que
+“o trabalho foi o primeiro preço, a moeda original, com que se pagaram todas as coisas. Não foi com ouro ou com prata, mas com trabalho, que toda a riqueza do mundo foi originariamente 
+adquirida; e o seu valor, para aqueles que a possuem e desejam trocá-la por novos produtos, é exactamente igual à quantidade de trabalho que ela lhes permitir comprar ou dominar.”
+Nas sociedades assentes na divisão do trabalho e na produção com vista à troca (ao mercado), a riqueza de cada indivíduo — i. é, o conjunto dos valores de uso que em cada 
+período são colocados à sua disposição — depende, fundamentalmente, do trabalho realizado pelos outros (do trabalho contido nas mercadorias produzidas pelos outros indivíduos). 
+O acesso de cada um à riqueza produzida pelos outros depende do valor de troca das mercadorias por ele próprio produzidas e que está disposto a trocar por aquelas que não 
+produz. O valor de troca consiste, neste sentido, na capacidade de adquirir riqueza (= valor de uso). E o valor de troca de uma mercadoria mede-se pela quantidade de trabalho 
+(incluída nas mercadorias produzidas por outrem) que essa mercadoria permite adquirir a quem a possui e não tenciona usá-la para consumo próprio. É a teoria do valor de troca 
+entendido como labour commanded, expressa deste modo logo no parágrafo inicial do Capítulo V de Riqueza das Nações:
+Cada homem é rico ou pobre consoante o grau em que lhe é dado fruir dos bens necessários à vida e ao conforto e das diversões próprias dos seres humanos. Mas, após a divisão 
+do trabalho se ter estabelecido completamente, o trabalho de cada homem só poderá provê-lo de uma pequeníssima parte desses bens. A grande maioria deles terá de ser suprida 
+pelo trabalho de outros homens e, assim, ele será rico ou pobre consoante a quantidade desse trabalho sobre que ele pode adquirir domínio, ou que lhe é possível comprar. Portanto, 
+o valor de qualquer mercadoria para a pessoa que a possui e não tenciona usá-la ou consumi-la, mas sim trocá-la por outras mercadorias, é igual à
+10
+11
+quantidade de trabalho que ela lhe permite comprar ou dominar. O trabalho constitui, pois, a verdadeira medida do valor de troca de todos os bens [Sublinhado nosso]
+E mais à frente, comentando a afirmação de Hobbes de que riqueza é poder, Adam Smith esclarece que este poder é poder de compra (“um certo domínio sobre todo o trabalho, ou 
+sobre todo o produto do trabalho que, nesse momento, se encontra no mercado”):
+A fortuna é maior ou menor precisamente na razão directa da dimensão desse poder; ou da quantidade de trabalho de outros homens, ou, o que é o mesmo, do produto do trabalho 
+de outros homens que ela lhe permite comprar ou dominar. O valor de troca de qualquer coisa é sempre precisamente igual à dimensão desse poder que ela confere ao seu possuidor. 
+8
+Em síntese: nas sociedades baseadas na troca, o valor de qualquer mercadoria mede-se pela “quantidade de trabalho que ela permite comprar ou dominar”. O trabalho (the labour 
+commanded) constitui a única, “a verdadeira medida do valor de troca de todos os bens.” Embora reconheça que o trabalho é “a verdadeira medida do valor de troca de todos os 
+bens”, Smith chama a atenção para o facto de que
+é muitas vezes difícil determinar a relação que existe entre duas quantidades de trabalho diferentes. O tempo gasto em dois tipos de trabalho diferentes não basta, por si 
+só, em todos os casos, para definir essa relação. Os diversos graus de dificuldade que as tarefas implicam e os vários graus de perícia nelas aplicados têm igualmente de ser 
+tomados em conta. Pode haver mais trabalho numa hora de duro esforço, que em duas horas de actividade descuidada; ou numa hora de aplicação a uma arte que custou dez anos 
+de trabalho a aprender, que num mês de actividade aplicada a uma tarefa vulgar e óbvia. Mas não é difícil achar uma medida exacta, quer para a dificuldade, quer para a perícia. 
+É certo que, ao trocarem-se uns pelos outros os produtos de diferentes espécies de trabalho, elas são habitualmente, e em certa medida, tomadas em conta. Isso consegue-se, 
+todavia, não pela utilização de uma medida exacta, mas através dos processos de ajuste do mercado, de acordo com aquela espécie de igualdade, que, embora não seja exacta, 
+é suficiente para permitir levar a cabo as actividades da vida corrente.
+E observa também que “não é em termos de trabalho que esse valor é normalmente calculado”:
+8 Cfr. Riqueza das Nações, I, 121.
+11
+12
+“É mais frequente que cada mercadoria seja trocada por outras mercadorias do que por trabalho; sendo, por consequência, comparada com aquelas. É, pois, mais natural calcular 
+o seu valor de troca em termos da quantidade de alguma outra mercadoria, do que em termos do trabalho que com ela se pode adquirir. Além disso, a maior parte das pessoas compreende 
+melhor o que se entende por uma certa quantidade de um determinado bem, que por uma quantidade de trabalho. O primeiro é um vulgar objecto palpável; o segundo, uma noção abstracta 
+que, embora possa tornar-se suficientemente inteligível, não é de modo algum tão natural e óbvia.” (...) Quando cessa a troca directa e a moeda se torna no instrumento generalizado 
+do comércio – continua Smith –, cada mercadoria passa a ser mais frequentemente trocada por moeda do que por qualquer outra mercadoria. (...) Daí que o valor de troca de cada 
+mercadoria seja mais frequentemente calculado em termos da quantidade de moeda por que é possível trocá-la, do que em termos de trabalho ou de qualquer outro bem”. Mas é o 
+próprio Adam Smith que logo adverte que
+o ouro e a prata, como todos os outros bens, têm valor variável, sendo umas vezes mais baratos, outras vezes mais caros, umas vezes mais fáceis de adquirir, outras mais difíceis. 
+A quantidade de trabalho que uma certa quantidade desses metais permite adquirir ou dominar, ou a quantidade de outros bens por que é possível trocá-los, depende, em qualquer 
+momento, da abundância ou escassez das minas conhecidas por essa altura.
+Daí a sua conclusão no sentido de rejeitar a moeda como medida do valor dos outros bens e de defender que o trabalho “é a única medida universal e também a única medida justa 
+do valor”, ou seja, “o único padrão em relação ao qual se podem referir os valores de todos os bens, em todos os tempos e lugares”:
+Tal como uma medida de quantidade cujo valor se altera constantemente, como acontece com o pé, a braça ou a mão-cheia propriamente ditos, nunca pode constituir uma boa medida 
+das outras coisas, também um bem cujo valor constantemente varia nunca pode proporcionar uma medida precisa do valor dos outros bens. (...) Em todos os tempos e lugares é 
+caro aquilo que é difícil de conseguir, aquilo cuja aquisição exige muito trabalho; e é barato aquilo que se obtém facilmente ou com muito pouco trabalho. Portanto, só o trabalho, 
+cujo valor nunca varia, é o genuíno e verdadeiro padrão em termos do qual o valor de todos os outros bens pode, em qualquer momento e lugar, ser
+12
+13
+estimado e comparado. É esse o seu preço real, a moeda é somente o preço nominal. 9
+4 - No Capítulo VI do Livro I de Riqueza das Nações estuda Adam Smith a questão de saber qual é a origem do valor. Smith começa por conceber uma situação hipotética em que 
+as relações entre os homens decorreriam em conformidade com o direito natural. Designa esta situação como “o rude estado da sociedade, que precede tanto a acumulação do capital 
+como a apropriação da terra”. Nesta situação a “relação entre a quantidade de trabalho necessário para se obterem diferentes objectos parece ser o único elemento com base 
+no qual se determina a razão de troca.” E Adam Smith exemplifica:
+Se, por exemplo, num país de caçadores, custa habitualmente o dobro do trabalho matar um castor que matar um veado, um castor valerá ou trocar-se-á naturalmente por dois veados. 
+É natural que aquilo que constitui normalmente o produto de dois dias ou de duas horas de trabalho valha o dobro do que é habitualmente produzido num dia ou numa hora de trabalho. 
+10
+Surge aqui um novo conceito, o de trabalho necessário, i. é, a quantidade de trabalho necessária para se produzir uma mercadoria. E, neste rude estado da sociedade, o tempo 
+de trabalho necessário para se produzir qualquer bem é apresentado como o único elemento determinante do valor desse bem:
+num tal estado de coisas — explica Smith —, a totalidade do produto pertence ao trabalhador; e a quantidade de trabalho habitualmente empregada na obtenção ou produção de 
+qualquer bem é o único factor que pode determinar a quantidade de trabalho por que ele poderia normalmente trocar-se, que poderia, por seu intermédio, ser adquirida ou dominada. 
+11
+9 Cfr. Riqueza das Nações, I, 120-124.
+10 Cfr. Riqueza das Nações, I, 147.
+11 Mas Adam Smith chama a atenção para a necessidade de ter em conta determinados
+aspectos: “Se um tipo de trabalho for mais árduo do que outro, terá, naturalmente, de tomar-se em conta essa maior dificuldade; e o produto de uma hora de trabalho desse tipo, 
+pode, muitas vezes, trocar-se pelo de duas horas de trabalho doutro género. Ou, se uma espécie de trabalho exigir um grau excepcional de destreza e engenho, o apreço em que 
+os homens têm esses talentos levará naturalmente a atribuir ao seu produto um valor superior ao que lhe adviria somente do tempo de trabalho nele gasto. Tais talentos só conseguem 
+normalmente adquirir-se à custa de longa aplicação, e o maior valor atribuído aos seus produtos não será normalmente mais que uma compensação razoável pelo tempo e trabalho 
+gastos em adquiri-los. No estádio avançado da sociedade, a maior dificuldade e a
+13
+14
+Na situação hipotética que vimos referindo, o trabalho necessário (o trabalho incorporado ou trabalho contido, como por vezes se diz também), indica qual é a quantidade de 
+trabalho que essa mercadoria can command. Por outras palavras: o labour commanded é o padrão de medida do valor de troca de qualquer mercadoria; mas é o trabalho necessário 
+que regula a quantidade concreta de trabalho que uma qualquer mercadoria permite adquirir. 12 Este mesmo problema é depois analisado por Adam Smith tendo em vista a sociedade 
+capitalista, caracterizada pela “acumulação do capital” e pela “apropriação da terra” e, consequentemente, por uma estrutura social assente, basicamente, em duas classes sociais: 
+uma classe de indivíduos que dispõem de riqueza acumulada nas suas mãos e uma classe de indivíduos industriosos que nada mais têm de seu além da “sua força e habilidade de 
+mãos”. 13 Nesta nova sociedade capitalista, as classes sociais são claramente definidas por Adam Smith com base na posição de cada uma delas relativamente à actividade produtiva. 
+O próprio Smith observa que, por vezes, acontece que um ou outro trabalhador “possui o capital suficiente, tanto para comprar as matérias-primas necessárias ao seu trabalho, 
+como para se manter até ele se achar terminado” e para “poder levar o produto do seu trabalho até ao mercado.” Nestas condições, este produtor independente “é simultaneamente 
+patrão e operário e usufrui da totalidade do produto do seu trabalho, ou da totalidade do valor que ele acrescenta às matérias-primas sobre as quais se aplica”. Smith sublinha, 
+porém, que estes trabalhadores independentes são meramente residuais nas economias e nas sociedades emergentes das revoluções burguesas, nas quais “o trabalhador é uma pessoa 
+e o proprietário do capital, que o emprega, é outra”. Nesta equação teórica, Smith parece antecipar Marx, reduzindo a estrutura essencial das sociedades capitalistas a estas 
+duas classes sociais: os trabalhadores (desprovidos da propriedade do capital, que têm apenas de seu “a sua força e habilidade de mãos”) e os proprietários do capital (que, 
+por disporem de capital acumulado, estão em condições de contratar indivíduos industriosos e de se apropriarem de uma parte
+maior perícia são normalmente tomadas em conta nos salários do trabalho, e, provavelmente, na sua fase mais rude e primitiva fazia-se algo de semelhante” (Riqueza das Nações, 
+I, 147/148).
+12 Cfr. C. NAPOLEONI, Fisiocracia ..., cit., 46/47 e C. LARANJEIRO, 78-80.
+13 Cfr. Riqueza das Nações, I, 269: “todo o património de um homem pobre consiste na sua força e
+habilidade de mãos”.
+14
+15
+do valor que estes trabalhadores produtivos acrescentam ao valor das matériasprimas). 14
+Pois bem. Numa sociedade assim concebida — em que os trabalhadores estão separados das condições objectivas da produção — o trabalho apresentase, para o filósofo escocês, 
+como uma mercadoria que se troca directamente por outra mercadoria:
+Neste estado de coisas, o produto total do trabalho deixa de pertencer sempre aos trabalhadores.(...) E deixa também de ser a quantidade de trabalho habitualmente empregada 
+na obtenção ou na produção de um bem o único factor que pode determinar a quantidade por que ele poderia, normalmente, trocar-se, que poderia, por seu intermédio, ser adquirida 
+ou dominada. 15
+A quantidade de trabalho que se pode obter por troca com uma determinada mercadoria (labour commanded) continua a ser o padrão de medida do valor de troca dessa mercadoria. 
+Mas o trabalho necessário (o tempo de trabalho normalmente dispendido para produzir ou obter essa mercadoria) deixa de ser “o único factor que pode determinar a quantidade 
+por que ele poderia, normalmente, trocar-se.” Adam Smith exprime esta ideia nos seguintes termos:
+Logo que começa a existir riqueza acumulada nas mãos de determinadas pessoas, algumas delas utilizá-la-ão naturalmente para assalariar indivíduos industriosos a quem fornecerão 
+matérias-primas e a subsistência, a fim de obterem um lucro com a venda do seu trabalho, ou com aquilo que esse trabalho acrescenta ao valor das matérias-primas. Ao trocar-se 
+o produto acabado por dinheiro, por trabalho ou por outros bens, numa quantidade superior à que seria necessária para pagar o preço das matérias-primas e os salários dos trabalhadores, 
+parte dela tem de constituir os lucros do empresário do trabalho, que arrisca o seu capital nesta aventura. O valor que os trabalhadores acrescentam às matérias-primas consistirá, 
+portanto, neste caso, em duas partes, uma das quais constituída pelos respectivos salários, a outra pelos lucros do patrão, relativos ao volume de matérias-primas e salários 
+por ele adiantados. Ele não teria qualquer interesse em empregá-los se não esperasse obter, com a venda do seu trabalho, um pouco mais do que o necessário para reconstituir 
+a sua riqueza inicial; e não teria qualquer interesse em empregar um maior número de bens, de preferência a um volume
+14 Cfr. Riqueza das Nações, I, 157 e 176.
+15 Cfr. Riqueza das Nações, I, 150.
+15
+16
+menor, se os lucros que aufere não fossem proporcionais ao volume do capital empregado. [Sublinhado nosso] 16
+Quer dizer: “Neste estado de coisas, o produto total do trabalho deixa de pertencer sempre ao trabalhador. Na maioria dos casos, ele é obrigado a partilhá-lo com o proprietário 
+do capital, que o emprega.”
+Mas o raciocínio de Smith não acaba aqui. Escreve ele:
+Logo que toda a terra de um país se torna propriedade privada, os seus proprietários, que, como todos os homens, gostam de colher o que nunca semearam, exigem uma renda, mesmo 
+pelas suas produções naturais. A madeira da floresta, a erva do prado, e todos os frutos naturais da terra que, quando era comum, custavam ao trabalhador somente o incómodo 
+de os colher, passam, mesmo para ele, a ter um preço adicional. Passa a ter de pagar a autorização de colhê-los; e terá de entregar ao proprietário uma parte daquilo que o 
+seu trabalho colheu ou produziu. Esta parte, ou, o que é o mesmo, o valor desta parte é a renda da terra, que constitui uma terceira componente do preço da maior parte dos 
+bens.
+“Em todas as sociedades – conclui Smith –, o preço de cada bem corresponde sempre a alguma dessas partes, ou a todas três; e, em todas as sociedades avançadas, todas três 
+entram, em maior ou menor grau, como partes componentes do preço da grande maioria dos bens”. [Sublinhado nosso] 17 Nas condições do capitalismo, a configuração do trabalho 
+como mercadoria significa, para Adam Smith, que nem todo o produto do trabalho pertence ao trabalhador: o valor criado pelo trabalho (acrescentado pelo trabalho às matérias-primas) 
+tem que pagar não só o salário mas também a renda e o lucro. Sendo assim (i. é, não sendo o preço natural das mercadorias igual ao montante dos salários pagos para as obter), 
+o facto de uma mercadoria ser paga pelo dobro de outra não significa que a primeira tenha exigido o dobro do tempo de trabalho dispendido para a obter, em comparação com o 
+trabalho necessário para obter a segunda. O trabalho necessário corresponde apenas à parte do salário, o que significa que o labour commanded é superior ao trabalho necessário. 
+Este já não pode regular a quantidade concreta de trabalho que uma qualquer mercadoria permite adquirir. Até aqui, a análise de Smith acerca das partes que compõem o preço 
+dos bens pressupõe a aceitação do princípio segundo o qual o trabalho é a única origem do valor. É isto mesmo que Smith afirma quando defende que o lucro e a
+16 Cfr. Riqueza das Nações, I, 148/149.
+17 Cfr. Riqueza das Nações, I, 151.
+16
+17
+renda são, a par dos salários, parte do “valor que os trabalhadores acrescentam às matérias-primas”. Todo o valor é criado pelo trabalho vivo, deduzindo-se a esse valor o 
+montante do lucro e da renda, que não vão pertencer aos trabalhadores. É isto mesmo que Smith torna claro quando defende (Capítulo VIII de Riqueza das Nações) a concepção 
+da renda e do lucro como deduções ao produto do trabalho:
+Assim que a terra se torna propriedade privada o proprietário passa a exigir uma parte de quase todos os produtos que o trabalhador nela pode criar ou colher. A renda torna-se 
+na primeira dedução ao produto do trabalho que se emprega na terra. É raro acontecer que a pessoa que cultiva a terra tenha com que manterse até fazer as colheitas. É geralmente 
+um patrão, o rendeiro que o emprega, que, do seu capital, lhe adianta o sustento, e que não teria qualquer interesse em empregá-lo se lhe não coubesse uma parcela do produto 
+do trabalho, ou seja, se o respectivo capital lhe não fosse restituído com um lucro. Este lucro corresponde a uma segunda dedução ao produto do trabalho empregado na terra. 
+O produto de quase todo o restante trabalho está sujeito a uma dedução semelhante, devida ao lucro. Em todas as artes e ofícios, a maior parte dos trabalhadores necessita 
+que um patrão lhe adiante as matériasprimas para o seu trabalho, bem como os respectivos salários e manutenção até que ele se ache terminado. O patrão comparticipa do produto 
+do trabalho, ou do valor que ele acrescenta às matérias-primas sobre as quais se aplica; e nessa comparticipação consiste o lucro. [Sublinhado nosso] 18
+Neste sentido, o trabalho necessário para produzir uma mercadoria cria um valor que é superior ao montante dos salários pagos aos trabalhadores. Esta diferença é o excedente, 
+que vai ser distribuído em rendas e lucros. Alguns autores, incluindo o próprio Marx, têm visto nesta tese de Smith o embrião do conceito marxista de mais-valia e da teoria 
+marxista da exploração. 19 A concepção que fica exposta (fala-se, por vezes, a este propósito, de teoria dedutiva) desenvolve o conceito fisiocrático de excedente e está na 
+base de uma teoria da distribuição do rendimento que tem como pano de fundo o conflito social entre os grupos (classes) que vão receber salários, lucros e rendas, cada um 
+deles buscando o maior quinhão do valor criado pelo trabalho produtivo. Foi este entendimento que depois foi continuado na obra de Ricardo e de Marx e dos autores que se revêem 
+na perspectiva clássica-marxista da Economia Política.
+18 Cfr. Riqueza das Nações, I, 175.
+19 Cfr. M. DOBB, 64; C. NAPOLEONI, Fisiocracia..., cit., 48 e C. LARANJEIRO, 82. Ver, no
+entanto, as reflexões de C. NAPOLEONI, Discorso..., cit., 37/38.
+17
+18
+Cremos que esta perspectiva é a que tem maior peso na obra de Smith e é a mais lógica no contexto da Riqueza das Nações, em consonância com o princípio de que o trabalho é 
+a fonte originária de todo o valor, de que só o trabalho produtivo cria um excedente (o ‘bolo’ que vai ser distribuído pelas classes sociais em presença); em consonância com 
+a tese segundo a qual o que conta, como causa do valor, é o trabalho abstracto e não qualquer tipo de trabalho concreto, cujas características dependeriam do objecto sobre 
+que ele incide; em consonância com o ponto de vista segundo o qual a produtividade do trabalho depende da divisão do trabalho e não de um qualquer dom da natureza; em consonância 
+com a afirmação de que a renda e o lucro são deduções ao produto do trabalho, são uma parte, que não cabe aos trabalhadores, do “valor que os trabalhadores acrescentam às 
+matérias-primas”. 20
+5 - A ideia de que o trabalho é a origem de todo o valor está presente também na noção smithiana de trabalho produtivo, à qual contrapõe a de trabalho improdutivo. 21
+20 Tem sido, no entanto, abundantemente discutida a ambiguidade de Adam Smith no que se
+refere ao enunciado da teoria do valor (C.NAPOLEONI, Discorso, cit., 38, fala de “ambiguidade radical”), que se projectou até hoje na teoria económica. Pode descortinar-se 
+na obra de Smith outra perspectiva, que parece apontar no sentido de que o valor de troca se encontra através da soma de salários, rendas e lucros, determinando-se cada um 
+destes tipos de rendimento independentemente dos outros. Nesta óptica, abandona-se a noção de excedente e reduz-se o valor à soma dos custos de produção ou dos preços dos 
+‘factores de produção’ (a natureza, o trabalho e o capital), preços que dependem das condições dos mercados do trabalho, da terra e do capital, sem relação com um qualquer 
+valor global criado previamente pelo trabalho vivo produtivo. A esfera das relações de troca surge como uma espécie de ‘sistema autónomo’, isolado dos aspectos institucionais 
+(o estatuto jurídico da propriedade, v.g.), das condições da produção e das relações sociais que a envolvem (cfr. M. DOBB, 148/149). Na sequência de Sraffa, fala-se de teoria 
+aditiva (“adding-up-components cost theory”) para referenciar esta concepção de Adam Smith (continuada depois por Nassau Senior, J. Stuart Mill, W. Stanley Yevons, J.-B. Say, 
+Alfred Marshall e toda a teoria neo-clássica), que Schumpeter identifica com o que mais tarde se chamou teoria do custo de produção (cfr. J. SCHUMPETER, 359).
+21 Trabalho improdutivo é o que “não produz qualquer valor, não de fixando nem corporizando
+em qualquer objecto durável ou mercadoria vendável que continue a existir uma vez terminado o trabalho e que permita adquirir, mais tarde, igual quantidade de trabalho” (Riqueza 
+das Nações, I, 582). Um operário é tipicamente um trabalhador produtivo, do mesmo modo que um criado é um típico trabalhador improdutivo. Tal como é improdutivo — salienta 
+Smith — “o trabalho de muitas das mais respeitáveis classes sociais”: “O trabalho dos últimos [dos criados] tem, contudo, o seu valor e merece uma recompensa tal como o primeiro. 
+Mas o trabalho do operário fixa-se e corporiza-se em qualquer objecto particular ou mercadoria vendável, que dura, pelo
+18
+19
+Na Introdução de Riqueza das Nações Smith refere-se ao trabalho produtivo como sinónimo de trabalho útil (fala mesmo de “trabalhadores úteis e produtivos”), parecendo que 
+considera o trabalho improdutivo como trabalho inútil. Mais à frente, no entanto, considera que os serviços prestados pelos trabalhadores improdutivos podem ser úteis e até 
+necessários. Mas é no Capítulo III do Livro II que Adam Smith define trabalho produtivo como aquele “que eleva o valor do objecto a que é aplicado”, que “origina valor”, que 
+acrescenta “ao valor das matérias-primas a que se aplica o valor da sua própria manutenção e o lucro do patrão.” O trabalho produtivo “fixa-se e corporiza-se em qualquer objecto 
+particular ou mercadoria vendável que dura, pelo menos, durante algum tempo após a conclusão do trabalho”, “como se se armazenasse uma certa quantidade de trabalho para ser 
+utilizada, se necessário, em qualquer outra ocasião”. 22 Da noção de trabalho produtivo ficam, assim, excluídos os serviços, que, no tempo em que Smith escreveu consistiam, 
+fundamentalmente, em serviços pessoais (serviços domésticos), que eram, em regra, consumos de luxo. A ideia que emerge com mais força da elaboração de Adam Smith parece ser 
+a que idenfica o trabalho produtivo com o trabalho que origina valor, ideia que
+menos, durante algum tempo após a conclusão do trabalho. É como se se armazenasse uma certa quantidade de trabalho para ser utilizada, se necessário, em qualquer outra ocasião. 
+Esse objecto ou, o que é o mesmo, o preço respectivo, pode mais tarde, se necessário, pôr em movimento uma quantidade de trabalho igual à que lhe deu origem. O trabalho de 
+um criado, pelo contrário, não se fixa nem se corporiza em qualquer objecto particular ou numa mercadoria vendável. Os seus serviços deixam, em geral, de existir no próprio 
+instante em que são prestados e raramente deixam atrás de si qualquer resíduo ou valor com o qual se torne possível obter, mais tarde, igual quantidade desse serviço” (Riqueza 
+das Nações, I, 582). Por isso Adam Smith defende que “um homem enriquece empregando grande número de operários e empobrece se mantiver uma multidão de criados”. Exactamente 
+porque “o trabalho de um criado nada acrescenta a qualquer valor”, o que significa que “a manutenção de um criado nunca é recuperada”. Pelo contrário: “embora o patrão adiante 
+ao operário os seus salários, ele, na realidade, não implica qualquer dispêndio para o patrão, uma vez que o valor desses salários lhe é, em regra, restituído, com um lucro, 
+por meio do valor acrescido do objecto sobre o qual o operário trabalhou. (...) O trabalho de um operário acrescenta geralmente, ao valor das matérias-primas a que se aplica, 
+o valor da sua própria manutenção e o lucro do patrão” (Riqueza das Nações, I, 581). Em consonância com esta concepção, Smith sustenta que os trabalhadores improdutivos são 
+consumidores puros (tal como os proprietários de terras), uma vez que se mantêm consumindo “uma parte do produto anual da actividade dos outros indivíduos”. Dentro desta mesma 
+lógica, advoga a ideia segundo a qual os salários dos trabalhadores produtivos desempenham uma função de capital, enquanto que a parte da riqueza utilizada na manutenção de 
+trabalhadores improdutivos é retirada do capital, passando a fazer parte da riqueza destinada a consumo imediato.
+22 Cfr. Riqueza das Nações, I, 581ss.
+19
+20
+se casa perfeitamente com aquela outra segundo a qual o trabalho (o trabalho abstracto) é a única fonte de valor. O trabalho produtivo é o que cria riqueza, à qual vão ser 
+deduzidos os montantes arrecadados pelos capitalistas e pelos proprietários de terras. O lucro e a renda não se justificam, portanto, enquanto rendimentos criados pelo capital 
+e pela terra, nem representam qualquer remuneração devida a estes “factores de produção” (como defenderá Say). Os capitalistas (os patrões ou empresários), uma vez pagos os 
+salários aos trabalhadores produtivos, apropriam-se do excedente que estes criaram para além do correspondente ao salário: se os patrões ou empresários (capitalistas) forem 
+rendeiros agrícolas, então terão de entregar aos proprietários fundiários, a título de renda da terra, uma parte do excedente que em primeira mão chamaram a si. Esta noção 
+é aquela que Marx chamou “a definição correcta”: o valor criado pelo trabalho produtivo e incorporado nos bens produzidos paga o trabalho necessário para produzir estes bens 
+(salário) e deixa ainda um excedente (renda e lucro). Neste sentido, pode dizer-se que o trabalho produtivo é o que produz um excedente: “o valor criado pelos trabalhadores 
+produtivos – escreve Smith – inclui o valor da sua própria manutenção e o lucro do patrão”. Este parece ser também o entendimento de Claudio Napoleoni quando define a noção 
+smithiana de trabalho produtivo como
+aquele trabalho que não só reproduz o valor dos próprios meios de subsistência, mas reproduz também um valor adicional (que é apropriado como renda ou como lucro); podemos 
+agora precisar – acentua Napoleoni – dizendo que é produtivo aquele trabalho que dá lugar a um produto pelo qual o labour commanded é maior que o trabalho incorporado. 23
+É certo que do texto de Adam Smith emerge uma outra leitura possível da noção de trabalho produtivo, que a liga ao facto de se fixar ou incorporar em uma mercadoria vendável, 
+por contraposição ao trabalho improdutivo, entendido como trabalho que não se fixa nem se incorpora em uma mercadoria vendável, i. é, como serviço que deixa de existir no 
+próprio momento em que é prestado, sem que fique atrás de si qualquer resíduo ou valor que, mais tarde, permita obter igual quantidade desse serviço. Esta já seria uma leitura 
+dificilmente compatível com a lógica marxista, segundo a qual o que é relevante é a natureza das relações sociais de produção, o que significa que a força de trabalho de um 
+trabalhador assalariado que presta
+23 Cfr. C. NAPOLEONI, Fisiocracia..., cit., 49.
+20
+21
+serviços ao seu patrão também pode gerar mais-valia. Cremos, porém, com Maurice Dobb, que é razoável supor que Adam Smith não encontrou contradição entre as duas definições 
+porque não considerava possível lucro ou mais-valia a não ser quando o trabalho em questão produzisse um bem vendável. Sem dúvida que as duas noções coincidem em grande parte. 
+24
+6 - O que fica dito permite atribuir a Smith a compreensão (que Marx desenvolveria e esclareceria) de que a dinâmica do processo de produção capitalista assenta na obtenção 
+de lucros. Como salienta Ronald Meek, “em Riqueza das Nações a tendência para maximizar o lucro e para acumular capital apresenta-se como o requisito essencial e a causa básica 
+do crescimento da riqueza”. 25 Nas economias pré-capitalistas, a produção destinava-se à satisfação de necessidades: ou pelo consumo dos próprios bens que cada um produz, 
+ou por troca de uma parte destes bens por outros que esse indivíduo não produz, mas de que igualmente carece. A troca (directa ou monetária, servindo a moeda como simples 
+intermediário nas trocas) visa apenas proporcionar a cada interveniente uma satisfação mais adequada das necessidades, mediante a obtenção de um valor de uso maior do que 
+aquele que se dá. Na economia capitalista, o processo assenta na iniciativa dos capitalistas: quem dispõe de dinheiro acumulado, vai utilizá-lo na compra de força de trabalho 
+e de meios de produção, com vista à produção de mercadorias que destina à venda no mercado, para obter mais dinheiro do que aquele que utilizara:
+Logo que começa a existir riqueza acumulada nas mãos de determinadas pessoas – escreve Smith – algumas delas utilizá-la-ão naturalmente para assalariar indivíduos industriosos 
+a quem fornecerão matérias-primas e a subsistência, a fim de obterem um lucro com a venda do seu trabalho, ou com aquilo que esse trabalho acrescenta ao valor das matérias-primas. 
+Ao trocar-se o produto acabado por dinheiro, por trabalho ou por outros bens, numa quantidade superior à que seria necessária para pagar o preço das matérias-primas e os salários 
+dos trabalhadores, parte dela tem de constituir os lucros do empresário do trabalho, que arrisca o seu capital nesta aventura. O valor que os trabalhadores acrescentam às 
+matérias-primas consistirá, portanto, neste caso, em duas partes, uma das quais constituída pelos respectivos salários, a outra pelos lucros do patrão, relativos ao volume 
+das matériasprimas e salários por ele adiantados [sublinhados nossos]. 26
+24 Cfr. M. DOBB, 81-83.
+25 Cfr. R. MEEK, Economia..., cit., 35.
+26 Cfr. Riqueza das Nações, I, 148/149.
+21
+22
+Nas economias capitalistas – como bem observa Adam Smith -, seja qual for a parte da sua riqueza que um homem empregue como capital, espera que ela lhe seja sempre restituída 
+com um lucro”; aquele que dispõe de riqueza acumulada “só aplica capital numa indústria com vista ao lucro”, o que significa que o titular do capital “não teria qualquer interesse 
+em empregar indivíduos industriosos se não esperasse obter, com a venda do seu trabalho, um pouco mais do que o necessário para reconstituir a sua riqueza inicial; e não teria 
+qualquer interesse em empregar um maior número de bens, de preferência a um volume menor, se os lucros que aufere não fossem proporcionais ao volume do capital empregado 27
+A esta luz, fica claro que o objectivo da produção deixa de ser a obtenção, por troca com os bens produzidos, de outros bens diferentes com valor de uso diferente, mas sim 
+a expansão quantitativa do valor de troca. A obtenção de mais dinheiro (Marx falará de Mehrwert: mais valor ou mais-valia), é, pois, o objectivo directo e o incentivo determinante 
+da produção nos quadros do capitalismo. Na construção smithiana, a acumulação do capital surge como a pedra angular da sua teoria do desenvolvimento económico, uma vez que 
+da dimensão da acumulação do capital depende não só o número de trabalhadores que podem ser utilizados na produção (este número só pode aumentar se aumentarem os “fundos necessários 
+à sua manutenção”, i. é, se aumentar o capital), mas também o nível de produtividade dos trabalhadores produtivos: 28 “A capacidade produtiva (...) só poderá aumentar em consequência 
+ou de um acréscimo do número e melhoria das máquinas e instrumentos que facilitam e reduzem o respectivo trabalho, ou de uma divisão e distribuição do emprego mais adequada”(...) 
+“Em qualquer dos casos torna-se quase sempre necessário um capital adicional. É somente graças a esse capital adicional que o empresário de qualquer oficina pode fornecer 
+aos seus operários maquinaria mais aperfeiçoada, ou pode distribuir o trabalho entre eles de forma mais adequada”. Mais detidamente, Adam Smith explica:
+A quantidade de matérias-primas que pode ser trabalhada pelo mesmo número de pessoas aumenta numa grande proporção, à medida que o trabalho se subdivide cada vez mais; e, 
+porque as tarefas executadas por cada operário se reduzem gradualmente a um maior grau de simplicidade, torna-se possível a invenção de uma variedade de
+27 Cfr. Riqueza das Nações, I, 148/149, 585 e 757.
+28 Cfr: Riqueza das Nações, I, 600.
+22
+23
+novas máquinas, capazes de facilitar e encurtar tais tarefas. Por conseguinte, é necessário, à medida que progride a divisão do trabalho, e a fim de proporcionar emprego constante 
+a igual número de trabalhadores, armazenar um conjunto de provisões igual ao que é utilizado numa situação de maior atraso, mas um conjunto de matériasprimas e ferramentas 
+superior ao então necessário. Contudo, o número de trabalhadores em cada ramo de actividade aumenta geralmente com a divisão do trabalho nesse ramo, ou antes, é o aumento 
+do número de trabalhadores que lhes permite classificarem-se e subdividirem-se dessa forma. (...) A pessoa que emprega o seu capital na manutenção da força de trabalho, com 
+certeza deseja empregá-lo por forma a produzir a maior quantidade possível de trabalho. Procura, portanto, conseguir a mais adequada distribuição de trabalho entre os seus 
+operários e fornecerlhes as melhores máquinas que tenha possibilidade de inventar ou de adquirir. As suas possibilidades em qualquer destes campos vão geralmente tanto mais 
+longe quanto maior for o capital de que dispuser, ou o número de pessoas que puderem empregar. Deste modo, não só o volume de actividade desenvolvida num país cresce com o 
+acréscimo do capital que a emprega, como, em consequência desse mesmo aumento, idêntico volume de actividade passa a produzir uma quantidade de trabalho muito superior 29.
+Na senda das concepções que alimentaram o movimento religioso da Reforma (“essencialmente uma religião burguesa”, como observou Marx), Adam Smith explicou a acumulação do 
+capital com base nas qualidades dos homens. À partida, todos têm a mesma probabilidade (e o mesmo direito) de enriquecer. Mas verdade é que uns são trabalhadores (industriosos), 
+frugais (parcimoniosos) e inteligentes, enquanto que outros são indolentes (preguiçosos), perdulários e incapazes de gerir bem o dinheiro que ganham. Assim se explicaria que 
+uns sejam ricos e outros não. Na última categoria de pessoas incluíam-se os trabalhadores, que, por ‘culpa’ sua, nunca poderiam ser ricos: ao longo do século XVIII, a tese, 
+tão difundida, da preguiça natural das classes trabalhadoras (o próprio Adam Smith fala da “tendência para a preguiça nos pobres”) esteve ao serviço desta ‘justificação’. 
+30
+29 Cfr. Riqueza das Nações, I, 494/495.
+30 Cfr. Riqueza das Nações, II, 316. Talvez por isso – e porque, como salienta Rogério SOARES,
+60), sendo a riqueza vista como uma bênção de Deus, a indigência significava a denegação da Graça divina - “os pobres fossem tratados da mesma desapiedada maneira” que os 
+criminosos e os vagabundos. Perante estas concepções smithianas, comentou Marx que a acumulação original assim entendida “desempenha na economia política aproximadamente o 
+mesmo papel que o pecado original na teologia (...). Num tempo remoto, havia, de um lado, uma elite diligente, inteligente, e, sobretudo, frugal, e, do outro, uma escumalha 
+preguiçosa, que dissipava tudo o que tinha a mais (...) E deste pecado original – conclui Marx (O Capital, ed. cit., 104/105) – datam a pobreza da grande massa, a qual continua, 
+a despeito de todo o trabalho, a
+23
+24
+Acompanhemos o raciocínio de Smith: “Os capitais – escreve ele - são aumentados pela parcimónia e são reduzidos pela prodigalidade e mau emprego. Por isso é que, a seus olhos, 
+“todo o pródigo surge como um inimigo público e todo o homem frugal como um benfeitor público”.
+Toda a parte do rendimento que uma pessoa poupa acrescenta-a ao seu capital, empregando-a, em seguida, na manutenção de um número adicional de trabalhadores produtivos, ou 
+permitindo que uma outra pessoa o faça, emprestando-lhe essa parte do seu capital contra um juro, ou seja, uma parcela dos lucros. Tal como o capital de um indivíduo apenas 
+pode ser aumentado pelo que ele poupar do seu rendimento ou ganho anual, assim também o capital de uma sociedade, que não é mais do que o conjunto do de todos os indivíduos 
+que a compõem, apenas dessa forma pode ser acrescido. É a parcimónia, e não o nível de actividade, que é a causa imediata do aumento de capital. Mas é a actividade que fornece 
+aquilo que a parcimónia acumula. No entanto, por mais que a actividade fornecesse capital, se a parcimónia o não poupasse e acumulasse, ele nunca cresceria. A parcimónia, 
+fazendo aumentar o fundo destinado à manutenção de trabalhadores produtivos, tende a aumentar o número de indivíduos cujo trabalho acrescenta valor ao objecto a que é aplicado. 
+Tende, por consequência, a aumentar o valor de troca do produto anual da terra e do trabalho do país. Aumenta o nível de actividade capaz de fazer aumentar o valor desse produto. 
+31
+7 - Fica claro que Adam Smith compreendeu perfeitamente a importância da poupança e da acumulação do capital nas sociedades capitalistas. Porque só com base na acumulação 
+do capital pode aumentar o número de trabalhadores produtivos utilizado: “é o capital, empregado com vista à obtenção do lucro, que põe em movimento a maior parte do trabalho 
+útil em todas as sociedades”.
+“Não há qualquer outra forma de aumentar o produto anual da terra e do trabalho de uma nação – escreve ele – que não seja pelo aumento do número dos trabalhadores produtivos 
+ou da capacidade produtiva dos trabalhadores já antes empregados. É evidente que o número dos trabalhadores produtivos só
+não ter para vender a não ser a si própria, e a riqueza de uns poucos, a qual cresce continuamente, embora eles há muito tenham deixado de trabalhar”. A Reforma abriu o caminho 
+às concepções deterministas que mais tarde vieram a informar as teorias que procuraram ‘legitimar’ o racismo e que tentaram (e tentam) ‘explicar’ o subdesenvolvimento como 
+um fenómeno perfeitamente natural, dadas as características ‘naturais’ dos povos dos países ‘subdesenvolvidos’ e das regiões em que habitam. 31 Cfr. Riqueza das Nações, I, 
+592.
+24
+25
+pode aumentar significativamente em consequência de um aumento do capital, ou seja, de fundos destinados à sua manutenção.” 32 E porque só com base na acumulação do capital 
+pode aumentar a produtividade: “Quanto à capacidade produtiva do mesmo número de trabalhadores – observa Smith –, ela só poderá aumentar em consequência ou de um acréscimo 
+do número e melhoria das máquinas e instrumentos que facilitam e reduzem o respectivo trabalho, ou de uma divisão e distribuição do emprego mais adequada.” Daí a sua conclusão: 
+“em qualquer dos casos tornase quase sempre necessário um capital adicional. É somente graças a esse capital adicional que o empresário de qualquer oficina pode fornecer aos 
+seus operários maquinaria mais aperfeiçoada, ou pode distribuir o trabalho entre eles de forma mais adequada.” Mais detidamente, Adam Smith explica:
+A quantidade de matérias-primas que pode ser trabalhada pelo mesmo número de pessoas aumenta numa grande proporção, à medida que o trabalho se subdivide cada vez mais; e, 
+porque as tarefas executadas por cada operário se reduzem gradualmente a um maior grau de simplicidade, torna-se possível a invenção de uma variedade de novas máquinas, capazes 
+de facilitar e encurtar tais tarefas. Por conseguinte, é necessário, à medida que progride a divisão do trabalho, e a fim de proporcionar emprego constante a igual número 
+de trabalhadores, armazenar um conjunto de provisões igual ao que é utilizado numa situação de maior atraso, mas um conjunto de matériasprimas e ferramentas superior ao então 
+necessário. Contudo, o número de trabalhadores em cada ramo de actividade aumenta geralmente com a divisão do trabalho nesse ramo, ou antes, é o aumento do número de trabalhadores 
+que lhes permite classificarem-se e subdividirem-se dessa forma. (...) A pessoa que emprega o seu capital na manutenção da força de trabalho, com certeza deseja empregá-lo 
+por forma a produzir a maior quantidade possível de trabalho. Procura, portanto, conseguir a mais adequada distribuição de trabalho entre os seus operários e fornecerlhes 
+as melhores máquinas que tenha possibilidade de inventar ou de
+32 Cfr. Riqueza das Nações, I, 476 e 600. Noutro ponto da Riqueza das Nações (I, 634), Adam Smith
+observa que “quando o capital de um país não for suficiente para atender àquelas três finalidades [manter o cultivo, as manufacturas e os transportes], quanto maior for a 
+parte dele empregada na agricultura, tanto maior será a quantidade de trabalho produtivo que ele movimentará dentro do país, e o mesmo acontecerá com o valor acrescentado 
+pelo emprego desse capital ao produto da terra e do trabalho da sociedade em cada ano. A seguir à agricultura, é o capital empregado nas indústrias que movimenta a maior quantidade 
+de trabalho produtivo e acrescenta o maior valor ao produto anual. O que é empregado no comércio de exportação é o que, dos três, produz o menor efeito.” Perpassa aqui um 
+certo apego à valorização fisiocrática da agricultura, que contrasta com a compreensão da importância da indústria e do papel da divisão do trabalho nesta nova actividade 
+económica capitalista.
+25
+26
+adquirir. As suas possibilidades em qualquer destes campos vão geralmente tanto mais longe quanto maior for o capital de que dispuser, ou o número de pessoas que puderem empregar. 
+Deste modo, não só o volume de actividade desenvolvida num país cresce com o acréscimo do capital que a emprega, como, em consequência desse mesmo aumento, idêntico volume 
+de actividade passa a produzir uma quantidade de trabalho muito superior. 33
+O seu optimismo acerca da dinâmica destas sociedades no sentido do progressive state (através de um proceso de crescimento auto-sustentado) assenta no pressuposto de que a 
+prodigalidade é o fruto da “paixão pela fruição presente que, por vezes, embora violenta e difícil de dominar, é, em geral, apenas momentânea e ocasional”, enquanto que “o 
+princípio que leva o indivíduo a poupar é o desejo de melhorar a sua situação, desejo que, embora normalmente calmo e controlado, nos acompanha desde o berço e não nos abandona 
+até ao túmulo”. O quadro fica completo se tivermos em conta este outro pressuposto do pensamento smithiano:
+o esforço natural de cada indivíduo para melhorar a sua própria condição, quando lhe é permitido exercê-lo com liberdade e segurança, é um princípio tão poderoso que só por 
+si e sem qualquer outro contributo é não só capaz de criar a riqueza e prosperidade de uma sociedade como ainda de vencer um grande número de obstáculos com que a insensatez 
+das leis humanas tantas vezes cumula as suas acções. 34
+Adam Smith salienta, porém, que confia na parcimónia e na prudência dos indivíduos privados, mas atribui ao estado os defeitos da prodigalidade e do mau emprego dos capitais. 
+Rejeita, pois, qualquer papel activo do estado no processo de acumulação do capital, designadamente cobrando receitas através de impostos sobre os rendimentos privados, com 
+o objectivo de fazer despesas que se substituam às despesas dos particulares. Assim se exprime o filósofo:
+As grandes nações não são jamais arruinadas pela prodigalidade e o mau emprego dos capitais privados, embora às vezes o sejam pelos públicos. Na maior parte dos países, a 
+totalidade ou a quase totalidade das receitas públicas é empregada na manutenção de indivíduos não produtivos. É o caso de todos os que compõem uma corte numerosa e esplêndida, 
+uma grande instituição eclesiástica, armadas e exércitos
+33 Cfr. Riqueza das Nações, I, 494/495.
+34 Cfr. Riqueza das Nações, I, 68.
+26
+27
+numerosos que em tempos de paz nada produzem e em tempos de guerra nada adquirem que possa compensar o dispêndio incorrido com a sua manutenção, ainda que só durante o período 
+de duração da guerra. Toda essa gente, dado que nada produz, tem de ser mantida pelo produto do trabalho de outros homens. Deste modo, quando se multiplicam para além do necessário, 
+podem, num ano, consumir uma parcela tão elevada daquele produto que a parte restante não baste para manter os trabalhadores produtivos, necessários à reprodução do ano seguinte. 
+Assim, a produção do ano seguinte será inferior à desse ano e, se se mantiver o mesmo desconcerto, a do ano a seguir reduzir-se-á ainda mais. Pode acontecer que esses indivíduos 
+improdutivos, que deviam ser mantidos apenas por uma parte do rendimento disponível do conjunto das pessoas, cheguem a consumir uma parcela tão grande da totalidade de rendimento, 
+obrigando tão elevado número de indivíduos a consumir o respectivo capital, ou seja, os fundos destinados à manutenção do trabalho produtivo, que a frugalidade e adequado 
+emprego dos capitais por parte dos indivíduos não seja suficiente para compensar a perda e degradação do produto originadas por esse violento e forçado abuso. Todavia, na 
+maior parte das ocasiões, esta frugalidade e adequado emprego de capitais são, ao que a experiência mostra, suficientes para compensar não só a prodigalidade e mau emprego 
+de capitais privados, mas também a extravagância pública dos governos. O esforço uniforme, constante e ininterrupto de todos os homens para melhorar a sua situação, princípio 
+de que deriva originariamente a opulência pública e nacional, tal como a privada, é muitas vezes suficientemente poderoso para manter o progresso natural das coisas no sentido 
+da sua melhoria, a despeito tanto da extravagância do governo como dos erros da administração. Tal como o princípio desconhecido da vida animal consegue muitas vezes restituir 
+a saúde e o vigor à constituição, apesar não só da doença, mas também dos absurdos tratamentos prescritos pelo médico 35.
+Mas Adam Smith acrescenta ainda outra exigência: as virtudes privadas da frugalidade e da prudência só produzirão os seus efeitos benéficos se o estado não limitar a liberdade 
+individual, nem sequer para limitar os consumos de luxo através de leis sumptuárias ou da proibição da importação de bens de luxo. Vejamos o que diz o próprio Smith:
+Ainda que a prodigalidade do governo tenha, sem dúvida, retardado o progresso natural da Inglaterra no sentido da riqueza e do desenvolvimento, não lhe foi possível impedi-lo. 
+(...) O produto anual da terra e do trabalho do país é agora, sem dúvida, muito superior ao registado ao tempo quer da restauração, quer da revolução. Deve, por conseguinte, 
+ser também muito elevado o capital
+35 Cfr. Riqueza das Nações, I, 599/600.
+27
+28
+anualmente empregado no cultivo das suas terras e na manutenção do seu trabalho. No meio de todas as exigências do governo, esse capital foi silenciosa e gradualmente acumulado 
+pela frugalidade e bom emprego dos capitais por parte dos particulares, pelo seu universal, contínuo e ininterrupto esforço para melhorar a situação de cada um. Foi este esforço, 
+protegido pela lei e acompanhado da liberdade de exercer-se da forma mais proveitosa, que manteve a Inglaterra no caminho da riqueza e do progresso, em todos os tempos passados, 
+e esperamos bem que o continue a conseguir em todos os tempos vindouros. Contudo, assim como a Inglaterra nunca beneficiou de um governo frugal, também jamais contou a parcimónia 
+entre as virtudes características dos seus habitantes. Por consequência, constitui a maior impertinência e presunção por parte dos reis e ministros o pretenderem fiscalizar 
+a economia dos cidadãos e restringir os seus gastos, seja através de leis sumptuárias, seja pela proibição da importação de bens de luxo. Eles são sempre, e sem excepção, 
+os maiores perdulários que existem na sociedade. Cuidem bem dos seus próprios gastos e poderão confiadamente deixar aos particulares o cuidado dos deles. Se a extravagância 
+dos governantes não arruinar o estado, poderemos estar certos de que a dos súbditos jamais o fará 36
+O optimismo do sistema smithiano fica completo se tivermos em conta que Smith (tal como Say e Ricardo) entendia que a poupança é sempre totalmente investida. Estariam assim 
+criadas as condições para que o progresso económico se verificasse sem riscos de situações permanentes de desequilíbrio global. Acompanhemos Adam Smith:
+Aquilo que anualmente é poupado é tão regularmente consumido como o que é anualmente despendido, e praticamente também no mesmo período; simplesmente é consumido por um diferente 
+conjunto de pessoas. A parte do seu rendimento anualmente despendida por um indivíduo rico é, na maior parte dos casos, consumida por convidados ociosos e por criados que 
+nada deixam atrás de si em troca do que consomem. Quanto à parte que anualmente poupa, dado que, com vista à obtenção de um lucro, é imediatamente aplicada como capital, é 
+de igual modo consumida, e praticamente durante o mesmo período, mas por um conjunto diferente de pessoas, trabalhadores do campo, operários e artífices, que reproduzem, com 
+um lucro, o valor do respectivo consumo anual. 37
+8 - Em sede da teoria da distribuição do rendimento, embora faça apelo a determinadas leis naturais e se proponha analisar as leis segundo as quais o produto se distribui 
+naturalmente entre as diferentes classes de cidadãos, Adam
+36 Cfr. Riqueza das Nações, I, 604/605.
+37 Cfr. Riqueza das Nações, I, 593.
+28
+29
+Smith assume com suficiente clareza o carácter conflituante dos interesses dos titulares das várias categorias de rendimento, na medida em que cada uma dessas categorias de 
+rendimento (salários, rendas e lucros) só pode aumentar à custa da diminuição de outra (ou de outras):
+“As subidas e descidas dos lucros do capital ? escreve Adam Smith 38? dependem das mesmas causas que determinam os aumentos e as diminuições dos salários do trabalho (...), 
+mas essas causas afectam uns e outros de maneira muito diferente”, pelo que “altos salários do trabalho e altos lucros do capital são coisas que talvez raramente coexistam, 
+excepto nas circunstâncias especiais das novas colónias”. Mas os princípios de filosofia social de Adam Smith esbatem esta conflitualidade, para abrirem caminho a um mundo 
+de harmonia, em que todos os interesses se conciliam.
+“Todo o homem — escreve Smith —, desde que não viole as leis da justiça, tem direito a lutar pelos seus interesses como melhor entender e a entrar em concorrência, com a sua 
+indústria e capital, com os de qualquer outro homem, ou ordem de homens”.
+O autor parte do princípio de que “um homem só aplica capital numa indústria com vista ao lucro”, “esforça-se continuadamente por encontrar o emprego mais vantajoso para o 
+capital que detém” e “não pretende, normalmente, promover o bem público, nem sabe até que ponto o está a fazer”. Apesar disto, Smith acredita que
+cada um trabalha, necessariamente, para que o rédito anual da sociedade seja o maior possível, (...) guiado por uma mão invisível a atingir um fim que não fazia parte das 
+suas intenções”. Seria assim, pelo menos, numa “sociedade onde se permitisse que as coisas seguissem o seu curso natural, onde houvesse liberdade perfeita e onde cada homem 
+fosse totalmente livre de escolher a ocupação que quisesse e de a mudar sempre que lhe aprouvesse”. Nesta sociedade ideal, o seu próprio interesse levaria cada homem “a procurar 
+os empregos vantajosos e a evitar os desfavoráveis”. Cada indivíduo, conclui Smith, “ao tentar satisfazer o seu próprio interesse, promove, frequentemente, de um modo mais 
+eficaz, o interesse da sociedade, do que quando realmente o pretende fazer. (...) Na verdade, aquilo que [cada indivíduo] tem em vista é o seu próprio benefício e não o da 
+sociedade. Mas o juízo da sua própria vantagem leva-o, naturalmente — ou melhor, necessariamente —, a preferir o emprego mais vantajoso para a sociedade. 39
+38 Cfr. Riqueza das Nações, I, 211-219.
+39 Cfr. Riqueza das Nações, I, 231/232, 284 e 757/758.
+29
+30
+Esta confiança no individualismo, nas virtudes do “sistema de liberdade natural”, radica numa antropologia optimista que representa a ultrapassagem do pessimismo característico 
+da filosofia social de Hobbes. Segundo Hobbes, a natureza humana é essencialmente egoísta. E o egoísmo transformaria o homem no inimigo do homem (homo homini lupus), caracterizando-se 
+o estado de natureza como um estado de guerra permanente (bellum ommium contra omnes). A antropologia pessimista que informa o selfish system hobbesiano arrasta a conclusão 
+de que a sociedade civil não pode constituir-se sem a intervenção coerciva do estado, a qual implica que os homens renunciem à sua própria liberdade. Daí o leviathan. Ao irracionalismo 
+deste estado natural de guerra vem Locke contrapor uma lei racional, eventualmente inspirada pela natureza divina, que o leva a uma visão antropológica optimista. No estado 
+de natureza, o homem é essencialmente bom. A harmonia só não se realiza porque a natureza física é avara, o que implica a afirmação da desigualdade natural como a outra característica 
+do estado de natureza. Porque se trata de desigualdade natural, o estado não pode pretender superá-la. Em Locke o estado já não é configurado como a fonte da sociedade civil, 
+mas também não se lhe reconhecem condições para resolver o conflito social inerente a uma sociedade que assenta na liberdade de cada indivíduo. Liberdade que consiste essencialmente 
+na liberdade de adquirir uma propriedade com base no seu trabalho, propriedade que o estado (o estado liberal) deve garantir.
+Foi David Hume o primeiro autor que conseguiu escapar à ideia de que a conflitualidade social é inerente a uma sociedade que se rege pelo princípio do egoísmo. Colocando-se 
+no plano da filosofia moral, Hume renunciou a uma crítica racionalista do pessimismo de Hobbes, preferindo caracterizar os homens por um sentimento, oposto ao egoísmo, que 
+leva cada um a desejar o que é útil ou agradável para os outros. David Hume designa-o por simpatia, benevolência ou sentido de humanidade. A simpatia surge, deste modo, como 
+a fonte dos juízos morais (juízos de aprovação para a virtude, para tudo o que é útil do ponto de vista individual e social), e também como a origem de um comportamento virtuoso, 
+na medida em que a simpatia conduz cada indivíduo a agir para o bem dos outros como a melhor forma de conseguir um sistema de relações sociais que seja mais vantajoso para 
+si próprio. Na síntese de Napoleoni,
+enquanto a filosofia do egoísmo não permite ao indivíduo reconhecer qualquer outra utilidade imediata, Hume avança até chegar a reconhecer nos homens um sentimento de humanidade 
+suficiente para que
+30
+31
+cada um seja capaz de reconhecer não apenas a sua própria utilidade, mas também a utilidade dos outros. 40
+Assim autonomizada a dimensão moral, a simpatia permite harmonizar, nesta esfera da vida humana, o interesse individual e o interesse colectivo. Mas ficam de fora outras dimensões 
+da vida humana em que o egoísmo pode continuar como fonte de conflitos. Permanecia, ao menos implicitamente, o reconhecimento do dualismo psicológico como característica dos 
+homens.
+A ultrapassagem deste dualismo foi sugerida pela primeira vez na famosa Fábula das Abelhas, de Bernard Mandeville (The Fable of the Bees: or Private Vices, Public Benefits, 
+1714). Nas palavras do próprio, é esta a tese de Mandeville: 41
+Orgulho-me de ter demonstrado que não são nem as qualidades de bondade ou as afeições delicadas naturais ao homem, nem as reais virtudes que ele é capaz de adquirir pela razão 
+e pela abnegação, que constituem o fundamento da sociedade; mas que aquilo a que no mundo chamamos mal, tanto moral como natural, é o grande princípio que faz de nós criaturas 
+sociáveis, a base sólida, a vida e o apoio de todas as actividades e de todos os empregos, sem excepção; que é nele que devemos procurar a verdadeira origem de todas as artes 
+e de todas as ciências, e que, no momento em que o mal desapareça, a sociedade se deteriora, se não se dissolver inteiramente.
+Adam Smith critica Mandeville por considerar como vícios certas qualidades (ou paixões) que, em seu juízo, o não são. Em termos tais – enfatiza Smith – que “até uma camisa 
+lavada ou uma habitação confortável são um vício”. (...) “É graças a este sofisma que chega à sua conclusão predilecta de que os vícios privados constituem virtudes públicas”. 
+No entanto, Smith não deixou de reconhecer que o sistema do Dr. Mandeville estava, “em alguns casos, muito próximo da verdade”. 42 Compreende-se, por isso, a sintonia de certas 
+passagens de Riqueza das Nações com a tese de Mandeville. Dois trechos para o comprovar:
+O esforço natural de cada indivíduo para melhorar a sua própria condição constitui, quando lhe é permitido exercer-se com liberdade e segurança, um princípio tão poderoso 
+que, sozinho e sem ajuda, é não só capaz de levar a sociedade à riqueza e prosperidade, mas também de
+40 Cfr. C. NAPOLEONI, Fisiocracia..., cit., 34.
+41 Cfr. Riqueza das Nações (Introdução do Editor), I, 61/62.
+42 Cfr. Cfr. Riqueza das Nações (Introdução do Editor), I, 58/59.
+31
+32
+ultrapassar centenas de obstáculos inoportunos que a insensatez das leis humanas demasiadas vezes opõe à sua actividade. 43
+Numa sociedade civilizada o homem necessita constantemente da ajuda e cooperação de uma imensidade de pessoas, e a sua vida mal chega para lhe permitir conquistar a amizade 
+de um pequeno número. Em quase todas as outras espécies animais, cada indivíduo, ao atingir a maturidade, é inteiramente independente, e, no seu estado normal, não necessita 
+da ajuda de qualquer outro ser vigente. Mas o homem necessita quase constantemente do auxílio dos seus congéneres e seria vão esperar obtê-lo somente da sua bondade. Terá 
+maior probabilidade de alcançar o que deseja se conseguir interessar o egoísmo deles a seu favor e convencê-los de que terão vantagem em fazer aquilo que ele deles pretende. 
+Quem quer que propõe a outro um acordo de qualquer espécie, propõe-se conseguir isso. Dá-me isso, que eu quero, e terás isto, que tu queres, é o significado de todas as propostas 
+desse género; e é por esta forma que obtemos uns dos outros a grande maioria dos favores e serviços de que necessitamos. Não é da bondade do homem do talho, do cervejeiro 
+ou do padeiro que podemos esperar o nosso jantar, mas da consideração em que eles têm o seu próprio interesse. Apelamos, não para a sua humanidade, mas para o egoísmo, e nunca 
+lhes falamos das nossas necessidades, mas das vantagens deles. Ninguém, a não ser um mendigo, se permite depender essencialmente da bondade dos seus concidadãos. Até mesmo 
+um mendigo não depende inteiramente dela. 44
+Verdadeiramente, a tese contida no sistema de Mandeville pode reconduzir-se à ideia de que é impossível prescindir em absoluto da presença e das consequências do móbil egoísta 
+no comportamento dos homens em sociedade. Nestes termos, a ultrapassagem do dualismo psicológico acima referido só poderia conseguir-se atribuindo ao egoísmo um papel socialmente 
+positivo. É este o sentido da construção smithiana da mão invisível, ao arrepio do preconceito largamente difundido no século XVIII, segundo o qual toda a acção motivada pelo 
+interesse privado é, por isso mesmo, anti-social. 45 Adam Smith começa por aceitar a concepção de Hume que faz assentar o fundamento da moral (da virtude) na utilidade simultaneamente 
+individual e social da acção dos homens e que faz da simpatia a origem do juízo moral e do comportamento moral. Depois, tal como David Hume autonomizara a esfera moral, Adam 
+Smith autonomiza a esfera da actividade económica e sustenta que, nesta dimensão do comportamento humano – em que se verifica a
+43 Cfr. Riqueza da Nações, II, 68.
+44 Cfr. Riqueza das Nações, I, 94/95 (sublinhado nosso).
+45 Cfr. M. DOBB, Teorias..., cit., 55; C. NAPOLEONI, Fisiocracia..., cit., 36/37 e M. BLAUG,
+Economic Theory..., cit., 59-65.
+32
+33
+formação e o desenvolvimento da riqueza –, o móbil egoísta justifica-se nos mesmos termos que a simpatia na esfera moral. Na esfera económica, a utilidade dos particulares 
+concilia-se com a utilidade da sociedade na medida em que cada um, “desde que não viole as leis da justiça”, prossiga o seu próprio objectivo de obter o máximo lucro e o máximo 
+de segurança “em concorrência, com a sua indústria e capital, com os de qualquer outro homem, ou ordem de homens”. Na esfera da actividade económica, os vícios privados de 
+que falava Mandeville não são, afinal, vícios. O egoísmo surge, aqui, como um elemento positivo, desde que a prossecução do interesse de cada um não impeça os outros de prosseguir 
+igualmente o seu próprio interesse. Na síntese de Carlos Laranjeiro, Riqueza das Nações representa, neste plano, “a tentativa de prova de que o self-interest está para a economia 
+como a simpatia está para a moral. O conjunto social torna-se harmonioso, já que ambos permitem obter a maximização individual e colectiva”. 46 Vale a pena atentar de novo 
+nestes dois trechos muito conhecidos de Riqueza das Nações:
+Cada indivíduo esforça-se continuadamente por encontrar o emprego mais vantajoso para qualquer que seja o capital que detém. Na verdade, aquilo que tem em vista é o seu próprio 
+benefício e não o da sociedade. Mas o juízo da sua própria vantagem leva-o, naturalmente –, melhor, necessariamente –, a preferir o emprego mais vantajoso para a sociedade.
+Cada um trabalha, necessariamente, para que o rédito da sociedade seja o maior possível. Na realidade, ele não pretende, normalmente, promover o bem público, nem sabe até 
+que ponto o está a fazer. (...) Ao dirigir essa indústria, de modo que a sua produção adquira o máximo valor, só está a pensar no seu próprio ganho, e, neste como em muitos 
+outros casos, está a ser guiado por uma mão invisível a atingir um fim que não fazia parte das suas intenções nem nunca será muito mau para a sociedade que ele não fizesse 
+parte das suas intenções. Ao tentar satisfazer o seu próprio interesse, promove, frequentemente, de modo mais eficaz, o interesse da sociedade, do que quando realmente o pretende 
+fazer. Nunca vi nada de bom, feito por aqueles que se dedicaram ao comércio pelo bem público. Na verdade, não é um tipo de dedicação muito comum entre os mercadores, e não 
+são necessárias muitas palavras para os dissuadir disso. 47
+46 Cfr. C. LARANJEIRO, 68.
+47 Cfr. Riqueza das Nações, I, 755,758 (sublinhado nosso).
+33
+34
+9 - Fiel à sua filosofia individualista (porventura algo contraditória com a importância que atribui à divisão do trabalho), Adam Smith sustenta que a vida económica decorrerá 
+harmoniosamente desde que se deixem as coisas seguir o seu curso natural. Mas a verdade é que o professor de Glasgow não ignora, como já salientámos, o carácter conflituante 
+da sociedade em que se insere e revela mesmo a percepção de que o conflito essencial presente nesta sociedade é o que opõe os trabalhadores assalariados e os proprietários 
+do capital, classes “cujos interesses não são de modo algum idênticos”. Esta diferença de posições (e consequente antagonismo de interesses) explica-a Smith como consequência 
+dos diferentes poderes de que dispõem, nas sociedades capitalistas, os patrões (por serem “proprietários do capital”) e os operários (por possuirem apenas “a sua força e habilidade 
+de mãos”, por não possuirem “o capital suficiente, tanto para comprar as matérias-primas necessárias ao seu trabalho, como para se manter até ele se achar terminado”). Tudo 
+se reduz ao facto de uma classe de pessoas deter a propriedade do capital e outra(s) classe(s) estar(em) privada(s) dela. As relações sociais não aparecem, pois, na obra de 
+Smith, como relações entre indivíduos iguais. Ele tem clara consciência de que “sempre que há muita propriedade, há grande desigualdade”, de que “por cada homem rico haverá, 
+pelo menos, quinhentos homens pobres”, e de que “a propriedade de uns poucos pressupõe a indigência de muitos”. E sabe que nas “nações civilizadas e prósperas (...) um grande 
+número de pessoas não exerce qualquer actividade e muitas delas consomem o produto de dez vezes, frequentemente de cem vezes, mais trabalho do que aqueles que as exercem”. 
+48 Nestas condições, admitirá Adam Smith uma qualquer intervenção do estado com fins correctivos? De modo nenhum, porque “ferir os interesses de uma classe de cidadãos, por 
+mais ligeiramente que possa ser, sem outro objectivo que não seja o de favorecer os de qualquer outra classe, é uma coisa evidentemente contrária àquela justiça, àquela igualdade 
+de protecção que o soberano deve, indistintamente, aos seus súbditos de todas as classes.” Como bom liberal, Adam Smith defende que o máximo de utilidade social se consegue 
+quando a vida económica decorre naturalmente, prosseguindo cada um o seu próprio interesse. Segundo esta concepção, a economia (separada do estado) funciona de acordo com 
+as suas próprias leis, leis naturais, leis de validade absoluta e universal: a ordem natural harmoniza todos os interesses a partir da natural actuação de cada um no sentido 
+de obter o máximo de
+48 Cfr. Riqueza das Nações, I, 70 e 316.
+34
+35
+satisfação com o mínimo de esforço. 49 Deste “fetichismo naturalístico” (Oskar Lange) derivam os economistas clássicos duas considerações fundamentais: a) por um lado, uma 
+atitude conformista perante as ocorrências da vida económica: elas decorrem das leis da natureza e o que é natural é justo (a lei moral identifica-se com a lei natural); b) 
+por outro lado, uma atitude de condenação de toda e qualquer intervenção do estado na vida económica. Em 1º lugar, porque a vida económica e a ordem social são consideradas 
+partes integrantes da ordem natural, regulada por leis que exprimem princípios eternos e universais da natureza humana, leis tão rigorosas e inalteráveis como as leis da física 
+(concepção mecanicista ou fisicista, de raiz newtoniana); em 2º lugar, porque defendem que o estado, como máquina essencialmente política, é, pelas suas próprias funções, 
+incompetente para a actuação económica (Smith: “não há dois caracteres que pareçam mais contrários do que os do comerciante e do governo.”). A vida económica, assim entendida, 
+é o fundamento da sociedade civil, o princípio da própria existência do estado, cujas funções devem restringir-se ao mínimo compatível com a sua capacidade para garantir a 
+cada um e a todos, em condições de plena liberdade, o direito de lutar pelos seus interesses como melhor entender. Adam Smith é considerado o ‘pai’ da doutrina do estado mínimo 
+e é muitas vezes invocado, nesta qualidade paternal, para justificar as propostas dos neoliberais dos nossos dias. É claro o ponto de vista de Smith a este respeito:
+O soberano – escreve ele – fica totalmente liberto (...) do dever de superintender o trabalho das pessoas privadas e de o dirigir para as actividades mais necessárias à sociedade. 
+Segundo o sistema de liberdade natural, o soberano tem apenas três deveres a cumprir. Três deveres de grande importância, na verdade, mas simples e perceptíveis para o senso 
+comum: em primeiro lugar, o dever de proteger a sociedade da violência e das invasões de outras sociedades independentes; em segundo lugar, o dever de proteger, tanto quanto 
+possível, todos os membros da sociedade da injustiça ou opressão de qualquer outro membro, ou o dever de estabelecer uma administração da justiça; e, em terceiro lugar, o 
+dever de criar e preservar certos
+49 Apesar de aceitar a ‘fatalidade’ das leis naturais, Smith contraria algumas das ideias correntes
+no seu tempo ao defender que, se não fossem estas ‘leis’, seria perfeitamente razoável, socialmente justo e economicamente vantajoso que os salários fossem superiores ao mínimo 
+histórico de subsistência. Por estas e outras razões, cremos que tem razão Fernando ARAÚJO quando se refere ao “ardor republicano e igualitário que anima a obra do filósofo 
+escocês” (ob. cit., 1239), que, por certo, não daria a todos os que, ainda hoje, procuram alicerçar a produtividade em políticas e práticas de salários baixos (cfr. Riqueza 
+das Nações, I, 196-198, 200- 203 e 228/229).
+35
+36
+serviços públicos e certas instituições públicas que nunca poderão ser criadas ou preservadas no interesse de um indivíduo ou de um pequeno número de indivíduos, já que o 
+lucro jamais reembolsaria a despesa de qualquer indivíduo ou pequeno número de indivíduos, embora possa, muitas vezes, fazer mais do que reembolsar esse lucro a uma grande 
+sociedade. 50
+Mas cremos que esta tese de Smith tem em vista as estruturas do poder político do estado absoluto, ao serviço de interesses de tipo feudal, que o filósofo criticou por ineficientes 
+e improdutivas: “na maior parte dos países, a totalidade ou a quase totalidade das receitas públicas é empregada na manutenção de indivíduos não produtivos”. Entre estes indivíduos 
+não produtivos inclui Adam Smith
+muitas das mais respeitáveis classes sociais, (...) o soberano, por exemplo, bem como todos os funcionários tanto da justiça como da guerra que servem sob as suas ordens, 
+todo o exército e toda a marinha”, “todos os que compõem uma corte numerosa e esplêndida, uma grande instituição eclesiástica, armadas e exércitos poderosos que em tempos 
+de paz nada produzem e em tempos de guerra nada adquirem que possa compensar o dispêndio incorrido com a sua manutenção, ainda que só durante o período de duração da guerra. 
+Toda essa gente ? remata Adam Smith ?, dado que nada produz, tem de ser mantida pelo produto do trabalho de outros homens. 51
+É este ‘estado’ parasita e perdulário que Adam Smith pretende reduzir a estado mínimo. Com esta justificação:
+quando se multiplicam [essa gente e essas estruturas] para além do necessário, podem, num ano, consumir uma parcela tão elevada daquele produto [o produto do trabalho de outros 
+homens] que a parte restante não baste para manter os trabalhadores produtivos, necessários à reprodução do ano seguinte. Assim, a produção do ano seguinte será inferior à 
+desse ano e, se se mantiver o mesmo desconcerto, a do ano a seguir reduzir-se-á ainda mais. Pode acontecer que esses indivíduos improdutivos, que deviam ser mantidos apenas 
+por uma parte do rendimento disponível do conjunto das pessoas, cheguem a consumir uma parcela tão grande da totalidade do rendimento, obrigando tão elevado número de indivíduos 
+a consumir o respectivo capital, ou seja, os fundos destinados à manutenção do trabalho produtivo, que a frugalidade e o adequado emprego dos capitais por parte dos
+50 Cfr. Riqueza das Nações, II, 284/285.
+51 Cfr. Riqueza das Nações, I, 582 e 599.
+36
+37
+indivíduos não seja suficiente para compensar a perda e degradação do produto originadas por esse violento e forçado abuso. 52
+Esta apreciação de Adam Smith poderá aplicar-se ainda hoje a muitos estados dominados por oligarquias corruptas e por ditadores sem escrúpulos, mas não serão inteiramente 
+adequadas à situação dos estados democráticos em países de economias complexas e desenvolvidas. Por outro lado, é de salientar a preocupação de Smith em responsabilizar o 
+estado por uma série de serviços públicos, deixando claro que é dever do soberano: “a criação e a manutenção daqueles serviços e instituições que, embora possam ser altamente 
+benéficos para uma sociedade, são, todavia, de uma natureza tal que o lucro jamais poderia compensar a despesa para qualquer indivíduo ou pequeno número de indivíduos, não 
+se podendo, portanto, esperar a sua criação e manutenção por parte de qualquer indivíduo ou pequeno número de indivíduos. A concretização deste dever exige despesas de variadíssimos 
+graus nos diferentes períodos da sociedade. Depois das instituições públicas e dos serviços públicos necessários para a defesa da sociedade e para a administração da justiça 
+– acrescenta Smith – os outros serviços e instituições deste tipo são fundamentalmente aqueles criados com vista a facilitar o comércio da sociedade e a promover a instrução 
+do povo.” E acrescenta, num toque de grande modernidade: ”As instituições de instrução são de dois tipos: as que visam a instrução da juventude e as que visam a de pessoas 
+de todas as idades”. 53 A verdade é que, entre os neoliberais de hoje, não falta quem considere demasiado permissivo e ‘perigoso’ o critério de Smith para delimitar a acção 
+do estado: Quase não há nenhuma actividade ? escreveu Milton Friedman em 1976 ? que não se tenha considerado adequada à intervenção do estado de acordo com os argumentos de 
+Smith. É fácil afirmar, como o faz Smith mais de uma vez, que há ‘efeitos externos’ que colocam uma actividade ou outra na esfera do ‘interesse público’, e não na esfera do 
+‘interesse de algum indivíduo ou algum número pequeno de indivíduos’. Não há critérios objectivos amplamente aceites para avaliar tais asserções, para medir a grandeza dos 
+efeitos externos, para identificar os efeitos externos das acções governamentais e compará-los com os efeitos externos que se produziriam se se deixassem as coisas em mãos 
+privadas. A análise
+52 Cfr. Riqueza das Nações, I, 582 e 599/600.
+53 Cfr. Riqueza das Nações, II, 333.
+37
+38
+superficialmente científica de custo-benefício erigida com base em Smith transformou-se numa formidável Caixa de Pandora. 54
+Escrevendo quando o estado capitalista dava os primeiros passos, a análise de Adam Smith sobre a origem e a evolução do estado assenta numa interpretação histórica. Certos 
+trechos de Riqueza das Nações lembram alguns trabalhos de Engels sobre este mesmo tema. Como “a avareza e a ambição nos ricos e o ódio ao trabalho e a tendência para a preguiça 
+nos pobres – escreve ele – constituem as paixões que predispõem ao ataque à propriedade”, como “a propriedade dos ricos provoca a indignação dos pobres que muitas vezes são 
+levados pela necessidade e influenciados pela inveja a apropriar-se dos seus bens”, compreende-se a necessidade do “estabelecimento de um governo civil” e compreende-se que 
+uma das funções do estado seja a da administração exacta da justiça, uma vez que “é só com a protecção do magistrado civil que o dono dessa valiosa propriedade, adquirida 
+com o trabalho de muitos anos ou, talvez, de muitas gerações, poderá dormir em segurança.” “A aquisição de propriedades valiosas e vastas — conclui Adam Smith — exige, necessariamente, 
+o estabelecimento de um governo civil. Quando não há propriedades ou, pelo menos, propriedades que excedam os dois ou três dias de trabalho, o governo civil não será tão necessário”. 
+55 Particularmente elucidativos do que se diz atrás são os trechos seguintes:
+“Como, entre caçadores, raramente existe a propriedade ou, pelo menos, propriedades superiores a dois ou três dias de trabalho, raramente existe qualquer magistrado, ou qualquer 
+administração regular da justiça.” Escreve mais à frente Smith:
+É na era dos pastores, no segundo período da sociedade, que surge pela primeira vez a desigualdade de fortuna, introduzindo no seio dos homens um grau de autoridade e subordinação 
+anteriormente impossível de existir. Introduz, assim, em certa medida, esse governo civil indispensável à sua própria manutenção e parece tê-lo feito naturalmente, independentemente, 
+mesmo, da verificação dessa necessidade. Esta verificação vai acabar, sem dúvida, por contribuir muito para a manutenção e consolidação dessa autoridade e subordinação. Os 
+ricos especialmente estão necessariamente interessados em manter esse estado de coisas, único capaz de lhes assegurar os seus próprios benefícios. Os menos ricos unem-se na 
+defesa dos mais ricos no que se refere à sua propriedade para que, por
+54 Apud G. FEIWEL, “Equilibrium business cycle theory and the real world”, em Economia, vol.
+8, n º 2, Maio/1984, 146.
+55 Cfr. Riqueza das Nações, II, 316.
+38
+39
+sua vez, estes se unam na defesa da propriedade daqueles. Todos os pastores e criadores menores sentem que a segurança dos seus próprios rebanhos dependem da segurança dos 
+rebanhos dos pastores e criadores mais prósperos, que a manutenção da sua menor autoridade depende da manutenção da autoridade superior e que da sua subordinação depende o 
+poder de, por seu turno, subordinar outros que lhe são inferiores. Constituem uma espécie de aristocracia que tem todo o interesse em defender a propriedade e em apoiar a 
+autoridade do seu pequeno soberano a fim de este poder defender a sua própria propriedade e apoiar a sua autoridade. 56
+Logo a seguir, Adam Smith torna bem clara a sua concepção do estado enquanto instrumento de defesa dos proprietários contra aqueles que não dispõem da propriedade do capital. 
+Na esteira de Locke (Civil Government, § 94: “o governo não tem qualquer outro objectivo que não seja a preservação da propriedade”), Smith defende que “o governo civil, na 
+medida em que é instituído com vista à segurança da propriedade, é, na realidade, instituído com vista à defesa dos ricos em prejuízo dos pobres, ou daqueles que possuem alguma 
+propriedade em detrimento daqueles que nada possuem”. 57 São afirmações como esta que justificam a tese de Mark Blaug segundo a qual, nesta Parte II do Capítulo I do Livro 
+V de Riqueza das Nações, Smith “apresenta uma teoria ‘marxista’ do estado”. 58 E talvez esta leitura permita compreender melhor a coerência da rejeição, por parte de Smith, 
+de qualquer intervenção do estado com vista à correcção das injustiças: exactamente porque sabe qual é o verdadeiro papel do estado e aceita que ele deve cumprir a sua função, 
+que é “a defesa dos ricos em prejuízo dos pobres, ou daqueles que têm alguma propriedade em detrimento daqueles que nada possuem”.
+Por outro lado, como já vimos, resulta dos seus escritos a ideia (comum aos autores da escola clássica) de que a propriedade (a acumulação do capital) é o fruto da frugalidade 
+e da prudência de alguns, é “adquirida com o trabalho de muitos anos ou, talvez, de muitas gerações”.
+56 Cfr. Riqueza das Nações, II, 315 e 321/322.
+57 Cfr. Riqueza das Nações, II, 322.
+58 Cfr. M. BLAUG, Economic Theory...., 61. É também de Mark Blaug este comentário: “Quando
+lemos as suas análises sobre a evolução do governo civil, da justiça, das forças armadas e da família, torna-se evidente que ele tinha ideias claras sobre a natureza do processo 
+histórico. Como outros autores escoceses da época, v.g. Adam Ferguson, John Millar, Willam Robertson e mesmo David Hume, ele expõe uma filosofia da história que atribui uma 
+importância fundamental à natureza e à distribuição da propriedade. Não é exagerado descrever estes homens como os precursores da ‘concepção materialista da história’”.
+39
+40
+Adam Smith pensa, além disso, que todos podem ser proprietários, mesmo o mais pobre dos homens, “se for frugal e industrioso.” Dir-se-ia que “o ódio ao trabalho e a tendência 
+para a preguiça e para o ócio nos pobres” é que explicam as diferenças sociais, que não seriam, aliás, tão gritantes como poderiam sugerir certas passagens de Riqueza das 
+Nações. O melhor é lermos o que escreve o próprio Adam Smith:
+Nas nações civilizadas e prósperas, embora um grande número de pessoas não exerça qualquer actividade e muitas delas consumam o produto de dez vezes, frequentemente de cem 
+vezes, mais trabalho do que aquelas que as exercem, ainda assim o produto de todo o trabalho da sociedade é tão grande que, em geral, se encontram abundantemente providas, 
+e um trabalhador, ainda que da classe mais baixa e mais pobre, se for frugal e industrioso, poderá usufruir de uma quota-parte maior de bens necessários à vida e ao conforto 
+do que qualquer selvagem. 59
+É ainda Smith quem escreve:
+O estômago do rico está em proporção com os seus desejos e não comporta mais que o do aldeão grosseiro. (...) Uma mão invisível parece forçá-los [aos ricos] a concorrer para 
+a mesma distribuição das coisas necessárias à vida que se teria verificado se a terra tivesse sido dada em igual porção a cada um dos seus habitantes; e assim, sem ter essa 
+intenção, sem mesmo o saber, o rico serve o interesse social e a multiplicação da espécie humana. A Providência, distribuindo, por assim dizer, a terra entre um pequeno número 
+de homens ricos, não abandonou aqueles a quem parece ter-se esquecido de atribuir um lote, e eles têm a sua parte em tudo o que ela produz. (...) Quanto ao que constitui a 
+verdadeira felicidade, não são inferiores em nada àqueles que parecem colocados acima deles. Todos os escalões da sociedade estão ao mesmo nível pelo que respeita ao bem-estar 
+do corpo e à serenidade da alma, e o mendigo que se aquece ao sol ao longo de uma sebe possui ordinariamente aquela tranquilidade que os reis sempre perseguem 60.[sublinhado 
+nosso]
+Dominado pela visão fisiocrática de uma sociedade que funciona perfeitamente por si, como um ‘organismo natural’ — na qual não deve tocar-se para a não descontrolar —, Smith 
+alicerça a sua filosofia social em dois valores fundamentais: a confiança no sistema de liberdade natural e a aceitação da justiça realizada pela mão invisível. E não se ‘comove’ 
+com as desigualdades: aos pobres
+59 Cfr. Riqueza das Nações, I, 70/71.
+60 Trecho da Theory of Moral Sentiments, apud H. DENIS, Histoire..., cit., 191.
+40
+41
+pertence a serena e tranquila felicidade de poderem aquecer-se ao sol ao longo de uma sebe, felicidade que os reis sempre perseguem...
+10- Referências
+ARAÚJO, Fernando. Adam Smith – O conceito mecanicista de liberdade Coimbra: Almedina,, 2001. BLAUG, Mark. História do Pensamento Económico. vol. I.[S.I.: s.n.], 1989. DENIS, 
+Henri. Histoire de la Pensée Économique. 2ª ed. Paris: PUF, 1977. DOBB, Maurice. Teorias do Valor e Distribuição desde Adam Smith. Lisboa: Presença, 1977. LARANJEIRO, Carlos. 
+Capital, juro e lucro. Boletim de Ciências Económicas. Coimbra, 1985. MARX, Karl. Grundrisse, trad. franc.,vol. 1 (“Chapitre de l’Argent”), Union Générale d’Éditions, Éditions 
+Anthropos, Col. 10/18, Paris, 1968. _____ O Capital. Vol. II. Lisboa: Avante, 1983. MEEK, Ronald. Economia e ideologia. Barcelona: Ariel, 1972. _____ Studies in the Labour 
+Theory of Value. 2ª ed. Londres: Lawrence and Wishart, 1979. NAPOLEONI, Claudio. Fisiocracia, Smith. Barcelona: Oikos-Tau, 1974; _____. O valor na ciência econômica. Lisboa: 
+Ed. Presença, 1980; _____. Discorso sull’economia politica. Turim: Boringhieri, 1985. SOARES, Rogério. Direito Público e Sociedade Técnica. Coimbra: Atlântida, 1969. SCHUMPETER, 
+Joseph. Historia del Analisis Econômico. Barcelona: Ed. Ariel, 1971. SMITH, Adam. Riqueza das Nações. Lisboa: Ed. Fundação Calouste Gulbenkian, 1981 e 1983. 2 vols.
+41
+

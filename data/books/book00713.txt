@@ -1,0 +1,314 @@
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+PHILOSOPHY OF TECHNOLOGY, 1975-1995
+
+Don Ihde, State University of New York at Stony Brook
+
+Our topic, twenty years of the philosophy of technology, I presume is
+marking two separate, but related events. First, the ostensible focus is the
+appearance of Carl Mitcham's Thinking through Technology, which expands the
+borders of the history of technology into a more intercontinental framework, both
+outward and backward. A second, somewhat vaguer reference is to the history of
+the Society for Philosophy and Technology, whose meetings go back to its pre-
+institutionalized past of twenty years.
+
+The role I want to play—but can do only retrospectively and indirectly—is
+that of “futurologist” to philosophy of technology. In doing so I want to deal with
+a perspective upon SPT, on one side, and upon what I think to be a shift of
+atmosphere regarding technologies on the other.
+
+RETROSPECTIVE
+
+If what was to become the Society for Philosophy and Technology began
+in l975 (organized fully only in l981), I cannot claim to have been a charter
+member. My first meeting was as a respondent to a retrospective on Hans Jonas's
+work some half a decade after the first SPT meetings. Perhaps that made me a
+loner in the field of philosophy of technology because I had begun to write about
+technology and technologies shortly after my dissertation (l964), began to publish
+articles on philosophy of technology as early as l974, and subtitled Technics and
+Praxis (l979) a “philosophy of technology.”
+
+The period from the mid-sixties through the seventies was one which saw
+quite a lot of revolutionary proliferation within North American philosophy. The
+“Continentals” formed the Society for Phenomenology and Existential Philosophy
+(SPEP) in l962; trailing not too far behind were the feminists with the Society for
+Women in Philosophy (SWIP); and in the same period, roughly, the origins of the
+Society for Philosophy and Technology (SPT). I mention these three because
+each in different ways was initially marginal with respect to special interests not
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+often dealt with within the dominant Anglo-American philosophical establishment
+or the American Philosophical Association.
+
+The overall intellectual milieu in the mid-sixties through the seventies was
+one which had to address the Vietnam War, the growing sense of threats to the
+global environment, and the rise of feminist, racist, and classist issues in the
+overall atmosphere of the Cold War.
+
+We are now at the cusp of the 90s, and the global scene has vastly
+changed. The Vietnam War is over (lost); global communism has collapsed and
+with it the dominance of Cold War issues; capitalism is reascendent; and, in a
+shift from the presumed liberal politics of the earlier decades, there has been a
+revival of ethnic nationalisms, reactionary politics, and neo-conservatism.
+
+My first question relates to how the revolutionary organizations in
+philosophy which sprang up in the sixties and seventies have fared within this
+shift? With both SPEP and SWIP the answer has to be thrivingly. Since its
+beginnings, SPEP has quadrupled in size—it now claims l400 members; its
+conferences typically have up to eight concurrent sessions with papers selected
+from even larger numbers of contributors. It has had a kind of competitive
+internal pluralism of the varieties of Continental philosophies running from
+phenomenology through critical theory through the now most fashionable
+postmodernists and Continental feminists. And it has undergone a generational
+shift of leadership which is dominated by those considerably younger than the
+founding membership. Similar developments have occured with SWIP, which
+claims 2000 members, and the various feminist philosophical movements which
+contain "empiricist," "standpoint," and "postmodernist" feminists among them.
+The same cannot be said of SPT, which still lists under 300 members and whose
+leadership largely consists of the same faces I saw when I joined in l981. In short,
+SPT's trajectory has not matched that of its only slightly older sister
+organizations. What does this have to say about philosophy of technology, twenty
+years after?
+
+This is not to say that there are lacking some positive characteristics
+within the single institutional embodiment of a philosophical society focused upon
+technology.
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+STP, like its sister organizations, is pluralistic. Its Deweyans, Ellulians,
+Marxians, and Heideggerians all come together in pluralistic conversation.
+
+STP has also taken on an internationalist context, first with the German
+traditions (Bad Homburg, l981), then with the Spanish speaking world (Puerto
+Rico and Spain).
+
+And its publications, while going through successive publishers, still exist
+and appear regularly. New series have also arisen as have numerous individual
+publications by SPT members, a most recent example of which is Mitcham's book
+which partially inspires this panel.
+
+But SPT, in size and dynamic, remains marginal when compared with its
+more glamorous sister organizations. Admittedly, at first glance, technology
+might seem a narrower focus than the subject matters of SPEP and SWIP, which,
+in spite of their Continental or feminist institutional perspectivalism, are broader
+than technologies as such. But, on the other hand, technologies pervade, impinge
+upon, and are related to virtually every topic which the larger organizations do
+take up.
+
+By now I find myself positioned in a delicate and possibly dangerous
+position, both an insider and an outsider with respect to SPT and its current
+dilemma. Can I give a truly critical account of some reasons for this dilemma
+without undermining or damning precisely the energies and visions which have
+kept SPT alive? I shall try.
+
+I begin by turning to the macro-thesis of Carl Mitcham’s new book,
+Thinking through Technology. The subtitle announces the theme that there are
+two broad traditions in the philosophy of technology: an engineering tradition and
+a humanities tradition. While I disagree with this binary framework, I want to
+take some serious account of it.
+
+Mitcham’s approach does show that whatever may call itself philosophy
+of technology in the late twentieth century owes its past to at least the nineteenth
+century. If he is right, that past originates mostly in Germanic contexts,
+beginning with neo-Hegelianism, but not limited to Marx or Kapp. What he
+identifies as the engineering traditions also involve neo-Kantians (Dessauer) and
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+other technically inclined philosophers at the turn of the century. There are
+several subthemes which should be noted here. (a) Most of the engineering
+tradition philosophy does not only take technology as a forefront issue, seeing the
+role of materiality in its relevance to philosophy. Kapp "materializes" bodily,
+organic functions; Marx "materializes" modes of action and production; Dessauer
+"materializes" the artifactual as the noumenon. The engineering traditions raise
+materiality to a higher role than traditional philosophies did. But (b)
+simultaneously, almost indirectly, technologies are taken as value positive. The
+tone of engineering philosophy of technology is acceptive of technology and
+technology development. Only later—particularly after World War II—do the
+necessities of (c) some political and ethical critique and response to the
+technologies of destruction get accounted for. (For example, the Association of
+German Engineers [VDI] began its ethical problems approach to technologies at
+this time.) Note that an acceptive attitude towards technologies—as already in
+place, followed by the recognition of their capacities, followed by ethical and
+political reflections which seek retroactively to respond and positively guide these
+developments—means that the philosophical role is reactive. To summarize, the
+engineering traditions tend to be technically inclined, to take technologies for
+granted, and to respond by means of ethical and political correctives to any
+negative applications.
+
+Turning to the humanities traditions among philosophies of technology,
+Mitcham chooses philosophers and broadly trained humanists who look at the
+macro-developments of technology vis-a-vis culture. These include Mumford,
+Ortega, Heidegger, and Ellul. Here the framework has a much larger scale in
+two related senses: (a) it is the whole range of technologies which (b) is examined
+in relation to changes which occur in culture or human history. This breadth
+stands in some contrast to the technicity of the engineering traditions. But it also
+implies (c) that technologies are more than material, at least insofar as they
+embody, change, or challenge cultural forms, patterns, or practices.
+
+In turn, this means that the humanities approach opens much more
+explicitly the way to cultural critique—often, perhaps too often, revealing the
+prejudices of the critic. In this context, Mumford began with a kind of techno-
+history, developing deep insights into the technology/culture interface, but as he
+aged and turned more critical he also began to develop an often distinctively
+negative critical evaluation of technologies as allowing power dimensions inimical
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+of human communities. Ortega saw the implicit destruction of the traditions of
+high culture and the enhancement of “mass man” as related to the technological
+trajectories of Europe. Heidegger's romanticism toward past forms, Greek and
+rural Germanic, often not only entered the choices of his examples, but dictated
+how modern technology could become the very metaphysical framework of late
+European civilization. And Ellul saw nature itself subsumed under “technique.”
+Here lie some of the origins of the Aufhebung of technologies to Technology with
+the capital which characterized much of mid-twentieth-century discussions of
+technology. And the critical cast of these humanists is often negative, if not
+pessimistic.
+
+Within this binary framework, Mitcham argues for the primacy of the
+humanities version among philosophies of technology and rather explicitly for the
+primacy of the critical taken in its often negative sense. But, here, I leave
+Thinking through Technology and return instead to what may be described as a
+shifting popular set of attitudes toward technologies.
+
+I first focus upon what could be called the dominant technological images
+of the mid-sixties to the early eighties and the cultural milieu associated with
+them. These technologies and the public images of them were dominantly
+military, industrial, and Big Science technologies. The times were threatening
+with the actual Vietnam War and the pervasiveness of the Cold War. School
+children huddled under desks during Civil Defense drills, the nuclear bomb,
+phallic rocketry (culminating in the explosion of Challenger and escalating all the
+way through the Reagan era Star Wars), submarines able to bombard our coasts,
+industrial equivalents culminating in the Valdez incident—all of these occupied the
+media and our consciousnesses. The generations of the late sixties and seventies
+were often taught through Marcuse’s One Dimensional Man; and
+technophobia—because of what we saw daily in our media as the display of
+technology—was not unjustified. The mega-technologies threatened our nations,
+our civilization, the environment, and our futures.
+
+Then (still following my imagistic style), in l989 there was a technological
+paradigm shift. The Berlin Wall fell and with it all the communisms except in
+China and Cuba. The Cold War, slowing into the nineties, began to have its
+military knowledge transformed into environmental knowledge. I have been
+struck—though an interest in whole earth measurements—how we suddenly have a
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+full map of the ocean floors, of global temperature and ocean level changes, all
+displayed in global images previously available only to the military. Instead of
+hiding under desks, school children run computers in video games, in math
+program puzzles, in learning to touch type in the third and fourth grades. The
+supertankers are still with us—now perceived as negative, dynosauric throwbacks
+to mega-industrial technologies. But they are upstaged by the internet, by
+technology stocks, and by arguments over computer porn. Find, if you will,
+amongst our high schoolers or even our elementary schoolers, any vast collection
+of technophobes. Instead, I suggest, you will find star and space gazing,
+computer literate students (or more, hackers), who are technophilic. In short, the
+atmosphere has changed. It may be as naive, as overstated, as positively hyped
+now as it was negatively in the previous period, but it has changed nevertheless.
+Regarding technologies, the cultural milieu is one distinctly different from that of
+even a decade ago.
+
+One more detour. After the collapse of communism, the quip that the
+only Marxists left were those to be found in humanities faculties might be partly
+true. But, since this previously proliferous breed has a fairly substantial
+population, the question is, what has happened to them? The answer, I think, is
+that many have adapted to new situations and new causes. They now staff the
+barricades of the “culture wars,” defending the newly named proletariats of the
+gender marginalized, the previously colonialized, the racially oppressed, and
+analyzing the symptomatology of popular culture under the heading of Cultural
+Studies. In short, academic Marxists have adapted and re-addressed problems
+within a new milieu.
+
+Returning now to SPT, have we done the same thing? Are we addressing
+the new milieu? Or are we continuing the same themes arising out of Ellul,
+Heidegger, and Marcuse? And—although discussion of alternative technologies,
+“small is beautiful,” and the often neo-paternalism of low-tech appropriate
+technology for Third (in contrast to First) World cultures has receded—does the
+same humanistic macro-dystopiansim still provide the umbra for SPT
+programming? Are we still where we were a decade or two decades ago?
+
+PROSPECTIVE
+
+When I began, I suggested I would like to play the role of futurologist to
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+the retrospective. To do so is obviously to not very subtly turn towards the
+imperative. But the first step in such a turn may be one of descriptive analysis.
+Thus I turn first to a series of dimensional shifts which seem to me have occured.
+
+Science: Cold War science was obviously the science which could be of
+use to the militarists and defense industries which dominated the period before the
+nineties. Thus physics, already long the mega-science of modernity, and the
+related engineering sciences, with spin-offs into marine, atmospheric, and
+geological sciences, were favored.
+
+With the milieu shift, this range of sciences has experienced some of the
+most severe cuts (e.g., the Supercollider); has had to redirect its energies (uses of
+sub-oceanic mapping, submarine low-frequency signaling, satellite photography to
+detect climate changes—all made public for scientific uses); and worries about its
+future (Science magazine worries about the future of the science doctorate.)
+Some of its attempts to recapture mega-dollar research initiatives—such as the
+proposed multi-billion dollar asteroid defense utilizing SDI capacities—are merely
+pathetic.
+
+This pause in Big Science growth on the physics side has opened the
+opportunity for a second set of sciences to be forefronted. I refer to the biological
+sciences now, with DNA/RNA and associated gene splicing and other
+biotechnologies the new romanticized frontiers. As this occurs the usual
+tendencies for greatly hyped, utopian projections again emerge as a new and
+untried front. The identification of two breast cancer genes seems to suggest a
+cure is around the corner. The introduction of human genetic material into
+“Herman the Bull” to breed cattle less likely to cause lactose allergies seems to
+suggest we can have designer plants and animals for all purposes. Thus scientific
+utopianism re-invents itself on the new frontiers.
+
+Industry: I have already suggested that the glamorous technologies of
+industry have also shifted. Mega-tankers and tree-cutters are the remnant bad
+technologies, while the high technologies (ranging from computers, the network,
+high definition television, and satellite communications to scanning systems) and
+the exploding spectrum of imaging processes (from digital photography through
+MRI and PET scans, to acoustical technologies) now capture the imagination in
+science, entertainment, and even the home media center. These are the new good
+
+PHIL & TECH 1:1&2 Fall 1995 Philosophy of Technology, 1975-1995
+
+technologies which connect peoples, companies, and universities together. These
+information technologies, their proponents argue, are unlike the previous
+industrial megatechnologies.
+
+Cultures: All late modern technologies, the bad, the good, the ugly and
+the beautful, have brought together the world's cultures, religions, and ethnic
+groups. The results span the full spectrum from the tragic to the comic. For the
+moment, gone are the superpower wars or the fears of superpower wars.
+Replacing them are the varieties of terrorisms, from the threat of nationalistic
+fundamentalisms to the home grown variety of anarchistic militias. But equally
+and alongside these are the new transformations which occur within secular
+pluralistic settings.
+
+Politics: The new context is one of emergent extremism, and not only in
+our “Gingrich Revolution.” (How can a step backward be called a “revolution”?
+Shouldn't it be called a “retrogression”)? Is the newly emergent ideological
+freneticism itself a creation of media saturation?
+
+Much has changed, and while I have no time to trace out the particulars,
+do not many of the changes relate to the contexts of our technologically saturated
+times? What non-neutral roles do the communications networks, the media with
+their imaging, play in the situating of each of these dimensions? Surely these are
+tasks for the philosopher of technology, and tasks which call for much more
+refined and particularistic analyses than those allowed under the too high altitude
+and too vast generalizations of "standing reserve," the victory of "technique," and
+the "alienation of labor."
+
+In short, this cultural-attitudinal shift calls for a rethinking by
+philosophers of technology of both the subject matters which get addressed, and of
+the terms of a balance between the hyped utopian and dystopian temptations of
+both the past and the present. In one sense this recommendation is very
+traditional. It is simply a call for balanced, critical, and reflective thought about
+where we are in today's technologically saturated world.
+
+

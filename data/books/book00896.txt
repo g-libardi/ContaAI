@@ -1,0 +1,25 @@
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+<html>
+<head>
+<title>VISIONVOX</title>
+</head>
+<body>
+    <font color="black">
+<p style="text-align: center">
+<img src="http://www.visionvox.com.br/visionvox.jpg" align="center" height="328" width="473" alt="A capa de um livro, com um olho no centro e abaixo escrito Visionvox" />
+</p>
+Desculpe, esse link não está funcionando no momento.<br>
+Informe seu e-mail abaixo para que nós possamos saber desse problema e corrigi-lo.<br>
+<p>
+<form action="erro.php" method="POST">
+                                <input type="hidden">
+<input type="email" required="required" class="input-text" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+<input name="submit" type="submit" value=" Enviar ">
+                              </form>
+<p>
+<center><b>2009-2021 Visionvox</b></center>
+</font>
+</body>
+</html>
+

@@ -1,0 +1,1828 @@
+ÁREAS DE PRESERVAÇÃO PERMANENTE
+NO NOVO CÓDIGO FLORESTAL
+
+Direção Editorial
+
+Lucas Fontella Margoni
+
+Comitê Científico
+
+Prof. Patrícia Fontanella, Msc
+Universidade do Sul de Santa Catarina (UNISUL)
+
+Prof. Hernani Luiz Sobierajski, Msc.
+Universidade do Sul de Santa Catarina (UNISUL)
+
+ÁREAS DE PRESERVAÇÃO PERMANENTE
+NO NOVO CÓDIGO FLORESTAL
+(In) constitucionalidade à luz do
+estado socioambiental
+
+Deiser Mara Rezende Cardoso
+
+f
+
+Diagramação e capa: Lucas Fontella Margoni
+Arte de capa: witchoria-15
+
+O padrão ortográfico, o sistema de citações e referências bibliográficas são
+prerrogativas do autor. Da mesma forma, o conteúdo da obra é de inteira e
+exclusiva responsabilidade de seu autor.
+
+Todos os livros publicados pela Editora Fi
+estão sob os direitos da Creative Commons 4.0
+https://creativecommons.org/licenses/by/4.0/deed.pt_BR
+
+http://www.abecbrasil.org.br
+
+Dados Internacionais de Catalogação na Publicação (CIP)
+CARDOSO, Deiser Mara Rezende.
+
+Áreas de preservação permanente no novo código florestal: (in) constitucionalidade à luz
+do estado socioambiental [recurso eletrônico] / Deiser Mara Rezende Cardoso - Porto
+Alegre, RS: Editora Fi, 2017.
+
+63 p.
+
+ISBN - 978-85-5696-222-5
+
+Disponível em: http://www.editorafi.org
+
+1. Estado Socioambiental 2. Código Florestal 3. Áreas de Preservação Ambiental
+4. Controle de Constitucionalidade. I. Título.
+
+CDD-340
+Índices para catálogo sistemático:
+1. Direito 340
+
+À minha família pelo apoio incondicional. Em especial,
+a minha Elisa pela inspiração e pela contínua
+renovação do sopro da vida.
+
+AGRADECIMENTOS
+
+Agradeço a Deus pela companhia constante e por não ter
+permitido que eu desistisse de concluir o trabalho.
+A todos os professores do curso de especialização por
+terem compartilhado o conhecimento e a experiência acerca da
+aplicação do Direito Ambiental. E, a Universidade do Sul de Santa
+Catarina, através de sua capilaridade, agradeço por ter
+proporcionado a participação no curso de especialização.
+
+SUMÁRIO
+
+1 INTRODUÇÃO .................................................................................................................. 13
+
+2. O DESPERTAR PARA A TUTELA DO MEIO AMBIENTE............................................................ 17
+2.1 A TUTELA DO DIREITO AO MEIO AMBIENTE NO BRASIL ................................................. 17
+2.2 ESTADO SOCIOAMBIENTAL.......................................................................................... 21
+2.2.1 DELIMITAÇÃO CONCEITUAL....................................................................................... 21
+2.2.2 PRINCÍPIOS AMBIENTAIS E AS ÁREAS DE PRESERVAÇÃO PERMANENTE ...................... 24
+
+3. O CÓDIGO FLORESTAL E AS ÁREAS DE PRESERVAÇÃO PERMANENTE .................................... 31
+3.1 A IMPORTÂNCIA DE UM CÓDIGO FLORESTAL PARA A TUTELA DO MEIO AMBIENTE .......... 31
+3.2 A REVISÃO DO CÓDIGO FLORESTAL E OS INTERESSES ENVOLVIDOS NA APROVAÇÃO DA LEI
+12.651/12 ...................................................................................................................... 32
+3.3 ÁREAS DE PRESERVAÇÃO PERMANENTE: CONCEITO, FUNÇÕES AMBIENTAIS E TRATAMENTO
+NO CÓDIGO FLORESTAL REVOGADO E NO VIGENTE. ............................................................ 35
+
+4. A (IN) CONSTITUCIONALIDADE DA LEI 12.651/12 NO TOCANTE ÀS ÁREAS DE PRESERVAÇÃO
+PERMANENTE..................................................................................................................... 41
+4.1 O RETROCESSO DE PROTEÇÃO AMBIENTAL EM RELAÇÃO ÀS ÁREAS DE PRESERVAÇÃO
+PERMANENTE................................................................................................................... 41
+4.2 A (IN)CONSTITUCIONALIDADE DA LEI 12.651/12 ......................................................... 45
+4.3 A INDEFINIÇÃO ACERCA DA (IN)CONSTITUCINALIDADE E AS ÁREAS DE PRESERVAÇÃO
+PERMANENTE 5 ANOS APÓS A LEI 12.651/12 ................................................................... 50
+
+5. CONCLUSÕES ................................................................................................................. 55
+
+REFERÊNCIAS..................................................................................................................... 59
+
+1
+INTRODUÇÃO
+
+Sabidamente a Constituição Federal de 1988 é o marco
+normativo mais importante e revolucionário da vida do brasileiro
+nos últimos tempos. Além da consagração de diversos direitos
+individuais e sociais como fundamentais, a carta constitucional
+previu o direito ao ambiente como um direito fundamental das
+presentes e das futuras gerações e consagrou a proteção ambiental
+como um dos objetivos e tarefas fundamentais do Estado.
+Uma leitura das disposições constitucionais, especialmente,
+registradas no artigo 225, revela que o constituinte se preocupou
+com diversos aspectos protetivos relacionados às áreas essenciais,
+aos processos ecológicos e ao equilíbrio do ecossistema. Muitos
+estudos em direito ambiental demonstram que a proteção ao meio
+ambiente operada em imóveis públicos não é suficiente para
+preservação da biodiversidade e para garantir o meio ambiente
+ecologicamente equilibrado. Com base nestes estudos é que ressai
+a justificativa da pesquisa sobre o regime de proteção das áreas de
+preservação permanente nas propriedades individuais.
+O código florestal é o que disciplina as principais nuances
+acerca da preservação da mata nativa, dos deveres e das
+responsabilidades em relação ao descumprimento das normas
+ambientais. Neste corpo normativo, as áreas de preservação
+permanente figuram como um dos principais instrumentos de
+proteção da vegetação nativa. São, em termos gerais, os espaços de
+proteção urbano ou rural que devem ser resguardados de qualquer
+intervenção ou manejo econômico pelo proprietário do imóvel. No
+ano de 2012 o Congresso Nacional estabeleceu um novo regime de
+proteção destas áreas pela lei 12.651/2012.
+À primeira vista, a promulgação de um novo marco inspira
+na comunidade jurídica e na sociedade a ideia de que as normas
+atuais são mais consentâneas com o sistema constitucional. Nada
+obstante, a ideia de que o novo código é melhor e conforme às
+disposições da Constituição Federal de 1988 não necessariamente é
+
+14 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+verdadeira. Nem sempre o legislador infraconstitucional observa
+os limites de regulação dos direitos previstos na Constituição e,
+muito menos, a tarefa de dar progressiva efetividade e densidade
+aos direitos fundamentais. Nestes termos, se destaca a relevância
+do estudo. O legislador promoveu alterações no regime das áreas
+especialmente protegidas e é de suma importância investigar se
+este novo regime é validado pela carta constitucional.
+A fim de apresentar uma resposta à questão proposta, a
+pesquisa utilizará o método de abordagem qualitativo e dialético
+das fontes estudadas. Como técnica, se recorrerá a pesquisa
+bibliográfica e a técnica de comparação para identificar o
+tratamento das áreas de preservação permanente na legislação
+atual e na revogada.
+Na pesquisa como objetivo geral pretende-se analisar
+criticamente as novas disposições do Código Florestal (lei
+12.651/2012) no tocante à área de preservação permanente e
+identificar a eventual adequação destas disposições ao paradigma
+constitucional de proteção ambiental. Como objetivos específicos
+busca-se (i) identificar as principais características e princípios do
+Estado Socioambiental; (ii) estudar o tratamento legislativo
+contemporâneo das áreas de preservação permanente, fazendo um
+contraponto geral com o tratamento dado a este instituto na
+legislação pretérita; (iii) analisar a constitucionalidade do atual
+tratamento legislativo dado ao instituto em questão.
+O conteúdo do trabalho é desenvolvido em três partes. Na
+primeira, propõe-se o estudo da tutela do direito ao meio ambiente
+no Brasil e o do marco teórico do Estado Socioambiental. Este
+marco teórico será explorado a partir das lições de Sarlet e
+Fenterseifer (2013), e da percepção de que o meio ambiente
+ecologicamente equilibrado é um direito fundamental de natureza
+difusa, pertencente aos presentes e às futuras gerações, que há de
+ser protegido e realizado pelo Estado e por toda a coletividade.
+Em mira do paradigma de proteção ambiental, em um
+segundo momento, busca-se demonstrar a importância que o
+
+DEISER MARA REZENDE CARDOSO | 15
+
+constituinte conferiu às áreas de preservação permanente e a
+relação destas áreas com o código florestal. Com este objetivo foi
+proposta a análise acerca da importância de um marco florestal, do
+contexto da revisão na norma de 1965 e do tratamento normativo
+das áreas de preservação existente no diploma revogado e no atual.
+E, por fim, na parte final, pretende-se analisar se as novas
+disposições acerca da área de preservação permanente passam pelo
+crivo do controle de constitucionalidade e realizam o direito
+fundamental ao meio ambiente ecologicamente equilibrado. Para
+tanto, apresenta-se algumas considerações científicas sobre os
+impactos ambientais das alterações empreendidas pela nova
+legislação e algumas ponderações sobre a constitucionalidade das
+alterações com o reforço argumentativo da análise da ação direita
+de inconstitucionalidade de n. 4903.
+
+2
+O DESPERTAR PARA A TUTELA DO MEIO AMBIENTE
+
+2.1 A TUTELA DO DIREITO AO MEIO AMBIENTE NO BRASIL
+
+No ordenamento jurídico brasileiro, até a segunda metade
+do século XX, o meio ambiente não recebeu um tratamento
+jurídico autônomo. Os bens ambientais eram tutelados na medida
+da relação com os bens privados “com maior intento de proteger o
+interesse privado e financeiro do bem pertencente ao indivíduo”
+(RODRIGUES, 2011, p. 20).
+A mudança de perspectiva na tutela começou a ocorrer a
+partir dos movimentos globais em torno da proteção ao meio
+ambiente e da conscientização acerca da crise ambiental de
+natureza “multifacetária e global, com riscos ambientais de toda
+ordem e natureza: contaminação da água que bebemos, do ar que
+respiramos e dos alimentos que ingerimos [...]” (BENJAMIN, 2011,
+p- 80).
+No âmbito normativo, a mobilização em torno do meio
+ambiente repercutiu na elaboração de normas emblemáticas como,
+por exemplo, a Declaração de Estocolmo das Nações Unidas sobre
+Meio Ambiente Humano (1972), o relatório Brundtland, Nosso
+Futuro Comum (1987), o Protocolo de San Salvador adicional à
+Convenção Americana sobre Direitos Humanos em Matéria de
+Direito Econômicos, Sociais e Culturais (1988), etc. A partir destes
+movimentos internacionais, a preocupação com a questão
+ambiental também tomou conta das Constituições nacionais. Como
+destacado por Benjamin (2011, p- 81-82):
+
+Olhando em volta, é seguro dizer que a constitucionalização do
+ambiente é uma irresistível tendência internacional, que coincide
+com o surgimento e consolidação do Direito Ambiental [...].
+Nessa evolução acelerada, numa primeira onda de
+constitucionalização ambiental, sob a direta influência da
+Declaração de Estocolmo de 1972, vieram as novas Constituições
+dos países europeus que se libertavam de regimes ditatoriais,
+
+18 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+corno a Grécia (1975)14, Portugal (1976) e Espanha (1978).
+Posteriormente, num segundo grupo, ainda em período
+fortemente marcado pelos padrões e linguagem de Estocolmo, foi
+a vez de países como o Brasil. Finalmente, após a Rio-92, outras
+Constituições foram promulgadas ou reformadas, incorporando,
+expressamente, novas concepções, como a de desenvolvimento
+sustentável, biodiversidade e precaução. O exemplo mais recente
+deste grupo retardatário é a França, que em 2005 adotou sua
+Charte de j'environnementI •
+
+No Brasil, em que pese ausência de normas com a previsão
+de proteção integral e global dos bens ambientais, entre os anos de
+1950 a 1980, é possível identificar uma preocupação maior do
+legislador com os recursos ambientais através da edição de
+diplomas como o código florestal, de 1965; os códigos de caça, de
+pesca e de mineração, todos de 1967; a lei da responsabilidade por
+danos nucleares, de 1977; a lei do zoneamento industrial nas áreas
+críticas de poluição, de 1980 e a lei de agrotóxicos, de 1989.
+A proteção integral e valorativa ao meio ambiente somente
+veio a ser tratada com a lei da política nacional do meio ambiente
+(lei 6.938/81). Nesse sentido, as ponderações de Benjamin (1999 p.
+41-91):
+
+Indicando uma (re)orientação radical de rumo, aparece a Lei da
+Política Nacional do Meio Ambiente (1981), dando início à fase
+holística, na qual o ambiente passa a ser protegido de maneira
+integral, vale dizer, como sistema ecológico integrado
+(resguardam-se as partes a partir do todo) e com autonomia
+valorativa (é, em si mesmo, bem jurídico). Só com a Lei 6.938 de
+1981, portanto, é que verdadeiramente tem início a proteção
+ambiental como tal no Brasil, indo o legislador além da tutela
+dispersa, que caracterizava o modelo fragmentário até então
+vigente. Afastando-se da metodologia de seus antecessores
+legislativos, a lei não só estabeleceu os princípios, objetivos e
+instrumentos da Política Nacional do Meio Ambiente, como ainda
+incorporou, de vez, no ordenamento jurídico brasileiro o Estudo
+de Impacto Ambiental, instituindo, ademais, um regime de
+responsabilidade civil objetiva para o dano ambiental, sem falar
+
+DEISER MARA REZENDE CARDOSO | 19
+
+que lhe coube conferir ao Ministério Público, pela primeira vez,
+legitimação para agir nessa matéria.
+
+Encampando as principais normas internacionais acerca do
+tema e acompanhando as diretrizes introduzidas pela lei
+6.938/1981, o constituinte brasileiro de 1988 conferiu uma
+proteção especial ao meio ambiente em diversos dispositivos
+constitucionais. O legislador originário no caput do artigo 225
+previu que se garantisse a todas as gerações as mesmas condições
+ambientais para uma existência digna. Firmou-se, assim, um
+direito fundamental difuso de terceira geração.
+
+[...] O direito à integridade do meio ambiente – típico direito de
+terceira geração constitui prerrogativa jurídica de titularidade
+coletiva refletindo, dentro do processo de afirmação dos direitos
+humanos, a expressão significativa de um poder atribuído, não ao
+indivíduo identificado em sua singularidade, mas, num sentido
+verdadeiramente mais abrangente, a própria coletividade social.
+[...]os direitos de terceira geração, que materializam poderes de
+titularidade coletiva atribuídos genericamente a todas as
+formações sociais, consagram o princípio da solidariedade e
+constituem um momento importante no processo de
+desenvolvimento, expansão e reconhecimento dos direitos
+humanos, caracterizados, enquanto valores fundamentais
+indisponíveis, pela nota de uma essencial inexauribilidade
+(BRASIL, 1995, p – 1176-1177)
+
+Para além de um direito essencial à vida humana, com a
+previsão da garantia dos processos ecológicos essenciais e do
+equilíbrio ambiental, o constituinte abarcou no âmbito protetivo da
+norma todas as formas de vida. Reforçando o espírito já presente
+na lei 6.938/1981, o constituinte estabeleceu que a proteção global
+e sistêmica do meio ambiente não se reduz “à defesa isolada dos
+componentes ambientais naturais (ar, luz, água, solo vivo e
+subsolo, flora, fauna) ou dos componentes humanos (paisagem,
+património natural e construído, poluição)” (CANOTILHO, 2001, p-
+12).
+
+20 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+No intuito de promover a responsabilização em relação às
+questões ambientais, o constituinte dispôs que o dever de proteção
+caberia ao Estado, aos indivíduos e toda a sociedade. Previu para o
+Estado os principais deveres positivos e negativos para com a
+proteção ambiental (art. 225, § 1 ), mas não deixou de estabelecer
+freios à socialização dos custos ambientais com a previsão (i) da
+educação ambiental voltada para a participação democrática
+consciente (art. 225, § 1 , VI), (ii) dos instrumentos processuais de
+proteção (art. 5º, inciso LXXIII, art. 129, III, art. 5º, LXX, art. 5º,
+LXXI, (iii) da função social ambiental da propriedade (art. 170, III,
+VI e 186, LI) e (iv) da responsabilização dos agentes privados
+coletivos e individuais pela degradação ambiental (art. 225, § 3 ).
+Como asseverado por Benjamin (2011, p- 86), a
+Constituição Federal estabeleceu “um novo paradigma ético-
+jurídico, que é também político-econômico”. A partir desta nova
+conjuntura, a atuação estatal passou a ter mais limites do que tinha
+antes com a obrigação de zelar pelo equilíbrio ecológico tanto no
+tocante à produção das normas, quanto na elaboração de políticas
+públicas e na fiscalização do cumprimento das normas ambientais.
+
+[...] os deveres de proteção ambiental conferidos ao Estado
+vinculam os poderes estatais ao ponto de limitar a sua liberdade
+de conformação na adoção de medidas – administrativas e
+legislativas - voltadas à tutela do ambiente. Há, portanto, uma
+clara limitação imposta ao Estado-Administrador e ao Estado-
+Legislador, cabendo ainda ao Estado-Juiz fiscalizar a
+conformidade da atuação dos demais poderes aos padrões
+constitucionais e infraconstitucionais de proteção ambiental.
+(SARLET E FENSTERSEIFER 2010, p -3-4)
+
+E, em sentido semelhante, o agir individual e a atuação dos
+agentes privados passou a ter um novo paradigma focado no dever
+de não degradar e na obrigação geral de respeito ao meio ambiente
+como um todo, compreendendo não só as dimensões da vida
+humana como também os processos e funções ecológicas
+
+DEISER MARA REZENDE CARDOSO | 21
+
+essenciais. Sem sombra de dúvidas, o constituinte propôs um
+modelo de Estado com uma nova feição relacionada ao princípio de
+proteção ambiental. Na próxima seção segue-se o estudo das
+principais características deste modelo proposto pelo constituinte.
+
+2.2 ESTADO SOCIOAMBIENTAL
+
+2.2.1 Delimitação conceitual
+
+Muitos autores voltados para o estudo da questão
+ambiental formulam concepções para denominar o modelo de
+Estado contemporâneo que incorpora o princípio de proteção
+ambiental. No Brasil, Sarlet e Fensterseifer (2014) identificam este
+Estado como uma evolução do Estado social, porquanto um Estado
+Socioambiental. Já o autor português Canotilho prefere definir este
+modelo como de Estado Constitucional Ecológico ou Estado
+Ambiental.
+
+A qualificação de um Estado como «Estado ambiental» aponta
+para duas dimensões jurídico-políticas particularmente
+relevantes. A primeira é a obrigação de o Estado, em cooperação
+com outros Estados e cidadãos ou grupos da sociedade civil,
+promover políticas públicas (económicas, educativas, de
+ordenamento) pautadas pelas exigências da sustentabilidade
+ecológica. A segunda relaciona-se com o dever de adopção de
+comportamentos públicos e privados amigos do ambiente de
+forma a dar expressão concreta à assumpção da responsabilidade
+dos poderes públicos perante as gerações futuras
+(CANOTILHO,1999, p-44)
+
+No presente trabalho, prefere-se a denominação do Estado
+Socioambiental por trazer implícita a ideia de que a proteção ao
+meio ambiente está associada à realização mínima dos direitos
+humanos e a garantia de interação e de gozo sustentável do meio
+ambiente. Neste contexto, o princípio de proteção é compreendido
+em conjunto com o desenvolvimento sociocultural e fisiológico da
+
+22 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+vida humana e com a integridade do meio ambiente. Nas palavras
+de Sarlet e Fensterseifer (2014, p- 119-120)
+
+A proteção ambiental, portanto, está diretamente relacionada à
+garantia dos direitos sociais, já que o gozo desses últimos é
+dependente de condições ambientais favoráveis, como, por
+exemplo, o acesso à água potável ( através de saneamento básico,
+que também é direito fundamental social integrante do conteúdo
+do mínimo existencial), à alimentação sem contaminação química
+(por exemplo, de agrotóxicos e poluentes orgânicos persistentes),
+a moradia em área que não apresente poluição atmosférica
+hídrica ou contaminação do solo ( como, por exemplo, na
+cercania de áreas industriais) ou mesmo riscos de desabamento
+(como ocorre no topo de morros desmatados e margens de rios
+assoreados).
+
+Independentemente da denominação utilizada, certo é que
+o constituinte brasileiro buscou estruturar um modelo de Estado
+escorado na experiência e normas internacionais acerca da questão
+ambiental. Como salientado por Benjamin (2011, p- 86-87) extrai-
+se do texto constitucional, assim como de outras constituições
+ambientais jurígenas, (i) uma compreensão sistêmica e autônoma
+do meio ambiente; (ii) um compromisso ético com a perpetuação
+com as formas de vida no planeta; (iii) o rearranjo do domínio
+sobre os recursos ambientais, a propriedade individual e as
+atividades econômicas; (iv) a participação democrática nas
+decisões de maior impacto ambiental e a (v) a incorporação de
+instrumentos de proteção e de responsabilização dos sujeitos
+degradadores do meio ambiente. Como asseverado por Sarlet e
+Fensterseifer (2012, p -133-134):
+
+O atual projeto normativo-constitucional do Estado
+(Socioambiental!) de Direito brasileiro, delineado pela Lei
+Fundamental de 1988, conforma um Est ado “guardião e amigo”
+dos direitos fundamentais, estando, portanto, todos os poderes e
+órgãos estatais vinculados a concretização dos direitos
+fundamentais, especialmente no que guardam uma direta relação
+
+DEISER MARA REZENDE CARDOSO | 23
+
+com a dignidade da pessoa humana. Tal perspectiva coloca para o
+Estado brasileiro, além da proibição de interferir (de maneira
+ilegítima) no âmbito de proteção de determinado direito
+fundamental, também a missão constitucional de proteger e
+promover os direitos fundamentais, mediante medidas de caráter
+positivo (prestacional). Assim, em maior ou menor medida, todos
+os Poderes Estatais, representados pelo Executivo, pelo
+Legislativo e pelo Judiciário (incluindo, no âmbito das atribuições,
+as funções essenciais a Justiça, como e o caso do Ministério
+Público, da Defensoria Pública e da Advocacia Pública), estão
+constitucionalmente obrigados, na forma de deveres de proteção e
+promoção ambiental, a atuar, no âmbito da sua esfera
+constitucional de competências, sempre no sentido de obter a
+maior eficácia e efetividade possível dos direitos e deveres
+fundamentais ecológicos.
+
+No entanto, os desafios na consolidação deste modelo de
+Estado são muitos porque o próprio poder público, muitas vezes, a
+depender do modelo econômico adotado, atua como o principal
+degradador ambiental.
+
+Pelo menos três formas de participação estatal na destruição
+ambiental podem ser identificadas. De um lado, o Poder Público
+causa degradação direta do meio ambiente - é o Estado
+empreendedor; ele próprio envolvido, sozinho ou em associação,
+na construção de empreendimentos degradadores, como
+hidrelétricas, hidrovias, rodovias, aeroportos, portos e
+assentamentos rurais (= Estado degradador-agente). Entretanto,
+na maioria dos casos o papel do Estado é mais discreto, na
+modalidade de degradador indireto, p. ex., quando
+comissivamente apoia ou legitima projetos privados, seja com
+incentivos tributários e crédito, seja com a expedição de
+autorizações e licenças para poluir (= Estado degradador-
+conivente). Uma terceira modalidade de degradação ambiental
+estatal, também enviesada e dissimulada, só que por omissão,
+aparece quando o Estado despreza ou cumpre insatisfatoriamente
+suas obrigações de fiscalização e aplicação da legislação ambiental
+(= Estado degradador-omisso), fraquejando na exigibilidade de
+instrumentos preventivos (EPIA-RIMA, p. ex.) ou na utilização de
+
+24 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+mecanismos sancionatórios e reparatórios. As razões, para tanto,
+são as mais variadas, indo do cooptação ao estrangulamento por
+falta de recursos financeiros, técnicos e humanos, da
+incompetência técnica à debilidade de vontade política
+(BENJAMIN, 2011, p- 135-136).
+
+Ademais disso, a concretização acerca da proteção
+ambiental contrasta com as grandes desigualdades
+socioeconômicas e com a tradição da exploração ilimitada dos bens
+ambientais ainda tão presente na sociedade brasileira. No entanto,
+este histórico nacional de desigualdades e de não preservação
+ambiental só reforça a importância do estudo ora proposto.
+
+2.2.2 Princípios ambientais e as áreas de preservação permanente
+
+Diversos princípios ambientais dão suporte ao Direito
+Ambiental e integram o arcabouço normativo do Estado
+Socioambiental brasileiro. Muitos foram consagrados na legislação
+infraconstitucional pretérita à Constituição é o caso, por exemplo,
+dos princípios previstos na lei 6.938/81 como o do usuário
+poluidor-pagador (art. 4 º, inciso VII), da precaução (art. 4 º,
+inciso I), da prevenção (art. 2 º), e da responsabilização por danos
+(art. 15 e ss). Outros foram assimilados das normas internacionais.
+É o caso do princípio do desenvolvimento sustentável e do acesso
+equitativo aos recursos ambientais.
+Nada obstante, em razão dos limites e dos objetivos da
+presente pesquisa, especificamente, se analisará os princípios que,
+ao nosso sentir, se relacionam ao escopo das áreas de preservação
+permanente. Está-se a falar do princípio do direito ao meio
+ambiente ecologicamente equilibrado, da precaução, da equidade
+intergeracional, da responsabilização por desrespeito às normas
+ambientais, da função socioambiental da propriedade, da vedação
+do retrocesso ambiental.
+O equilíbrio ecológico fora previsto na lei 6.938/81 como
+objetivo da política nacional do meio ambiente. Ao seu tempo, a
+
+DEISER MARA REZENDE CARDOSO | 25
+
+constituição previu como princípio o meio ambiente
+ecologicamente equilibrado. Nas palavras de Machado (2013, p-
+66) trata-se de um princípio cujo significado a contrário sensu é o
+de que “não se desequilibre significativamente o meio ambiente”.
+As mudanças ambientais são inevitáveis e inerentes ao ciclo
+de evolução dos elementos que compõem o meio ambiente. A
+existência humana e a sua interação com o meio causam impactos
+no meio ambiente. A experiência hodierna revela muitos efeitos
+nocivos da ação humana decorrentes da irresponsabilidade na
+fruição dos recursos ambientais. Justamente, neste contexto, que
+assume relevância o princípio em testilha que subjaz a ideia de que
+qualquer intervenção não natural tem que ser limitada e que deve
+provocar um mínimo possível de alteração das condições
+ambientais.
+Em vista da manutenção deste meio ecologicamente
+equilibrado e do dever geral de não degradar têm-se o princípio da
+precaução consagrado nas normas internas constitucionais (art.
+225, §1 º, IV e V) e infraconstitucionais (lei 6.938/81 art. 4 º, I e VI
+e 9 º) e nas normas internacionais (declaração do Rio de Janeiro de
+1992, convenção sobre a diversidade biológica e sobre as mudanças
+climáticas). Este princípio preceitua que a incerteza científica
+acerca dos impactos e dos efeitos de determinada atividade ou da
+produção de um bem não afasta o dever de não degradar seja não
+fazendo, seja adotando medidas para evitar o dano ou a ameaça.
+Em breves palavras, mesmo havendo risco potencial protege-se o
+meio ambiente.
+No mesmo passo, o princípio da equidade intergeracional
+ou do acesso equitativo possui previsão expressa no caput do artigo
+225 da Constituição e traz a compreensão de que as gerações têm o
+mesmo direito ao meio ambiente ecologicamente equilibrado. A
+geração presente não tem precedência sobre a geração futura e
+todas as gerações têm direito a ter acesso aos recursos ambientais,
+bem como fruir destes bens com a mesma qualidade e na medida
+da necessidade. Este princípio traz ínsita a ideia de solidariedade e,
+
+26 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+em última análise, representa a “juridicização do valor ético da
+alteridade, isto é, da imposição pela ordem jurídica do dever de
+respeitar um bem cujo titular não é somente a geração presente,
+mas também as futuras” (HUPFFER, WACLAWOVSKY,
+GREENFIELD, 2013, p- 157).
+Presente em diversas leis infraconstitucionais e na
+Constituição no §3 º do artigo 225, o princípio da
+responsabilização assume relevância quando os instrumentos de
+prevenção e de precaução falham e concretiza-se a necessidade de
+sancionar o degradador. Apesar de sua feição repressiva o
+princípio é de suma importância porque representa, ao final, uma
+resposta do ordenamento jurídico ao descumprimento do dever de
+não degradar. Segundo este princípio, no âmbito administrativo,
+civil e criminal, é responsável pelas práticas danosas ou potenciais
+e pela omissão toda e qualquer pessoa, individual ou coletiva,
+pública ou privada.
+Ainda, resta analisar dois dos princípios que se relacionam
+diretamente ao problema investigado no presente trabalho. Está-se
+aqui a falar do princípio da função socioambiental da propriedade
+e do princípio do não retrocesso ambiental.
+Seguindo um dos propósitos das cartas constitucionais, o
+constituinte assegurou o desenvolvimento da propriedade
+individual. No entanto, para além da função social já prevista na
+constituição de 1969, o constituinte também estabeleceu um
+regime de proteção condicionado ao atendimento de parâmetros
+ambientais. Além de usufruir efetivamente dos imóveis e de
+respeitar os valores sociais do trabalho, os proprietários passaram
+a ter que observar o dever geral de não degradar e, ainda, de
+utilizar racionalmente os recursos naturais. Nesse sentir, como
+observado por Benjamin (2011, p- 92)
+
+A ecologização da Constituição, portanto, teve o intuito de, a um
+só tempo, instituir um regime de exploração limitada e
+condicionada (= sustentável) da propriedade e agregar à função
+
+DEISER MARA REZENDE CARDOSO | 27
+
+social da propriedade, tanto urbana como rural, um forte e
+explícito componente ambiental. Os arts. 170, VI, e 186, li, da
+Constituição brasileira, inserem-se nessa linha de pensamento de
+alteração radical do paradigma clássico da exploração econômica
+dos chamados bens ambientais. Com novo perfil, o regime da
+propriedade passa do direito pleno de explorar, respeitado o
+direito dos vizinhos, para o direito de explorar, só e quando
+respeitados a saúde humana e os processos e funções ecológicos
+essenciais.
+
+Ao seu tempo, o princípio do não retrocesso se radica na
+teoria dos direitos fundamentais e se apresenta como um
+instrumento jurídico para assegurar a conquista em relação ao que
+já se consolidou destes direitos. Traduz uma garantia sobre o
+estado de evolução dos direitos fundamentais preterindo qualquer
+iniciativa que possa representar um regresso na realização já
+alcançada e, ainda, se comprometendo normativamente a viabilizar
+a implementação progressiva do direito. Segundo as lições de
+Sarlet e Fensterseifer (2012 p- 154):
+
+[...] a garantia constitucional da proibição de retrocesso
+contempla dois conteúdos normativos que se complementam: se,
+por um lado, impõe-se ao Estado a obrigação de “não piorar” as
+condições normativas hoje existentes em determinado
+ordenamento jurídico – e o mesmo vale para a estrutura
+organizacional-administrativa –, por outro lado, também se faz
+imperativo, especialmente relevante no contexto da proteção do
+ambiente, uma obrigação de “melhorar”, ou seja, de aprimorar
+tais condições normativas – e também fáticas – no sentido de
+assegurar um contexto cada vez mais favorável ao desfrute de
+uma vida digna e saudável pelo indivíduo e pela coletividade
+como um todo.
+
+Na esteira do que lecionam Sarlet e Fensterseifer (2012) e
+Benjamin (2012) é possível sustentar a aplicação deste princípio na
+seara ambiental e, ainda, é possível depreender a sua previsão
+normativa de forma implícita a partir de diversos outras previsões
+
+28 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+como as relativas aos princípios da dignidade da pessoa humana,
+da segurança jurídica, da máxima realização dos direitos
+fundamentais, etc. Crivellari (2015, p- 137) destaca que o Poder
+Judiciário brasileiro já reconheceu e aplicou o princípio em
+comento, por exemplo, no julgamento da ação direta de
+inconstitucionalidade de n. 4578/DF pelo Supremo Tribunal
+Federal, dos recursos especiais de n. 418.526/SP e de n.
+302.906/SP pelo Superior Tribunal de Justiça e da apelação n.
+00259997520104013900/PA pelo Tribunal Regional Federal da 1
+região.
+Em que pese a importância do princípio em comento, uma
+das dificuldades que cercam a sua aplicação está relacionada à
+definição do que efetivamente seria um retrocesso em termos
+ambientais. Como visto, o meio ambiente ecologicamente
+equilibrado é um estado dinâmico proveniente das diversas
+interações ambientais e das ações humanas. Nesse sentir, o
+entendimento do que seria retrocesso é variável e compreensivo do
+estado de proteção normativo que se atingiu em níveis ambientais.
+Nestes termos, somente se pode chegar à conclusão acerca do
+decesso de proteção com a comparação das situações
+concretamente consideradas. De toda sorte, a revisão da proteção
+ambiental por atos normativos ou por políticas públicas só seria
+legítima se fundada em relevantes razões de natureza
+fundamental. Como salientado por Ayala (2012, p – 233):
+
+[..] para aqueles que sustentam a elaboração do princípio, um
+mínimo de existência representaria, na verdade, um argumento
+jusfundamental relevante para manter determinado nível de
+realização de um direito fundamental, parece possível reconhecer
+em sua elaboração um sentido pelo qual, apesar de não proibir a
+reversão, define-se uma margem de reserva que não pode ser
+afetada pelas decisões públicas de desenvolvimento social, a
+menos que uma melhor razão jusfundamental seja apresentada.
+
+DEISER MARA REZENDE CARDOSO | 29
+
+Enfrentadas algumas características dos princípios
+ambientais relacionados ao paradigma protetivo do Estado
+Socioambiental convém tecer algumas considerações sobre o
+código florestal e as áreas de preservação permanente.
+
+3
+O CÓDIGO FLORESTAL E AS ÁREAS DE
+PRESERVAÇÃO PERMANENTE
+
+3.1 A IMPORTÂNCIA DE UM CÓDIGO FLORESTAL PARA A TUTELA DO
+MEIO AMBIENTE
+
+O Código Florestal reúne o conjunto de normas
+relacionadas à proteção da mata nativa, da biodiversidade, dos
+recursos hídricos e de vários outros elementos essenciais do meio
+ambiente. Estas normas estabelecem deveres, limitações à
+degradação e ao uso das propriedades e à responsabilização pelo
+não cumprimento dos parâmetros ambientais. O Brasil já contou
+ao longo dos anos com três códigos florestais. O instituído pelo
+decreto 23.793/34, pela lei 4.771/65 e pela lei 12.651/12.
+Os códigos em questão fizeram e fazem parte de uma
+política que tem grande impacto sobre o meio ambiente e sobre a
+exploração das propriedades individuais. As áreas de preservação
+permanente representam um dos principais instrumentos de
+proteção destes códigos. Em termos gerais, as áreas de preservação
+são espaços de proteção urbano ou rural a salvo de supressão e de
+qualquer manejo econômico que deve ser respeitado pelo
+proprietário de imóvel e pelo poder público.
+Segundo Sparoveck et al (2010) a preservação imposta pelo
+Código Florestal atinge uma área de proteção bem superior àquela
+alcançada pela constituição de unidades de conservação em
+imóveis públicos. Isso significa dizer que as áreas de preservação
+permanente que se ligam às propriedades individuais são
+extremamente necessárias para a preservação da biodiversidade e
+dos processos ecológicos essenciais. E, a importância do Código
+Florestal se manifesta neste contexto.
+
+O Brasil tem uma área continental de 850 Mha dos quais 537
+Mha são áreas que preservam boa parte de sua cobertura vegetal
+natural, seja ela uma floresta, caatinga, pampa ou outra
+
+32 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+fisionomia [...] Desses 537 Mha de vegetação natural 170 Mha
+estão em Unidades de Conservação e Terras Indígenas (UC/TI) de
+domínio público. O total de UC/TI é de 175 Mha, ou seja, as áreas
+destinadas à conservação sob domínio público têm cumprido
+adequadamente seu papel, acumulando um déficit de apenas 5
+Mha de cobertura vegetal natural. [...] O restante da vegetação
+natural de 367 Mha está em áreas privadas ou sem titulação. O
+Código Florestal é o principal mecanismo de conservação que se
+aplica sobre estas áreas. Ou seja, o Código Florestal tem uma
+abrangência 2,2 vezes maior do que as áreas de domínio público
+destinadas à conservação (SPAROVECK et al, 2010, p-3)
+
+Nos últimos anos, em que pese a importância do código
+florestal acirraram-se os questionamentos sobre os limites da
+dimensão protetiva nas propriedades. O elevado número de
+propriedades rurais não conformes ao marco florestal de 1965
+também arrefeceu os problemas de eficácia social da norma. Sob a
+vigência do código até o ano de 2010, por exemplo, o Brasil
+acumulou um déficit ambiental elevado. D os “278 milhões de
+hectares ocupados pelo setor agropecuário no Brasil pelo menos 83
+milhões estão em situação de não conformidade com o Código
+Florestal e teriam que ser recuperados” (SPAROVECK et al, 2010,
+p- 2).
+O atual Código Florestal, promulgado em 2012, é fruto de
+grandes pressões. As articulações políticas em torno da aprovação
+do seu texto bem revelam os principais grupos de interesses
+envolvidos. Propõe-se, a seguir, uma breve análise das forças de
+influência e do contexto envolvido na aprovação do diploma legal.
+
+3.2 A REVISÃO DO CÓDIGO FLORESTAL E OS INTERESSES ENVOLVIDOS
+NA APROVAÇÃO DA LEI 12.651/12
+
+Como salientado anteriormente, a existência do Código
+Florestal não foi empecilho para o avanço da degradação
+ambiental. No Brasil acumulou-se uma vastidão de território com
+supressão da vegetação nativa e com ocupação e uso irregular do
+
+DEISER MARA REZENDE CARDOSO | 33
+
+território. Apesar disso, o cenário de aceitação do padrão de
+comportamento degradador mudou um pouco a partir da
+Constituição Federal de 1988 e da edição de normas voltadas para
+a responsabilização ambiental como a lei 9.605/98 e o decreto
+6.514/08.
+A carta constitucional redimensionou a responsabilidade
+do Estado, da sociedade e dos indivíduos em relação ao dever de
+proteção ambiental. O descumprimento de qualquer legislação
+ambiental e, mesmo, a sua não fiscalização passaram a ser
+dificultados com o fortalecimento da atuação do Ministério Público
+e das associações de proteção ao meio ambiente.
+Nada obstante, trinta anos após a vigência do código de
+1965, o volume de terras a serem recuperadas das áreas de
+preservação permanente atingiu a marca de 44 milhões de
+hectares (SPAROVECK et al, 2010, p- 5). O grande passivo
+ambiental revela que os proprietários de imóveis pouco se
+conscientizaram acerca da necessidade de preservação do meio
+ambiente e que a máxima de atuação continuou sendo a livre
+fruição do domínio da terra independentemente da sua função
+social e ambiental.
+O recrudescimento da responsabilização ambiental e as
+restrições creditícias aos degradadores, assim como o
+desenvolvimento da economia brasileira baseado na expansão da
+agricultura, da pecuária e dos negócios correlatos fortaleceram as
+pautas de maior exploração das propriedades em detrimento da
+preservação ambiental. Neste cenário ganhou força de influência a
+bancada ruralista (CUNHA, 2013, p-30) e os projetos de revisão do
+Código Florestal de 1965.
+O mote do discurso de revisão por parte dos ruralistas era
+que a legislação ambiental vigente era pouco efetiva e
+extremamente restritiva à exploração agropecuária colocando em
+xeque o crescimento econômico dos pais e a sua capacidade
+produtiva para atendimento às demandas internas e externas. Por
+parte dos ambientalistas o discurso era de que a proteção legal era
+
+34 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+necessária haja vista a progressão da degradação ambiental e que,
+na verdade, faltava a conscientização ambiental acerca da
+importância da norma, a fiscalização e a responsabilização pelo
+descumprimento.
+O embate de posições também foi marcado pelo discurso
+de contraposição entre a proteção às áreas de preservação
+permanente e o desenvolvimento das atividades agrossilvipastoris.
+Muito se falou que a representatividade do volume de áreas
+protegidas, na perspectiva do código de 1965, inviabilizaria em
+médio prazo as pequenas culturas familiares e as culturas de médio
+e de maior porte. Nada obstante, existia consenso entre o
+Executivo e o Legislativo acerca da necessidade de mudança das
+normas em face da existência de um vasto passivo ambiental, das
+dificuldades operacionais e econômicas para recuperar as áreas
+degradadas e de um volume de cerca de 103 milhões de hectares de
+terras não protegido pela norma ambiental (SPAROVECK et al,
+2011, p-134).
+Neste contexto, passou a ser discutido um novo código com
+base em um substitutivo de projeto de lei 1.876/99 de autoria de
+Aldo Rebelo. A tônica subjacente a este projeto era assegurar a
+exploração das áreas tradicionalmente ocupadas pelas atividades
+agrossivipastoris e privilegiar o desenvolvimento econômico em
+detrimento da proteção ambiental. O projeto propôs a substituição
+do paradigma da restauração do meio ambiente pelo da
+compensação e da flexibilização para o desenvolvimento
+econômico.
+Neste afã foram propostas alterações de normas protetivas
+e o perdão legal das não conformidades com a lei anterior com, por
+exemplo, a (i) mudança da definição das áreas de preservação
+permanente e de reserva legal, com a redução de sua extensão em
+volume de área; (ii) possibilidade da compensação das áreas de
+preservação com as de reserva legal; (iii) anistia para as não
+conformidades das propriedades e a (iv) eliminação da reserva
+legal para propriedades com menos de 4 (quatro) módulos rurais.
+
+DEISER MARA REZENDE CARDOSO | 35
+
+A força das demandas da bancada ruralista, diretamente
+relacionada ao aumento de representação política pelo apoio
+financeiro nas eleições, levou o Congresso Nacional a aprovar um
+novo código florestal pela lei 12.651/12, baseado no projeto
+substitutivo de Aldo Rebelo.
+
+3.3 ÁREAS DE PRESERVAÇÃO PERMANENTE: CONCEITO, FUNÇÕES
+AMBIENTAIS E TRATAMENTO NO CÓDIGO FLORESTAL REVOGADO E NO
+VIGENTE.
+
+A ideia de proteção de determinadas áreas pela
+importância para a biodiversidade, para os recursos ambientais e
+para a população humana já estava presente na definição das
+florestas protetoras previstas no primeiro código florestal (decreto
+23.793/34). Este escopo, inclusive, foi o que inspirou a criação das
+áreas de preservação permanente. A redação original do código
+florestal de 1965 não fazia menção à nomenclatura. O instituto com
+esta nomenclatura só veio efetivamente a integrar o código com as
+alterações promovidas pela medida provisória n. 1956-50/ 2000.
+Como destacado por Crivellari, (2015, p-22),
+
+As “florestas protetoras” do Código de 1934 contribuíram para
+dar contornos ao conceito legal das áreas de preservação
+permanente, desenvolvido e incorporado décadas mais tarde no
+Código Florestal de 1965 (Lei nº. 4.771/65), referindo-se tanto às
+áreas rurais, quanto urbanas; cobertas ou não por vegetação
+nativa, e que foi ampliado por leis e medidas provisórias editadas
+nos anos de 1986, 1989 e 2001.
+
+A lei 4.771/65 (com suas alterações) estabeleceu as áreas de
+preservação permanente nos artigos 2º (áreas instituídas pela lei)
+e 3º e 14 (áreas concretamente definidas por atos administrativos).
+Em linhas gerais, estas áreas compreendiam territórios rurais e
+urbanos especialmente protegidos porque próximos ao curso de
+águas (rios, lagos, riachos, nascentes, etc), ao topo de morros, de
+
+36 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+montanhas, de chapadas, de regiões de alto declive, de encostas e
+porque importantes para garantir a biodiversidade. As razões que
+orientam a proteção especial destas áreas são cientificamente
+comprovadas, como salientado por Metzger (2010). O estudo de
+Schäffer et al. (2011) é bastante elucidativo acerca das funções
+ambientais das áreas de preservação e da sua relação com a
+qualidade de vida humana.
+Segundo este estudo, a primeira função ambiental que
+ressai das áreas de preservação é a proteção dos cursos de água e
+do solo. A preservação da vegetação nativa ao longo das águas
+reduz a drenagem e o carregamento de substâncias para os cursos
+d´água e, ainda, previne a erosão e o assoreamento. Há também o
+benefício relacionado à integridade dos nutrientes do solo e ao
+sombreamento com o controle da temperatura e do habitat para as
+populações aquáticas e silvestres que vivem em torno das águas.
+Ainda, uma função muito importante da preservação das
+áreas de alto declive é a referente à estabilidade geológica. A
+preservação de encostas, das áreas de topos de altitudes e das
+matas ciliares reduz a incidência de desbarrancamentos,
+deslizamentos e de assoreamento dos rios. A pesquisa em comento
+revela que desastres ambientais muito recorrentes nas regiões
+serranas e de alta precipitação pluvial poderiam ser minimizados
+se atendidos os parâmetros de proteção das áreas de preservação
+permanente previstos na lei 4.771/65 com suas posteriores
+alterações (código florestal revogado).
+
+O desastre natural ocorrido na região serrana do Rio de Janeiro
+assume contorno catastrófico por conta da conjugação de fatores
+sabidamente associados à geração de risco de acidentes naturais.
+A topografia, geologia, hidrografia e regime pluviométrico da
+região determinam a previsibilidade da ocorrência de acidentes
+naturais na área, fenômenos diretamente associados com a
+evolução e moldagem da paisagem. Nessas condições a
+suscetibilidade a escorregamentos associados à instabilidade de
+encostas é bastante evidente, e a ocupação destas encostas e áreas
+
+DEISER MARA REZENDE CARDOSO | 37
+
+adjacentes transforma os desastres naturais em eventos
+catastróficos devido a proporção de vítimas e danos
+socioeconômicos de elevada monta. O presente estudo demonstra
+que se a faixa de 30 metros em cada margem (60 metros no
+total) considerada Área de Preservação Permanente ao longo dos
+cursos d’água estivesse livre para a passagem da água, bem
+como, se as áreas com elevada inclinação e os topos de morros,
+montes, montanhas e serras estivessem livres da ocupação e
+intervenções inadequadas, como determina o Código Florestal, os
+efeitos da chuva teriam sido significativamente menores, tanto
+em suas consequências ambientais, quanto econômicas e sociais.
+(Schäffer et al. 2011, p-89)
+
+Incontestavelmente, as áreas de preservação receberam
+especial proteção do código florestal de 1965. Não foi estabelecido
+pela restrição ao gozo da propriedade nestas áreas direito à
+indenização ou a possibilidade de desapropriação indireta. Pela lei,
+o ônus de não intervenção e a responsabilidade pela não proteção
+destas áreas transmitia-se aos proprietários de imóveis e, ainda,
+prescindiam de averbação à margem do registro do imóvel.
+Apesar deste estatuto legal, a supressão da vegetação nativa
+e a ocupação das áreas de preservação continuaram sendo
+comportamentos recorrentes. Os resultados nefastos deste
+comportamento na Amazônia e as exigências internacionais em
+torno da preservação ambiental levaram o governo brasileiro a
+recrudescer algumas regras. Em 1996 foi editada a medida
+provisória de n. 1.511/96 a qual previu a ampliação da vedação de
+corte raso, a limitação de novas conversões de florestas para
+pecuária e agricultura e a imposição de manejo sustentável
+múltiplo.
+O estabelecimento de novos parâmetros para o meio
+ambiente amazônico contou com a ampla resistência da bancada
+ruralista no Congresso Nacional e esta medida nunca chegou a ser
+efetivamente convertida em lei. .Embora tenha sido reeditada
+dezenas de vezes a medida 1.511/96, com as sucessivas edições, foi
+se desviando do propósito inicial de proteção ambiental e
+
+38 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+incorporou dispositivos com a permissão (i) de desmatamento em
+áreas de preservação permanente para atendimento a projetos e
+obras de utilidade pública e interesse social, (ii) de compensação de
+reserva legal em outras propriedades do mesmo bioma; com a (iii)
+revogação do prazo estabelecido para a recuperação da área
+degradada, etc. Nas palavras de Benjamin (2000, p- 17-18):
+
+Nesse ponto de sua curta e tumultuada história, a MedProv
+1.511/96 sofreu total alteração de rota, transformando-se de
+instrumento de defesa das florestas da Amazônia em veículo para
+enormes retrocessos no Código Florestal. A "captura" pelos
+degradadores da MedProv 1.511/96 fica aqui evidente, enxergada
+como verdadeiro "Cavalo de Tróia", em absoluto antagonismo
+com os fins que, na origem, justificaram sua edição.
+
+A tendência de flexibilização na delimitação e no manejo
+das áreas de preservação se acentuou com os elevados custos de
+oportunidade da não intervenção, com a ineficiência da fiscalização
+e a falta de responsabilização do cumprimento deste dever
+ambiental. Em que pese o consenso científico acerca da
+essencialidade de não intervenção nestas áreas, a inobservância
+prática deste dever revelou também ser importante tratar sobre
+formas de intervenção consolidadas e excepcionais e de
+recuperação.
+Neste passo, assistiu-se à regulamentação pelo Conselho
+Nacional do Meio Ambiente (CONAMA) da intervenção excepcional
+nas áreas de preservação (resolução nº 369/06) e de formas de
+recuperação das áreas degradadas (resolução 429/11). O marco
+mais representativo de relativização da proteção das áreas de
+preservação coincide com a lei 12.651/12 – que revogou o código
+florestal de 1965.
+A lei 12.651/12 manteve nos artigos 7º a 9º o núcleo
+conceitual e a natureza legal das áreas de preservação permanente,
+assegurando-as, ordinariamente, de intervenção humana e
+traduzindo-as como um ônus que acompanha o imóvel, no sentido
+
+DEISER MARA REZENDE CARDOSO | 39
+
+de se transmitir a qualquer proprietário ou ocupante o dever e a
+responsabilidade pela proteção e desproteção das áreas. O estatuto
+normativo, na esteira das resoluções do CONAMA, permitiu a
+intervenção excepcional por utilidade pública (artigo 3º, VIII) e por
+interesse social (artigo 3º, IX). Ainda, permitiu-se a intervenção,
+mediante autorização, das atividades com baixo impacto ambiental
+(art. 3º, X) e, independente de autorização, das atividades de
+segurança nacional e de obras de interesse da defesa civil.
+Uma leitura mais superficial da lei florestal vigente revela
+que o legislador praticamente manteve as metragens e extensões
+das áreas de preservação permanente. No entanto, uma análise
+mais acurada revela que em termos práticos as áreas de proteção
+foram reduzidas. As margens de proteção dos cursos d´agua
+passaram a ter um novo marco, o leito regular. As nascentes com
+proteção passaram a ser apenas as perenes, excluídas as
+intermitentes. As áreas de várzea e úmidas passaram de protegidas
+de pleno direito a protegidas a depender da deliberação do poder
+público e, ainda, com a possibilidade de utilização sustentada. As
+restrições de ocupação das áreas de alto declive foram reduzidas,
+restringindo-se a proteção aos relevos de mais de 100 m com
+inclinação de 25º.
+As hipóteses de intervenção excepcional nas áreas
+protegidas foram redimensionadas e as exigências flexibilizadas.
+Concedeu-se a anistia generalizada do não cumprimento das
+normas ambientais de proteção até 22 de julho de 2008 e, ainda,
+estabeleceu-se novos critérios de recuperação das áreas degradadas
+até este marco. Analisando comparativamente o código revogado e
+vigente, Crivellari (2015, p -153) resume as principais alterações
+promovidas pelo legislador:
+
+[...] alteração legislativa inaugurada pelo “novo Código Florestal”
+regulou (em comparação com a legislação revogada): (a) a
+exclusão de algumas espécies de APPs (nascentes e olhos d’água
+intermitentes, entorno de reservatórios artificiais etc.); (b) a
+
+40 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+transformação de algumas APPs em AURs (planícies pantaneiras
+etc.); (c) a redução de exigências de preservação, tanto em APPs
+quanto em ARLs, para propriedades de até quatro módulos
+fiscais; (d) a redução de exigências de preservação e
+recomposição em APPs ripárias, estabelecendo-se faixas de
+vegetação menores (a partir de 5 metros, ao invés de 30 metros)
+e medição da faixa iniciando na borda da calha do leito regular do
+rio (e não mais do nível mais alto da faixa marginal); (e) a
+redução de proteção das APPs de topos de morro, montanha e
+encostas; (f) a possibilidade de cômputo das APPs no percentual
+das ARLs; (g) a dispensa da certificação de inexistência de
+alternativa técnica locacional para intervenção em APPs, nos
+casos de utilidade pública e interesse social; (h) a compensação de
+ARL em outra propriedade dentro do mesmo bioma e fora do
+Estado; (i) a possibilidade de utilização de espécies exóticas na
+recomposição de ARLs, em até 50% da área; (j) a consolidação de
+áreas urbanas e rurais situadas em APPs e ARLs; (k) a dispensa
+da averbação da ARL à margem do registro do imóvel; (l) a
+criação do CAR, no sistema de autodeclaração, sem
+obrigatoriedade de o órgão ambiental vistoriar imediatamente e
+conferir as declarações prestadas pelos proprietários ou
+posseiros; (m) a isenção de recomposição da ARL quando a
+supressão da vegetação nativa tiver considerado a legislação em
+vigor à época da supressão; (n) a anistia das infrações ambientais
+cometidas até 22 de julho de 2008, e das infrações penais
+previstas nos artigos 38, 39 e 48 da Lei nº. 9.605/98, antes e
+após 22 de julho de 2008, dentre várias outras.
+
+Evidenciada a importância e o contexto de revisão do
+código florestal, assim como a importância e as características da
+proteção legal das áreas de preservação permanente convém
+analisar se as alterações legislativas estão em consonância com a
+proteção conferida ao meio ambiente pela Constituição Federal de
+1988.
+
+4
+A (IN) CONSTITUCIONALIDADE DA LEI 12.651/12 NO
+TOCANTE ÀS ÁREAS DE PRESERVAÇÃO PERMANENTE
+
+4.1 O RETROCESSO DE PROTEÇÃO AMBIENTAL EM RELAÇÃO ÀS ÁREAS DE
+PRESERVAÇÃO PERMANENTE
+
+Consoante já mencionado, o código florestal de 1965
+estabelecera as áreas especialmente protegidas em vista das
+funções ambientais e da importância de não intervenção do
+homem nestas regiões. O legislador pela lei 12.651/12, ao seu
+tempo, promoveu uma redução das áreas de proteção sem a
+preocupação com os impactos ambientais ou, mesmo, a nosso ver,
+sem viabilizar um debate crítico da sociedade acerca dos eventuais
+benefícios ou prejuízos sociais e intergeracionais das medidas.
+Apenas para se ilustrar alguns retrocessos ambientais verificados
+convém analisar alguns pontos de mutação mais sensíveis desta
+nova legislação.
+Nas áreas de entorno de nascentes e olhos d’água retirou-
+se a proteção dos cursos intermitentes e estabeleceu-se o leito
+regular como marco de definição da proteção. Nada obstante, as
+nascentes intermitentes e temporárias, assim como as perenes,
+possuem relevância para o equilíbrio ecológico e para higidez dos
+recursos hídricos. Ainda, a aferição do curso d´água a partir da
+borda do leito regular apresenta-se como tarefa bastante difícil
+devido à natureza heterogênea dos cursos d´água e à inexistência
+de monitoramento oficial das águas. Sob esta ótica, a imprecisão da
+faixa fragiliza a proteção da área e dificulta a fiscalização do seu
+cumprimento, possibilitando o avanço da degradação e o
+descumprimento dos parâmetros ambientais. Como destacado por
+Crivellari (2015, p -27 - 28):
+
+Ao estabelecer o leito regular, o legislador incauto olvidou a
+diversidade regional no país, em razão do regime de fluxo das
+águas, dos eventos climáticos adversos, além das características
+
+42 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+próprias das calhas dos cursos d’água em seus respectivos biomas
+e da ausência quase total de monitoramento e medição da vazão
+dos rios; criando, portanto, dificuldade para se determinar o
+ponto de partida para a determinação da área protegida, além de
+potencializar os problemas recorrentes de inundações nas
+cidades, uma vez que as faixas marginais dos cursos d’água
+situados em zonas urbanas passaram a ser mais e mais ocupados
+de forma indevida. [...] E olvidando substancialmente os
+relevantes serviços ambientais propiciados pelas áreas úmidas ou
+alagadas (wetlands), tais como retenção e limpeza de água,
+recarga do lençol freático, retenção de carbono, preservação da
+biodiversidade e do habitat de inúmeras espécies endêmicas ou
+não, bem como regulagem do microclima e dos ciclos
+biogeoquímicos; controle ou atenuação de enchentes; além, é
+claro, dos benefícios econômicos para as comunidades
+tradicionais [...]
+
+A transformação de algumas áreas de preservação
+permanente em uso restrito, o caso, por exemplo, de áreas úmidas,
+tem o potencial de impactar bastante o microssistema e os
+processos essenciais que habitam estas regiões. A fruição que antes
+não era admitida e agora é permitida, mesmo teoricamente com
+restrições, não vem acompanhada do estabelecimento de faixas
+mínimas de preservação. Nesse caso, o déficit de preservação das
+áreas alagadas prejudica a “qualidade das águas das águas
+superficiais e subterrâneas, acelera a sedimentação de lagoas,
+represas e rios, e diminui o estoque de água nas nascentes e
+aquíferos” (CRIVELLARI, 2015, p-30).
+Uma outra alteração que preocupa no tocante aos impactos
+ambientais é a referente aos topos de morros, montes, montanhas
+e serras. A lei deixou de assegurar menos regiões suscetíveis a
+processos corrosivos e de instabilidade geológica. Nos morros com
+altura entre 50 e 100 metros e com declive até 24 graus, antes
+protegidos pelo código de 1965, passou a ser possível a intervenção
+humana. Segundo as ponderações de Crivellari (2015, p- 30):
+
+DEISER MARA REZENDE CARDOSO | 43
+
+[...] pode-se afirmar que a Lei nº. 4.771/65 protegia parte dos
+relevos fortemente ondulados (isto é, 30% ou 17º de declividade),
+enquanto que a atual legislação se contenta em proteger apenas
+os relevos montanhosos (47% ou 25º de declividade),
+esquecendo-se que esses relevos de degradação exigem especiais
+cuidados ambientais, em virtude da sua vulnerabilidade a
+processos erosivos (laminares, por sulcos, ravinas, voçorocas),
+bem como deslizamentos, escorregamentos e lixiviação, o que é
+sempre potencializado pela desproteção dos solos, causada por
+desmatamentos, atividades agrícolas e serviços de terraplenagem,
+conforme o caso e a área (rural ou urbana) em que tais
+intervenções são executadas.
+
+Na esteira do que já admitia a legislação anterior, o
+legislador também concebeu hipóteses de intervenção excepcional
+por motivos de utilidade pública, de interesse social e de baixo
+impacto social. Estas hipóteses de intervenção excepcional foram
+ampliadas no novo código florestal. Observa-se, por exemplo, que
+o novel diploma inclui como modalidade de utilidade pública para
+intervenção na área de preservação a instalação de obras de
+infraestrutura para abrigar competições esportivas. Ora, é deveras
+questionável a utilidade pública destas obras. Azevedo e Oliveira
+(2014, p- 83) bem destacam este ponto polêmico:
+
+[..] uma competição esportiva, de caráter meramente privado –
+como é a “Copa do Mundo de Futebol FIFA 2014”, a ser realizada
+no Brasil –, passa a ser justificativa, por si só, para utilização de
+uma APP visando construir a infraestrutura necessária para o
+evento. Após o evento, esta estrutura, que poderá ser pública ou
+totalmente privada, continuará a gerar lucros, muitas vezes
+exclusivamente privados, e a sociedade terá abdicado de uma
+área ambientalmente sensível.
+
+Ademais, o código autoriza a intervenção em áreas de
+preservação para regularização fundiária. Para todos os efeitos, o
+legislador ao invés de buscar alternativas para equacionar a
+ocupação das populações menos favorecidas em territórios
+
+44 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+vulneráveis, permitiu a consolidação desta situação sem
+estabelecer qualquer exigência para a recuperação destas áreas.
+Em passo semelhante, no tocante às ações de baixo impacto
+ambiental autorizou-se ao CONAMA e aos Conselhos Estaduais de
+Meio Ambiente a possibilidade de fixar outras hipóteses de ações
+ou atividades similares e permitiu-se a intervenção sem fixar
+limites.
+Mais do que ampliar as hipóteses de intervenção, o
+legislador flexibilizou as condições até então exigidas para justificar
+a intervenção nas áreas de preservação. A legislação previa uma
+série de condições que garantiam a excepcionalidade da ação
+humana. Havia necessidade prévio procedimento administrativo
+para caracterizar a necessidade de intervenção. Ainda assim, neste
+procedimento havia necessidade de comprovar o atendimento aos
+parâmetros ambientais locais e nacionais e a inexistência de outra
+região para alocar a intervenção. Como destacado por Azevedo e
+Oliveira (2014, p- 79) “somente nos casos em que restasse patente
+a total inexistência de outra possibilidade técnica e locacional é que
+a utilização de uma área de APP podia ser autorizada, atendidos os
+demais condicionamentos [...]”.
+Nos termos da legislação atual, as hipóteses legais de
+utilidade e de interesse social não pressupõem a comprovação da
+inexistência de alternativa técnica e locacional. Esta exigência deixa
+de ser a regra e passa a ser a exceção apenas para as hipóteses
+similares assim consideradas por ato do chefe do poder executivo
+federal (art. 3, VIII e e IX g da lei 12.651/12).
+O que também causa estranheza, à vista mesmo de todo o
+arcabouço constitucional, é o fato de o código premiar o
+comportamento degradador de outrora com a anistia em relação
+ao descumprimento da legislação ambiental até 22 de julho de
+2008. E, ainda, criar diversas exceções à obrigação de promover a
+recomposição da vegetação, em relação aos usos autorizados na lei
+e às áreas consolidadas urbanas e rurais. Valendo ressaltar, a este
+respeito, que não há “respaldo jurídico para instituição desse
+
+DEISER MARA REZENDE CARDOSO | 45
+
+marco e muito menos dessa anistia, uma vez que o decreto federal
+anterior (nº. 3.179/99), que vigorava desde 1999, inclusive antes
+da edição da Medida Provisória nº. 2.166/01 (responsável por
+estabelecer maior proteção para as APPs e ARLs), já prescrevia
+inú meras sanções” (CRIVELLARI, 2015, p- 35).
+Notadamente, há um grande déficit de proteção quando se
+tem em consideração a legislação anterior. Muito preocupa o
+desmatamento e a deterioração dos solos que se acentuarão com o
+novo diploma. A diminuição da vegetação nativa, como visto,
+levará a uma piora da qualidade das águas podendo repercutir na
+produção de alimentos e, até mesmo, poderá contribuir para uma
+crise hídrica com a repercussão direta na produção de energia
+elétrica. Neste prospecto, as alterações normativas serão
+responsáveis por grandes retrocessos e impactos ambientais
+extremamente negativos.
+
+4.2 A (IN)CONSTITUCIONALIDADE DA LEI 12.651/12
+
+Tendo em conta o manifesto retrocesso de proteção
+ambiental operado pela lei 12.651/12, o diploma florestal passou a
+ser objeto de intenso questionamento pela comunidade científica,
+pelas organizações ambientais e pelas instituições de proteção.
+Logo após a promulgação do diploma foram ajuizadas ações para o
+controle de constitucionalidade de 58 dos 84 artigos do código. O
+Ministério Público Federal ajuizou as ações diretas de
+inconstitucionalidade de n. 4901, 4902 e 4903, o partido socialismo
+e liberdade (PSOL) a ação de n. 4937.
+Na ação de n. 4901 foi pleiteada a declaração de
+inconstitucionalidade dos artigos relacionados à redução, à
+compensação e ao cômputo diferenciado da reserva legal (artigos
+12, §4°, §5°, §6º, §7º e §8º; 13, §1º; 15; 48, §2º; 66, §3º, §5º,
+incisos II, III e IV e §6°; 67 e 68), bem como a interpretação
+conforme a Constituição do artigo 28 da Lei nº. 12.651/12.
+
+46 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+Já, na ação de n. 4902 foram questionados os dispositivos
+referentes à anistia das infrações ambientais cometidas antes de 22
+julho de 2008, ao não estabelecimento de condições de
+recomposição para os anistiados, ao estabelecimento de condições
+de recomposição em algumas hipóteses em razão do tamanho da
+propriedade e, ainda, em face da autorização de concessão de
+crédito rural pela simples regularização do cadastro rural,
+independentemente, da comprovação da recuperação da área
+degradada (artigos 7º, §3º; 17, §3º; 59, §§4º e 5º; 60; 61-A; 61-B;
+61-C; 63; 67 e 78-A).
+Ainda, a ação de n. 4903 visou impugnar as diversas
+disposições sobre as áreas de preservação permanente. E, por fim,
+a ação manejada pelo PSOL questionou os artigos 3º, inciso VIII,
+alínea “b”; 7º, §3°; 13º, §1º; 44; 48, §2º; 59, § 2º, §4º e §5º; 60;
+61A; 61-B; 61-C e 63, todos da Lei nº. 12.651/12.
+À vista do objetivo do presente trabalho, propõe-se analisar
+mais detidamente a ADIN n. 4903 e os aspectos da
+constitucionalidade da lei 12.651/12 em torno das áreas de
+preservação permanente. Conforme se infere da inicial da ação de
+n. 4903, o Ministério Público apontou a inconstitucionalidade dos
+dispositivos da lei florestal que flexibilizaram a extensão das áreas
+de preservação e estabeleceram uma série de novas exceções
+permissivas da intervenção humana nestas áreas.
+Atentando para o retrocesso ambiental já assinalado na
+seção anterior, o Ministério Público pugnou pela declaração de
+inconstitucionalidade do código na parte em que deixou de
+proteger as áreas entorno das nascentes e olhos d’agua
+intermitentes (artigo 3 º, XVIII), de estabelecer uma faixa mínima
+dos represamentos (artigo 4 º, III) e do entorno dos reservatórios
+artificiais (artigo 5º e 62). Ainda, foi impugnado o novo parâmetro
+de “leito regular” estabelecido para de marcação da área protegida
+ao longo do curso d’água (artigo 3 º, XIX) e o mesmo tratamento
+dispensado às pequenas propriedades de agricultura familiar às
+
+DEISER MARA REZENDE CARDOSO | 47
+
+propriedades de até quatro módulos ficais (artigo 3 º, parágrafo
+único).
+Outrossim foram questionados todos os dispositivos que
+admitem a intervenção humana nas áreas de preservação
+permanente fora das hipóteses já admitidas na legislação anterior.
+Nestes termos, foram impugnados os artigos 3º, VIII e IX; 4º, §6º
+e 8º, §2º que permitem intervenções nos casos de utilidade pública
+e de interesse social, além da aquicultura e instalação de estrutura
+física a ela associada nas margens de cursos d’água, lagos e lagoas.
+De mais a mais, quanto a esta temática, sustentou-se a necessidade
+de interpretação, conforme a Constituição, do artigo 3º, incisos VIII
+e IV, para que todas as intervenções excepcionais nas áreas de
+preservação estejam condicionadas a comprovação da inexistência
+de alternativa técnica e/ou locacional, comprovada mediante
+processo administrativo próprio, conforme estabelecido na lei
+anterior.
+Requereu-se a exclusão das hipóteses de gestão de resíduos
+por ser representativa de atividade de alto impacto ambiental (v.g
+a instalação de aterros sanitários) e de instalação de competições
+esportivas como bastantes para justificar a intervenção e, também,
+se pugnou pela invalidação dos artigos que admitem a
+implementação de infraestrutura habitacional nos mangues e
+restingas (art. 8 º, §2º). Ainda, foi requerida a declaração
+conforme a constituição do artigo 4º, §5º para permitir o uso
+agrícola das áreas alagáveis somente para comunidades
+tradicionais e do artigo 11 para admitir em áreas de inclinação
+entre 25° e 45° apenas o manejo florestal sustentável.
+A inconstitucionalidade dos artigos acima mencionados,
+como manifestado na inicial da ADIN e como se crê no presente
+trabalho, reside no fato de as disposições legais apresentarem uma
+dimensão menos protetiva do que a legislação anterior. Este
+retrocesso encontra óbice na Constituição, especialmente, em
+consideração do artigo 225, parágrafo 1º e dos seus incisos. Ao
+aprovar o diploma em comento, o legislador atentou contra o
+
+48 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+desejável equilíbrio dos elementos componentes do meio ambiente
+olvidando o dever (i) de guardar as áreas especialmente
+protegidas, (ii) de restaurar os processos ecológicos essenciais; (iii)
+de preservar a fauna, a flora e toda a biodiversidade, assim como
+(iv) de prover o manejo ecológico das espécies e ecossistemas.
+O Estado, seja como legislador, seja como aplicador, seja
+como executor das normas, tem o dever maior de garantir o direito
+fundamental ao meio ambiente ecologicamente equilibrado para as
+presentes e às futuras gerações. Nesse sentir, jamais poderia ter
+aprovado um diploma legal que garante uma proteção deficiente
+do meio ambiente e, ainda, que não garante os mesmos níveis de
+proteção ambiental aos presentes e às futuras gerações quando
+comparadas as gerações passadas no curso da vigência do código
+de 1965. A lei florestal da forma como aprovada transformou o
+próprio Estado brasileiro no maior degradador ambiental indireto
+dos últimos tempos. Nesse sentido, reverbera a manifestação do
+Instituto Socioambiental et al. (2015, p - 8) como amicus curiae nas
+ações de inconstitucionalidade promovidas em face do Código
+Florestal:
+
+[...] a Lei 12.651/2012 representa o mais significativo retrocesso
+legislativo em matéria ambiental de toda a história do País, sendo
+cento que, caso não acatados os pleitos contidos nas exordiais,
+advirão drásticas consequências negativas a direitos
+fundamentais previstos na Constituição Federal, em especial, ao
+direito de toda a coletividade ao meio ambiente ecologicamente
+equilibrado, ao direito de todos à qualidade de vida e, com isso, ao
+direito à dignidade da pessoa humana[...]
+
+Mas, não é só. A invalidade dos artigos também se extrai da
+afronta aos princípios já analisados no item 2.2.2. As mudanças
+promovidas pelo legislador admitindo a redução de áreas de
+preservação e a intervenção humana atentam contra o equilíbrio
+ambiental de diversos processos ecológicos essenciais e contra a
+precaução que haveria de se esperar em relação a toda atividade
+
+DEISER MARA REZENDE CARDOSO | 49
+
+relacionada ao meio ambiente (incluindo-se, aqui, a atividade
+legislativa). Afinal, conforme se evidenciou nas seções anteriores,
+as mudanças legislativas desconsideraram os potenciais impactos
+negativos, e, ainda, o substancial desequilíbrio em torno dos
+ecossistemas relacionados às áreas de preservação que passaram a
+não ser protegidos pelo código.
+Além de violar o princípio do meio ambiente
+ecologicamente equilibrado e da precaução, o novo marco florestal
+olvidou a equidade na responsabilização pela proteção ao meio
+ambiente. O legislador de forma inadvertida perdoou todas as
+infrações ambientais e as não conformidades florestais realizadas
+até 22 de julho de 2008. Sob este prisma, as disposições
+normativas também representam violação ao princípio da
+responsabilidade ambiental intergeracional.
+Com efeito, o constituinte assegurou o direito de
+propriedade e da livre iniciativa em mira da corresponsabilidade e
+do comprometimento com o meio ambiente ecologicamente
+equilibrado. Nesta perspectiva, relativização legal do dever de
+proteção das propriedades individuais às áreas especialmente
+protegidas representa a desconstrução da função socioambiental
+projetada pelo constituinte. Notadamente, as previsões legais
+representam uma afronta ao regime constitucional de exploração
+limitada da propriedade. Mais ainda. Observa-se que as disposições
+atentam contra o regime constitucional de proteção aos direitos
+fundamentais, em especial do direito ao meio ambiente
+ecologicamente equilibrado.
+Conforme foi possível depreender das considerações da
+seção anterior, o novo marco legal reduz em muito a proteção
+quando comparada com a lei anterior. Há um manifesto
+agravamento da situação ecológica e um descompromisso do
+legislador infraconstitucional com a progressiva melhora da
+qualidade ambiental e com o acesso equitativo aos elementos
+ambientais. Considerando a ausência de embasamento
+jusfundamental das alterações, todo este cenário recomenda a
+
+50 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+aplicação do princípio do não retrocesso ambiental e desafia a
+declaração de inconstitucionalidade dos dispositivos legais
+questionados.
+
+4.3 A INDEFINIÇÃO ACERCA DA (IN)CONSTITUCINALIDADE E AS ÁREAS
+DE PRESERVAÇÃO PERMANENTE 5 ANOS APÓS A LEI 12.651/12
+
+As ações para o controle de inconstitucionalidade da lei
+12.651/12 foram manejadas no ano de 2013. Em abril de 2016, o
+Ministro Luis Fux realizou audiência pública para ouvir os diversos
+setores interessados na controvérsia e sinalizou que o julgamento
+seria realizado conjuntamente ainda naquele ano. No entanto,
+passados mais de 5 anos da vigência do código, as ações não foram
+incluídas em pauta para julgamento.
+A demora no julgamento das ações constitucionais tem
+gerado bastante insegurança e, ainda, tem acentuado as disputas
+em torno do código florestal. Diversas ações judiciais pelo país
+questionam a inconstitucionalidade difusa do código ou, ainda,
+impugnam as normas estaduais que acompanham o regime da lei
+federal. Outrossim, a indefinição acerca da constitucionalidade do
+marco legal dá margem para Legislativo e Executivo se
+debruçarem sobre medidas provisórias e projetos de lei que
+adotam o viés de flexibilizar a proteção ambiental em diversas
+áreas de proteção especial. É o caso, por exemplo, das medidas
+provisórias de n. 756 e 758 de 2016 que promoveram a
+recategorização de unidades de conservação no Pará e do
+substitutivo do projeto de lei 3.729/2004 que visa aprovar
+alterações sobre licenciamento ambiental.
+Com a superação dos cinco anos de vigência do código
+florestal as expectativas em torno da maior eficácia social da
+norma, pela flexibilização da proteção ambiental, não foram
+atingidas. O relatório elaborado pelo Imaflora (2017) é bastante
+claro neste sentido:
+
+DEISER MARA REZENDE CARDOSO | 51
+
+Passados cinco anos ainda não houve mudanças concretas no
+campo, pois os instrumentos básicos de gestão para a
+implementação da lei – CAR (Cadastro Ambiental Rural) e PRAs
+(Programas de Regularização Ambiental) - não foram totalmente
+estabelecidos. Apesar de grande adesão, o período de
+autodeclararão do CAR foi estendido para o final de 2017. Muitos
+Estados ainda estão trabalhando para regulamentar os PRAs.
+Ainda mais distante estão a definição e a regulamentação dos
+mecanismos de incentivos econômicos por parte do poder público
+para auxiliar os produtores rurais a restaurarem suas APPs e RLs
+e, assim, cumprirem com a legislação.
+
+O relatório acima referenciado é o mais recente diagnóstico
+de aplicação e de impacto do código florestal. O mais interessante
+que os dados levados em consideração na análise são os fornecidos
+pelo Cadastro Ambiental Rural, instituído pela própria lei com o
+objetivo de auxiliar na regularização ambiental.
+No que toca às áreas de preservação hídricas, na lógica de
+aplicação do artigo 61-A, o relatório confirma a redução de 4, 5
+milhões de hectares em comparação à legislação anterior e, ainda,
+revela a existência da extensa área de vegetação nativa de 103
+milhões de hectares sem a devida proteção. Outrossim, a análise
+dos dados revelou que embora existam 1,6 milhões de pequenas
+propriedades que não estão em conformidade com a lei florestal,
+tais imóveis em extensão de área representam apenas 6% do
+déficit ambiental. Isso significa dizer, em outras palavras, que os
+que mais precisam se comprometer com a efetividade e a
+conformação com as normas ambientais são as médias e as
+grandes propriedades que concentram representativamente o
+maior déficit ambiental. Nos termos do relatório:
+
+Há 1,6 milhões de imóveis pequenos (ou 29% do total deste tipo
+de imóvel) com algum grau de não conformidade com os
+requisitos da Lei 12.651/2012. Em função do Artigo 67, que
+dispensou a restauração de RL de todos os imóveis menores que
+4 módulos fiscais, as não conformidades encontradas são
+exclusivamente de APPs hídricas. O déficit desses 1,6 milhão
+
+52 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+corresponde a 82% do número total de imóveis com déficit, mas
+apenas a 6% do déficit em área (Figura 2). Nos imóveis médios
+(de 4 a 15 módulos fiscais), 248 mil (72% do total dos médios)
+apresentam não conformidade de APP ou RL, representando 12%
+do total de imóveis e 35% da área total com déficit em relação a
+Lei 12.651/2012. Finalmente, no caso dos imóveis grandes
+(maiores que 15 módulos fiscais), existem 115 mil imóveis (88%
+do total dos grandes) com não conformidades, representando
+apenas 6% do total de imóveis e 59% da área total com déficit no
+Brasil. Esses 115 mil grandes imóveis acumulam um déficit de 11
+milhões de hectares, sendo 6,3 milhões de ha de RL e 4,7 milhões
+de ha de APPs. (IMAFLORA, 2017, p-6)
+
+Em especial, o relatório faz o alerta de quão preocupante é
+a anistia relacionada a recuperação das áreas de preservação em
+vista da impossibilidade de compensação destas áreas e das
+importantes funções ambientais e de produção de serviços
+ambientais
+
+Apesar da área de APP anistiada ser 8 vezes menor que a de RL,
+ela merece atenção especial, pois as suas funções ecológicas e de
+produção de serviços ambientais na paisagem – em especial os
+serviços de proteção dos recursos hídricos - não podem ser
+compensados ou substituídos por nenhuma outra medida. Assim,
+vale enfatizar que abrimos mão dos serviços ambientais que
+poderiam ser produzidos ao longo de mais de 4,6 milhões de
+hectares de APPs que deveriam ser restauradas. Desse total, 2,6
+milhões de hectares saíram do bioma Mata Atlântica, onde estão
+concentradas as maiores demandas de água para o abastecimento
+de grande parte das populações urbanas e das indústrias do país.
+Somam-se a isto 843 mil hectares de nascentes e beiras de rio do
+Cerrado, que são fundamentais para as principais bacias
+hidrográficas como a do Amazonas, do Paraná e do São
+Francisco, e os múltiplos usos de suas águas, como a geração de
+energia e a irrigação. (IMAFLORA, 2017, p-7)
+
+Ante todo o exposto, os cinco anos de vigência da lei
+12.651/12 bem revelam que a não declaração de
+
+DEISER MARA REZENDE CARDOSO | 53
+
+inconstitucionalidade dos diversos dispositivos do código florestal
+só tende a tornar mais irreversíveis os danos ambientais em
+decorrência do processo de desproteção legal das áreas
+especialmente protegidas.
+
+5
+CONCLUSÕES
+
+Como visto ao longo do trabalho, a Constituição Federal de
+1988 (artigo 225, caput, e art. 5º, § 2º) atribuiu ao direito ao
+ambiente o status de direito fundamental integrante do conceito de
+dignidade das presentes e futuras gerações, bem como consagrou a
+proteção ambiental como um dos objetivos e tarefas fundamentais
+do Estado.
+A partir da análise evolutiva da tutela do meio ambiente foi
+possível identificar que predominou no Brasil o histórico de
+exploração ilimitada dos bens ambientais e de desigualdades no
+uso e no gozo de fruição dos elementos ambientais. Apesar disso,
+apontou-se que o arcabouço constitucional vigente a partir de 1988
+incorporou um modelo de Estado Sociambiental comprometido
+com a progressiva realização dos direitos fundamentais e com o
+meio ambiente ecologicamente equilibrado. A adesão a este novo
+paradigma protetivo foi confirmada pela enunciação dos princípios
+do meio ambiente ecologicamente equilibrado, da precaução, da
+equidade intergeracional, da responsabilização, da função social da
+propriedade e do não retrocesso ambiental
+Na perspectiva do Estado Socioambiental, a pesquisa
+revelou uma preocupação constitucional e legal com a proteção de
+determinadas áreas importantes para os processos ecológicos
+essenciais e o equilíbrio do ecossistema. A pesquisa também
+demonstrou que a proteção da vegetação nativa nos imóveis
+públicos não seria bastante para preservação biodiversidade e para
+garantir o meio ambiente ecologicamente equilibrado. Com base
+nestas constatações estabeleceu-se a importância e a justificativa
+da pesquisa sobre as áreas de preservação permanente nas
+propriedades individuais
+Antes de se tratar especificamente do objeto da pesquisa
+pareceu importante contextualizar o embate dos grupos de
+interesses envolvidos na aprovação do novo marco florestal. O
+estudo demonstrou que a lei florestal sofreu grande influência da
+
+56 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+bancada ruralista no sentido de flexibilizar os parâmetros
+ambientais para viabilizar uma maior exploração nas
+propriedades. Apesar desta influência, não deixou de ser notado o
+consenso existente de que a lei de 1965 não tinha a eficácia social
+haja vista, exemplificativamente, o passivo ambiental de 44
+milhões de hectares em áreas de preservação ambiental.
+Adentrando na temática principal, primeiramente, foi
+possível depreender as funções ambientais essenciais ligadas a
+proteção dos cursos de água, das espécies de fauna e da flora, dos
+solos, etc. Em mira destas funções identificou-se que o código de
+1965 previa como área protegida, inclusive, de qualquer
+intervenção humana, determinadas faixas de extensão dos cursos
+de água, de ecossistemas representativos e de regiões de alto
+declive. Constatou-se que a intervenção nestas áreas produz
+impactos negativos em relação aos processos ecológicos essenciais,
+à qualidade das águas e dos solos.
+A análise comparativa do estatuto revogado e da lei
+12.651/12 evidenciou que o legislador manteve o núcleo conceitual
+e a natureza legal das áreas de preservação, assegurando-as,
+ordinariamente, de intervenção humana e traduzindo-as como um
+ônus que acompanha o imóvel, no sentido de se transmitir a
+qualquer proprietário ou ocupante, o dever e a responsabilidade
+pela proteção e desproteção das áreas.
+No entanto, a nova lei florestal reduziu as áreas de
+proteção. As margens de proteção dos cursos d´agua passaram a
+ter um novo marco, o leito regular. As nascentes com proteção
+passaram a ser apenas as perenes, excluídas as intermitentes. As
+áreas de várzea e úmidas passaram de protegidas de pleno direito a
+protegidas a depender da deliberação do poder público e, ainda,
+com a possibilidade de utilização sustentada. As restrições de
+ocupação das áreas de alto declive foram reduzidas, restringindo-
+se a proteção aos relevos de mais de 100 m com inclinação de 25º.
+As hipóteses de intervenção excepcional nas áreas protegidas
+foram redimensionadas e as exigências flexibilizadas. Concedeu-se
+
+DEISER MARA REZENDE CARDOSO | 57
+
+a anistia generalizada do não cumprimento das normas ambientais
+de proteção até 22 de julho de 2008 e, ainda, estabeleceu-se novos
+critérios de recuperação das áreas degradadas até este marco.
+O objetivo da análise comparativa era saber se o novo
+marco florestal estaria em conformidade com a Constituição e o
+paradigma do Estado Socioambiental. E a conclusão à qual se
+chegou é que a nova lei padece de sérios vícios de
+inconstitucionalidade. A existência das ações diretas de
+inconstitucionalidade de n. 4901, 4902, 4903 e de n. 4937, que
+questionam 58 dos 84 artigos do código, bem ilustra esta
+conclusão.
+Em especial, a inconstitucionalidade relacionada ao
+tratamento das áreas de preservação permanente se extrai da
+violação literal do artigo 225 da Constituição Federal na medida em
+que impõe ao Poder Público o dever (i) de guardar as áreas
+especialmente protegidas, (ii) de restaurar os processos ecológicos
+essenciais; (iii) de preservar a fauna, a flora e toda a
+biodiversidade, assim como (iv) de prover o manejo ecológico das
+espécies e ecossistemas. Ademais disso, a inconstitucionalidade da
+lei florestal também se manifesta na contrariedade com os
+princípios do meio ambiente ecologicamente equilibrado, da
+precaução, da equidade intergeracional, da função socioambiental
+da propriedade e da proibição do retrocesso ambiental.
+A lei 12.651/12 soma 5 anos de vigência e acumula em
+torno de si muita insegurança haja vista o não julgamento das
+ações diretas de inconstitucionalidade existentes acerca da matéria.
+A indefinição em torno da lei tem dado margem a continuidade de
+aprovação de normas flexibilizando a proteção ambiental da
+vegetação nativa. É o caso, por exemplo, das medidas provisórias
+de n. 756 e 758 de 2016 que promoveram a recategorização de
+unidades de conservação no Pará e do substitutivo do projeto de lei
+3.729/2004 que visa aprovar alterações sobre licenciamento
+ambiental.
+
+58 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+O diagnóstico obtido a partir dos dados do Cadastro
+Ambiental Rural revelou que em comparação com a lei anterior o
+marco vigente deixou de proteger 4, 5 milhões de hectares de áreas
+de preservação e que esta desproteção compromete importantes
+funções ambientais e a produção de serviços ambientais. Em
+síntese, a pesquisa revelou não só a inconstitucionalidade da lei
+12.651/12, como também evidenciou que a sua aplicação só tende a
+tornar mais irreversíveis os danos ambientais em decorrência do
+processo de desproteção legal das áreas de preservação
+permanente.
+
+REFERÊNCIAS
+
+AYALA, Patryck de Araujo. Direito fundamental ao meio ambiente e a
+proibição de regresso nos níveis de proteção ambiental na
+Constituição Brasileira. In BRASIL. Senado Federal. Comissão de Meio
+Ambiente, Defesa do Consumidor e Fiscalização e Controle (CMA).
+Colóquio Internacional sobre o Princípio da proibição do retrocesso
+ambiental. Brasil, 2012. O princípio da proibição de retrocesso
+ambiental. Brasília: Senado Federal, 2012. Disponível em:<
+http://www2.senado.leg.br/bdsf/bitstream/handle/id/242559/0009403
+98.pdf?sequence=2>. Acesso em 01. Jul. 2017.
+
+AZEVEDO, Ruy Emmanuel Silva de.; OLIVEIRA, Vládia Pinto Vidal de. Reflexos
+do novo Código Florestal nas Áreas de Preservação Permanente –
+APPs - urbanas. Desenvolvimento e Meio ambiente, v. 29, p. 71- 79, abr.
+2014. Disponível em:<
+http://revistas.ufpr.br/made/article/view/32381/22438> . Acesso em 25
+jun. 2017.
+
+BRASIL. Senado federal. Comissão de meio ambiente, defesa do consumidor e
+fiscalização e controle (CMA). Princípio da Proibição de Retrocesso
+Ambiental. Brasília: Senado Federal, 2012. Disponível em: <
+http://www.mma.gov.br/port/conama/processos/93127174/Voto_APRO
+MAC_ANEXO.pdf>. Acesso em 11 jul 2017.
+
+______, Supremo Tribunal Federal. Mandado de Segurança nº. 22.164/64. Rel.
+Ministro Celso de Mello. Brasília, DF, 30 out. 1995.
+
+______, Supremo Tribunal Federal. Ação Direta de Inconstitucionalidade nº.
+4.578. Rel. Ministro Luiz Fux. Brasília, DF, 29 jun. 2012.
+
+______, Supremo Tribunal Federal. Ação Direta de Inconstitucionalidade n. 4901
+Rel. Ministro Luiz Fux, Brasília, DF .
+
+______, Supremo Tribunal Federal. Ação Direta de Inconstitucionalidade
+n.4902. Rel. Ministro Luiz Fux, Brasília, DF ..
+
+______, Supremo Tribunal Federal. Ação Direta de Inconstitucionalidade
+n.4903. Rel. Ministro Luiz Fux, Brasília, DF . .
+
+______, Supremo Tribunal Federal. Ação Direta de Constitucionalidade n.42.
+Rel. Ministro Luiz Fux, Brasília, DF . .
+
+60 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+______, Superior Tribunal de Justiça. REsp nº. 418.526/SP. Rel. Min. Teori
+Albino Zavascki. Brasília, DF, 13 out. 2010.
+
+______, Superior Tribunal de Justiça REsp nº. 302.906/SP. Rel. Min. Herman
+Benjamin. Brasília, DF, 1 dez. 2010.
+
+______, Tribunal Regional Federal (1ª Região). Apelação Cível nº. 0025999-
+75.2010.4.01.3900/PA. Rel. Des. Souza Prudente. Belém, 26 mar. 2014.
+
+BENJAMIN, Antônio Herman V. Introdução ao direito ambiental brasileiro.
+Revista de Direito Ambiental, vol. 14/1999, Abr – Jun/ 1999, p. 48 – 82.
+
+______, A proteção das florestas brasileiras: ascensão e queda do código
+florestal. 2000. Disponível em:<
+https://bdjur.stj.jus.br/jspui/bitstream/2011/8962/A_Prote%c3%a7%c
+3%a3o_das_Florestas%20Brasileiras.pdf>.Acesso em 20 jul. 2017.
+
+______, Constitucionalização do ambiente e ecologização da Constituição
+brasileira. In: CANOTILHO, José Joaquim Gomes; MORATO LEITE, José
+Rubens. (Orgs.). Direito Constitucional Ambiental Brasileiro. Paulo:
+Saraiva, 2011
+
+______, Princípio da proibição de retrocesso ambiental. In BRASIL. Senado
+Federal. Comissão de Meio Ambiente, Defesa do Consumidor e
+Fiscalização e Controle (CMA). Colóquio Internacional sobre o Princípio
+da proibição do retrocesso ambiental. Brasil, 2012. O princípio da
+proibição de retrocesso ambiental. Brasília: Senado Federal, 2012.
+Disponível em:<
+http://www2.senado.leg.br/bdsf/bitstream/handle/id/242559/0009403
+98.pdf?sequence=2>. Acesso em 01. Jul. 2017.
+
+CANOTILHO, José Joaquim Gomes. Estado de Direito (Coleção Fundação Mario
+Soares). Lisboa: Gradiva, 1999
+
+______, Estado Constitucional Ecológico e democracia sustentada. Revista
+do Centro de Estudos de Direito do Ordenamento, do Urbanismo e do
+Meio Ambiente. Coimbra, ano IV, 2001. Disponível em:<
+http://hdl.handle.net/10316.2/5732 >. Acesso em 08 jul 2017.
+
+DEISER MARA REZENDE CARDOSO | 61
+
+CUNHA, Paulo Roberto.
+O Código Florestal e os processos de formulação do mecanismo de
+compensação de reserva legal (1996-2012): ambiente político e
+política ambiental. 2013. 255 f. Dissertação (Mestrado em Ciência
+Ambiental) – Universidade de São Paulo. Disponível em:<
+http://www.teses.usp.br/teses/disponiveis/90/90131/tde-06092013-
+000029/pt-br.php>. Acesso em 01 jun. 2017
+
+CRIVELLARI, Júlio César Teixeira. O novo código florestal (Lei Nº. 12.651/12)
+e suas implicações no contexto da sustentabilidade socioeconômica
+ambiental. 2015. 172f. Dissertação (Mestrado em Sustentabilidade
+Socioeconômica Ambiental) - Universidade Federal de Ouro Preto.
+Disponível em:<
+http://www.repositorio.ufop.br/bitstream/123456789/5683/1/DISSERT
+A%c3%87%c3%83O_NovoC%c3%b3digoFlorestal.pdf>. Acesso em 21
+jul. 2017
+
+FERREIRA, Heline Sivini, LEITE, José Rubens Morato. A expressão dos
+objetivos do Estado de Direito Ambiental na Constituição Federal de
+1988. Repensando o Estado de Direito Ambiental, volume III.
+Disponível em: < file:///G:/VD_Repensando-Estado-FINAL-25-07-
+2012.pdf>. Acesso em 01.12.2014.
+
+HUPFFER, Haide Maria; WACLAWOVSKY, William. Gabriel ; GREENFIELD,
+Roberta Cassel . Os princípios do Estado Socioambiental de Direito e
+sua leitura jurisprudencial. Revista Do Direito Público, Londrina, v.8,
+n.1, p.155-176, jan./abr.2013 Disponível em:
+<http://dx.doi.org/10.5433/1980-511X.2013v8n1p155>. Acesso em 08 jul
+2017
+
+IMAFLORA. Números detalhados do novo código florestal e suas
+implicações para os PRAs. Sustentabilidade em Debate. n. 5, maio de
+2017. Disponível em:<
+http://www.observatorioflorestal.org.br/sites/default/files/numeros_det
+alhados_codigo_florestal_e_suas_implicacoes_para_os_pras.pdf.pdf> .
+Acesso em 31 jul. 2017.
+
+ISA. Instituto SocioAmbiental. RMA. Rede de Organizações não governamentais
+da Mata Atlântica. MATER NATURA, Instituto de Estudos Ambientais.
+AMDA. Associação Mineira de Defesa do Ambiente. Manifestação como
+
+62 | ÁREAS DE PRESERVAÇÃO PERMANENTE NO NOVO CÓDIGO FLORESTAL
+
+amicus curiae nas ações direta de inconstitucionalidade de n. 4901, 4902,
+4903 e 4937. 2015 Disponível em:
+https://www.socioambiental.org/sites/blog.socioambiental.org/files/nsa
+/arquivos/amicus_curiae_-_05.08.2015.pdf.> Acesso em 31 jul.2017.
+
+MACHADO, Paulo Affonso Leme. Direito Ambiental Brasileiro. 21.ª edição
+revista, ampliada e atualizada São Paulo: Malheiros, 2013.
+
+MARIN, Jeferson Dytz; LEONARDELLI, P. P. O Estado Socioambiental: a
+afirmação de um novo modelo de Estado de Direito. Revista Direitos
+Fundamentais & Democracia (UniBrasil), v. 14, 2013 p. 374-386.
+
+METZGER, Jean Paul. O Código Florestal tem base científica? Conservação e
+Natureza, v.8, n.1, 2010 (no prelo). Disponível em<
+http://ecologia.ib.usp.br/lepac/codigo_florestal/Metzger_N&C_2010.pdf
+>. Acesso em 15 jun. 2017.
+
+PRIEUR, Michel. Princípio da proibição de retrocesso ambiental. In BRASIL.
+Senado Federal. Comissão de Meio Ambiente, Defesa do Consumidor e
+Fiscalização e Controle (CMA). Colóquio Internacional sobre o Princípio
+da proibição do retrocesso ambiental. Brasil, 2012. O princípio da
+proibição de retrocesso ambiental. Brasília: Senado Federal, 2012.
+Disponível em:<
+http://www2.senado.leg.br/bdsf/bitstream/handle/id/242559/0009403
+98.pdf?sequence=2>. Acesso em 01. Jul. 2017.
+
+RODRIGUES, Marcelo Abelha. Processo Civil Ambiental. 3.ª edição revista e
+atualizada. São Paulo: RT, 2011.
+
+SANTOS, Euseli dos. O princípio da proibição do retrocesso socioambiental
+e “novo” Código Florestal. Revista de Direito Econômico e
+Socioambiental, Curitiba, v.3, n.2, 2012. Disponível em:
+<file:///G:/direitoeconomico-7556.pdf ->. Acesso em 28.11.2014.
+
+SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. Direito constitucional
+ambiental. 4.ª edição revista e atualizada São Paulo: RT, 2014.
+
+______, Notas sobre os deveres de proteção do estado e a garantia da
+proibição de retrocesso em matéria (socio)ambiental, In BRASIL.
+Senado Federal. Comissão de Meio Ambiente, Defesa do Consumidor e
+
+DEISER MARA REZENDE CARDOSO | 63
+
+Fiscalização e Controle (CMA). Colóquio Internacional sobre o Princípio
+da proibição do retrocesso ambiental. Brasil, 2012. O princípio da
+proibição de retrocesso ambiental. Brasília: Senado Federal, 2012.
+Disponível em:<
+http://www2.senado.leg.br/bdsf/bitstream/handle/id/242559/0009403
+98.pdf?sequence=2>. Acesso em 01. Jul. 2017.
+
+______, Ingo Wolfgang; FENSTERSEIFER, Tiago. Notas sobre os deveres de
+proteção do estado e a garantia da proibição de retrocesso em
+matéria (socio)ambiental. 2010. Disponível
+em:< http://www.planetaverde.org/biblioteca-virtual/artigos-
+juridicos/notas-sobre-os-deveres-de-protecao-do-estado-e-a-garantia-
+da-proibicao-de-retrocesso-em-materia-socioambiental>. Acesso em 05
+Jun. 2017.
+
+Schäffer, Wigold Bertoldo. II. Rosa, Marcos Reis. III. Aquino, Luiz Carlos Servulo
+de. IV. Medeiros, João de Deus. Áreas de Preservação Permanente e
+Unidades de Conservação & Áreas de Risco. O que uma coisa tem a
+ver com a outra? Relatório de Inspeção da área atingida pela
+tragédia das chuvas na Região Serrana do Rio de Janeiro. Brasília:
+Ministério do Meio Ambiente, 2011.
+
+SILVA, José Afonso da. Fundamentos constitucionais da proteção do meio
+ambiente. Revista de Direito Ambiental, n. 27, Jul. – Set, 2002, p. 55.
+
+SPAROVEK, Gerd; BARRETO, Alberto; KLUG, Israel; BERNDES, Gõran.
+Considerações sobre o Código Florestal brasileiro. 2010. Disponível
+em:<http:// www.ekosbrasil.org/media/file/OpCF_gs_010610_v4.pdf>.
+Acesso em 13 jul. 2017
+
+SPAROVEK, Gerd; BARRETO, Alberto; KLUG, Israel; PAPP, Leonardo; LINO,
+Jane.. A Revisão do Código Florestal Brasileiro. Revista Novos Estudos,
+São Paulo, n. 89, p- 111-135. Mar. 2011. Disponível em:<http://
+http://novosestudos.org.br/v1/files/uploads/contents/151/20110405_NO
+VOS%20ESTUDOS_89_07_codigo_111_135.pdf>. Acesso em 12 jul. 2017
+
+
