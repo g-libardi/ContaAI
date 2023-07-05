@@ -33,6 +33,7 @@ font.setPointSize(14)
 text_box = QTextEdit(window)
 text_box.setPalette(text_palette)
 text_box.setFont(font)
+text_box.setAcceptRichText(False)
 
 # Add the text box to a vertical layout
 layout = QVBoxLayout()
