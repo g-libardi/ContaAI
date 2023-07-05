@@ -5,38 +5,31 @@ O objetivo desse projeto é desenvolver um editor de texto assistido por intelig
 ## Instalação e execução
 
 1. Descompactar as partes dos arquivos .rar dentro da pasta ./src
-2. Criar um ambiente virtual(venv) do python na pasta ./src
-3. Instalar as dependências disponíveis em ./src/requirements.txt no venv com o comando pip install -r requirements.txt
+2. Criar um ambiente virtual(venv) do python na pasta ./src com o comando "python -m venv venv"
+3. Instalar as dependências disponíveis em ./src/requirements.txt no venv com o comando "pip install -r requirements.txt"
 4. Executar o arquivo ./src/main.py
 
 ## Uso
 
-Explique como usar o projeto. Forneça exemplos e instruções claras para executar ou interagir com o código.
+Digite sua história na caixa de texto, ao clicar em Run Model(Ctrl + R) será gerada uma predição pela IA após o trecho final da sua história. Você pode mudar a quantidade de texto gerada na caixa de input numérico que fica acima do botão Run Model. O botão Undo(Ctrl + U) irá desfazer a última predição gerada.
 
 ## Arquitetura
 
-Descreva a arquitetura do seu projeto, destacando os principais componentes e como eles se relacionam.
+A arquitetura do modelo escolhido é o GPT2.
 
 ## Conjunto de dados
 
-Se o seu projeto utiliza conjuntos de dados específicos, mencione-os aqui. Forneça informações sobre a fonte dos dados e como eles foram processados ou pré-processados.
-
-## Resultados
-
-Apresente os resultados alcançados com o seu projeto, como métricas de desempenho, gráficos ou análises relevantes.
+Livros e texto literários obtidos por meio do webscrapping de sites de literatura.
 
 ## Video do projeto
 https://youtu.be/vL4wgCAb4E4 
 
 ## Contribuição
 
-Explique como outras pessoas podem contribuir para o seu projeto. Especifique diretrizes para pull requests, sugestões de melhorias ou relatórios de problemas.
-
-## Referências
-
-Liste as referências ou recursos externos utilizados no seu projeto, como artigos, livros ou bibliotecas.
+Guilherme Libardi e Francine Franco
 
 ## Contato
 
 Francine Franco - francinegfranco@gmail.com
+
 Guilherme Libardi - guilhermelibardi@hotmail.com
